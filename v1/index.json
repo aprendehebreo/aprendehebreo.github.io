@@ -27,7 +27,7 @@
   },
   "top1000": {
    "cobertura": 83.53,
-   "con_glosa_es": 300,
+   "con_glosa_es": 408,
    "archivo": "vocab/top1000.json"
   }
  },
