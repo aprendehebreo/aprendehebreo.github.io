@@ -5,10 +5,10 @@ tres pasajes clásicos (Bereshit 1, Devarim 6, Tehilim 23), con **audio en cada 
 vocabulario por frecuencia real y API JSON abierta. Sin registro, sin backend: la página y la
 API viven en este repositorio (GitHub Pages).
 
-Sitio: <https://aprendehebreo.github.io/aprendehebreo.io/> · API: [`api.html`](api.html)
+Sitio: <https://aprendehebreo.github.io/> · API: [`api.html`](api.html)
 
-(Con un dominio propio — `aprendehebreo.io` — basta añadir el archivo `CNAME` con el dominio y el
-sitio queda en la raíz. Todas las rutas de la app son relativas: funciona igual en ambos casos.)
+(Es el sitio raíz de la organización, como <https://avisonofgod.github.io/>. Todas las rutas son
+relativas, así que también funcionaría igual con un dominio propio: bastaría añadir un `CNAME`.)
 
 ## Qué incluye
 
@@ -93,7 +93,7 @@ Si no hay red, `python3 build/build_all.py --sin-audio` genera todo lo demás.
 
 GitHub Pages responde `access-control-allow-origin: *`, así que la API se puede consumir desde
 cualquier web. Para caché inmutable por versión:
-`https://cdn.jsdelivr.net/gh/aprendehebreo/aprendehebreo.io@v1.0.0/v1/alefbet.json`.
+`https://cdn.jsdelivr.net/gh/aprendehebreo/aprendehebreo.github.io@v1.0.0/v1/alefbet.json`.
 
 ## Fuentes y licencias
 
