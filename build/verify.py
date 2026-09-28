@@ -10,6 +10,7 @@ lecciones, sha256 del manifiesto y la portada.
 
 import argparse
 import hashlib
+import unicodedata
 import json
 import os
 import re
@@ -19,6 +20,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(RAIZ, "build"))
 import corpus                                          # noqa: E402
 import lessons as lessons_mod                          # noqa: E402
+import slugs                                           # noqa: E402
 
 OK, FALLAS = 0, []
 
@@ -63,6 +65,7 @@ def main():
     out = a.out
     datos = corpus.cargar()
     idx = cargar(out, "index.json")
+    slugs_by_slug = {b["slug"]: b for b in slugs.BOOKS}
 
     # ── alef-bet ─────────────────────────────────────────────────────────────
     alef = cargar(out, "alefbet.json")
@@ -147,6 +150,54 @@ def main():
         "lecciones: al menos 6 items y 3 ejercicios cada una")
     chk(all("html" in cargar(out, "lessons/" + l["archivo"]) for l in les["lecciones"]),
         "lecciones: prosa convertida a HTML")
+
+    # cotejo independiente: cada palabra/ejemplo citado debe existir en el versículo citado
+    NIQ = re.compile(r"[\u0591-\u05bd\u05bf\u05c1\u05c2\u05c4\u05c5\u05c7]")
+
+    def norm_he(t):
+        t = NIQ.sub("", unicodedata.normalize("NFC", t or ""))
+        # el XML del WLC trae "/" entre prefijo y raíz: no cuenta en el cotejo
+        return (t.replace("\u05be", "").replace("\u05c0", "").replace("\u05c3", "")
+                 .replace("/", "").replace(" ", ""))
+
+    def versiculo_wlc(ref):
+        partes = str(ref).split("/")
+        if len(partes) < 2 or partes[0] not in slugs_by_slug:
+            return ""
+        ruta = os.path.join(RAIZ, "data", "morphhb", "wlc", slugs_by_slug[partes[0]]["osis"] + ".xml")
+        if not os.path.exists(ruta):
+            return ""
+        x = open(ruta, encoding="utf-8").read()
+        cap = int(partes[1])
+        ver = int(partes[2]) if len(partes) > 2 else None
+        textos = []
+        for m in re.finditer(r'<verse osisID="[^.]+\.(\d+)\.(\d+)">(.*?)</verse>', x, re.S):
+            if int(m.group(1)) != cap:
+                continue
+            if ver is not None and int(m.group(2)) != ver:
+                continue
+            textos.append(re.sub(r"<[^>]+>", " ", m.group(3)))
+        return " ".join(textos)
+
+    fallos_ej = []
+    for l in les["lecciones"]:
+        d = cargar(out, "lessons/" + l["archivo"])
+        for it in d.get("items", []):
+            pares = [(it.get("he"), it.get("ref"))]
+            ej = it.get("ejemplo") or {}
+            pares.append((ej.get("he"), ej.get("ref")))
+            for he, ref in pares:
+                if not he or not ref or "/" not in str(ref):
+                    continue
+                texto = versiculo_wlc(ref)
+                if not texto or norm_he(he) not in norm_he(texto):
+                    fallos_ej.append("%s: %s no aparece en %s" % (l["archivo"], he, ref))
+    if fallos_ej:
+        print("     " + "\n     ".join(fallos_ej[:5]))
+    chk(not fallos_ej, "lecciones: cada palabra citada aparece en su versículo",
+        "%d citas comprobadas" % sum(1 for l in les["lecciones"] for it in cargar(out, "lessons/" + l["archivo"]).get("items", [])
+                                     for par in [(it.get("he"), it.get("ref")), ((it.get("ejemplo") or {}).get("he"), (it.get("ejemplo") or {}).get("ref"))]
+                                     if par[0] and par[1] and "/" in str(par[1])))
 
     # ── pasajes de lectura ───────────────────────────────────────────────────
     rd = cargar(out, "reading/index.json")

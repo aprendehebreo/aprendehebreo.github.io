@@ -125,6 +125,14 @@ class TestVocabYLecciones(unittest.TestCase):
         con_strong = [w for w in v1["palabras"] if w["strong"]]
         self.assertGreaterEqual(len(con_strong), 5)
 
+    def test_verify_completo(self):
+        """verify.py debe terminar sin fallas (cotejo de citas, audio en disco, sha256...)."""
+        import subprocess
+        r = subprocess.run([sys.executable, "build/verify.py"], cwd=RAIZ, capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, r.stdout[-800:])
+        self.assertIn("0 FALLA", r.stdout)
+        self.assertIn("cada palabra citada aparece en su versículo", r.stdout)
+
     def test_audio_presente(self):
         a = cargar("audio/index.json")
         self.assertGreaterEqual(a["total"], 250)
