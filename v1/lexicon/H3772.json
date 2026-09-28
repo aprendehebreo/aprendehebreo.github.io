@@ -1,0 +1,75 @@
+{
+ "strong": "H3772",
+ "he": "כרת",
+ "xlit": "kârath",
+ "pron": "kaw-rath'",
+ "def_en": [
+  "1) to cut, cut off, cut down, cut off a body part, cut out, eliminate, kill, cut a covenant",
+  "1a) (Qal)",
+  "1a1) to cut off",
+  "1a1a) to cut off a body part, behead",
+  "1a2) to cut down",
+  "1a3) to hew",
+  "1a4) to cut or make a covenant",
+  "1b) (Niphal)",
+  "1b1) to be cut off",
+  "1b2) to be cut down",
+  "1b3) to be chewed",
+  "1b4) to be cut off, fail",
+  "1c) (Pual)",
+  "1c1) to be cut off",
+  "1c2) to be cut down",
+  "1d) (Hiphil)",
+  "1d1) to cut off",
+  "1d2) to cut off, destroy",
+  "1d3) to cut down, destroy",
+  "1d4) to take away",
+  "1d5) to permit to perish",
+  "1e) (Hophal) cut off"
+ ],
+ "kjv": "be chewed, be con-(feder-) ate, covenant, cut (down, off), destroy, fail, feller, be freed, hew (down), make a league (covenant), [idiom] lose, perish, [idiom] utterly, [idiom] want.",
+ "expl": "to cut (off, down or asunder); by implication, to destroy or consume; specifically, to covenant (i.e. make an alliance or bargain, originally by cutting flesh and passing between the pieces)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 290,
+ "formas": [
+  {
+   "forma": "והכרתי",
+   "forma_he": "וְהִכְרַתִּ֥י",
+   "n": 30,
+   "ref": "vayikra/17/10"
+  },
+  {
+   "forma": "ויכרת",
+   "forma_he": "וַיִּכְרֹ֥ת",
+   "n": 26,
+   "ref": "yehoshua/9/15"
+  },
+  {
+   "forma": "יכרת",
+   "forma_he": "יִכָּרֵ֧ת",
+   "n": 25,
+   "ref": "bereshit/9/11"
+  },
+  {
+   "forma": "כרת",
+   "forma_he": "כָּרַ֧ת",
+   "n": 25,
+   "ref": "bereshit/15/18"
+  },
+  {
+   "forma": "ונכרתה",
+   "forma_he": "וְנִכְרְתָ֛ה",
+   "n": 18,
+   "ref": "bereshit/17/14"
+  }
+ ],
+ "morph": [
+  "HC/Vhq1cs",
+  "HC/Vqw3ms",
+  "HVNi3ms",
+  "HVqp3ms",
+  "HC/VNq3fs"
+ ],
+ "glosa_es": "cortar; hacer pacto"
+}

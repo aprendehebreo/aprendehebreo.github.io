@@ -1,0 +1,58 @@
+{
+ "strong": "H1616",
+ "he": "גר",
+ "xlit": "gêr",
+ "pron": "gare",
+ "def_en": [
+  "1) sojourner",
+  "1a) a temporary inhabitant, a newcomer lacking inherited rights",
+  "1b) of foreigners in Israel, though conceded rights"
+ ],
+ "kjv": "alien, sojourner, stranger.",
+ "expl": "properly, a guest; by implication, a foreigner",
+ "etim": "or (fully) geyr (gare); from ;",
+ "raices": [
+  "H1481"
+ ],
+ "ocurrencias": 92,
+ "formas": [
+  {
+   "forma": "גר",
+   "forma_he": "גֵ֣ר",
+   "n": 22,
+   "ref": "bereshit/15/13"
+  },
+  {
+   "forma": "הגר",
+   "forma_he": "הָגָֽר",
+   "n": 13,
+   "ref": "bereshit/16/1"
+  },
+  {
+   "forma": "ולגר",
+   "forma_he": "וְלַגֵּ֖ר",
+   "n": 12,
+   "ref": "shemot/12/49"
+  },
+  {
+   "forma": "והגר",
+   "forma_he": "וְהַגֵּֽר",
+   "n": 9,
+   "ref": "shemot/23/12"
+  },
+  {
+   "forma": "גרים",
+   "forma_he": "גֵרִ֥ים",
+   "n": 7,
+   "ref": "shemot/22/20"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Rd/Ncmsa",
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HC/Td/Ncmsa"
+ ],
+ "glosa_es": ""
+}

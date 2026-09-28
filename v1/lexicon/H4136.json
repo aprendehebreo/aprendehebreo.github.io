@@ -1,0 +1,64 @@
+{
+ "strong": "H4136",
+ "he": "מול",
+ "xlit": "mûwl",
+ "pron": "mool",
+ "def_en": [
+  "n m",
+  "1) front",
+  "1a) front",
+  "1b) in the opposite direction",
+  "prep",
+  "2) in front of",
+  "2a) in front of",
+  "2b) (with prefix)",
+  "2b1) towards the front of, to the front of, on the front of",
+  "2b2) from the front of, off the front of, close in front of, on the forefront of"
+ ],
+ "kjv": "(over) against, before, (fore-) front, from, (God-) ward, toward, with.",
+ "expl": "properly, abrupt, i.e. a precipice; by implication, the front; used only adverbially (with prepositional prefix) opposite",
+ "etim": "or ; (Deuteronomy 1:1), or ; (Nehemiah 12:38), or ; (Numbers 22:5), from ;",
+ "raices": [
+  "H4135"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "מול",
+   "forma_he": "מ֚וּל",
+   "n": 25,
+   "ref": "shemot/18/19"
+  },
+  {
+   "forma": "ממול",
+   "forma_he": "מִמּ֣וּל",
+   "n": 8,
+   "ref": "shemot/28/27"
+  },
+  {
+   "forma": "ממלי",
+   "forma_he": "מִמֻּלִֽי",
+   "n": 1,
+   "ref": "bamidbar/22/5"
+  },
+  {
+   "forma": "ומול",
+   "forma_he": "וּמ֧וּל",
+   "n": 1,
+   "ref": "mlakhim_a/7/5"
+  },
+  {
+   "forma": "למואל",
+   "forma_he": "לְמוּאֵ֣ל",
+   "n": 1,
+   "ref": "mishlei/31/1"
+  }
+ ],
+ "morph": [
+  "HR",
+  "HR/R",
+  "HR/R/Sp1cs",
+  "HC/R"
+ ],
+ "glosa_es": ""
+}

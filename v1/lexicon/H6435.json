@@ -1,0 +1,38 @@
+{
+ "strong": "H6435",
+ "he": "פן",
+ "xlit": "pên",
+ "pron": "pane",
+ "def_en": [
+  "conj",
+  "1) lest, not, beware lest",
+  "adv",
+  "2) lest"
+ ],
+ "kjv": "(lest) (peradventure), that...not.",
+ "expl": "properly, removal; used only (in the construction) adverb as conjunction, lest",
+ "etim": "from ;",
+ "raices": [
+  "H6437"
+ ],
+ "ocurrencias": 133,
+ "formas": [
+  {
+   "forma": "פן",
+   "forma_he": "פֶּן",
+   "n": 128,
+   "ref": "bereshit/3/3"
+  },
+  {
+   "forma": "ופן",
+   "forma_he": "וּפֶן",
+   "n": 5,
+   "ref": "devarim/4/9"
+  }
+ ],
+ "morph": [
+  "HC",
+  "HC/C"
+ ],
+ "glosa_es": ""
+}

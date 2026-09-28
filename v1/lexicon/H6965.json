@@ -1,0 +1,84 @@
+{
+ "strong": "H6965",
+ "he": "קום",
+ "xlit": "qûwm",
+ "pron": "koom",
+ "def_en": [
+  "1) to rise, arise, stand, rise up, stand up",
+  "1a) (Qal)",
+  "1a1) to arise",
+  "1a2) to arise (hostile sense)",
+  "1a3) to arise, become powerful",
+  "1a4) to arise, come on the scene",
+  "1a5) to stand",
+  "1a5a) to maintain oneself",
+  "1a5b) to be established, be confirmed",
+  "1a5c) to stand, endure",
+  "1a5d) to be fixed",
+  "1a5e) to be valid",
+  "1a5f) to be proven",
+  "1a5g) to be fulfilled",
+  "1a5h) to persist",
+  "1a5i) to be set, be fixed",
+  "1b) (Piel)",
+  "1b1) to fulfil",
+  "1b2) to confirm, ratify, establish, impose",
+  "1c) (Polel) to raise up",
+  "1d) (Hithpael) to raise oneself, rise up",
+  "1e) (Hiphil)",
+  "1e1) to cause to arise, raise",
+  "1e2) to raise, set up, erect, build",
+  "1e3) to raise up, bring on the scene",
+  "1e4) to raise up, rouse, stir up, investigate",
+  "1e5) to raise up, constitute",
+  "1e6) to cause to stand, set, station, establish",
+  "1e7) to make binding",
+  "1e8) to carry out, give effect to",
+  "1f) (Hophal) to be raised up"
+ ],
+ "kjv": "abide, accomplish, [idiom] be clearer, confirm, continue, decree, [idiom] be dim, endure, [idiom] enemy, enjoin, get up, make good, help, hold, (help to) lift up (again), make, [idiom] but newly, ordain, perform, pitch, raise (up), rear (up), remain, (a-) rise (up) (again, against), rouse up, set (up), (e-) stablish, (make to) stand (up), stir up, strengthen, succeed, (as-, make) sure(-ly), (be) up(-hold, -rising).",
+ "expl": "to rise (in various applications, literal, figurative, intensive and causative)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 628,
+ "formas": [
+  {
+   "forma": "ויקם",
+   "forma_he": "וַיָּ֥קָם",
+   "n": 128,
+   "ref": "bereshit/4/8"
+  },
+  {
+   "forma": "קום",
+   "forma_he": "ק֚וּם",
+   "n": 45,
+   "ref": "bereshit/13/17"
+  },
+  {
+   "forma": "יקום",
+   "forma_he": "יָק֞וּם",
+   "n": 38,
+   "ref": "shemot/21/19"
+  },
+  {
+   "forma": "ויקמו",
+   "forma_he": "וַיָּקֻ֤מוּ",
+   "n": 27,
+   "ref": "bereshit/18/16"
+  },
+  {
+   "forma": "ותקם",
+   "forma_he": "וַתָּ֤קָם",
+   "n": 19,
+   "ref": "bereshit/19/35"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqv2ms",
+  "HVqi3ms",
+  "HC/Vqw3mp",
+  "HC/Vhq1cs"
+ ],
+ "glosa_es": "levantarse; estar de pie"
+}

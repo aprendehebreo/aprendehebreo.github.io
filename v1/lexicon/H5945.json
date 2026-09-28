@@ -1,0 +1,62 @@
+{
+ "strong": "H5945",
+ "he": "עליון",
+ "xlit": "ʻelyôwn",
+ "pron": "el-yone'",
+ "def_en": [
+  "adj",
+  "1) high, upper",
+  "1a) of Davidic king exalted above monarchs",
+  "n m",
+  "2) Highest, Most High",
+  "2a) name of God",
+  "2b) of rulers, either monarchs or angel-princes"
+ ],
+ "kjv": "(Most, on) high(-er, -est), upper(-most).",
+ "expl": "an elevation, i.e. (adj.) lofty (compar.); as title, the Supreme",
+ "etim": "from ;",
+ "raices": [
+  "H5927"
+ ],
+ "ocurrencias": 53,
+ "formas": [
+  {
+   "forma": "עליון",
+   "forma_he": "עֶלְיֽוֹן",
+   "n": 32,
+   "ref": "bereshit/14/18"
+  },
+  {
+   "forma": "העליון",
+   "forma_he": "הָֽעֶלְי֔וֹן",
+   "n": 11,
+   "ref": "bereshit/40/17"
+  },
+  {
+   "forma": "העליונה",
+   "forma_he": "הָֽעֶלְיוֹנָ֔ה",
+   "n": 4,
+   "ref": "mlakhim_b/18/17"
+  },
+  {
+   "forma": "ועליון",
+   "forma_he": "וְעֶלְי֖וֹן",
+   "n": 2,
+   "ref": "shmuel_b/22/14"
+  },
+  {
+   "forma": "לעליון",
+   "forma_he": "לְעֶלְיֽוֹן",
+   "n": 2,
+   "ref": "yeshayahu/14/14"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HTd/Aamsa",
+  "HTd/Aafsa",
+  "HR/Aamsa",
+  "HC/Aamsa"
+ ],
+ "glosa_es": ""
+}

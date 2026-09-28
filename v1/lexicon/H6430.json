@@ -1,0 +1,57 @@
+{
+ "strong": "H6430",
+ "he": "פלשתי",
+ "xlit": "Pᵉlishtîy",
+ "pron": "pel-ish-tee'",
+ "def_en": [
+  "Philistine = \"immigrants\"",
+  "1) an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan"
+ ],
+ "kjv": "Philistine.",
+ "expl": "a Pelishtite or inhabitant of Pelesheth",
+ "etim": "patrial from ;",
+ "raices": [
+  "H6429"
+ ],
+ "ocurrencias": 290,
+ "formas": [
+  {
+   "forma": "פלשתים",
+   "forma_he": "פְּלִשְׁתִּ֖ים",
+   "n": 202,
+   "ref": "bereshit/10/14"
+  },
+  {
+   "forma": "הפלשתי",
+   "forma_he": "הַפְּלִשְׁתִּ֗י",
+   "n": 33,
+   "ref": "shmuel_a/17/8"
+  },
+  {
+   "forma": "ופלשתים",
+   "forma_he": "וּפִלְשִׁתִּ֖ים",
+   "n": 18,
+   "ref": "shoftim/15/14"
+  },
+  {
+   "forma": "בפלשתים",
+   "forma_he": "בַּפְּלִשְׁתִּ֔ים",
+   "n": 12,
+   "ref": "shmuel_a/7/13"
+  },
+  {
+   "forma": "הפלשתים",
+   "forma_he": "הַפְּלִשְׁתִּ֖ים",
+   "n": 9,
+   "ref": "yehoshua/13/2"
+  }
+ ],
+ "morph": [
+  "HNgmpa",
+  "HTd/Ngmsa",
+  "HC/Ngmpa",
+  "HRd/Ngmpa",
+  "HTd/Ngmpa"
+ ],
+ "glosa_es": "filisteos"
+}

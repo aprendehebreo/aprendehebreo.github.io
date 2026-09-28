@@ -1,0 +1,57 @@
+{
+ "strong": "H8150",
+ "he": "שנן",
+ "xlit": "shânan",
+ "pron": "shaw-nan'",
+ "def_en": [
+  "1) to sharpen, whet",
+  "1a) (Qal) to whet, sharpen",
+  "1b) (Piel) to sharpen, teach (incisively)",
+  "1c)(Hithpolel) to be pierced"
+ ],
+ "kjv": "prick, sharp(-en), teach diligently, whet.",
+ "expl": "to point (transitive or intransitive); intensively, to pierce; figuratively, to inculcate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 9,
+ "formas": [
+  {
+   "forma": "שנונים",
+   "forma_he": "שְׁנוּנִ֔ים",
+   "n": 3,
+   "ref": "yeshayahu/5/28"
+  },
+  {
+   "forma": "שננו",
+   "forma_he": "שָׁנְנ֣וּ",
+   "n": 2,
+   "ref": "tehilim/64/4"
+  },
+  {
+   "forma": "ושננתם",
+   "forma_he": "וְשִׁנַּנְתָּ֣ם",
+   "n": 1,
+   "ref": "devarim/6/7"
+  },
+  {
+   "forma": "שנותי",
+   "forma_he": "שַׁנּוֹתִי֙",
+   "n": 1,
+   "ref": "devarim/32/41"
+  },
+  {
+   "forma": "אשתונן",
+   "forma_he": "אֶשְׁתּוֹנָֽן",
+   "n": 1,
+   "ref": "tehilim/73/21"
+  }
+ ],
+ "morph": [
+  "HVqsmpa",
+  "HVqp3cp",
+  "HC/Vpq2ms/Sp3mp",
+  "HVqp1cs",
+  "HVri1cs"
+ ],
+ "glosa_es": ""
+}

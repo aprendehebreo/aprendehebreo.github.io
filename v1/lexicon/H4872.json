@@ -1,0 +1,56 @@
+{
+ "strong": "H4872",
+ "he": "משה",
+ "xlit": "Môsheh",
+ "pron": "mo-sheh'",
+ "def_en": [
+  "Moses = \"drawn\"",
+  "1) the prophet and lawgiver, leader of the exodus"
+ ],
+ "kjv": "Moses.",
+ "expl": "Mosheh, the Israelite lawgiver",
+ "etim": "from ; drawing out (of the water), i.e. rescued;",
+ "raices": [
+  "H4871"
+ ],
+ "ocurrencias": 766,
+ "formas": [
+  {
+   "forma": "משה",
+   "forma_he": "מֹשֶׁ֔ה",
+   "n": 726,
+   "ref": "shemot/2/10"
+  },
+  {
+   "forma": "למשה",
+   "forma_he": "לְמֹשֶֽׁה",
+   "n": 17,
+   "ref": "shemot/2/21"
+  },
+  {
+   "forma": "ומשה",
+   "forma_he": "וּמֹשֶׁ֗ה",
+   "n": 16,
+   "ref": "shemot/3/1"
+  },
+  {
+   "forma": "במשה",
+   "forma_he": "בְּמֹשֶׁ֗ה",
+   "n": 4,
+   "ref": "shemot/4/14"
+  },
+  {
+   "forma": "ובמשה",
+   "forma_he": "וּבְמֹשֶׁ֖ה",
+   "n": 2,
+   "ref": "shemot/14/31"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Moisés"
+}

@@ -1,0 +1,50 @@
+{
+ "strong": "H2977",
+ "he": "יאשיה",
+ "xlit": "Yôʼshîyâh",
+ "pron": "yo-shee-yaw'",
+ "def_en": [
+  "Josiah = \"whom Jehovah heals\"",
+  "1) son of Amon by Jedidah who succeeded his father to the throne of Judah and reigned for 31 years; his reign is noteworthy for the great revivals back to the worship of Jehovah which he led",
+  "2) a returned exile and son of Zephaniah at whose house took place the solemn and symbolical crowning of Joshua the high priest in the time of Zechariah the prophet"
+ ],
+ "kjv": "Josiah.",
+ "expl": "Joshijah, the name of two Israelites",
+ "etim": "or ; from the same root as and ; founded of Jah;",
+ "raices": [
+  "H803",
+  "H3050"
+ ],
+ "ocurrencias": 53,
+ "formas": [
+  {
+   "forma": "יאשיהו",
+   "forma_he": "יֹאשִׁיָּ֣הוּ",
+   "n": 50,
+   "ref": "mlakhim_a/13/2"
+  },
+  {
+   "forma": "ליאשיהו",
+   "forma_he": "לְיֹאשִׁיָּ֣הוּ",
+   "n": 1,
+   "ref": "yirmiyahu/25/3"
+  },
+  {
+   "forma": "יאושיהו",
+   "forma_he": "יֹאושִׁיָּ֖הוּ",
+   "n": 1,
+   "ref": "yirmiyahu/27/1"
+  },
+  {
+   "forma": "יאשיה",
+   "forma_he": "יֹאשִׁיָּ֣ה",
+   "n": 1,
+   "ref": "zecharia/6/10"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

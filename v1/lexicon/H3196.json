@@ -1,0 +1,54 @@
+{
+ "strong": "H3196",
+ "he": "יין",
+ "xlit": "yayin",
+ "pron": "yah'-yin",
+ "def_en": [
+  "1) wine"
+ ],
+ "kjv": "banqueting, wine, wine(-bibber).",
+ "expl": "wine (as fermented); by implication, intoxication",
+ "etim": "from an unused root meaning to effervesce;",
+ "raices": [],
+ "ocurrencias": 141,
+ "formas": [
+  {
+   "forma": "יין",
+   "forma_he": "יַ֖יִן",
+   "n": 58,
+   "ref": "bereshit/19/32"
+  },
+  {
+   "forma": "ויין",
+   "forma_he": "וָיָ֑יִן",
+   "n": 27,
+   "ref": "bereshit/14/18"
+  },
+  {
+   "forma": "היין",
+   "forma_he": "הַיַּ֖יִן",
+   "n": 19,
+   "ref": "bereshit/9/21"
+  },
+  {
+   "forma": "מיין",
+   "forma_he": "מִיָּ֑יִן",
+   "n": 9,
+   "ref": "bereshit/49/12"
+  },
+  {
+   "forma": "ביין",
+   "forma_he": "בַּיַּ֨יִן֙",
+   "n": 8,
+   "ref": "bereshit/49/11"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Ncmsa",
+  "HTd/Ncmsa",
+  "HR/Ncmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

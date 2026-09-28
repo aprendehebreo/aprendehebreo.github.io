@@ -1,0 +1,63 @@
+{
+ "strong": "H3245",
+ "he": "יסד",
+ "xlit": "yâçad",
+ "pron": "yaw-sad'",
+ "def_en": [
+  "1) to found, fix, establish, lay foundation",
+  "1a) (Qal) to found, establish, begin",
+  "1b) (Niphal)",
+  "1b1) to fix or seat themselves close together, sit in conclave",
+  "1b2) to be founded",
+  "1c) (Piel)",
+  "1c1) to found",
+  "1c2) to establish, appoint, ordain",
+  "1d) (Pual) to be founded, be laid",
+  "1e) (Hophal) to be founded"
+ ],
+ "kjv": "appoint, take counsel, establish, (lay the, lay for a) found(-ation), instruct, lay, ordain, set, [idiom] sure.",
+ "expl": "to set (literally or figuratively); intensively, to found; reflexively, to sit down together, i.e. settle, consult",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "יסד",
+   "forma_he": "יֻסַּ֖ד",
+   "n": 10,
+   "ref": "mlakhim_a/6/37"
+  },
+  {
+   "forma": "יסדה",
+   "forma_he": "יִסְּדָ֗הּ",
+   "n": 6,
+   "ref": "mlakhim_a/16/34"
+  },
+  {
+   "forma": "יסדת",
+   "forma_he": "יִסַּ֪דְתָּ֫",
+   "n": 3,
+   "ref": "tehilim/8/3"
+  },
+  {
+   "forma": "ויסד",
+   "forma_he": "וְיֹסֵ֣ד",
+   "n": 2,
+   "ref": "yeshayahu/51/13"
+  },
+  {
+   "forma": "יסדתם",
+   "forma_he": "יְסַדְתָּֽם",
+   "n": 2,
+   "ref": "tehilim/89/12"
+  }
+ ],
+ "morph": [
+  "HVPp3ms",
+  "HVpp3ms",
+  "HVqp3ms/Sp3fs",
+  "HC/Vqrmsa",
+  "HVqp2ms/Sp3mp"
+ ],
+ "glosa_es": ""
+}

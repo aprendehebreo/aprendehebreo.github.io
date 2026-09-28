@@ -1,0 +1,56 @@
+{
+ "strong": "H3754",
+ "he": "כרם",
+ "xlit": "kerem",
+ "pron": "keh'-rem",
+ "def_en": [
+  "1) vineyard"
+ ],
+ "kjv": "vines, (increase of the) vineyard(-s), vintage. See also .",
+ "expl": "a garden or vineyard",
+ "etim": "from an unused root of uncertain meaning;",
+ "raices": [
+  "H1021"
+ ],
+ "ocurrencias": 92,
+ "formas": [
+  {
+   "forma": "כרם",
+   "forma_he": "כָּֽרֶם",
+   "n": 19,
+   "ref": "bereshit/9/20"
+  },
+  {
+   "forma": "כרמים",
+   "forma_he": "כְּרָמִ֥ים",
+   "n": 17,
+   "ref": "devarim/6/11"
+  },
+  {
+   "forma": "כרמי",
+   "forma_he": "כַּרְמִי֩",
+   "n": 7,
+   "ref": "yehoshua/7/1"
+  },
+  {
+   "forma": "כרמך",
+   "forma_he": "כַּרְמְךָ֖",
+   "n": 6,
+   "ref": "vayikra/19/10"
+  },
+  {
+   "forma": "וכרמים",
+   "forma_he": "וּכְרָמִ֔ים",
+   "n": 5,
+   "ref": "shmuel_a/22/7"
+  }
+ ],
+ "morph": [
+  "HNcbpa",
+  "HNcbsa",
+  "HNcbsc",
+  "HNcbsc/Sp2ms",
+  "HC/Ncbpa"
+ ],
+ "glosa_es": ""
+}

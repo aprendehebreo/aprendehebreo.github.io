@@ -1,0 +1,56 @@
+{
+ "strong": "H499",
+ "he": "אלעזר",
+ "xlit": "ʼElʻâzâr",
+ "pron": "el-aw-zawr'",
+ "def_en": [
+  "Eleazar = \"God has helped\"",
+  "1) the high priest son of Aaron",
+  "2) Abinadab's son who cared for the ark",
+  "3) the priest who rebuilt and dedicated the restored walls of Jerusalem in time of Ezra",
+  "4) one of David's mighty warriors",
+  "5) a Levite",
+  "6) one of the line of Parosh"
+ ],
+ "kjv": "Eleazar.",
+ "expl": "Elazar, the name of seven Israelites",
+ "etim": "from and ; God (is) helper;",
+ "raices": [
+  "H410",
+  "H5826"
+ ],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "אלעזר",
+   "forma_he": "אֶלְעָזָ֖ר",
+   "n": 56,
+   "ref": "shemot/6/23"
+  },
+  {
+   "forma": "ואלעזר",
+   "forma_he": "וְאֶלְעָזָ֨ר",
+   "n": 12,
+   "ref": "shemot/6/25"
+  },
+  {
+   "forma": "לאלעזר",
+   "forma_he": "לְאֶלְעָזָ֥ר",
+   "n": 3,
+   "ref": "bamidbar/31/29"
+  },
+  {
+   "forma": "ולאלעזר",
+   "forma_he": "וּלְאֶלְעָזָר֩",
+   "n": 1,
+   "ref": "vayikra/10/6"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

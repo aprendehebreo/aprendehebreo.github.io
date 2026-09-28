@@ -1,0 +1,59 @@
+{
+ "strong": "H8083",
+ "he": "שמנה",
+ "xlit": "shᵉmôneh",
+ "pron": "shem-o-neh'",
+ "def_en": [
+  "1) eight, eighth",
+  "1a) eight (as cardinal number)",
+  "1b) eighth (as ordinal number)",
+  "1c) in combination with other numbers"
+ ],
+ "kjv": "eight(-een, -eenth), eighth.",
+ "expl": "a cardinal number, eight (as if a surplus above the 'perfect' seven); also (as ordinal) eighth",
+ "etim": "or ; feminine ; or ; apparently from through the idea of plumpness;",
+ "raices": [
+  "H8082"
+ ],
+ "ocurrencias": 109,
+ "formas": [
+  {
+   "forma": "שמנה",
+   "forma_he": "שְׁמֹנֶ֥ה",
+   "n": 34,
+   "ref": "bereshit/5/4"
+  },
+  {
+   "forma": "ושמנה",
+   "forma_he": "וּשְׁמֹנֶ֥ה",
+   "n": 33,
+   "ref": "bereshit/5/7"
+  },
+  {
+   "forma": "שמונה",
+   "forma_he": "שְׁמוֹנֶ֥ה",
+   "n": 17,
+   "ref": "shoftim/3/14"
+  },
+  {
+   "forma": "ושמונה",
+   "forma_he": "וּשְׁמוֹנֶ֥ה",
+   "n": 9,
+   "ref": "divrei_hayamim_a/12/25"
+  },
+  {
+   "forma": "שמנת",
+   "forma_he": "שְׁמֹנַ֣ת",
+   "n": 6,
+   "ref": "bereshit/17/12"
+  }
+ ],
+ "morph": [
+  "HAcfsa",
+  "HC/Acmsa",
+  "HC/Acfsa",
+  "HAcmsa",
+  "HAcmsc"
+ ],
+ "glosa_es": ""
+}

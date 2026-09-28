@@ -1,0 +1,58 @@
+{
+ "strong": "H7794",
+ "he": "שור",
+ "xlit": "shôwr",
+ "pron": "shore",
+ "def_en": [
+  "1) ox, bull, a head of cattle",
+  "1a) for plowing, for food, as sacrifice"
+ ],
+ "kjv": "bull(-ock), cow, ox, wall (by mistake for ).",
+ "expl": "a bullock (as a traveller)",
+ "etim": "from ;",
+ "raices": [
+  "H7788",
+  "H7791"
+ ],
+ "ocurrencias": 79,
+ "formas": [
+  {
+   "forma": "שור",
+   "forma_he": "שֽׁוּר",
+   "n": 37,
+   "ref": "bereshit/16/7"
+  },
+  {
+   "forma": "השור",
+   "forma_he": "הַשּׁ֗וֹר",
+   "n": 13,
+   "ref": "shemot/21/28"
+  },
+  {
+   "forma": "שורו",
+   "forma_he": "שׁוֹר֣וֹ",
+   "n": 7,
+   "ref": "devarim/5/21"
+  },
+  {
+   "forma": "ושור",
+   "forma_he": "וְשׁ֨וֹר",
+   "n": 6,
+   "ref": "vayikra/9/4"
+  },
+  {
+   "forma": "משור",
+   "forma_he": "מִשּׁ֧וֹר",
+   "n": 5,
+   "ref": "shemot/22/3"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H4392",
+ "he": "מלא",
+ "xlit": "mâlêʼ",
+ "pron": "maw-lay'",
+ "def_en": [
+  "1) full, fulness, that which fills",
+  "1a) fully (adv)"
+ ],
+ "kjv": "[idiom] she that was with child, fill(-ed, -ed with), full(-ly), multitude, as is worth.",
+ "expl": "full (literally or figuratively) or filling (literally); also (concretely) fulness; adverbially, fully",
+ "etim": "from ;",
+ "raices": [
+  "H4390"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "מלאים",
+   "forma_he": "מִלֻּאִ֑ים",
+   "n": 18,
+   "ref": "shemot/25/7"
+  },
+  {
+   "forma": "מלאה",
+   "forma_he": "מָלְאָ֥ה",
+   "n": 16,
+   "ref": "bereshit/6/13"
+  },
+  {
+   "forma": "מלא",
+   "forma_he": "מָלֵ֜א",
+   "n": 14,
+   "ref": "bereshit/23/9"
+  },
+  {
+   "forma": "מלאת",
+   "forma_he": "מְלֵאֹ֥ת",
+   "n": 3,
+   "ref": "bereshit/41/22"
+  },
+  {
+   "forma": "והמלאות",
+   "forma_he": "וְהַמְּלֵא֑וֹת",
+   "n": 1,
+   "ref": "bereshit/41/7"
+  }
+ ],
+ "morph": [
+  "HAampa",
+  "HAafsa",
+  "HAamsa",
+  "HAafpa",
+  "HC/Td/Aafpa"
+ ],
+ "glosa_es": ""
+}

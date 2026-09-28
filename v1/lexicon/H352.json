@@ -1,0 +1,62 @@
+{
+ "strong": "H352",
+ "he": "איל",
+ "xlit": "ʼayil",
+ "pron": "ah'-yil",
+ "def_en": [
+  "1) ram",
+  "1a) ram (as food)",
+  "1b) ram (as sacrifice)",
+  "1c) ram (skin dyed red, for tabernacle)",
+  "2) pillar, door post, jambs, pilaster",
+  "3) strong man, leader, chief",
+  "4) mighty tree, terebinth"
+ ],
+ "kjv": "mighty (man), lintel, oak, post, ram, tree.",
+ "expl": "properly, strength; hence, anything strong; specifically a chief (politically); also a ram (from his strength); a pilaster (as a strong support); an oak or other strong tree",
+ "etim": "from the same as ;",
+ "raices": [
+  "H193"
+ ],
+ "ocurrencias": 196,
+ "formas": [
+  {
+   "forma": "איל",
+   "forma_he": "אֵ֣יל",
+   "n": 32,
+   "ref": "bereshit/22/13"
+  },
+  {
+   "forma": "האיל",
+   "forma_he": "הָאַ֔יִל",
+   "n": 26,
+   "ref": "bereshit/22/13"
+  },
+  {
+   "forma": "אילם",
+   "forma_he": "אֵילִ֖ם",
+   "n": 25,
+   "ref": "shemot/16/1"
+  },
+  {
+   "forma": "אילים",
+   "forma_he": "אֵילִֽים",
+   "n": 17,
+   "ref": "bamidbar/23/1"
+  },
+  {
+   "forma": "ואיל",
+   "forma_he": "וְאַ֣יִל",
+   "n": 16,
+   "ref": "bereshit/15/9"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HC/Ncmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": "carnero; poderoso; encina"
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H2491",
+ "he": "חלל",
+ "xlit": "châlâl",
+ "pron": "khaw-lawl'",
+ "def_en": [
+  "n m",
+  "1) slain, fatally wounded, pierced",
+  "1a) pierced, fatally wounded",
+  "1b) slain",
+  "adj",
+  "2) (CLBL) profaned",
+  "2a) defiled, profaned (by divorce)"
+ ],
+ "kjv": "kill, profane, slain (man), [idiom] slew, (deadly) wounded.",
+ "expl": "pierced (especially to death); figuratively, polluted",
+ "etim": "from ;",
+ "raices": [
+  "H2490"
+ ],
+ "ocurrencias": 94,
+ "formas": [
+  {
+   "forma": "חללים",
+   "forma_he": "חֲלָלִ֖ים",
+   "n": 25,
+   "ref": "bamidbar/23/24"
+  },
+  {
+   "forma": "חללי",
+   "forma_he": "חַֽלְלֵ֤י",
+   "n": 22,
+   "ref": "shmuel_a/17/52"
+  },
+  {
+   "forma": "חלל",
+   "forma_he": "חִלֵּ֑ל",
+   "n": 20,
+   "ref": "vayikra/19/8"
+  },
+  {
+   "forma": "החללים",
+   "forma_he": "הַ֣חֲלָלִ֔ים",
+   "n": 4,
+   "ref": "bereshit/34/27"
+  },
+  {
+   "forma": "בחלל",
+   "forma_he": "בַּֽחֲלַל",
+   "n": 3,
+   "ref": "bamidbar/19/16"
+  }
+ ],
+ "morph": [
+  "HAampa",
+  "HAampc",
+  "HAamsa",
+  "HTd/Aampa",
+  "HRd/Aamsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H4818",
+ "he": "מרכבה",
+ "xlit": "merkâbâh",
+ "pron": "mer-kaw-baw'",
+ "def_en": [
+  "1) chariot"
+ ],
+ "kjv": "chariot. See also .",
+ "expl": "a chariot",
+ "etim": "feminine of ;",
+ "raices": [
+  "H4817",
+  "H1024"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "המרכבה",
+   "forma_he": "הַמֶּרְכָּבָ֖ה",
+   "n": 9,
+   "ref": "shoftim/4/15"
+  },
+  {
+   "forma": "במרכבה",
+   "forma_he": "בַּמֶּרְכָּבָ֔ה",
+   "n": 5,
+   "ref": "mlakhim_a/12/18"
+  },
+  {
+   "forma": "מרכבות",
+   "forma_he": "מַרְכְּב֥וֹת",
+   "n": 5,
+   "ref": "mlakhim_b/23/11"
+  },
+  {
+   "forma": "מרכבה",
+   "forma_he": "מֶרְכָּבָ֖ה",
+   "n": 4,
+   "ref": "shmuel_b/15/1"
+  },
+  {
+   "forma": "מרכבתו",
+   "forma_he": "מֶרְכַּבְתּ֔וֹ",
+   "n": 3,
+   "ref": "bereshit/46/29"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HRd/Ncfsa",
+  "HNcfpc/Sp3ms",
+  "HNcfpc",
+  "HNcfsa"
+ ],
+ "glosa_es": ""
+}

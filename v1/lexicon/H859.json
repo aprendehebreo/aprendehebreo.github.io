@@ -1,0 +1,54 @@
+{
+ "strong": "H859",
+ "he": "אתה",
+ "xlit": "ʼattâh",
+ "pron": "at-taw'",
+ "def_en": [
+  "1) you (second pers. sing. masc.)"
+ ],
+ "kjv": "thee, thou, ye, you.",
+ "expl": "thou and thee, or (plural) ye and you",
+ "etim": "or (shortened); ; or ; feminine (irregular) sometimes ; plural masculine ; feminine ; or lemma אתֵּנָה missing vowel, corrected to אַתֵּנָה",
+ "raices": [],
+ "ocurrencias": 1104,
+ "formas": [
+  {
+   "forma": "אתה",
+   "forma_he": "אָ֑תָּה",
+   "n": 536,
+   "ref": "bereshit/3/11"
+  },
+  {
+   "forma": "אתם",
+   "forma_he": "אֹתָ֛ם",
+   "n": 213,
+   "ref": "bereshit/1/17"
+  },
+  {
+   "forma": "ואתה",
+   "forma_he": "וְאַתָּ֖ה",
+   "n": 197,
+   "ref": "bereshit/3/15"
+  },
+  {
+   "forma": "ואתם",
+   "forma_he": "וְאַתֶּ֖ם",
+   "n": 69,
+   "ref": "bereshit/9/7"
+  },
+  {
+   "forma": "את",
+   "forma_he": "אֵ֥ת",
+   "n": 48,
+   "ref": "bereshit/1/1"
+  }
+ ],
+ "morph": [
+  "HPp2ms",
+  "HPp2mp",
+  "HC/Pp2ms",
+  "HC/Pp2mp",
+  "HPp2fs"
+ ],
+ "glosa_es": "tú"
+}

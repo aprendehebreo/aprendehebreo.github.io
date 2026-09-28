@@ -1,0 +1,61 @@
+{
+ "strong": "H1768",
+ "he": "די",
+ "xlit": "dîy",
+ "pron": "dee",
+ "def_en": [
+  "part of relation",
+  "1) who, which, that",
+  "mark of genitive",
+  "2) that of, which belongs to, that",
+  "conj",
+  "3) that, because"
+ ],
+ "kjv": "[idiom] as, but, for(-asmuch [phrase]), [phrase] now, of, seeing, than, that, therefore, until, [phrase] what (-soever), when, which, whom, whose.",
+ "expl": "that, used as relative conjunction, and especially (with a preposition) in adverbial phrases; also as preposition of",
+ "etim": "(Aramaic) apparently for ;",
+ "raices": [
+  "H1668"
+ ],
+ "ocurrencias": 347,
+ "formas": [
+  {
+   "forma": "די",
+   "forma_he": "דֵּ֣י",
+   "n": 331,
+   "ref": "vayikra/5/7"
+  },
+  {
+   "forma": "ודי",
+   "forma_he": "וְדִ֥י",
+   "n": 10,
+   "ref": "mishlei/27/27"
+  },
+  {
+   "forma": "כדי",
+   "forma_he": "כְּדֵ֥י",
+   "n": 4,
+   "ref": "vayikra/25/26"
+  },
+  {
+   "forma": "וכדי",
+   "forma_he": "וּכְדַ֖י",
+   "n": 1,
+   "ref": "ester/1/18"
+  },
+  {
+   "forma": "דהוא",
+   "forma_he": "דהוא",
+   "n": 1,
+   "ref": "ezra/4/9"
+  }
+ ],
+ "morph": [
+  "ATr",
+  "AC",
+  "AC/Tr",
+  "AT",
+  "AC/C"
+ ],
+ "glosa_es": "que; el cual (arameo)"
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "H1242",
+ "he": "בקר",
+ "xlit": "bôqer",
+ "pron": "bo'-ker",
+ "def_en": [
+  "1) morning, break of day",
+  "1a) morning",
+  "1a1) of end of night",
+  "1a2) of coming of daylight",
+  "1a3) of coming of sunrise",
+  "1a4) of beginning of day",
+  "1a5) of bright joy after night of distress (fig.)",
+  "1b) morrow, next day, next morning"
+ ],
+ "kjv": "([phrase]) day, early, morning, morrow.",
+ "expl": "properly, dawn (as the break of day); generally, morning",
+ "etim": "from ;",
+ "raices": [
+  "H1239"
+ ],
+ "ocurrencias": 214,
+ "formas": [
+  {
+   "forma": "בבקר",
+   "forma_he": "בַּבֹּ֑קֶר",
+   "n": 105,
+   "ref": "bereshit/19/27"
+  },
+  {
+   "forma": "בקר",
+   "forma_he": "בֹ֖קֶר",
+   "n": 40,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "הבקר",
+   "forma_he": "הַבָּקָ֖ר",
+   "n": 33,
+   "ref": "bereshit/18/7"
+  },
+  {
+   "forma": "לבקר",
+   "forma_he": "לַבֹּ֑קֶר",
+   "n": 15,
+   "ref": "shemot/34/2"
+  },
+  {
+   "forma": "ובבקר",
+   "forma_he": "וּבַבֹּ֖קֶר",
+   "n": 6,
+   "ref": "shemot/16/12"
+  }
+ ],
+ "morph": [
+  "HRd/Ncmsa",
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HC/Rd/Ncmsa",
+  "HRd/Ncmpa"
+ ],
+ "glosa_es": "mañana; amanecer"
+}

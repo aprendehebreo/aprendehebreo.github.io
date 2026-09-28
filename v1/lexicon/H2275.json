@@ -1,0 +1,60 @@
+{
+ "strong": "H2275",
+ "he": "חברון",
+ "xlit": "Chebrôwn",
+ "pron": "kheb-rone'",
+ "def_en": [
+  "Hebron = \"association\"",
+  "n pr loc",
+  "1) a city in south Judah approx 20 south of Jerusalem and approx 20 miles (30 km) north of Beersheba and near where Abraham built an altar",
+  "n pr m",
+  "2) the 3rd son of Kohath and grandson of Levi",
+  "3) a descendant of Caleb"
+ ],
+ "kjv": "Hebron.",
+ "expl": "Chebron, a place in Palestine, also the name of two Israelites",
+ "etim": "from ; seat of association;",
+ "raices": [
+  "H2267"
+ ],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "חברון",
+   "forma_he": "חֶבְר֖וֹן",
+   "n": 34,
+   "ref": "bereshit/23/2"
+  },
+  {
+   "forma": "בחברון",
+   "forma_he": "בְּחֶבְר֑וֹן",
+   "n": 22,
+   "ref": "bereshit/13/18"
+  },
+  {
+   "forma": "חברונה",
+   "forma_he": "חֶבְר֑וֹנָה",
+   "n": 8,
+   "ref": "yehoshua/10/36"
+  },
+  {
+   "forma": "וחברון",
+   "forma_he": "וְחֶבְר֖וֹן",
+   "n": 4,
+   "ref": "shemot/6/18"
+  },
+  {
+   "forma": "לחברון",
+   "forma_he": "לְחֶבְר֗וֹן",
+   "n": 1,
+   "ref": "yehoshua/10/39"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

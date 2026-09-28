@@ -1,0 +1,56 @@
+{
+ "strong": "H4306",
+ "he": "מטר",
+ "xlit": "mâṭar",
+ "pron": "maw-tawr'",
+ "def_en": [
+  "1) rain"
+ ],
+ "kjv": "rain.",
+ "expl": "rain",
+ "etim": "from ;",
+ "raices": [
+  "H4305"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "מטר",
+   "forma_he": "מְטַֽר",
+   "n": 19,
+   "ref": "devarim/11/14"
+  },
+  {
+   "forma": "למטר",
+   "forma_he": "לִמְטַ֥ר",
+   "n": 6,
+   "ref": "devarim/11/11"
+  },
+  {
+   "forma": "ומטר",
+   "forma_he": "וּמָטָ֖ר",
+   "n": 5,
+   "ref": "shemot/9/33"
+  },
+  {
+   "forma": "כמטר",
+   "forma_he": "כַּמָּטָר֙",
+   "n": 3,
+   "ref": "devarim/32/2"
+  },
+  {
+   "forma": "המטר",
+   "forma_he": "הַמָּטָ֧ר",
+   "n": 1,
+   "ref": "shemot/9/34"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HC/Ncmsa",
+  "HNcmsc",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

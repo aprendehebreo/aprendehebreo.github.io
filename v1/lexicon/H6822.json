@@ -1,0 +1,56 @@
+{
+ "strong": "H6822",
+ "he": "צפה",
+ "xlit": "tsâphâh",
+ "pron": "tsaw-faw'",
+ "def_en": [
+  "1) to look out or about, spy, keep watch, observe, watch",
+  "1a)(Qal) to keep watch, spy",
+  "1b) (Piel) to watch, watch closely"
+ ],
+ "kjv": "behold, espy, look up (well), wait for, (keep the) watch(-man).",
+ "expl": "properly, to lean forward, i.e. to peer into the distance; by implication, to observe, await",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "הצפה",
+   "forma_he": "הַצֹּפֶה֙",
+   "n": 9,
+   "ref": "shmuel_b/13/34"
+  },
+  {
+   "forma": "צפה",
+   "forma_he": "צִפָּ֣ה",
+   "n": 4,
+   "ref": "shemot/36/34"
+  },
+  {
+   "forma": "והצפה",
+   "forma_he": "וְהַצֹּפֶה֩",
+   "n": 2,
+   "ref": "mlakhim_b/9/17"
+  },
+  {
+   "forma": "ואצפה",
+   "forma_he": "וַאֲצַפֶּ֗ה",
+   "n": 2,
+   "ref": "chavakuk/2/1"
+  },
+  {
+   "forma": "צופה",
+   "forma_he": "צוֹפֶ֣ה",
+   "n": 2,
+   "ref": "tehilim/37/32"
+  }
+ ],
+ "morph": [
+  "HTd/Vqrmsa",
+  "HVqrmsa",
+  "HC/Td/Vqrmsa",
+  "HC/Vpi1cs",
+  "HC/Vqsmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,54 @@
+{
+ "strong": "H6212",
+ "he": "עשב",
+ "xlit": "ʻeseb",
+ "pron": "eh'seb",
+ "def_en": [
+  "1) herb, herbage, grass, green plants"
+ ],
+ "kjv": "grass, herb.",
+ "expl": "grass (or any tender shoot)",
+ "etim": "from an unused root meaning to glisten (or be green);",
+ "raices": [],
+ "ocurrencias": 33,
+ "formas": [
+  {
+   "forma": "עשב",
+   "forma_he": "עֵ֚שֶׂב",
+   "n": 24,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "כעשב",
+   "forma_he": "כְּעֵ֣שֶׂב",
+   "n": 4,
+   "ref": "tehilim/72/16"
+  },
+  {
+   "forma": "ועשב",
+   "forma_he": "וְעֵ֥שֶׂב",
+   "n": 2,
+   "ref": "yirmiyahu/12/4"
+  },
+  {
+   "forma": "ובעשב",
+   "forma_he": "וּבְעֵ֥שֶׂב",
+   "n": 1,
+   "ref": "shemot/10/15"
+  },
+  {
+   "forma": "עשבם",
+   "forma_he": "עֶשְׂבָּ֖ם",
+   "n": 1,
+   "ref": "yeshayahu/42/15"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HRd/Ncmsa",
+  "HC/R/Ncmsc"
+ ],
+ "glosa_es": ""
+}

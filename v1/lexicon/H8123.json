@@ -1,0 +1,36 @@
+{
+ "strong": "H8123",
+ "he": "שמשון",
+ "xlit": "Shimshôwn",
+ "pron": "shim-shone'",
+ "def_en": [
+  "Samson = \"like the sun\"",
+  "1) a Danite, son of Manoah, a Nazarite for life, and a judge of Israel for 20 years"
+ ],
+ "kjv": "Samson.",
+ "expl": "Shimshon, an Israelite",
+ "etim": "from ; sunlight;",
+ "raices": [
+  "H8121"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "שמשון",
+   "forma_he": "שִׁמְשׁ֑וֹן",
+   "n": 35,
+   "ref": "shoftim/13/24"
+  },
+  {
+   "forma": "לשמשון",
+   "forma_he": "לְשִׁמְשׁ֗וֹן",
+   "n": 3,
+   "ref": "shoftim/15/11"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

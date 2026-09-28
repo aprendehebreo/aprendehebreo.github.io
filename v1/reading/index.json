@@ -1,0 +1,45 @@
+{
+ "total": 5,
+ "pasajes": [
+  {
+   "slug": "bereshit",
+   "capitulo": 1,
+   "versiculos": 31,
+   "palabras": 434,
+   "archivo": "reading/bereshit/1.json",
+   "con_es": 31
+  },
+  {
+   "slug": "bereshit",
+   "capitulo": 12,
+   "versiculos": 20,
+   "palabras": 268,
+   "archivo": "reading/bereshit/12.json",
+   "con_es": 20
+  },
+  {
+   "slug": "shemot",
+   "capitulo": 20,
+   "versiculos": 26,
+   "palabras": 312,
+   "archivo": "reading/shemot/20.json",
+   "con_es": 26
+  },
+  {
+   "slug": "devarim",
+   "capitulo": 6,
+   "versiculos": 25,
+   "palabras": 318,
+   "archivo": "reading/devarim/6.json",
+   "con_es": 25
+  },
+  {
+   "slug": "tehilim",
+   "capitulo": 23,
+   "versiculos": 6,
+   "palabras": 57,
+   "archivo": "reading/tehilim/23.json",
+   "con_es": 6
+  }
+ ]
+}

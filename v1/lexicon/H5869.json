@@ -1,0 +1,59 @@
+{
+ "strong": "H5869",
+ "he": "עין",
+ "xlit": "ʻayin",
+ "pron": "ah'-yin",
+ "def_en": [
+  "1) eye",
+  "1a) eye",
+  "1a1) of physical eye",
+  "1a2) as showing mental qualities",
+  "1a3) of mental and spiritual faculties (fig.)",
+  "2) spring, fountain"
+ ],
+ "kjv": "affliction, outward appearance, [phrase] before, [phrase] think best, colour, conceit, [phrase] be content, countenance, [phrase] displease, eye((-brow), (-d), -sight), face, [phrase] favour, fountain, furrow (from the margin), [idiom] him, [phrase] humble, knowledge, look, ([phrase] well), [idiom] me, open(-ly), [phrase] (not) please, presence, [phrase] regard, resemblance, sight, [idiom] thee, [idiom] them, [phrase] think, [idiom] us, well, [idiom] you(-rselves).",
+ "expl": "an eye (literally or figuratively); by analogy, a fountain (as the eye of the landscape)",
+ "etim": "probably a primitive word;",
+ "raices": [],
+ "ocurrencias": 897,
+ "formas": [
+  {
+   "forma": "בעיני",
+   "forma_he": "בְּעֵינֵ֥י",
+   "n": 166,
+   "ref": "bereshit/6/8"
+  },
+  {
+   "forma": "עיני",
+   "forma_he": "עֵינֵ֣י",
+   "n": 103,
+   "ref": "bereshit/3/7"
+  },
+  {
+   "forma": "בעיניך",
+   "forma_he": "בְּעֵינָ֑יִךְ",
+   "n": 67,
+   "ref": "bereshit/16/6"
+  },
+  {
+   "forma": "עיניך",
+   "forma_he": "עֵינֶ֨יךָ֙",
+   "n": 62,
+   "ref": "bereshit/13/14"
+  },
+  {
+   "forma": "לעיני",
+   "forma_he": "לְעֵינֵ֧י",
+   "n": 58,
+   "ref": "bereshit/23/11"
+  }
+ ],
+ "morph": [
+  "HR/Ncbdc",
+  "HR/Ncbdc/Sp2ms",
+  "HR/Ncbdc/Sp3ms",
+  "HNcbdc/Sp3ms",
+  "HNcbdc/Sp2ms"
+ ],
+ "glosa_es": "ojo; vista"
+}

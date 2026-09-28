@@ -1,0 +1,68 @@
+{
+ "strong": "H5315",
+ "he": "נפש",
+ "xlit": "nephesh",
+ "pron": "neh'-fesh",
+ "def_en": [
+  "1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion",
+  "1a) that which breathes, the breathing substance or being, soul, the inner being of man",
+  "1b) living being",
+  "1c) living being (with life in the blood)",
+  "1d) the man himself, self, person or individual",
+  "1e) seat of the appetites",
+  "1f) seat of emotions and passions",
+  "1g) activity of mind",
+  "1g1) dubious",
+  "1h) activity of the will",
+  "1h1) dubious",
+  "1i) activity of the character",
+  "1i1) dubious"
+ ],
+ "kjv": "any, appetite, beast, body, breath, creature, [idiom] dead(-ly), desire, [idiom] (dis-) contented, [idiom] fish, ghost, [phrase] greedy, he, heart(-y), (hath, [idiom] jeopardy of) life ([idiom] in jeopardy), lust, man, me, mind, mortally, one, own, person, pleasure, (her-, him-, my-, thy-) self, them (your) -selves, [phrase] slay, soul, [phrase] tablet, they, thing, ([idiom] she) will, [idiom] would have it.",
+ "expl": "properly, a breathing creature, i.e. animal of (abstractly) vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)",
+ "etim": "from ;",
+ "raices": [
+  "H5314"
+ ],
+ "ocurrencias": 757,
+ "formas": [
+  {
+   "forma": "נפשי",
+   "forma_he": "נַפְשִׁ֖י",
+   "n": 173,
+   "ref": "bereshit/12/13"
+  },
+  {
+   "forma": "נפש",
+   "forma_he": "נֶ֣פֶשׁ",
+   "n": 140,
+   "ref": "bereshit/1/20"
+  },
+  {
+   "forma": "נפשו",
+   "forma_he": "נַפְשׁ֔וֹ",
+   "n": 86,
+   "ref": "bereshit/34/3"
+  },
+  {
+   "forma": "נפשך",
+   "forma_he": "נַפְשֶׁ֔ךָ",
+   "n": 68,
+   "ref": "bereshit/19/17"
+  },
+  {
+   "forma": "הנפש",
+   "forma_he": "הַנֶּ֖פֶשׁ",
+   "n": 41,
+   "ref": "bereshit/12/5"
+  }
+ ],
+ "morph": [
+  "HNcbsc/Sp1cs",
+  "HNcbsa",
+  "HNcbsc/Sp3ms",
+  "HNcbsc/Sp2ms",
+  "HNcbsc"
+ ],
+ "glosa_es": "alma; vida; persona"
+}

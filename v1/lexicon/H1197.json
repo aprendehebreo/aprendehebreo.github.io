@@ -1,0 +1,75 @@
+{
+ "strong": "H1197",
+ "he": "בער",
+ "xlit": "bâʻar",
+ "pron": "baw-ar'",
+ "def_en": [
+  "1) to burn, consume, kindle, be kindled",
+  "1a) (Qal)",
+  "1a1) to begin to burn, be kindled, start burning",
+  "1a2) to burn, be burning",
+  "1a3) to burn, consume",
+  "1a4) Jehovah's wrath, human wrath (fig.)",
+  "1b) (Piel)",
+  "1b1) to kindle, burn",
+  "1b2) to consume, remove (of guilt) (fig.)",
+  "1c) (Hiphil)",
+  "1c1) to kindle",
+  "1c2) to burn up",
+  "1c3) to consume (destroy)",
+  "1d) (Pual) to burn",
+  "v denom",
+  "2) to be stupid, brutish, barbarous",
+  "2a) (Qal) to be stupid, dull-hearted, unreceptive",
+  "2b) (Niphal) to be stupid, dull-hearted",
+  "2c) (Piel) to feed, graze",
+  "2d) (Hiphil) to cause to be grazed over"
+ ],
+ "kjv": "be brutish, bring (put, take) away, burn, (cause to) eat (up), feed, heat, kindle, set (on fire), waste.",
+ "expl": "to kindle, i.e. consume (by fire or by eating); to be(-come) brutish",
+ "etim": "a primitive root; also as denominative from",
+ "raices": [
+  "H1198"
+ ],
+ "ocurrencias": 94,
+ "formas": [
+  {
+   "forma": "בער",
+   "forma_he": "בֹּעֵ֣ר",
+   "n": 11,
+   "ref": "shemot/3/2"
+  },
+  {
+   "forma": "ובערת",
+   "forma_he": "וּבִֽעַרְתָּ֥",
+   "n": 10,
+   "ref": "devarim/13/6"
+  },
+  {
+   "forma": "בערה",
+   "forma_he": "בָעֲרָ֥ה",
+   "n": 6,
+   "ref": "bamidbar/11/3"
+  },
+  {
+   "forma": "לבער",
+   "forma_he": "לְבָ֣עֵֽר",
+   "n": 6,
+   "ref": "bamidbar/24/22"
+  },
+  {
+   "forma": "תבער",
+   "forma_he": "תְּבַעֵ֛ר",
+   "n": 6,
+   "ref": "devarim/21/9"
+  }
+ ],
+ "morph": [
+  "HC/Vpq2ms",
+  "HVqrmsa",
+  "HR/Vpc",
+  "HC/Vqw3fs",
+  "HVqi3fs"
+ ],
+ "glosa_es": ""
+}

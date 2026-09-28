@@ -1,0 +1,55 @@
+{
+ "strong": "H6242",
+ "he": "עשרים",
+ "xlit": "ʻesrîym",
+ "pron": "es-reem'",
+ "def_en": [
+  "1) twenty, twentieth"
+ ],
+ "kjv": "(six-) score, twenty(-ieth).",
+ "expl": "twenty; also (ordinal) twentieth",
+ "etim": "from ;",
+ "raices": [
+  "H6235"
+ ],
+ "ocurrencias": 315,
+ "formas": [
+  {
+   "forma": "עשרים",
+   "forma_he": "עֶשְׂרִ֑ים",
+   "n": 204,
+   "ref": "bereshit/18/31"
+  },
+  {
+   "forma": "ועשרים",
+   "forma_he": "וְעֶשְׂרִ֖ים",
+   "n": 94,
+   "ref": "bereshit/6/3"
+  },
+  {
+   "forma": "בעשרים",
+   "forma_he": "בְּעֶשְׂרִ֣ים",
+   "n": 11,
+   "ref": "bereshit/37/28"
+  },
+  {
+   "forma": "העשרים",
+   "forma_he": "הָֽעֶשְׂרִֽים",
+   "n": 3,
+   "ref": "bereshit/18/31"
+  },
+  {
+   "forma": "כעשרים",
+   "forma_he": "כְּעֶשְׂרִ֣ים",
+   "n": 2,
+   "ref": "shmuel_a/14/14"
+  }
+ ],
+ "morph": [
+  "HAcbpa",
+  "HC/Acbpa",
+  "HR/Acbpa",
+  "HTd/Acbpa"
+ ],
+ "glosa_es": "veinte"
+}

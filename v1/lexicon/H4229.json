@@ -1,0 +1,65 @@
+{
+ "strong": "H4229",
+ "he": "מחה",
+ "xlit": "mâchâh",
+ "pron": "maw-khaw'",
+ "def_en": [
+  "1) to wipe, wipe out",
+  "1a) (Qal)",
+  "1a1) to wipe",
+  "1a2) to blot out, obliterate",
+  "1a3) to blot out, exterminate",
+  "1b) (Niphal)",
+  "1b1) to be wiped out",
+  "1b2) to be blotted out",
+  "1b3) to be exterminated",
+  "1c) (Hiphil) to blot out (from memory)",
+  "2) (Qal) to strike",
+  "3) (Pual) full of marrow (participle)"
+ ],
+ "kjv": "abolish, blot out, destroy, full of marrow, put out, reach unto, [idiom] utterly, wipe (away, out).",
+ "expl": "properly, to stroke or rub; by implication, to erase; also to smooth (as if with oil), i.e. grease or make fat; also to touch, i.e. reach to",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "מחה",
+   "forma_he": "מָחֹ֤ה",
+   "n": 5,
+   "ref": "shemot/17/14"
+  },
+  {
+   "forma": "ומחה",
+   "forma_he": "וּמָחָ֖ה",
+   "n": 4,
+   "ref": "bamidbar/5/23"
+  },
+  {
+   "forma": "ימחה",
+   "forma_he": "יִמָּחֶ֥ה",
+   "n": 3,
+   "ref": "devarim/25/6"
+  },
+  {
+   "forma": "תמחה",
+   "forma_he": "תִּמְחֶה֙",
+   "n": 3,
+   "ref": "devarim/25/19"
+  },
+  {
+   "forma": "אמחה",
+   "forma_he": "אֶמְחֶ֨ה",
+   "n": 2,
+   "ref": "bereshit/6/7"
+  }
+ ],
+ "morph": [
+  "HC/Vqq3ms",
+  "HVNi3ms",
+  "HVqi1cs",
+  "HVhj2ms",
+  "HVqv2ms"
+ ],
+ "glosa_es": ""
+}

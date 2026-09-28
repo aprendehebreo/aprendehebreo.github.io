@@ -1,0 +1,60 @@
+{
+ "strong": "H120",
+ "he": "אדם",
+ "xlit": "ʼâdâm",
+ "pron": "aw-dawm'",
+ "def_en": [
+  "1) man, mankind",
+  "1a) man, human being",
+  "1b) man, mankind (much more frequently intended sense in OT)",
+  "1c) Adam, first man",
+  "1d) city in Jordan valley"
+ ],
+ "kjv": "[idiom] another, [phrase] hypocrite, [phrase] common sort, [idiom] low, man (mean, of low degree), person.",
+ "expl": "ruddy i.e. a human being (an individual or the species, mankind, etc.)",
+ "etim": "from ;",
+ "raices": [
+  "H119"
+ ],
+ "ocurrencias": 552,
+ "formas": [
+  {
+   "forma": "אדם",
+   "forma_he": "אָדָ֛ם",
+   "n": 338,
+   "ref": "bereshit/1/26"
+  },
+  {
+   "forma": "האדם",
+   "forma_he": "הָֽאָדָם֙",
+   "n": 138,
+   "ref": "bereshit/1/27"
+  },
+  {
+   "forma": "לאדם",
+   "forma_he": "לְאָדָ֧ם",
+   "n": 24,
+   "ref": "bereshit/3/21"
+  },
+  {
+   "forma": "באדם",
+   "forma_he": "בָֽאָדָם֙",
+   "n": 23,
+   "ref": "bereshit/6/3"
+  },
+  {
+   "forma": "מאדם",
+   "forma_he": "מֵֽאָדָם֙",
+   "n": 13,
+   "ref": "bereshit/6/7"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HR/Ncmsa",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": "hombre; ser humano; Adán"
+}

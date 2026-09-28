@@ -1,0 +1,60 @@
+{
+ "strong": "H998",
+ "he": "בינה",
+ "xlit": "bîynâh",
+ "pron": "bee-naw'",
+ "def_en": [
+  "1) understanding, discernment",
+  "1a) act",
+  "1b) faculty",
+  "1c) object",
+  "1d) personified"
+ ],
+ "kjv": "knowledge, meaning, [idiom] perfectly, understanding, wisdom.",
+ "expl": "understanding",
+ "etim": "from ;",
+ "raices": [
+  "H995"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "בינה",
+   "forma_he": "בִּינָ֑ה",
+   "n": 22,
+   "ref": "yeshayahu/29/24"
+  },
+  {
+   "forma": "ובינה",
+   "forma_he": "וּבִינָ֗ה",
+   "n": 5,
+   "ref": "yeshayahu/11/2"
+  },
+  {
+   "forma": "לבינה",
+   "forma_he": "לַבִּינָ֣ה",
+   "n": 2,
+   "ref": "mishlei/2/3"
+  },
+  {
+   "forma": "ובינתכם",
+   "forma_he": "וּבִ֣ינַתְכֶ֔ם",
+   "n": 1,
+   "ref": "devarim/4/6"
+  },
+  {
+   "forma": "בינות",
+   "forma_he": "בִּינוֹת֙",
+   "n": 1,
+   "ref": "yeshayahu/27/11"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HRd/Ncfsa",
+  "HC/Ncfsc/Sp2mp",
+  "HNcfpa"
+ ],
+ "glosa_es": ""
+}

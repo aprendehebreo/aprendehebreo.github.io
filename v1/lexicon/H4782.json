@@ -1,0 +1,55 @@
+{
+ "strong": "H4782",
+ "he": "מרדכי",
+ "xlit": "Mordᵉkay",
+ "pron": "mor-dek-ah'-ee",
+ "def_en": [
+  "Mordecai = \"little man\" or \"worshipper of Mars\"",
+  "1) cousin and adoptive father of queen Esther; son of Jair of the tribe of Benjamin; deliverer under Divine providence of the children of Israel from the destruction plotted by Haman the chief minister of Ahasuerus; institutor of the feast of Purim",
+  "2) a Jew who returned from exile with Zerubbabel"
+ ],
+ "kjv": "Mordecai.",
+ "expl": "Mordecai, an Israelite",
+ "etim": "of foreign derivation;",
+ "raices": [],
+ "ocurrencias": 60,
+ "formas": [
+  {
+   "forma": "מרדכי",
+   "forma_he": "מָרְדֳּכַ֗י",
+   "n": 43,
+   "ref": "ester/2/5"
+  },
+  {
+   "forma": "למרדכי",
+   "forma_he": "לְמָרְדֳּכַ֔י",
+   "n": 8,
+   "ref": "ester/2/22"
+  },
+  {
+   "forma": "ומרדכי",
+   "forma_he": "וּמָרְדֳּכַ֖י",
+   "n": 7,
+   "ref": "ester/2/19"
+  },
+  {
+   "forma": "במרדכי",
+   "forma_he": "בְּמָרְדֳּכַ֣י",
+   "n": 1,
+   "ref": "ester/3/6"
+  },
+  {
+   "forma": "ולמרדכי",
+   "forma_he": "וּֽלְמָרְדֳּכַ֖י",
+   "n": 1,
+   "ref": "ester/8/7"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

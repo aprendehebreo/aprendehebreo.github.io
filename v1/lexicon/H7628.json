@@ -1,0 +1,62 @@
+{
+ "strong": "H7628",
+ "he": "שבי",
+ "xlit": "shᵉbîy",
+ "pron": "sheb-ee'",
+ "def_en": [
+  "n m",
+  "1) captivity, captives",
+  "1a) (state of) captivity",
+  "1b) (act of) capture",
+  "1c) captives",
+  "n f",
+  "2) captive"
+ ],
+ "kjv": "captive(-ity), prisoners, [idiom] take away, that was taken.",
+ "expl": "exiled; captured; as noun, exile (abstractly or concretely and collectively); by extension, booty",
+ "etim": "from ;",
+ "raices": [
+  "H7618"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "בשבי",
+   "forma_he": "בַּשֶּֽׁבִי",
+   "n": 16,
+   "ref": "devarim/28/41"
+  },
+  {
+   "forma": "שבי",
+   "forma_he": "שְׁבִ֧י",
+   "n": 9,
+   "ref": "bereshit/38/11"
+  },
+  {
+   "forma": "השבי",
+   "forma_he": "הַשְּׁבִ֔י",
+   "n": 6,
+   "ref": "shemot/12/29"
+  },
+  {
+   "forma": "לשבי",
+   "forma_he": "לַשְּׁבִ֖י",
+   "n": 5,
+   "ref": "yirmiyahu/15/2"
+  },
+  {
+   "forma": "שבים",
+   "forma_he": "שָׁבִים֙",
+   "n": 2,
+   "ref": "shmuel_a/7/3"
+  }
+ ],
+ "morph": [
+  "HRd/Ncbsa",
+  "HTd/Ncbsa",
+  "HNcbsa",
+  "HNcbsc",
+  "HNcbsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

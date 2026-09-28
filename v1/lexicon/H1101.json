@@ -1,0 +1,62 @@
+{
+ "strong": "H1101",
+ "he": "בלל",
+ "xlit": "bâlal",
+ "pron": "baw-lal'",
+ "def_en": [
+  "1) to mix, mingle, confuse, confound",
+  "1a) (Qal)",
+  "1a1) to mingle, confuse",
+  "1a2) to mix",
+  "1a3) to give provender, feed (animals)",
+  "1b) (Hithpoel) to mix oneself (among others)",
+  "1c) (Hiphil) to fade away"
+ ],
+ "kjv": "anoint, confound, [idiom] fade, mingle, mix (self), give provender, temper.",
+ "expl": "to overflow (specifically with oil.); by implication, to mix; to fodder",
+ "etim": "a primitive root; (also denominatively from ) to fodder",
+ "raices": [
+  "H1098"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "בלולה",
+   "forma_he": "בְּלוּלָ֥ה",
+   "n": 29,
+   "ref": "vayikra/2/5"
+  },
+  {
+   "forma": "בלולת",
+   "forma_he": "בְּלוּלֹ֣ת",
+   "n": 5,
+   "ref": "shemot/29/2"
+  },
+  {
+   "forma": "בלול",
+   "forma_he": "בָּל֨וּל",
+   "n": 4,
+   "ref": "shemot/29/40"
+  },
+  {
+   "forma": "ונבלה",
+   "forma_he": "וְנָבְלָ֥ה",
+   "n": 1,
+   "ref": "bereshit/11/7"
+  },
+  {
+   "forma": "בלל",
+   "forma_he": "בָּלַ֥ל",
+   "n": 1,
+   "ref": "bereshit/11/9"
+  }
+ ],
+ "morph": [
+  "HVqsfsa",
+  "HVqsfpa",
+  "HVqsmsa",
+  "HC/Vqh1cp",
+  "HVqp3ms"
+ ],
+ "glosa_es": ""
+}

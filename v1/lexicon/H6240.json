@@ -1,0 +1,43 @@
+{
+ "strong": "H6240",
+ "he": "עשר",
+ "xlit": "ʻâsâr",
+ "pron": "aw-sawr'",
+ "def_en": [
+  "1) ten, -teen (in combination with other numbers)",
+  "1a) used only in combination to make the numbers 11-19"
+ ],
+ "kjv": "(eigh-, fif-, four-, nine-, seven-, six-, thir-) teen(-th), [phrase] eleven(-th), [phrase] sixscore thousand, [phrase] twelve(-th).",
+ "expl": "ten (only in combination), i.e. -teen; also (ordinal) -teenth",
+ "etim": "for ;",
+ "raices": [
+  "H6235"
+ ],
+ "ocurrencias": 338,
+ "formas": [
+  {
+   "forma": "עשר",
+   "forma_he": "עֶ֣שֶׂר",
+   "n": 202,
+   "ref": "bereshit/5/14"
+  },
+  {
+   "forma": "עשרה",
+   "forma_he": "עֶשְׂרֵה֙",
+   "n": 134,
+   "ref": "bereshit/5/8"
+  },
+  {
+   "forma": "העשר",
+   "forma_he": "הָעֹ֗שֶׁר",
+   "n": 2,
+   "ref": "bereshit/31/16"
+  }
+ ],
+ "morph": [
+  "HAcmsa",
+  "HAcfsa",
+  "HTd/Acmsa"
+ ],
+ "glosa_es": "diez"
+}

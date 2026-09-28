@@ -1,0 +1,58 @@
+{
+ "strong": "H272",
+ "he": "אחזה",
+ "xlit": "ʼăchuzzâh",
+ "pron": "akh-ooz-zaw'",
+ "def_en": [
+  "1) possession, property",
+  "1a) land",
+  "1b) possession by inheritance"
+ ],
+ "kjv": "possession.",
+ "expl": "something seized, i.e. a possession (especially of land)",
+ "etim": "feminine passive participle from ;",
+ "raices": [
+  "H270"
+ ],
+ "ocurrencias": 66,
+ "formas": [
+  {
+   "forma": "אחזת",
+   "forma_he": "אֲחֻזַּת",
+   "n": 11,
+   "ref": "bereshit/23/4"
+  },
+  {
+   "forma": "לאחזה",
+   "forma_he": "לַאֲחֻזָּ֑ה",
+   "n": 8,
+   "ref": "vayikra/14/34"
+  },
+  {
+   "forma": "אחזתו",
+   "forma_he": "אֲחֻזָּת֔וֹ",
+   "n": 8,
+   "ref": "vayikra/25/10"
+  },
+  {
+   "forma": "אחזתם",
+   "forma_he": "אֲחֻזָּתָ֔ם",
+   "n": 7,
+   "ref": "bereshit/36/43"
+  },
+  {
+   "forma": "לאחזת",
+   "forma_he": "לַאֲחֻזַּ֖ת",
+   "n": 5,
+   "ref": "bereshit/17/8"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HR/Ncfsa",
+  "HNcfsc/Sp3ms",
+  "HR/Ncfsc/Sp3ms",
+  "HNcfsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

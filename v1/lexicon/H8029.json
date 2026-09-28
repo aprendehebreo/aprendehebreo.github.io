@@ -1,0 +1,28 @@
+{
+ "strong": "H8029",
+ "he": "שלש",
+ "xlit": "shillêsh",
+ "pron": "shil-laysh'",
+ "def_en": [
+  "1) pertaining to the third, third (generation)"
+ ],
+ "kjv": "third (generation).",
+ "expl": "a descendant of the third degree, i.e. great grandchild",
+ "etim": "from ;",
+ "raices": [
+  "H8027"
+ ],
+ "ocurrencias": 5,
+ "formas": [
+  {
+   "forma": "שלשים",
+   "forma_he": "שְׁלֹשִׁ֤ים",
+   "n": 5,
+   "ref": "bereshit/5/3"
+  }
+ ],
+ "morph": [
+  "HNcmpa"
+ ],
+ "glosa_es": ""
+}

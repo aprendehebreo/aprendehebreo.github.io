@@ -1,0 +1,64 @@
+{
+ "strong": "H6697",
+ "he": "צור",
+ "xlit": "tsûwr",
+ "pron": "tsoor",
+ "def_en": [
+  "1) rock, cliff",
+  "1a) rocky wall, cliff",
+  "1b) rock (with flat surface)",
+  "1c) block of stone, boulder",
+  "1d) rock (specific)",
+  "1e) rock (of God)",
+  "1f) rock (of heathen gods) n pr dei",
+  "1g) Rock"
+ ],
+ "kjv": "edge, [idiom] (mighty) God (one), rock, [idiom] sharp, stone, [idiom] strength, [idiom] strong. See also .",
+ "expl": "properly, a cliff (or sharp rock, as compressed); generally, a rock or boulder; figuratively, a refuge; also an edge (as precipitous)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6696",
+  "H1049"
+ ],
+ "ocurrencias": 78,
+ "formas": [
+  {
+   "forma": "צור",
+   "forma_he": "צֽוּר",
+   "n": 23,
+   "ref": "bamidbar/7/54"
+  },
+  {
+   "forma": "צורי",
+   "forma_he": "צוּרִֽי",
+   "n": 11,
+   "ref": "shmuel_a/24/3"
+  },
+  {
+   "forma": "הצור",
+   "forma_he": "הַצּוּר֮",
+   "n": 8,
+   "ref": "shemot/17/6"
+  },
+  {
+   "forma": "בצור",
+   "forma_he": "בַצּ֗וּר",
+   "n": 7,
+   "ref": "shemot/17/6"
+  },
+  {
+   "forma": "צרים",
+   "forma_he": "צֻרִים֙",
+   "n": 5,
+   "ref": "bamidbar/23/9"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp1cs",
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": ""
+}

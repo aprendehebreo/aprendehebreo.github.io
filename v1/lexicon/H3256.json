@@ -1,0 +1,64 @@
+{
+ "strong": "H3256",
+ "he": "יסר",
+ "xlit": "yâçar",
+ "pron": "yaw-sar'",
+ "def_en": [
+  "1) to chasten, discipline, instruct, admonish",
+  "1a)(Qal)",
+  "1a1) to chasten, admonish",
+  "1a2) to instruct",
+  "1a3) to discipline",
+  "1b) (Niphal) to let oneself be chastened or corrected or admonished",
+  "1c) (Piel)",
+  "1c1) to discipline, correct",
+  "1c2) to chasten, chastise",
+  "1d) (Hiphil) to chasten",
+  "1e) (Nithpael) to teach"
+ ],
+ "kjv": "bind, chasten, chastise, correct, instruct, punish, reform, reprove, sore, teach.",
+ "expl": "to chastise, literally (with blows) or figuratively (with words); hence, to instruct",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "יסר",
+   "forma_he": "יִסַּ֤ר",
+   "n": 9,
+   "ref": "mlakhim_a/12/11"
+  },
+  {
+   "forma": "ויסרו",
+   "forma_he": "וַיָּסֻ֣רוּ",
+   "n": 3,
+   "ref": "bereshit/19/3"
+  },
+  {
+   "forma": "איסר",
+   "forma_he": "אֲיַסֵּ֥ר",
+   "n": 2,
+   "ref": "mlakhim_a/12/11"
+  },
+  {
+   "forma": "יסרני",
+   "forma_he": "יַסְּרֵ֥נִי",
+   "n": 2,
+   "ref": "yirmiyahu/10/24"
+  },
+  {
+   "forma": "ויסרתיך",
+   "forma_he": "וְיִסַּרְתִּ֨יךָ֙",
+   "n": 2,
+   "ref": "yirmiyahu/30/11"
+  }
+ ],
+ "morph": [
+  "HVpp3ms",
+  "HC/Vpq3cp",
+  "HVpi1cs",
+  "HC/Vpq1cs/Sp2ms",
+  "HVpi2ms/Sp1cs"
+ ],
+ "glosa_es": ""
+}

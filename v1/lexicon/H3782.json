@@ -1,0 +1,65 @@
+{
+ "strong": "H3782",
+ "he": "כשל",
+ "xlit": "kâshal",
+ "pron": "kaw-shal'",
+ "def_en": [
+  "1) to stumble, stagger, totter",
+  "1a) (Qal)",
+  "1a1) to stumble",
+  "1a2) to totter",
+  "1b) (Niphal)",
+  "1b1) to stumble",
+  "1b2) to be tottering, be feeble",
+  "1c) (Hiphil)",
+  "1c1) to cause to stumble, bring injury or ruin to, overthrow",
+  "1c2) to make feeble, make weak",
+  "1d) (Hophal) to be made to stumble",
+  "1e) (Piel) bereave"
+ ],
+ "kjv": "bereave (from the margin), cast down, be decayed, (cause to) fail, (cause, make to) fall (down, -ing), feeble, be (the) ruin(-ed, of), (be) overthrown, (cause to) stumble, [idiom] utterly, be weak.",
+ "expl": "to totter or waver (through weakness of the legs, especially the ankle); by implication, to falter, stumble, faint or fall",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "יכשלו",
+   "forma_he": "יִכָּשֵֽׁלוּ",
+   "n": 15,
+   "ref": "yeshayahu/40/30"
+  },
+  {
+   "forma": "כשלו",
+   "forma_he": "כְּשִׁלוֹ֙",
+   "n": 6,
+   "ref": "yirmiyahu/26/9"
+  },
+  {
+   "forma": "וכשלו",
+   "forma_he": "וְכָשְׁל֧וּ",
+   "n": 5,
+   "ref": "vayikra/26/37"
+  },
+  {
+   "forma": "כושל",
+   "forma_he": "כּוֹשֵׁל֙",
+   "n": 5,
+   "ref": "yeshayahu/5/27"
+  },
+  {
+   "forma": "וכשל",
+   "forma_he": "וְכָשַׁ֤ל",
+   "n": 3,
+   "ref": "yeshayahu/31/3"
+  }
+ ],
+ "morph": [
+  "HVNi3mp",
+  "HVqp3cp",
+  "HVqrmsa",
+  "HC/Vqq3cp",
+  "HC/Vqq3ms"
+ ],
+ "glosa_es": ""
+}

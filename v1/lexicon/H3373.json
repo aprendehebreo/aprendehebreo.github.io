@@ -1,0 +1,56 @@
+{
+ "strong": "H3373",
+ "he": "ירא",
+ "xlit": "yârêʼ",
+ "pron": "yaw-ray'",
+ "def_en": [
+  "1) fearing, reverent, afraid"
+ ],
+ "kjv": "afraid, fear (-ful).",
+ "expl": "fearing; morally, reverent",
+ "etim": "from ;",
+ "raices": [
+  "H3372"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "ירא",
+   "forma_he": "יָרֵ֖א",
+   "n": 20,
+   "ref": "bereshit/19/30"
+  },
+  {
+   "forma": "יראי",
+   "forma_he": "יִרְאֵ֧י",
+   "n": 10,
+   "ref": "shemot/18/21"
+  },
+  {
+   "forma": "יראיו",
+   "forma_he": "יְרֵאָֽיו",
+   "n": 7,
+   "ref": "tehilim/22/26"
+  },
+  {
+   "forma": "ליראיו",
+   "forma_he": "לִירֵאָ֑יו",
+   "n": 5,
+   "ref": "tehilim/25/14"
+  },
+  {
+   "forma": "יראה",
+   "forma_he": "יָרֵ֑אָה",
+   "n": 2,
+   "ref": "bereshit/18/15"
+  }
+ ],
+ "morph": [
+  "HAampc",
+  "HAamsc",
+  "HAampc/Sp3ms",
+  "HVqrmsa",
+  "HR/Aampc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,66 @@
+{
+ "strong": "H7891",
+ "he": "שיר",
+ "xlit": "shîyr",
+ "pron": "sheer",
+ "def_en": [
+  "1) to sing",
+  "1a) (Qal)",
+  "1a1) to sing",
+  "1a2) singer, songstresses (participle)",
+  "1b) (Polel)",
+  "1b1) to sing",
+  "1b2) singer, songstress (participle)",
+  "1c) (Hophal) to be sung",
+  "++++",
+  "In Job 36:24, the word is translated \"Behold\"; in modern versions, it is translated \"Sing\". The old translations considered the Hebrew word to be from a different root than H07788 hence the difference in the translations."
+ ],
+ "kjv": "behold (by mistake for ), sing(-er, -ing man, -ing woman).",
+ "expl": "to sing",
+ "etim": "or (the original form) ; (1 Samuel 18:6), a primitive root (rather identical with through the idea of strolling minstrelsy);",
+ "raices": [
+  "H7788",
+  "H7789"
+ ],
+ "ocurrencias": 88,
+ "formas": [
+  {
+   "forma": "שירו",
+   "forma_he": "שִׁ֤ירוּ",
+   "n": 15,
+   "ref": "shemot/15/21"
+  },
+  {
+   "forma": "המשררים",
+   "forma_he": "הַֽמְשֹׁרְרִ֑ים",
+   "n": 15,
+   "ref": "ezra/2/41"
+  },
+  {
+   "forma": "אשירה",
+   "forma_he": "אָשִׁ֤ירָה",
+   "n": 11,
+   "ref": "shemot/15/1"
+  },
+  {
+   "forma": "והמשררים",
+   "forma_he": "וְהַמְשֹׁרְרִ֧ים",
+   "n": 11,
+   "ref": "ezra/2/70"
+  },
+  {
+   "forma": "שרים",
+   "forma_he": "שָׂרִ֗ים",
+   "n": 4,
+   "ref": "bamidbar/21/18"
+  }
+ ],
+ "morph": [
+  "HVqv2mp",
+  "HTd/Vormpa",
+  "HC/Td/Vormpa",
+  "HVqh1cs",
+  "HVqrmpa"
+ ],
+ "glosa_es": ""
+}

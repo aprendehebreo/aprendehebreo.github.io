@@ -1,0 +1,58 @@
+{
+ "strong": "H4148",
+ "he": "מוסר",
+ "xlit": "mûwçâr",
+ "pron": "moo-sawr'",
+ "def_en": [
+  "1) discipline, chastening, correction",
+  "1a) discipline, correction",
+  "1b) chastening"
+ ],
+ "kjv": "bond, chastening(-eth), chastisement, check, correction, discipline, doctrine, instruction, rebuke.",
+ "expl": "properly, chastisement; figuratively, reproof, warning or instruction; also restraint",
+ "etim": "from ;",
+ "raices": [
+  "H3256"
+ ],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "מוסר",
+   "forma_he": "מוּסַ֖ר",
+   "n": 40,
+   "ref": "devarim/11/2"
+  },
+  {
+   "forma": "ומוסר",
+   "forma_he": "וּמוּסָ֑ר",
+   "n": 5,
+   "ref": "mishlei/1/2"
+  },
+  {
+   "forma": "למוסר",
+   "forma_he": "לַמּוּסָ֣ר",
+   "n": 2,
+   "ref": "mishlei/23/12"
+  },
+  {
+   "forma": "מוסרך",
+   "forma_he": "מוּסָרְךָ֖",
+   "n": 1,
+   "ref": "yeshayahu/26/16"
+  },
+  {
+   "forma": "במוסר",
+   "forma_he": "בַּמּוּסָ֣ר",
+   "n": 1,
+   "ref": "mishlei/4/13"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HC/Ncmsa",
+  "HRd/Ncmsa",
+  "HC/Ncmsc"
+ ],
+ "glosa_es": ""
+}

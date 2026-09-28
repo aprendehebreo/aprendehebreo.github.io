@@ -1,0 +1,54 @@
+{
+ "strong": "H5703",
+ "he": "עד",
+ "xlit": "ʻad",
+ "pron": "ad",
+ "def_en": [
+  "1) perpetuity, for ever, continuing future",
+  "1a) ancient (of past time)",
+  "1b) for ever (of future time)",
+  "1b1) of continuous existence",
+  "1c) for ever (of God's existence)"
+ ],
+ "kjv": "eternity, ever(-lasting, -more), old, perpetually, [phrase] world without end.",
+ "expl": "properly, a (peremptory) terminus, i.e. (by implication) duration, in the sense of advance or perpetuity (substantially as a noun, either with or without a preposition)",
+ "etim": "from ;",
+ "raices": [
+  "H5710"
+ ],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "לעד",
+   "forma_he": "לְעֵ֖ד",
+   "n": 20,
+   "ref": "bereshit/31/44"
+  },
+  {
+   "forma": "ועד",
+   "forma_he": "וְעַד",
+   "n": 15,
+   "ref": "bereshit/6/7"
+  },
+  {
+   "forma": "עד",
+   "forma_he": "עַ֤ד",
+   "n": 10,
+   "ref": "bereshit/3/19"
+  },
+  {
+   "forma": "עדי",
+   "forma_he": "עָדַ֖י",
+   "n": 6,
+   "ref": "bamidbar/23/18"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsa",
+  "HC/Ncmsa",
+  "HNcmsa",
+  "HR",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

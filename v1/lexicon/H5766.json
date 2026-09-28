@@ -1,0 +1,59 @@
+{
+ "strong": "H5766",
+ "he": "עול",
+ "xlit": "ʻevel",
+ "pron": "eh'-vel",
+ "def_en": [
+  "1) injustice, unrighteousness, wrong",
+  "1a) violent deeds of injustice",
+  "1b) injustice (of speech)",
+  "1c) injustice (generally)"
+ ],
+ "kjv": "iniquity, perverseness, unjust(-ly), unrighteousness(-ly); wicked(-ness).",
+ "expl": "(moral) evil",
+ "etim": "or ; and (feminine) ; or ; or ; from ;",
+ "raices": [
+  "H5765"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "עולה",
+   "forma_he": "עוֹלָ֜ה",
+   "n": 21,
+   "ref": "bamidbar/28/27"
+  },
+  {
+   "forma": "עול",
+   "forma_he": "עָ֨וֶל֙",
+   "n": 16,
+   "ref": "vayikra/19/15"
+  },
+  {
+   "forma": "עולתה",
+   "forma_he": "עַוְלָ֖תָה",
+   "n": 3,
+   "ref": "yechezkel/28/15"
+  },
+  {
+   "forma": "מעול",
+   "forma_he": "מֵעָ֖וֶל",
+   "n": 2,
+   "ref": "yechezkel/18/8"
+  },
+  {
+   "forma": "בעולה",
+   "forma_he": "בְעוּלָ֖ה",
+   "n": 2,
+   "ref": "yeshayahu/54/1"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HR/Ncbsa",
+  "HNcbsa/Sh",
+  "HC/Ncbsa",
+  "HNcbpa"
+ ],
+ "glosa_es": ""
+}

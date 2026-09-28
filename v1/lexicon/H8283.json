@@ -1,0 +1,50 @@
+{
+ "strong": "H8283",
+ "he": "שרה",
+ "xlit": "Sârâh",
+ "pron": "saw-raw'",
+ "def_en": [
+  "Sarah = \"noblewoman\"",
+  "1) wife of Abraham and mother of Isaac"
+ ],
+ "kjv": "Sarah.",
+ "expl": "Sarah, Abraham's wife",
+ "etim": "the same as ;",
+ "raices": [
+  "H8282"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "שרה",
+   "forma_he": "שָׂרָ֖ה",
+   "n": 29,
+   "ref": "bereshit/17/15"
+  },
+  {
+   "forma": "לשרה",
+   "forma_he": "לְשָׂרָ֣ה",
+   "n": 4,
+   "ref": "bereshit/18/10"
+  },
+  {
+   "forma": "ושרה",
+   "forma_he": "וְשָׂרָ֥ה",
+   "n": 3,
+   "ref": "bereshit/18/10"
+  },
+  {
+   "forma": "ולשרה",
+   "forma_he": "וּלְשָׂרָ֥ה",
+   "n": 2,
+   "ref": "bereshit/18/14"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

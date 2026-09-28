@@ -1,0 +1,60 @@
+{
+ "strong": "H8033",
+ "he": "שם",
+ "xlit": "shâm",
+ "pron": "shawm",
+ "def_en": [
+  "1) there, thither",
+  "1a) there",
+  "1b) thither (after verbs of motion)",
+  "1c) from there, thence",
+  "1d) then (as an adverb of time)"
+ ],
+ "kjv": "in it, [phrase] thence, there (-in, [phrase] of, [phrase] out), [phrase] thither, [phrase] whither.",
+ "expl": "there (transferring to time) then; often thither, or thence",
+ "etim": "a primitive particle (rather from the relative pronoun, );",
+ "raices": [
+  "H834"
+ ],
+ "ocurrencias": 835,
+ "formas": [
+  {
+   "forma": "שם",
+   "forma_he": "שָׁ֔ם",
+   "n": 537,
+   "ref": "bereshit/2/8"
+  },
+  {
+   "forma": "שמה",
+   "forma_he": "שְׁמָהּ֙",
+   "n": 134,
+   "ref": "bereshit/11/9"
+  },
+  {
+   "forma": "משם",
+   "forma_he": "מִשָּֽׁם",
+   "n": 108,
+   "ref": "bereshit/3/23"
+  },
+  {
+   "forma": "ושם",
+   "forma_he": "וְשֵֽׁם",
+   "n": 39,
+   "ref": "bereshit/2/13"
+  },
+  {
+   "forma": "ומשם",
+   "forma_he": "וּמִשָּׁם֙",
+   "n": 8,
+   "ref": "bereshit/2/10"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HD/Sd",
+  "HR/D",
+  "HC/D",
+  "HC/R/D"
+ ],
+ "glosa_es": "allí; allá"
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H4347",
+ "he": "מכה",
+ "xlit": "makkâh",
+ "pron": "mak-kaw'",
+ "def_en": [
+  "1) blow, wound, slaughter",
+  "1a) blow, stripe",
+  "1b) beating, scourging",
+  "1c) wound",
+  "1d) slaughter",
+  "1e) defeat, conquest",
+  "1f) plague"
+ ],
+ "kjv": "beaten, blow, plague, slaughter, smote, [idiom] sore, stripe, stroke, wound(-ed).",
+ "expl": "a wound; figuratively, carnage, also pestilence",
+ "etim": "or (masculine) ; (plural only) from ; a blow (in 2 Chronicles 2:10, of the flail); by implication,",
+ "raices": [
+  "H5221"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "מכה",
+   "forma_he": "מַכֶּ֥ה",
+   "n": 17,
+   "ref": "shemot/2/11"
+  },
+  {
+   "forma": "מכות",
+   "forma_he": "מִכְוַת",
+   "n": 4,
+   "ref": "vayikra/13/24"
+  },
+  {
+   "forma": "מכתך",
+   "forma_he": "מַכֹּ֣תְךָ֔",
+   "n": 3,
+   "ref": "devarim/28/59"
+  },
+  {
+   "forma": "המכה",
+   "forma_he": "הַמַּכֶּ֤ה",
+   "n": 3,
+   "ref": "bereshit/36/35"
+  },
+  {
+   "forma": "המכים",
+   "forma_he": "הַמַּכִּ֧ים",
+   "n": 3,
+   "ref": "shmuel_a/4/8"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HTd/Ncfpa",
+  "HNcfpc/Sp3fs",
+  "HTd/Ncfsa",
+  "HNcfsc"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H3665",
+ "he": "כנע",
+ "xlit": "kânaʻ",
+ "pron": "kaw-nah'",
+ "def_en": [
+  "1) to be humble, be humbled, be subdued, be brought down, be low, be under, be brought into subjection",
+  "1a) (Niphal)",
+  "1a1) to humble oneself",
+  "1a2) to be humbled, be subdued",
+  "1b) (Hiphil)",
+  "1b1) to humble",
+  "1b2) to subdue"
+ ],
+ "kjv": "bring down (low), into subjection, under, humble (self), subdue.",
+ "expl": "properly, to bend the knee; hence, to humiliate, vanquish",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "ויכנעו",
+   "forma_he": "וַיִּכָּֽנְעוּ֙",
+   "n": 7,
+   "ref": "shoftim/11/33"
+  },
+  {
+   "forma": "ותכנע",
+   "forma_he": "וַתִּכָּנַ֤ע",
+   "n": 5,
+   "ref": "shoftim/3/30"
+  },
+  {
+   "forma": "ויכנע",
+   "forma_he": "וַיַּכְנַ֤ע",
+   "n": 5,
+   "ref": "shoftim/4/23"
+  },
+  {
+   "forma": "נכנע",
+   "forma_he": "נִכְנַ֥ע",
+   "n": 4,
+   "ref": "mlakhim_a/21/29"
+  },
+  {
+   "forma": "נכנעו",
+   "forma_he": "נִכְנָ֔עוּ",
+   "n": 3,
+   "ref": "divrei_hayamim_b/12/7"
+  }
+ ],
+ "morph": [
+  "HC/VNw3mp",
+  "HVNp3ms",
+  "HC/VNw3ms",
+  "HC/VNw2ms",
+  "HVNp3cp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "H3637",
+ "he": "כלם",
+ "xlit": "kâlam",
+ "pron": "kaw-lawm'",
+ "def_en": [
+  "1) to insult, shame, humiliate, blush, be ashamed, be put to shame, be reproached, be put to confusion, be humiliated",
+  "1a) (Niphal)",
+  "1a1) to be humiliated, be ashamed",
+  "1a2) to be put to shame, be dishonoured, be confounded",
+  "1b) (Hiphil)",
+  "1b1) to put to shame, insult, humiliate, cause shame to",
+  "1b2) to exhibit shame",
+  "1c) (Hophal)",
+  "1c1) to be insulted, be humiliated",
+  "1c2) to be put to shame, be dishonoured, be confounded"
+ ],
+ "kjv": "be (make) ashamed, blush, be confounded, be put to confusion, hurt, reproach, (do, put to) shame.",
+ "expl": "properly, to wound; but only figuratively, to taunt or insult",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "ויכלמו",
+   "forma_he": "וְיִכָּ֣לְמ֔וּ",
+   "n": 5,
+   "ref": "yeshayahu/41/11"
+  },
+  {
+   "forma": "נכלמו",
+   "forma_he": "נִכְלְמ֖וּ",
+   "n": 3,
+   "ref": "yeshayahu/45/16"
+  },
+  {
+   "forma": "ונכלמת",
+   "forma_he": "וְנִכְלַ֔מְתְּ",
+   "n": 3,
+   "ref": "yirmiyahu/22/22"
+  },
+  {
+   "forma": "נכלמים",
+   "forma_he": "נִכְלָמִ֣ים",
+   "n": 2,
+   "ref": "shmuel_b/10/5"
+  },
+  {
+   "forma": "נכלמתי",
+   "forma_he": "נִכְלָ֑מְתִּי",
+   "n": 2,
+   "ref": "yeshayahu/50/7"
+  }
+ ],
+ "morph": [
+  "HC/VNi3mp",
+  "HVNp3cp",
+  "HC/VNq2fs",
+  "HVhrmsa",
+  "HVNrmpa"
+ ],
+ "glosa_es": ""
+}

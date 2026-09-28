@@ -1,0 +1,59 @@
+{
+ "strong": "H5999",
+ "he": "עמל",
+ "xlit": "ʻâmâl",
+ "pron": "aw-mawl'",
+ "def_en": [
+  "1) toil, trouble, labour",
+  "1a) trouble",
+  "1b) trouble, mischief",
+  "1c) toil, labour"
+ ],
+ "kjv": "grievance(-vousness), iniquity, labour, mischief, miserable(-sery), pain(-ful), perverseness, sorrow, toil, travail, trouble, wearisome, wickedness.",
+ "expl": "toil, i.e. wearing effort; hence, worry, wheth. of body or mind",
+ "etim": "from ;",
+ "raices": [
+  "H5998"
+ ],
+ "ocurrencias": 55,
+ "formas": [
+  {
+   "forma": "עמל",
+   "forma_he": "עָמָ֖ל",
+   "n": 23,
+   "ref": "bamidbar/23/21"
+  },
+  {
+   "forma": "עמלו",
+   "forma_he": "עֲמָל֣וֹ",
+   "n": 6,
+   "ref": "tehilim/7/17"
+  },
+  {
+   "forma": "עמלי",
+   "forma_he": "עֲמָלִ֔י",
+   "n": 5,
+   "ref": "bereshit/41/51"
+  },
+  {
+   "forma": "ועמל",
+   "forma_he": "וְעָמָ֣ל",
+   "n": 4,
+   "ref": "chavakuk/1/3"
+  },
+  {
+   "forma": "בעמלו",
+   "forma_he": "בַּעֲמָל֑וֹ",
+   "n": 4,
+   "ref": "kohelet/2/24"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HNcbsc/Sp3ms",
+  "HNcbsc/Sp1cs",
+  "HR/Ncbsc/Sp3ms",
+  "HR/Ncbsc"
+ ],
+ "glosa_es": ""
+}

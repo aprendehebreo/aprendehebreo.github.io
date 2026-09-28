@@ -1,0 +1,56 @@
+{
+ "strong": "H5715",
+ "he": "עדות",
+ "xlit": "ʻêdûwth",
+ "pron": "ay-dooth'",
+ "def_en": [
+  "1) testimony"
+ ],
+ "kjv": "testimony, witness.",
+ "expl": "testimony",
+ "etim": "feminine of ;",
+ "raices": [
+  "H5707"
+ ],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "העדת",
+   "forma_he": "הָעֵדֻ֖ת",
+   "n": 26,
+   "ref": "shemot/16/34"
+  },
+  {
+   "forma": "העדות",
+   "forma_he": "הָעֵד֑וּת",
+   "n": 12,
+   "ref": "shemot/26/33"
+  },
+  {
+   "forma": "עדותיך",
+   "forma_he": "עֵדְוֺתֶ֥יךָ",
+   "n": 7,
+   "ref": "tehilim/119/14"
+  },
+  {
+   "forma": "עדות",
+   "forma_he": "עֵד֥וּת",
+   "n": 5,
+   "ref": "tehilim/19/8"
+  },
+  {
+   "forma": "ועדותיו",
+   "forma_he": "וְעֵדְוֺתָ֔יו",
+   "n": 2,
+   "ref": "mlakhim_a/2/3"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfpc/Sp2ms",
+  "HNcfsa",
+  "HC/Ncfpc/Sp3ms",
+  "HNcfpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

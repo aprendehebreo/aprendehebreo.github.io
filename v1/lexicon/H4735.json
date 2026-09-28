@@ -1,0 +1,59 @@
+{
+ "strong": "H4735",
+ "he": "מקנה",
+ "xlit": "miqneh",
+ "pron": "mik-neh'",
+ "def_en": [
+  "1) cattle, livestock",
+  "1a) cattle, livestock",
+  "1a1) in general of a purchasable domestic animal",
+  "1b) cows, sheep, goats (in herds and flocks)"
+ ],
+ "kjv": "cattle, flock, herd, possession, purchase, substance.",
+ "expl": "something bought, i.e. property, but only livestock; abstractly, acquisition",
+ "etim": "from ;",
+ "raices": [
+  "H7069"
+ ],
+ "ocurrencias": 76,
+ "formas": [
+  {
+   "forma": "מקנה",
+   "forma_he": "מִקְנֵֽה",
+   "n": 24,
+   "ref": "bereshit/13/7"
+  },
+  {
+   "forma": "מקניהם",
+   "forma_he": "מִקְנֵיהֶֽם",
+   "n": 8,
+   "ref": "bereshit/36/7"
+  },
+  {
+   "forma": "ומקנה",
+   "forma_he": "וּמִקְנֶֽה",
+   "n": 6,
+   "ref": "bereshit/4/20"
+  },
+  {
+   "forma": "מקנהו",
+   "forma_he": "מִקְנֵ֗הוּ",
+   "n": 6,
+   "ref": "bereshit/31/18"
+  },
+  {
+   "forma": "המקנה",
+   "forma_he": "הַמִּקְנֶ֑ה",
+   "n": 3,
+   "ref": "bereshit/29/7"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp3mp",
+  "HNcmsc",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

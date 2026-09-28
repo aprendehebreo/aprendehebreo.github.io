@@ -1,0 +1,61 @@
+{
+ "strong": "H8081",
+ "he": "שמן",
+ "xlit": "shemen",
+ "pron": "sheh'-men",
+ "def_en": [
+  "1) fat, oil",
+  "1a) fat, fatness",
+  "1b) oil, olive oil",
+  "1b1) as staple, medicament or unguent",
+  "1b2) for anointing",
+  "1c) fat (of fruitful land, valleys) (metaph)"
+ ],
+ "kjv": "anointing, [idiom] fat (things), [idiom] fruitful, oil(-ed), ointment, olive, [phrase] pine.",
+ "expl": "grease, especially liquid (as from the olive, often perfumed); figuratively, richness",
+ "etim": "from ;",
+ "raices": [
+  "H8080"
+ ],
+ "ocurrencias": 193,
+ "formas": [
+  {
+   "forma": "שמן",
+   "forma_he": "שֶׁ֖מֶן",
+   "n": 57,
+   "ref": "bereshit/28/18"
+  },
+  {
+   "forma": "בשמן",
+   "forma_he": "בַּשֶּׁ֔מֶן",
+   "n": 54,
+   "ref": "shemot/29/2"
+  },
+  {
+   "forma": "השמן",
+   "forma_he": "הַשָּׁ֑מֶן",
+   "n": 28,
+   "ref": "shemot/35/28"
+  },
+  {
+   "forma": "ושמן",
+   "forma_he": "וְשֶׁ֥מֶן",
+   "n": 24,
+   "ref": "shemot/30/24"
+  },
+  {
+   "forma": "משמן",
+   "forma_he": "מִשֶּׁ֣מֶן",
+   "n": 7,
+   "ref": "vayikra/8/12"
+  }
+ ],
+ "morph": [
+  "HRd/Ncmsa",
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": "aceite; grasa"
+}

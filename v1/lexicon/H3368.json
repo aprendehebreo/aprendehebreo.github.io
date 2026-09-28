@@ -1,0 +1,63 @@
+{
+ "strong": "H3368",
+ "he": "יקר",
+ "xlit": "yâqâr",
+ "pron": "yaw-kawr'",
+ "def_en": [
+  "1) valuable, prized, weighty, precious, rare, splendid",
+  "1a) precious",
+  "1a1) costly",
+  "1a2) precious, highly valued",
+  "1a3) precious stones or jewels",
+  "1b) rare",
+  "1c) glorious, splendid",
+  "1d) weighty, influential"
+ ],
+ "kjv": "brightness, clear, costly, excellent, fat, honourable women, precious, reputation.",
+ "expl": "valuable (objectively or subjectively)",
+ "etim": "from ;",
+ "raices": [
+  "H3365"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "יקרה",
+   "forma_he": "יִקָּרֵ֤ה",
+   "n": 16,
+   "ref": "bamidbar/23/3"
+  },
+  {
+   "forma": "יקר",
+   "forma_he": "יָקָר֙",
+   "n": 11,
+   "ref": "shmuel_a/3/1"
+  },
+  {
+   "forma": "יקרות",
+   "forma_he": "יְקָר֛וֹת",
+   "n": 4,
+   "ref": "mlakhim_a/5/31"
+  },
+  {
+   "forma": "יקרת",
+   "forma_he": "יְקָרֹת֙",
+   "n": 2,
+   "ref": "mlakhim_a/7/9"
+  },
+  {
+   "forma": "כיקר",
+   "forma_he": "כִּיקַ֣ר",
+   "n": 1,
+   "ref": "tehilim/37/20"
+  }
+ ],
+ "morph": [
+  "HAafsa",
+  "HAamsa",
+  "HAafpa",
+  "HNcfsc",
+  "HR/Aamsc"
+ ],
+ "glosa_es": ""
+}

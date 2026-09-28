@@ -1,0 +1,58 @@
+{
+ "strong": "H5785",
+ "he": "עור",
+ "xlit": "ʻôwr",
+ "pron": "ore",
+ "def_en": [
+  "1) skin, hide",
+  "1a) skin (of men)",
+  "1b) hide (of animals)"
+ ],
+ "kjv": "hide, leather, skin.",
+ "expl": "skin (as naked); by implication, hide, leather",
+ "etim": "from ;",
+ "raices": [
+  "H5783"
+ ],
+ "ocurrencias": 99,
+ "formas": [
+  {
+   "forma": "עור",
+   "forma_he": "ע֖וֹר",
+   "n": 28,
+   "ref": "bereshit/3/21"
+  },
+  {
+   "forma": "בעור",
+   "forma_he": "בְּע֑וֹר",
+   "n": 24,
+   "ref": "bereshit/36/32"
+  },
+  {
+   "forma": "העור",
+   "forma_he": "הָע֑וֹר",
+   "n": 14,
+   "ref": "vayikra/9/11"
+  },
+  {
+   "forma": "ערת",
+   "forma_he": "עֹרֹת֙",
+   "n": 6,
+   "ref": "bereshit/27/16"
+  },
+  {
+   "forma": "וערת",
+   "forma_he": "וְעֹרֹ֨ת",
+   "n": 6,
+   "ref": "shemot/25/5"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": ""
+}

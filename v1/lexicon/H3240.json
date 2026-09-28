@@ -1,0 +1,71 @@
+{
+ "strong": "H3240",
+ "he": "ינח",
+ "xlit": "yânach",
+ "pron": "yaw-nakh'",
+ "def_en": [
+  "1) to rest",
+  "1a) (Qal)",
+  "1a1) to rest, settle down and remain",
+  "1a2) to repose, have rest, be quiet",
+  "1b) (Hiphil)",
+  "1b1) to cause to rest, give rest to, make quiet",
+  "1b2) to cause to rest, cause to alight, set down",
+  "1b3) to lay or set down, deposit, let lie, place",
+  "1b4) to let remain, leave",
+  "1b5) to leave, depart from",
+  "1b6) to abandon",
+  "1b7) to permit",
+  "1c) (Hophal)",
+  "1c1) to obtain rest, be granted rest",
+  "1c2) to be left, be placed",
+  "1c3) open space (subst)"
+ ],
+ "kjv": "bestow, cast down, lay (down, up), leave (off), let alone (remain), pacify, place, put, set (down), suffer, withdraw, withhold. (The Hiphil forms with the dagesh are here referred to, in accordance with the older grammarians; but if any distinction of the kind is to be made, these should rather be referred to , and the others here.)",
+ "expl": "to deposit; by implication, to allow to stay",
+ "etim": "a primitive root;",
+ "raices": [
+  "H5117"
+ ],
+ "ocurrencias": 75,
+ "formas": [
+  {
+   "forma": "וינח",
+   "forma_he": "וַיָּ֕נַח",
+   "n": 7,
+   "ref": "shemot/10/14"
+  },
+  {
+   "forma": "הניח",
+   "forma_he": "הֵנִ֨יחַ",
+   "n": 7,
+   "ref": "yehoshua/22/4"
+  },
+  {
+   "forma": "הניחו",
+   "forma_he": "הַנִּ֣יחוּ",
+   "n": 6,
+   "ref": "bereshit/42/33"
+  },
+  {
+   "forma": "ויניחו",
+   "forma_he": "וַיַּנִּ֤יחוּ",
+   "n": 4,
+   "ref": "shemot/16/24"
+  },
+  {
+   "forma": "וינחהו",
+   "forma_he": "וַיַּנִּחֵ֣הוּ",
+   "n": 3,
+   "ref": "bereshit/2/15"
+  }
+ ],
+ "morph": [
+  "HVhp3ms",
+  "HC/Vhw3ms",
+  "HVhv2mp",
+  "HC/Vhw3ms/Sp3ms",
+  "HC/Vhw3mp"
+ ],
+ "glosa_es": ""
+}

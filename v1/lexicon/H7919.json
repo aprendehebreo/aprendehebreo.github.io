@@ -1,0 +1,66 @@
+{
+ "strong": "H7919",
+ "he": "שכל",
+ "xlit": "sâkal",
+ "pron": "saw-kal'",
+ "def_en": [
+  "1) to be prudent, be circumspect, wisely understand, prosper",
+  "1a) (Qal) to be prudent, be circumspect",
+  "1b) (Hiphil)",
+  "1b1) to look at or upon, have insight",
+  "1b2) to give attention to, consider, ponder, be prudent",
+  "1b3) to have insight, have comprehension",
+  "1b3a) insight, comprehension (subst)",
+  "1b4) to cause to consider, give insight, teach",
+  "1b4a) the teachers, the wise",
+  "1b5) to act circumspectly, act prudently, act wisely",
+  "1b6) to prosper, have success",
+  "1b7) to cause to prosper",
+  "2) (Piel) to lay crosswise, cross (hands)"
+ ],
+ "kjv": "consider, expert, instruct, prosper, (deal) prudent(-ly), (give) skill(-ful), have good success, teach, (have, make to) understand(-ing), wisdom, (be, behave self, consider, make) wise(-ly), guide wittingly.",
+ "expl": "to be (causatively, make or act) circumspect and hence, intelligent",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "משכיל",
+   "forma_he": "מַשְׂכִּ֑יל",
+   "n": 14,
+   "ref": "shmuel_a/18/14"
+  },
+  {
+   "forma": "השכילו",
+   "forma_he": "הִשְׂכִּ֔ילוּ",
+   "n": 6,
+   "ref": "yirmiyahu/10/21"
+  },
+  {
+   "forma": "ישכיל",
+   "forma_he": "יַשְׂכִּ֔יל",
+   "n": 5,
+   "ref": "shmuel_a/18/5"
+  },
+  {
+   "forma": "תשכיל",
+   "forma_he": "תַּשְׂכִּ֔יל",
+   "n": 3,
+   "ref": "yehoshua/1/7"
+  },
+  {
+   "forma": "השכל",
+   "forma_he": "הַשְׂכֵּל֮",
+   "n": 3,
+   "ref": "yirmiyahu/9/23"
+  }
+ ],
+ "morph": [
+  "HVhrmsa",
+  "HVhi3ms",
+  "HVhp3cp",
+  "HR/Vhc",
+  "HVhi2ms"
+ ],
+ "glosa_es": ""
+}

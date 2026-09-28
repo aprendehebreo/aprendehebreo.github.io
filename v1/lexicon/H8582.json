@@ -1,0 +1,66 @@
+{
+ "strong": "H8582",
+ "he": "תעה",
+ "xlit": "tâʻâh",
+ "pron": "taw-aw'",
+ "def_en": [
+  "1) to err, wander, go astray, stagger",
+  "1a) (Qal) to err",
+  "1a1) to wander about (physically)",
+  "1a2) of intoxication",
+  "1a3) of sin (ethically)",
+  "1a4) wandering (of the mind)",
+  "1b) (Niphal)",
+  "1b1) to be made to wander about, be made to stagger (drunkard)",
+  "1b2) to be led astray (ethically)",
+  "1c) (Hiphil) to cause to wander",
+  "1c1) to cause to wander about (physically)",
+  "1c2) to cause to wander (of intoxication)",
+  "1c3) to cause to err, mislead (mentally and morally)"
+ ],
+ "kjv": "(cause to) go astray, deceive, dissemble, (cause to, make to) err, pant, seduce, (make to) stagger, (cause to) wander, be out of the way.",
+ "expl": "to vacillate, i.e. reel or stray (literally or figuratively); also causative of both",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "תעו",
+   "forma_he": "תָּ֣עוּ",
+   "n": 9,
+   "ref": "yeshayahu/16/8"
+  },
+  {
+   "forma": "ויתעם",
+   "forma_he": "וַיַּתְעֵ֤ם",
+   "n": 4,
+   "ref": "mlakhim_b/21/9"
+  },
+  {
+   "forma": "יתעו",
+   "forma_he": "יִתְעֽוּ",
+   "n": 4,
+   "ref": "yeshayahu/35/8"
+  },
+  {
+   "forma": "תעה",
+   "forma_he": "תֹעֶ֖ה",
+   "n": 3,
+   "ref": "bereshit/37/15"
+  },
+  {
+   "forma": "בתעות",
+   "forma_he": "בִּתְע֤וֹת",
+   "n": 3,
+   "ref": "yechezkel/44/10"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HC/Vhw3ms/Sp3mp",
+  "HVqi3mp",
+  "HVqrmsa",
+  "HR/Vqc"
+ ],
+ "glosa_es": ""
+}

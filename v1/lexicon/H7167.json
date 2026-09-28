@@ -1,0 +1,62 @@
+{
+ "strong": "H7167",
+ "he": "קרע",
+ "xlit": "qâraʻ",
+ "pron": "kaw-rah'",
+ "def_en": [
+  "1) to tear, tear in pieces",
+  "1a) (Qal)",
+  "1a1) to tear, rend",
+  "1a2) to tear away or out",
+  "1a3) to tear, rend asunder",
+  "1a3a) to make wide or large (of eyes)",
+  "1a3b) to rend open (of heavens)",
+  "1a4) to tear, rend (of wild beasts)",
+  "1b) (Niphal) to be rent, be split asunder"
+ ],
+ "kjv": "cut out, rend, [idiom] surely, tear.",
+ "expl": "to rend, literally or figuratively (revile, paint the eyes, as if enlarging them)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "ויקרע",
+   "forma_he": "וַיִּקְרַ֖ע",
+   "n": 16,
+   "ref": "bereshit/37/29"
+  },
+  {
+   "forma": "קרע",
+   "forma_he": "קָרַ֨ע",
+   "n": 5,
+   "ref": "shmuel_a/15/28"
+  },
+  {
+   "forma": "קרעו",
+   "forma_he": "קָרְע֖וּ",
+   "n": 4,
+   "ref": "bamidbar/14/6"
+  },
+  {
+   "forma": "ותקרע",
+   "forma_he": "וַתִּקְרַ֤ע",
+   "n": 4,
+   "ref": "mlakhim_b/11/14"
+  },
+  {
+   "forma": "ויקרעו",
+   "forma_he": "וַֽיִּקְרְע֖וּ",
+   "n": 2,
+   "ref": "bereshit/44/13"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3cp",
+  "HVqp3ms",
+  "HVqsmpc",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": ""
+}

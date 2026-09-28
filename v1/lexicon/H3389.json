@@ -1,0 +1,59 @@
+{
+ "strong": "H3389",
+ "he": "ירושלם",
+ "xlit": "Yᵉrûwshâlaim",
+ "pron": "yer-oo-shaw-lah'-im",
+ "def_en": [
+  "Jerusalem = \"teaching of peace\"",
+  "1) the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split"
+ ],
+ "kjv": "Jerusalem.",
+ "expl": "Jerushalaim or Jerushalem, the capital city of Palestine",
+ "etim": "rarely ; a dual (in allusion to its two main hills (the true pointing, at least of the former reading, seems to be that of )); probably from (the passive participle of) and ; founded peaceful;",
+ "raices": [
+  "H3390",
+  "H3384",
+  "H7999"
+ ],
+ "ocurrencias": 643,
+ "formas": [
+  {
+   "forma": "ירושלם",
+   "forma_he": "יְרוּשָׁלִַ֗ם",
+   "n": 345,
+   "ref": "yehoshua/10/1"
+  },
+  {
+   "forma": "בירושלם",
+   "forma_he": "בִּיר֣וּשָׁלִַ֔ם",
+   "n": 168,
+   "ref": "yehoshua/15/63"
+  },
+  {
+   "forma": "וירושלם",
+   "forma_he": "וִירוּשָׁלִָֽם",
+   "n": 33,
+   "ref": "mlakhim_b/23/1"
+  },
+  {
+   "forma": "מירושלם",
+   "forma_he": "מִיר֣וּשָׁלִַ֔ם",
+   "n": 28,
+   "ref": "shmuel_b/5/13"
+  },
+  {
+   "forma": "לירושלם",
+   "forma_he": "לִירוּשָׁלִַ֨ם֙",
+   "n": 27,
+   "ref": "mlakhim_b/23/4"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np",
+  "HNp/Sd"
+ ],
+ "glosa_es": "Jerusalén"
+}

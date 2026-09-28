@@ -1,0 +1,56 @@
+{
+ "strong": "H2022",
+ "he": "הר",
+ "xlit": "har",
+ "pron": "har",
+ "def_en": [
+  "1) hill, mountain, hill country, mount"
+ ],
+ "kjv": "hill (country), mount(-ain), [idiom] promotion.",
+ "expl": "a mountain or range of hills (sometimes used figuratively)",
+ "etim": "a shortened form of ;",
+ "raices": [
+  "H2042"
+ ],
+ "ocurrencias": 547,
+ "formas": [
+  {
+   "forma": "הר",
+   "forma_he": "הַ֥ר",
+   "n": 118,
+   "ref": "bereshit/10/30"
+  },
+  {
+   "forma": "בהר",
+   "forma_he": "בָּהָ֗ר",
+   "n": 112,
+   "ref": "bereshit/19/30"
+  },
+  {
+   "forma": "ההר",
+   "forma_he": "הָהָ֥ר",
+   "n": 91,
+   "ref": "shemot/3/12"
+  },
+  {
+   "forma": "הרים",
+   "forma_he": "הָרִ֖ים",
+   "n": 57,
+   "ref": "devarim/11/11"
+  },
+  {
+   "forma": "ההרים",
+   "forma_he": "הֶֽהָרִים֙",
+   "n": 53,
+   "ref": "bereshit/7/19"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HTd/Ncmsa",
+  "HNcmpa",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": "monte; montaña"
+}

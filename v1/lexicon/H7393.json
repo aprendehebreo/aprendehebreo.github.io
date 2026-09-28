@@ -1,0 +1,60 @@
+{
+ "strong": "H7393",
+ "he": "רכב",
+ "xlit": "rekeb",
+ "pron": "reh'-keb",
+ "def_en": [
+  "1) a team, chariot, chariotry, mill-stone, riders",
+  "1a) chariotry, chariots",
+  "1b) chariot (single)",
+  "1c) upper millstone (as riding on lower millstone)",
+  "1d) riders, troop (of riders), horsemen, pair of horsemen, men riding, ass-riders, camel-riders"
+ ],
+ "kjv": "chariot, (upper) millstone, multitude (from the margin), wagon.",
+ "expl": "a vehicle; by implication, a team; by extension, cavalry; by analogy a rider, i.e. the upper millstone",
+ "etim": "from ;",
+ "raices": [
+  "H7392"
+ ],
+ "ocurrencias": 120,
+ "formas": [
+  {
+   "forma": "רכב",
+   "forma_he": "רֶ֖כֶב",
+   "n": 42,
+   "ref": "bereshit/50/9"
+  },
+  {
+   "forma": "הרכב",
+   "forma_he": "הָרֶ֨כֶב֙",
+   "n": 29,
+   "ref": "shemot/14/28"
+  },
+  {
+   "forma": "ורכב",
+   "forma_he": "וָרֶ֨כֶב֙",
+   "n": 12,
+   "ref": "devarim/20/1"
+  },
+  {
+   "forma": "רכבו",
+   "forma_he": "רֹכְב֖וֹ",
+   "n": 11,
+   "ref": "bereshit/49/17"
+  },
+  {
+   "forma": "ברכב",
+   "forma_he": "בְּרֶ֥כֶב",
+   "n": 7,
+   "ref": "yehoshua/24/6"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc",
+  "HNcmsc/Sp3ms",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

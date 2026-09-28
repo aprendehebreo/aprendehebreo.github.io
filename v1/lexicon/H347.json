@@ -1,0 +1,55 @@
+{
+ "strong": "H347",
+ "he": "איוב",
+ "xlit": "ʼÎyôwb",
+ "pron": "ee-yobe'",
+ "def_en": [
+  "Job = \"hated\"",
+  "1) a patriarch, the subject of the book of Job"
+ ],
+ "kjv": "Job.",
+ "expl": "Ijob, the patriarch famous for his patience",
+ "etim": "from ; hated (i.e. persecuted);",
+ "raices": [
+  "H340"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "איוב",
+   "forma_he": "אִיּ֣וֹב",
+   "n": 50,
+   "ref": "iyov/1/1"
+  },
+  {
+   "forma": "ואיוב",
+   "forma_he": "וְאִיּ֑וֹב",
+   "n": 4,
+   "ref": "yechezkel/14/14"
+  },
+  {
+   "forma": "לאיוב",
+   "forma_he": "לְאִיּ֣וֹב",
+   "n": 2,
+   "ref": "iyov/32/12"
+  },
+  {
+   "forma": "באיוב",
+   "forma_he": "בְּ֭אִיּוֹב",
+   "n": 1,
+   "ref": "iyov/32/2"
+  },
+  {
+   "forma": "כאיוב",
+   "forma_he": "כְּאִיּ֑וֹב",
+   "n": 1,
+   "ref": "iyov/34/7"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

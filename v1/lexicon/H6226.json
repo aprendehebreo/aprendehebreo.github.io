@@ -1,0 +1,35 @@
+{
+ "strong": "H6226",
+ "he": "עשן",
+ "xlit": "ʻâshên",
+ "pron": "aw-shane'",
+ "def_en": [
+  "1) smoking"
+ ],
+ "kjv": "smoking.",
+ "expl": "smoky",
+ "etim": "from ;",
+ "raices": [
+  "H6225"
+ ],
+ "ocurrencias": 2,
+ "formas": [
+  {
+   "forma": "עשן",
+   "forma_he": "עָשָׁן֙",
+   "n": 1,
+   "ref": "bereshit/15/17"
+  },
+  {
+   "forma": "העשנים",
+   "forma_he": "הָעֲשֵׁנִ֖ים",
+   "n": 1,
+   "ref": "yeshayahu/7/4"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HTd/Aampa"
+ ],
+ "glosa_es": ""
+}

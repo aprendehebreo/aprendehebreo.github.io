@@ -1,0 +1,40 @@
+{
+ "strong": "H116",
+ "he": "אדין",
+ "xlit": "ʼĕdayin",
+ "pron": "ed-ah'-yin",
+ "def_en": [
+  "1) then, afterwards, thereupon, from that time"
+ ],
+ "kjv": "now, that time, then.",
+ "expl": "then (of time)",
+ "etim": "(Aramaic) of uncertain derivation;",
+ "raices": [],
+ "ocurrencias": 57,
+ "formas": [
+  {
+   "forma": "באדין",
+   "forma_he": "בֵּאדַ֣יִן",
+   "n": 29,
+   "ref": "daniel/2/14"
+  },
+  {
+   "forma": "אדין",
+   "forma_he": "אֱדַ֣יִן",
+   "n": 27,
+   "ref": "daniel/2/15"
+  },
+  {
+   "forma": "ואדין",
+   "forma_he": "וֶאֱדַ֛יִן",
+   "n": 1,
+   "ref": "ezra/5/5"
+  }
+ ],
+ "morph": [
+  "AR/D",
+  "AD",
+  "AC/D"
+ ],
+ "glosa_es": ""
+}

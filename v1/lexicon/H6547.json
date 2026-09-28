@@ -1,0 +1,53 @@
+{
+ "strong": "H6547",
+ "he": "פרעה",
+ "xlit": "Parʻôh",
+ "pron": "par-o'",
+ "def_en": [
+  "Pharaoh = \"great house\"",
+  "1) the common title of the king of Egypt"
+ ],
+ "kjv": "Pharaoh.",
+ "expl": "Paroh, a general title of Egyptian kings",
+ "etim": "of Egyptian derivation;",
+ "raices": [],
+ "ocurrencias": 268,
+ "formas": [
+  {
+   "forma": "פרעה",
+   "forma_he": "פַרְעֹ֔ה",
+   "n": 231,
+   "ref": "bereshit/12/15"
+  },
+  {
+   "forma": "לפרעה",
+   "forma_he": "לְפַרְעֹֽה",
+   "n": 25,
+   "ref": "bereshit/41/8"
+  },
+  {
+   "forma": "בפרעה",
+   "forma_he": "בְּפַרְעֹה֙",
+   "n": 6,
+   "ref": "shemot/14/4"
+  },
+  {
+   "forma": "ופרעה",
+   "forma_he": "וּפַרְעֹ֣ה",
+   "n": 3,
+   "ref": "bereshit/41/1"
+  },
+  {
+   "forma": "מפרעה",
+   "forma_he": "מִפַּרְעֹ֛ה",
+   "n": 2,
+   "ref": "shemot/8/25"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": "faraón"
+}

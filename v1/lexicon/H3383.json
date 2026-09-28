@@ -1,0 +1,57 @@
+{
+ "strong": "H3383",
+ "he": "ירדן",
+ "xlit": "Yardên",
+ "pron": "yar-dane'",
+ "def_en": [
+  "Jordan = \"descender\"",
+  "1) the river of Palestine running from the roots of Anti-Lebanon to the Dead Sea a distance of approx 200 miles (320 km)"
+ ],
+ "kjv": "Jordan.",
+ "expl": "Jarden, the principal river of Palestine",
+ "etim": "from ; a descender;",
+ "raices": [
+  "H3381"
+ ],
+ "ocurrencias": 183,
+ "formas": [
+  {
+   "forma": "הירדן",
+   "forma_he": "הַיַּרְדֵּ֔ן",
+   "n": 145,
+   "ref": "bereshit/13/10"
+  },
+  {
+   "forma": "לירדן",
+   "forma_he": "לְיַרְדֵּ֥ן",
+   "n": 14,
+   "ref": "bamidbar/22/1"
+  },
+  {
+   "forma": "ירדן",
+   "forma_he": "יַרְדֵּ֥ן",
+   "n": 9,
+   "ref": "bamidbar/26/3"
+  },
+  {
+   "forma": "בירדן",
+   "forma_he": "בַּיַּרְדֵּ֖ן",
+   "n": 7,
+   "ref": "yehoshua/3/8"
+  },
+  {
+   "forma": "הירדנה",
+   "forma_he": "הַיַּרְדֵּ֔נָה",
+   "n": 4,
+   "ref": "bamidbar/34/12"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HRd/Np",
+  "HNp",
+  "HR/Np",
+  "HTd/Np/Sd"
+ ],
+ "glosa_es": "Jordán"
+}

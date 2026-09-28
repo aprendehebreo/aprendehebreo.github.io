@@ -1,0 +1,69 @@
+{
+ "strong": "H7227",
+ "he": "רב",
+ "xlit": "rab",
+ "pron": "rab",
+ "def_en": [
+  "adj",
+  "1) much, many, great",
+  "1a) much",
+  "1b) many",
+  "1c) abounding in",
+  "1d) more numerous than",
+  "1e) abundant, enough",
+  "1f) great",
+  "1g) strong",
+  "1h) greater than",
+  "adv",
+  "1i) much, exceedingly",
+  "n m",
+  "2) captain, chief"
+ ],
+ "kjv": "(in) abound(-undance, -ant, -antly), captain, elder, enough, exceedingly, full, great(-ly, man, one), increase, long (enough, (time)), (do, have) many(-ifold, things, a time), (ship-)master, mighty, more, (too, very) much, multiply(-tude), officer, often(-times), plenteous, populous, prince, process (of time), suffice(-lent).",
+ "expl": "abundant (in quantity, size, age, number, rank, quality)",
+ "etim": "by contracted from ;",
+ "raices": [
+  "H7231"
+ ],
+ "ocurrencias": 461,
+ "formas": [
+  {
+   "forma": "רבים",
+   "forma_he": "רַבִּֽים",
+   "n": 172,
+   "ref": "bereshit/21/34"
+  },
+  {
+   "forma": "רב",
+   "forma_he": "רָ֔ב",
+   "n": 139,
+   "ref": "bereshit/13/6"
+  },
+  {
+   "forma": "רבה",
+   "forma_he": "רַבָּ֛ה",
+   "n": 35,
+   "ref": "bereshit/6/5"
+  },
+  {
+   "forma": "רבות",
+   "forma_he": "רַבּ֔וֹת",
+   "n": 30,
+   "ref": "bereshit/30/43"
+  },
+  {
+   "forma": "ורב",
+   "forma_he": "וְרַ֖ב",
+   "n": 25,
+   "ref": "bereshit/25/23"
+  }
+ ],
+ "morph": [
+  "HAampa",
+  "HAamsa",
+  "HAafsa",
+  "HAafpa",
+  "HNcmsc"
+ ],
+ "glosa_es": "mucho; numeroso; grande"
+}

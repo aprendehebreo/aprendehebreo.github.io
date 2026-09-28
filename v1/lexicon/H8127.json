@@ -1,0 +1,64 @@
+{
+ "strong": "H8127",
+ "he": "שן",
+ "xlit": "shên",
+ "pron": "shane",
+ "def_en": [
+  "1) tooth, ivory",
+  "1a) tooth",
+  "1a1) of man, lex talionis, beast",
+  "1b) tooth, tine (of fork)",
+  "1c) ivory",
+  "1c1) as material",
+  "1c2) of commerce",
+  "1d) sharp pointed rock"
+ ],
+ "kjv": "crag, [idiom] forefront, ivory, [idiom] sharp, tooth.",
+ "expl": "a tooth (as sharp); specifically ivory; figuratively, a cliff",
+ "etim": "from ; compare",
+ "raices": [
+  "H8150",
+  "H8143"
+ ],
+ "ocurrencias": 55,
+ "formas": [
+  {
+   "forma": "שן",
+   "forma_he": "שֵׁ֖ן",
+   "n": 18,
+   "ref": "shemot/21/24"
+  },
+  {
+   "forma": "שניו",
+   "forma_he": "שָׁנָ֔יו",
+   "n": 7,
+   "ref": "vayikra/25/52"
+  },
+  {
+   "forma": "השן",
+   "forma_he": "הַשֵּׁ֔ן",
+   "n": 4,
+   "ref": "shmuel_a/7/12"
+  },
+  {
+   "forma": "שני",
+   "forma_he": "שֵׁנִֽי",
+   "n": 4,
+   "ref": "bereshit/1/8"
+  },
+  {
+   "forma": "ושני",
+   "forma_he": "וּשְׁנֵ֤י",
+   "n": 3,
+   "ref": "bereshit/24/22"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HNcbdc/Sp3ms",
+  "HNcbsc",
+  "HNcbdc/Sp3mp",
+  "HTd/Ncbsa"
+ ],
+ "glosa_es": ""
+}

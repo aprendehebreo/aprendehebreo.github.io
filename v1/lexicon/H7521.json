@@ -1,0 +1,64 @@
+{
+ "strong": "H7521",
+ "he": "רצה",
+ "xlit": "râtsâh",
+ "pron": "raw-tsaw'",
+ "def_en": [
+  "1) to be pleased with, be favourable to, accept favourably",
+  "1a) (Qal)",
+  "1a1) to be pleased with, be favourable to",
+  "1a2) to accept",
+  "1a3) to be pleased, be determined",
+  "1a4) to make acceptable, satisfy",
+  "1a5) to please",
+  "1b) (Niphal) to be accepted, be pleased with",
+  "1c) (Piel) to seek favour of",
+  "1d) (Hiphil) to please, pay off",
+  "1e) (Hithpael) to make oneself acceptable or pleasing"
+ ],
+ "kjv": "(be) accept(-able), accomplish, set affection, approve, consent with, delight (self), enjoy, (be, have a) favour(-able), like, observe, pardon, (be, have, take) please(-ure), reconcile self.",
+ "expl": "to be pleased with; specifically, to satisfy adebt",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 57,
+ "formas": [
+  {
+   "forma": "ירצה",
+   "forma_he": "יֵרָצֶה֒",
+   "n": 7,
+   "ref": "vayikra/7/18"
+  },
+  {
+   "forma": "ירצו",
+   "forma_he": "יֵרָצ֖וּ",
+   "n": 6,
+   "ref": "vayikra/22/25"
+  },
+  {
+   "forma": "תרצה",
+   "forma_he": "תִּרְצֶ֨ה",
+   "n": 4,
+   "ref": "vayikra/26/34"
+  },
+  {
+   "forma": "רצה",
+   "forma_he": "רְצֵ֣ה",
+   "n": 4,
+   "ref": "tehilim/40/14"
+  },
+  {
+   "forma": "רצם",
+   "forma_he": "רָצָ֔ם",
+   "n": 3,
+   "ref": "yirmiyahu/14/10"
+  }
+ ],
+ "morph": [
+  "HVNi3ms",
+  "HVqi3mp",
+  "HVqi2ms",
+  "HVqi1cs",
+  "HVqi3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H8441",
+ "he": "תועבה",
+ "xlit": "tôwʻêbah",
+ "pron": "to-ay-baw'",
+ "def_en": [
+  "1) a disgusting thing, abomination, abominable",
+  "1a) in ritual sense (of unclean food, idols, mixed marriages)",
+  "1b) in ethical sense (of wickedness etc)"
+ ],
+ "kjv": "abominable (custom, thing), abomination.",
+ "expl": "properly, something disgusting (morally), i.e. (as noun) an abhorrence; especially idolatry or (concretely) an idol",
+ "etim": "or ; feminine active participle of ;",
+ "raices": [
+  "H8581"
+ ],
+ "ocurrencias": 118,
+ "formas": [
+  {
+   "forma": "תועבת",
+   "forma_he": "תוֹעֲבַ֥ת",
+   "n": 27,
+   "ref": "bereshit/46/34"
+  },
+  {
+   "forma": "תועבה",
+   "forma_he": "תוֹעֵבָ֥ה",
+   "n": 16,
+   "ref": "bereshit/43/32"
+  },
+  {
+   "forma": "התועבות",
+   "forma_he": "הַתּוֹעֵב֖וֹת",
+   "n": 8,
+   "ref": "vayikra/18/29"
+  },
+  {
+   "forma": "תועבות",
+   "forma_he": "תּוֹעֲב֥וֹת",
+   "n": 8,
+   "ref": "yechezkel/6/11"
+  },
+  {
+   "forma": "התועבת",
+   "forma_he": "הַתּוֹעֵבֹ֖ת",
+   "n": 6,
+   "ref": "vayikra/18/26"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsa",
+  "HTd/Ncfpa",
+  "HNcfpc/Sp2fs",
+  "HNcfpa"
+ ],
+ "glosa_es": ""
+}

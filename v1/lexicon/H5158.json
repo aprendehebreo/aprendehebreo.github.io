@@ -1,0 +1,61 @@
+{
+ "strong": "H5158",
+ "he": "נחל",
+ "xlit": "nachal",
+ "pron": "nakh'-al",
+ "def_en": [
+  "1) torrent, valley, wadi, torrent-valley",
+  "1a) torrent",
+  "1b) torrent-valley, wadi (as stream bed)",
+  "1c) shaft (of mine)",
+  "2) palm-tree",
+  "2a) meaning dubious"
+ ],
+ "kjv": "brook, flood, river, stream, valley.",
+ "expl": "a stream, especially a winter torrent; (by implication) a (narrow) valley (in which a brook runs); also a shaft (of a mine)",
+ "etim": "or (feminine) ; (Psalm 124:4), or ; (Ezekiel 47:19; Ezekiel 48:28), from in its original sense;",
+ "raices": [
+  "H5157"
+ ],
+ "ocurrencias": 141,
+ "formas": [
+  {
+   "forma": "נחל",
+   "forma_he": "נָ֑חַל",
+   "n": 50,
+   "ref": "vayikra/23/40"
+  },
+  {
+   "forma": "הנחל",
+   "forma_he": "הַנָּ֑חַל",
+   "n": 22,
+   "ref": "bereshit/32/24"
+  },
+  {
+   "forma": "בנחל",
+   "forma_he": "בְּנַֽחַל",
+   "n": 18,
+   "ref": "bereshit/26/17"
+  },
+  {
+   "forma": "נחלי",
+   "forma_he": "נַ֣חֲלֵי",
+   "n": 6,
+   "ref": "devarim/8/7"
+  },
+  {
+   "forma": "לנחל",
+   "forma_he": "לִנְחֹ֥ל",
+   "n": 6,
+   "ref": "bamidbar/34/18"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HR/Ncmsc",
+  "HRd/Ncmsa",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

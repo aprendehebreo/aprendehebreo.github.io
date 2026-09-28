@@ -1,0 +1,61 @@
+{
+ "strong": "H2898",
+ "he": "טוב",
+ "xlit": "ṭûwb",
+ "pron": "toob",
+ "def_en": [
+  "1) goods, good things, goodness",
+  "1a) good things",
+  "1b) goods, property",
+  "1c) fairness, beauty, joy, prosperity, goodness (abstract)",
+  "1d) goodness (of taste, discernment)",
+  "1e) goodness (of God) (abstract)"
+ ],
+ "kjv": "fair, gladness, good(-ness, thing, -s), joy, go well with.",
+ "expl": "good (as a noun), in the widest sense, especially goodness (superlative concretely, the best), beauty, gladness, welfare",
+ "etim": "from ;",
+ "raices": [
+  "H2895"
+ ],
+ "ocurrencias": 32,
+ "formas": [
+  {
+   "forma": "טוב",
+   "forma_he": "ט֑וֹב",
+   "n": 12,
+   "ref": "bereshit/1/4"
+  },
+  {
+   "forma": "בטוב",
+   "forma_he": "בַּטּ֥וֹב",
+   "n": 4,
+   "ref": "bereshit/20/15"
+  },
+  {
+   "forma": "טובו",
+   "forma_he": "טוּב֖וֹ",
+   "n": 3,
+   "ref": "hoshea/3/5"
+  },
+  {
+   "forma": "טובך",
+   "forma_he": "טוּבְךָ֣",
+   "n": 3,
+   "ref": "tehilim/25/7"
+  },
+  {
+   "forma": "מטוב",
+   "forma_he": "מִטּ֥וֹב",
+   "n": 2,
+   "ref": "bereshit/31/24"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

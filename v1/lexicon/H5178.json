@@ -1,0 +1,61 @@
+{
+ "strong": "H5178",
+ "he": "נחשת",
+ "xlit": "nᵉchôsheth",
+ "pron": "nekh-o'-sheth",
+ "def_en": [
+  "1) copper, bronze",
+  "1a) copper (ore), bronze (as copper alloy)",
+  "1b) fetters (of copper or bronze)",
+  "1c) copper (as value)",
+  "2) lust, harlotry",
+  "2a) meaning dubious"
+ ],
+ "kjv": "brasen, brass, chain, copper, fetter (of brass), filthiness, steel.",
+ "expl": "copper, hence, something made of that metal, i.e. coin, a fetter; figuratively, base (as compared with gold or silver)",
+ "etim": "for ;",
+ "raices": [
+  "H5154"
+ ],
+ "ocurrencias": 140,
+ "formas": [
+  {
+   "forma": "נחשת",
+   "forma_he": "נְחֹ֖שֶׁת",
+   "n": 75,
+   "ref": "bereshit/4/22"
+  },
+  {
+   "forma": "הנחשת",
+   "forma_he": "הַנְּחֹ֨שֶׁת֙",
+   "n": 30,
+   "ref": "shemot/35/16"
+  },
+  {
+   "forma": "ונחשת",
+   "forma_he": "וּנְחֹֽשֶׁת",
+   "n": 11,
+   "ref": "shemot/25/3"
+  },
+  {
+   "forma": "בנחשתים",
+   "forma_he": "בַּֽנְחֻשְׁתַּ֔יִם",
+   "n": 6,
+   "ref": "shoftim/16/21"
+  },
+  {
+   "forma": "ובנחשת",
+   "forma_he": "וּבַנְּחֹֽשֶׁת",
+   "n": 4,
+   "ref": "shemot/31/4"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HTd/Ncfsa",
+  "HC/Ncfsa",
+  "HRd/Ncfda",
+  "HC/Rd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

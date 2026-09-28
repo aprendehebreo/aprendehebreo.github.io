@@ -1,0 +1,34 @@
+{
+ "strong": "H176",
+ "he": "או",
+ "xlit": "ʼôw",
+ "pron": "o",
+ "def_en": [
+  "1) or, rather",
+  "1a) implying that the latter choice is preferred",
+  "1b) or if, introducing an example to be seen under a particular principle",
+  "1c) (in series) either...or, whether...or",
+  "1d) if perchance",
+  "1e) except, or else",
+  "2) whether, not the least, if, otherwise, also, and, then"
+ ],
+ "kjv": "also, and, either, if, at the least, [idiom] nor, or, otherwise, then, whether.",
+ "expl": "desire (and so probably in Proverbs 31:4); hence (by way of alternative) or, also if",
+ "etim": "presumed to be the 'constructive' or genitival form of ; short for ;",
+ "raices": [
+  "H185"
+ ],
+ "ocurrencias": 321,
+ "formas": [
+  {
+   "forma": "או",
+   "forma_he": "א֥וֹ",
+   "n": 321,
+   "ref": "bereshit/24/49"
+  }
+ ],
+ "morph": [
+  "HC"
+ ],
+ "glosa_es": "o; si no"
+}

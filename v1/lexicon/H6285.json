@@ -1,0 +1,58 @@
+{
+ "strong": "H6285",
+ "he": "פאה",
+ "xlit": "pêʼâh",
+ "pron": "pay-aw'",
+ "def_en": [
+  "1) corner, edge, side, quarter, extremity",
+  "1a) corner",
+  "1b) side"
+ ],
+ "kjv": "corner, end, quarter, side.",
+ "expl": "properly, mouth in a figurative sense, i.e. direction, region, extremity",
+ "etim": "feminine of ;",
+ "raices": [
+  "H6311"
+ ],
+ "ocurrencias": 86,
+ "formas": [
+  {
+   "forma": "פאת",
+   "forma_he": "פְּאַ֥ת",
+   "n": 34,
+   "ref": "vayikra/19/9"
+  },
+  {
+   "forma": "מפאת",
+   "forma_he": "מִפְּאַ֣ת",
+   "n": 16,
+   "ref": "vayikra/13/41"
+  },
+  {
+   "forma": "לפאת",
+   "forma_he": "לִפְאַ֖ת",
+   "n": 14,
+   "ref": "shemot/26/18"
+  },
+  {
+   "forma": "ופאת",
+   "forma_he": "וּפְאַ֥ת",
+   "n": 8,
+   "ref": "vayikra/21/5"
+  },
+  {
+   "forma": "ולפאת",
+   "forma_he": "וְלִפְאַ֤ת",
+   "n": 3,
+   "ref": "shemot/38/11"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HR/Ncfsc",
+  "HC/Ncfsc",
+  "HC/R/Ncfsc",
+  "HNcfsa"
+ ],
+ "glosa_es": ""
+}

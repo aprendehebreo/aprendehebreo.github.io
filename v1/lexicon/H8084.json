@@ -1,0 +1,57 @@
+{
+ "strong": "H8084",
+ "he": "שמנים",
+ "xlit": "shᵉmônîym",
+ "pron": "shem-o-neem'",
+ "def_en": [
+  "1) eighty, fourscore",
+  "1a) eighty (as cardinal number)",
+  "1b) eightieth (as ordinal number)",
+  "1c) in combination with other numbers"
+ ],
+ "kjv": "eighty(-ieth), fourscore.",
+ "expl": "eighty, also eightieth",
+ "etim": "or ; multiple from ;",
+ "raices": [
+  "H8083"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "ושמנים",
+   "forma_he": "וּשְׁמֹנִ֛ים",
+   "n": 11,
+   "ref": "bereshit/5/25"
+  },
+  {
+   "forma": "שמנים",
+   "forma_he": "שְׁמֹנִ֥ים",
+   "n": 10,
+   "ref": "bereshit/16/16"
+  },
+  {
+   "forma": "שמונים",
+   "forma_he": "שְׁמוֹנִ֥ים",
+   "n": 8,
+   "ref": "shoftim/3/30"
+  },
+  {
+   "forma": "ושמונים",
+   "forma_he": "וּשְׁמוֹנִים֙",
+   "n": 7,
+   "ref": "bereshit/5/26"
+  },
+  {
+   "forma": "בשמונים",
+   "forma_he": "בִשְׁמוֹנִ֣ים",
+   "n": 1,
+   "ref": "mlakhim_a/6/1"
+  }
+ ],
+ "morph": [
+  "HC/Acbpa",
+  "HAcbpa",
+  "HR/Acbpa"
+ ],
+ "glosa_es": ""
+}

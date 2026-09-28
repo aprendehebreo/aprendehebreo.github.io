@@ -1,0 +1,77 @@
+{
+ "strong": "H2470",
+ "he": "חלה",
+ "xlit": "châlâh",
+ "pron": "khaw-law'",
+ "def_en": [
+  "1) to be or become weak, be or become sick, be or become diseased, be or become grieved, be or become sorry",
+  "1a) (Qal) to be weak, be sick",
+  "1b) (Piel)",
+  "1b1) to be or become weak, feel weak",
+  "1b2) to become sick, become ill",
+  "1b3) (CLBL) to entreat, pray, beg",
+  "1c) (Niphal)",
+  "1c1) to make oneself sick",
+  "1c2) to be made sick",
+  "1c3) to be tired",
+  "1d) (Pual) to be made weak, become weak",
+  "1e) (Hithpael) to make oneself sick",
+  "1f) (Hiphil)",
+  "1f1) to make sore",
+  "1f2) to make sick",
+  "1f3) to show signs of sickness, become sick",
+  "1f4) to grieve",
+  "1g) (Hophal)",
+  "1g1) to be made sick",
+  "1g2) to be wounded"
+ ],
+ "kjv": "beseech, (be) diseased, (put to) grief, be grieved, (be) grievous, infirmity, intreat, lay to, put to pain, [idiom] pray, make prayer, be (fall, make) sick, sore, be sorry, make suit ([idiom] supplication), woman in travail, be (become) weak, be wounded.",
+ "expl": "properly, to be rubbed or worn; hence (figuratively) to be weak, sick, afflicted; or (causatively) to grieve, make sick; also to stroke (in flattering), entreat",
+ "etim": "a primitive root (compare , , );",
+ "raices": [
+  "H2342",
+  "H2470",
+  "H2490"
+ ],
+ "ocurrencias": 75,
+ "formas": [
+  {
+   "forma": "חלה",
+   "forma_he": "חֹלֶ֑ה",
+   "n": 18,
+   "ref": "bereshit/48/1"
+  },
+  {
+   "forma": "ויחל",
+   "forma_he": "וַיָּ֣חֶל",
+   "n": 5,
+   "ref": "bereshit/8/10"
+  },
+  {
+   "forma": "חליתי",
+   "forma_he": "חִלִּ֑יתִי",
+   "n": 5,
+   "ref": "shmuel_a/13/12"
+  },
+  {
+   "forma": "נחלה",
+   "forma_he": "נַחֲלָֽה",
+   "n": 5,
+   "ref": "bamidbar/18/23"
+  },
+  {
+   "forma": "החליתי",
+   "forma_he": "הָחֳלֵֽיתִי",
+   "n": 4,
+   "ref": "mlakhim_a/22/34"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqrmsa",
+  "HC/Vpw3ms",
+  "HVNrfsa",
+  "HC/Vqp1cs"
+ ],
+ "glosa_es": ""
+}

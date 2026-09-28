@@ -1,0 +1,56 @@
+{
+ "strong": "H1732",
+ "he": "דוד",
+ "xlit": "Dâvid",
+ "pron": "daw-veed'",
+ "def_en": [
+  "David = \"beloved\"",
+  "1) youngest son of Jesse and second king of Israel"
+ ],
+ "kjv": "David.",
+ "expl": "David, the youngest son of Jesse",
+ "etim": "rarely (fully); ; from the same as ; loving;",
+ "raices": [
+  "H1730"
+ ],
+ "ocurrencias": 1075,
+ "formas": [
+  {
+   "forma": "דוד",
+   "forma_he": "דּ֨וֹד",
+   "n": 596,
+   "ref": "shmuel_a/10/14"
+  },
+  {
+   "forma": "דויד",
+   "forma_he": "דָּוִ֣יד",
+   "n": 251,
+   "ref": "mlakhim_a/3/14"
+  },
+  {
+   "forma": "לדוד",
+   "forma_he": "לְדָוִ֣ד",
+   "n": 134,
+   "ref": "shmuel_a/17/17"
+  },
+  {
+   "forma": "ודוד",
+   "forma_he": "וְדָוִד֩",
+   "n": 38,
+   "ref": "shmuel_a/17/12"
+  },
+  {
+   "forma": "לדויד",
+   "forma_he": "לְדָֽוִיד",
+   "n": 24,
+   "ref": "mlakhim_a/11/36"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "David"
+}

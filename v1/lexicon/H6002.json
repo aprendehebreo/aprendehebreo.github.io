@@ -1,0 +1,56 @@
+{
+ "strong": "H6002",
+ "he": "עמלק",
+ "xlit": "ʻĂmâlêq",
+ "pron": "am-aw-lake'",
+ "def_en": [
+  "Amalek = \"dweller in a valley\"",
+  "1) son of Eliphaz by his concubine Timnah, grandson of Esau, and progenitor of a tribe of people in southern Canaan",
+  "2) descendants of Amalek"
+ ],
+ "kjv": "Amalek.",
+ "expl": "Amalek, a descendant of Esau; also his posterity and their country",
+ "etim": "probably of foreign origin;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "עמלק",
+   "forma_he": "עֲמָלֵ֑ק",
+   "n": 23,
+   "ref": "bereshit/36/12"
+  },
+  {
+   "forma": "ועמלק",
+   "forma_he": "וַעֲמָלֵ֑ק",
+   "n": 7,
+   "ref": "shoftim/3/13"
+  },
+  {
+   "forma": "בעמלק",
+   "forma_he": "בַּעֲמָלֵ֑ק",
+   "n": 5,
+   "ref": "shemot/17/9"
+  },
+  {
+   "forma": "ומעמלק",
+   "forma_he": "וּמֵֽעֲמָלֵ֑ק",
+   "n": 2,
+   "ref": "shmuel_b/8/12"
+  },
+  {
+   "forma": "העמלק",
+   "forma_he": "הָעֲמָלֵ֑ק",
+   "n": 1,
+   "ref": "shmuel_b/1/1"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np",
+  "HTd/Np"
+ ],
+ "glosa_es": ""
+}

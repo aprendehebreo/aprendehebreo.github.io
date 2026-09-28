@@ -1,0 +1,39 @@
+{
+ "strong": "H3050",
+ "he": "יה",
+ "xlit": "Yâhh",
+ "pron": "yaw",
+ "def_en": [
+  "1) Jah (Jehovah in the shortened form)",
+  "1a) the proper name of the one true God",
+  "1b) used in many compounds",
+  "1b1) names beginning with the letters 'Je'",
+  "1b2) names ending with 'iah' or 'jah'"
+ ],
+ "kjv": "Jah, the Lord, most vehement. Compare names in '-iah,' '-jah.'",
+ "expl": "Jah, the sacred name",
+ "etim": "contraction for , and meaning the same;",
+ "raices": [
+  "H3068"
+ ],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "יה",
+   "forma_he": "יָ֔הּ",
+   "n": 48,
+   "ref": "shemot/15/2"
+  },
+  {
+   "forma": "ביה",
+   "forma_he": "בְּיָ֣הּ",
+   "n": 2,
+   "ref": "yeshayahu/26/4"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

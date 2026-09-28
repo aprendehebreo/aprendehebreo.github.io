@@ -1,0 +1,54 @@
+{
+ "strong": "H1706",
+ "he": "דבש",
+ "xlit": "dᵉbash",
+ "pron": "deb-ash'",
+ "def_en": [
+  "1) honey"
+ ],
+ "kjv": "honey(-comb).",
+ "expl": "honey (from its stickiness); by analogy, syrup",
+ "etim": "from an unused root meaning to be gummy;",
+ "raices": [],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "ודבש",
+   "forma_he": "וּדְבָ֑שׁ",
+   "n": 31,
+   "ref": "shemot/3/8"
+  },
+  {
+   "forma": "דבש",
+   "forma_he": "דְּבַ֔שׁ",
+   "n": 15,
+   "ref": "bereshit/43/11"
+  },
+  {
+   "forma": "מדבש",
+   "forma_he": "מִדְּבַ֔שׁ",
+   "n": 3,
+   "ref": "shoftim/14/18"
+  },
+  {
+   "forma": "הדבש",
+   "forma_he": "הַדְּבָֽשׁ",
+   "n": 2,
+   "ref": "shoftim/14/9"
+  },
+  {
+   "forma": "בדבש",
+   "forma_he": "בִּדְבָֽשׁ",
+   "n": 1,
+   "ref": "shemot/16/31"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsa",
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HTd/Ncmsa",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

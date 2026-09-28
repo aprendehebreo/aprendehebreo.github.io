@@ -1,0 +1,62 @@
+{
+ "strong": "H2506",
+ "he": "חלק",
+ "xlit": "chêleq",
+ "pron": "khay'lek",
+ "def_en": [
+  "1) portion, share, part, territory",
+  "1a) portion, share",
+  "1b) portion, tract, parcel (of land)",
+  "1c) one's portion, one's possession",
+  "1d) (chosen) portion",
+  "1e) portion, award (from God)",
+  "2) smoothness, seductiveness, flattery"
+ ],
+ "kjv": "flattery, inheritance, part, [idiom] partake, portion.",
+ "expl": "properly, smoothness (of the tongue); also an allotment",
+ "etim": "from ;",
+ "raices": [
+  "H2505"
+ ],
+ "ocurrencias": 67,
+ "formas": [
+  {
+   "forma": "חלק",
+   "forma_he": "חָלָֽק",
+   "n": 27,
+   "ref": "bereshit/27/11"
+  },
+  {
+   "forma": "חלקו",
+   "forma_he": "חָלְק֖וּ",
+   "n": 6,
+   "ref": "yehoshua/18/2"
+  },
+  {
+   "forma": "חלקי",
+   "forma_he": "חַלֻּקֵֽי",
+   "n": 6,
+   "ref": "shmuel_a/17/40"
+  },
+  {
+   "forma": "חלקם",
+   "forma_he": "חֶלְקָֽם",
+   "n": 4,
+   "ref": "bereshit/14/24"
+  },
+  {
+   "forma": "חלקך",
+   "forma_he": "חֶלְקְךָ֙",
+   "n": 4,
+   "ref": "bamidbar/18/20"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,43 @@
+{
+ "strong": "H3418",
+ "he": "ירק",
+ "xlit": "yereq",
+ "pron": "yeh'-rek",
+ "def_en": [
+  "1) green, greenness, green plants, greenery"
+ ],
+ "kjv": "grass, green (thing).",
+ "expl": "properly, pallor, i.e. hence, the yellowish green of young and sickly vegetation; concretely, verdure, i.e. grass or vegetation",
+ "etim": "from (in the sense of vacuity of color);",
+ "raices": [
+  "H3417"
+ ],
+ "ocurrencias": 6,
+ "formas": [
+  {
+   "forma": "ירק",
+   "forma_he": "יֶ֥רֶק",
+   "n": 4,
+   "ref": "bereshit/1/30"
+  },
+  {
+   "forma": "כירק",
+   "forma_he": "כְּיֶ֣רֶק",
+   "n": 1,
+   "ref": "bereshit/9/3"
+  },
+  {
+   "forma": "וכירק",
+   "forma_he": "וּכְיֶ֥רֶק",
+   "n": 1,
+   "ref": "tehilim/37/2"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HNcmsc",
+  "HC/R/Ncmsc"
+ ],
+ "glosa_es": ""
+}

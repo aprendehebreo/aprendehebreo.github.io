@@ -1,0 +1,60 @@
+{
+ "strong": "H4135",
+ "he": "מול",
+ "xlit": "mûwl",
+ "pron": "mool",
+ "def_en": [
+  "1) to circumcise, let oneself be circumcised, cut, be cut off",
+  "1a) (Qal) to circumcise",
+  "1b) (Niphal) to be circumcised, circumcise oneself",
+  "1c) (Hiphil) to cause to be circumcised",
+  "1c1) of destruction (fig.)",
+  "1d) (Hithpolel) to be cut off",
+  "1e) (Polel) cut down"
+ ],
+ "kjv": "circumcise(-ing), selves), cut down (in pieces), destroy, [idiom] must needs.",
+ "expl": "to cut short, i.e. curtail (specifically the prepuce, i.e. to circumcise); by implication, to blunt; figuratively, to destroy",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "ימול",
+   "forma_he": "יִמּ֥וֹל",
+   "n": 4,
+   "ref": "bereshit/17/12"
+  },
+  {
+   "forma": "המול",
+   "forma_he": "הִמּ֥וֹל",
+   "n": 3,
+   "ref": "bereshit/17/10"
+  },
+  {
+   "forma": "וימל",
+   "forma_he": "וַיָּ֜מָל",
+   "n": 3,
+   "ref": "bereshit/17/23"
+  },
+  {
+   "forma": "מל",
+   "forma_he": "מֹ֥ל",
+   "n": 3,
+   "ref": "yehoshua/5/2"
+  },
+  {
+   "forma": "אמילם",
+   "forma_he": "אֲמִילַֽם",
+   "n": 3,
+   "ref": "tehilim/118/10"
+  }
+ ],
+ "morph": [
+  "HVNi3ms",
+  "HR/VNc",
+  "HVNa",
+  "HC/Vqw3ms",
+  "HVhi1cs/Sp3mp"
+ ],
+ "glosa_es": ""
+}

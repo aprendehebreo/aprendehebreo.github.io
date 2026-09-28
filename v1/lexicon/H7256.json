@@ -1,0 +1,28 @@
+{
+ "strong": "H7256",
+ "he": "רבע",
+ "xlit": "ribbêaʻ",
+ "pron": "rib-bay'-ah",
+ "def_en": [
+  "1) pertaining to the fourth"
+ ],
+ "kjv": "fourth.",
+ "expl": "a descendant of the fourth generation, i.e. great great grandchild",
+ "etim": "from ;",
+ "raices": [
+  "H7251"
+ ],
+ "ocurrencias": 4,
+ "formas": [
+  {
+   "forma": "רבעים",
+   "forma_he": "רִבֵּעִ֖ים",
+   "n": 4,
+   "ref": "shemot/20/5"
+  }
+ ],
+ "morph": [
+  "HNcmpa"
+ ],
+ "glosa_es": ""
+}

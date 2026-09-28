@@ -1,0 +1,56 @@
+{
+ "strong": "H3684",
+ "he": "כסיל",
+ "xlit": "kᵉçîyl",
+ "pron": "kes-eel'",
+ "def_en": [
+  "1) fool, stupid fellow, dullard, simpleton, arrogant one"
+ ],
+ "kjv": "fool(-ish).",
+ "expl": "properly, fat, i.e. (figuratively) stupid or silly",
+ "etim": "from ;",
+ "raices": [
+  "H3688"
+ ],
+ "ocurrencias": 70,
+ "formas": [
+  {
+   "forma": "כסיל",
+   "forma_he": "כְּסִ֣יל",
+   "n": 26,
+   "ref": "tehilim/49/11"
+  },
+  {
+   "forma": "כסילים",
+   "forma_he": "כְּסִילִ֣ים",
+   "n": 17,
+   "ref": "mishlei/1/32"
+  },
+  {
+   "forma": "וכסיל",
+   "forma_he": "וּכְסִ֖יל",
+   "n": 6,
+   "ref": "yehoshua/15/30"
+  },
+  {
+   "forma": "לכסיל",
+   "forma_he": "לִ֭כְסִיל",
+   "n": 6,
+   "ref": "mishlei/10/23"
+  },
+  {
+   "forma": "הכסיל",
+   "forma_he": "הַכְּסִיל֙",
+   "n": 6,
+   "ref": "kohelet/2/15"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HC/Aamsa",
+  "HR/Aamsa",
+  "HTd/Aamsa"
+ ],
+ "glosa_es": ""
+}

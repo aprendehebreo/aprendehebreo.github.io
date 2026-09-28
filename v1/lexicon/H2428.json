@@ -1,0 +1,60 @@
+{
+ "strong": "H2428",
+ "he": "חיל",
+ "xlit": "chayil",
+ "pron": "khah'-yil",
+ "def_en": [
+  "1) strength, might, efficiency, wealth, army",
+  "1a) strength",
+  "1b) ability, efficiency",
+  "1c) wealth",
+  "1d) force, army"
+ ],
+ "kjv": "able, activity, ([phrase]) army, band of men (soldiers), company, (great) forces, goods, host, might, power, riches, strength, strong, substance, train, ([phrase]) valiant(-ly), valour, virtuous(-ly), war, worthy(-ily).",
+ "expl": "probably a force, whether of men, means or other resources; an army, wealth, virtue, valor, strength",
+ "etim": "from ;",
+ "raices": [
+  "H2342"
+ ],
+ "ocurrencias": 234,
+ "formas": [
+  {
+   "forma": "חיל",
+   "forma_he": "חַ֔יִל",
+   "n": 125,
+   "ref": "bereshit/47/6"
+  },
+  {
+   "forma": "החיל",
+   "forma_he": "הֶחָ֑יִל",
+   "n": 21,
+   "ref": "bamidbar/31/14"
+  },
+  {
+   "forma": "חילו",
+   "forma_he": "חֵיל֔וֹ",
+   "n": 15,
+   "ref": "shemot/14/4"
+  },
+  {
+   "forma": "החילים",
+   "forma_he": "הַחֲיָלִ֤ים",
+   "n": 14,
+   "ref": "mlakhim_a/15/20"
+  },
+  {
+   "forma": "בחיל",
+   "forma_he": "בְּחַיִל֮",
+   "n": 10,
+   "ref": "mlakhim_a/10/2"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp3ms",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": "fuerza; poder; ejército; riqueza"
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H160",
+ "he": "אהבה",
+ "xlit": "ʼahăbâh",
+ "pron": "a-hab-aw",
+ "def_en": [
+  "1) love",
+  "1a) human love for human object",
+  "1a1) of man toward man",
+  "1a2) of man toward himself",
+  "1a3) between man and woman",
+  "1a4) sexual desire",
+  "2) God's love to His people"
+ ],
+ "kjv": "love.",
+ "expl": "{affection (in a good or a bad sense)}",
+ "etim": "feminine of and meaning the same",
+ "raices": [
+  "H158"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "אהבה",
+   "forma_he": "אֲהֵבָ֑הּ",
+   "n": 11,
+   "ref": "shmuel_b/13/15"
+  },
+  {
+   "forma": "באהבתו",
+   "forma_he": "בְּאַהֲבָת֖וֹ",
+   "n": 4,
+   "ref": "bereshit/29/20"
+  },
+  {
+   "forma": "האהבה",
+   "forma_he": "הָאַהֲבָ֖ה",
+   "n": 4,
+   "ref": "shir_hashirim/2/7"
+  },
+  {
+   "forma": "באהבת",
+   "forma_he": "בְּאַהֲבַ֨ת",
+   "n": 3,
+   "ref": "mlakhim_a/10/9"
+  },
+  {
+   "forma": "מאהבת",
+   "forma_he": "מֵֽאַהֲבַ֨ת",
+   "n": 2,
+   "ref": "devarim/7/8"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HR/Vqc",
+  "HR/Ncfsc/Sp3ms",
+  "HTd/Ncfsa",
+  "HNcfsc"
+ ],
+ "glosa_es": ""
+}

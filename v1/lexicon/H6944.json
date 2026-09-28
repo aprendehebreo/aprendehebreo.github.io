@@ -1,0 +1,61 @@
+{
+ "strong": "H6944",
+ "he": "קדש",
+ "xlit": "qôdesh",
+ "pron": "ko'-desh",
+ "def_en": [
+  "1) apartness, holiness, sacredness, separateness",
+  "1a) apartness, sacredness, holiness",
+  "1a1) of God",
+  "1a2) of places",
+  "1a3) of things",
+  "1b) set-apartness, separateness"
+ ],
+ "kjv": "consecrated (thing), dedicated (thing), hallowed (thing), holiness, ([idiom] most) holy ([idiom] day, portion, thing), saint, sanctuary.",
+ "expl": "a sacred place or thing; rarely abstract, sanctity",
+ "etim": "from ;",
+ "raices": [
+  "H6942"
+ ],
+ "ocurrencias": 467,
+ "formas": [
+  {
+   "forma": "קדש",
+   "forma_he": "קָדֵ֔שׁ",
+   "n": 146,
+   "ref": "bereshit/14/7"
+  },
+  {
+   "forma": "הקדש",
+   "forma_he": "הַקֹּ֔דֶשׁ",
+   "n": 111,
+   "ref": "shemot/26/33"
+  },
+  {
+   "forma": "קדשי",
+   "forma_he": "קָדְשִֽׁי",
+   "n": 42,
+   "ref": "vayikra/20/3"
+  },
+  {
+   "forma": "הקדשים",
+   "forma_he": "הַקֳּדָשִֽׁים",
+   "n": 34,
+   "ref": "shemot/26/33"
+  },
+  {
+   "forma": "קדשו",
+   "forma_he": "קָדֵֽשׁוּ",
+   "n": 29,
+   "ref": "bamidbar/17/2"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HTd/Ncmpa",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": "santo; santidad"
+}

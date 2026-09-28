@@ -1,0 +1,53 @@
+{
+ "strong": "H5019",
+ "he": "נבוכדנאצר",
+ "xlit": "Nᵉbûwkadneʼtstsar",
+ "pron": "neb-oo-kad-nets-tsar'",
+ "def_en": [
+  "Nebuchadnezzar or Nebuchadrezzar = \"may Nebo protect the crown\"",
+  "1) the great king of Babylon who captured Jerusalem and carried Judah captive"
+ ],
+ "kjv": "Nebuchadnezzar, Nebuchadrezzar.",
+ "expl": "Nebukadnetstsar (or -retstsar, or -retstsor), king of Babylon",
+ "etim": "or ; (2 Kings 24:1,10), or ; (Esther 2:6; Daniel 1:18), or ; or ; (Ezra 2:1; Jeremiah 49:28), or foreign derivation;",
+ "raices": [],
+ "ocurrencias": 60,
+ "formas": [
+  {
+   "forma": "נבוכדראצר",
+   "forma_he": "נְבוּכַדְרֶאצַּ֥ר",
+   "n": 27,
+   "ref": "yirmiyahu/21/2"
+  },
+  {
+   "forma": "נבוכדנאצר",
+   "forma_he": "נְבוּכַדְנֶאצַּ֥ר",
+   "n": 14,
+   "ref": "mlakhim_b/24/11"
+  },
+  {
+   "forma": "נבכדנאצר",
+   "forma_he": "נְבֻכַדְנֶאצַּ֖ר",
+   "n": 7,
+   "ref": "mlakhim_b/24/1"
+  },
+  {
+   "forma": "לנבוכדראצר",
+   "forma_he": "לִנְבֽוּכַדְרֶאצַּ֖ר",
+   "n": 5,
+   "ref": "yirmiyahu/25/1"
+  },
+  {
+   "forma": "נבכדנצר",
+   "forma_he": "נְבֻכַדְנֶצַּֽר",
+   "n": 3,
+   "ref": "daniel/1/18"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,67 @@
+{
+ "strong": "H7121",
+ "he": "קרא",
+ "xlit": "qârâʼ",
+ "pron": "kaw-raw'",
+ "def_en": [
+  "1) to call, call out, recite, read, cry out, proclaim",
+  "1a) (Qal)",
+  "1a1) to call, cry, utter a loud sound",
+  "1a2) to call unto, cry (for help), call (with name of God)",
+  "1a3) to proclaim",
+  "1a4) to read aloud, read (to oneself), read",
+  "1a5) to summon, invite, call for, call and commission, appoint, call and endow",
+  "1a6) to call, name, give name to, call by",
+  "1b) (Niphal)",
+  "1b1) to call oneself",
+  "1b2) to be called, be proclaimed, be read aloud, be summoned, be named",
+  "1c) (Pual) to be called, be named, be called out, be chosen"
+ ],
+ "kjv": "bewray (self), that are bidden, call (for, forth, self, upon), cry (unto), (be) famous, guest, invite, mention, (give) name, preach, (make) proclaim(-ation), pronounce, publish, read, renowned, say.",
+ "expl": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)",
+ "etim": "a primitive root (rather identical with through the idea of accosting a person met);",
+ "raices": [
+  "H7122"
+ ],
+ "ocurrencias": 739,
+ "formas": [
+  {
+   "forma": "ויקרא",
+   "forma_he": "וַיִּקְרָ֨א",
+   "n": 208,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "קרא",
+   "forma_he": "קָ֣רָא",
+   "n": 83,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "יקרא",
+   "forma_he": "יִּקְרָא",
+   "n": 48,
+   "ref": "bereshit/2/19"
+  },
+  {
+   "forma": "קראו",
+   "forma_he": "קִרְא֥וּ",
+   "n": 36,
+   "ref": "shoftim/16/25"
+  },
+  {
+   "forma": "ותקרא",
+   "forma_he": "וַתִּקְרָ֥א",
+   "n": 32,
+   "ref": "bereshit/4/25"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HC/Vqw3fs",
+  "HVqi3ms",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": "llamar; proclamar; leer"
+}

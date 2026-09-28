@@ -1,0 +1,59 @@
+{
+ "strong": "H2595",
+ "he": "חנית",
+ "xlit": "chănîyth",
+ "pron": "khan-eeth'",
+ "def_en": [
+  "1) spear",
+  "1a) spear",
+  "1a1) shaft of a spear",
+  "1a2) spear-head"
+ ],
+ "kjv": "javelin, spear.",
+ "expl": "a lance (for thrusting, like pitching a tent)",
+ "etim": "from ;",
+ "raices": [
+  "H2583"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "חנית",
+   "forma_he": "חֲנִֽית",
+   "n": 13,
+   "ref": "shmuel_a/13/19"
+  },
+  {
+   "forma": "החנית",
+   "forma_he": "הַחֲנִ֔ית",
+   "n": 11,
+   "ref": "shmuel_a/18/11"
+  },
+  {
+   "forma": "חניתו",
+   "forma_he": "חֲנִית֗וֹ",
+   "n": 8,
+   "ref": "shmuel_a/17/7"
+  },
+  {
+   "forma": "וחניתו",
+   "forma_he": "וַחֲנִית֖וֹ",
+   "n": 3,
+   "ref": "shmuel_a/19/9"
+  },
+  {
+   "forma": "וחנית",
+   "forma_he": "וַחֲנִית֙",
+   "n": 2,
+   "ref": "shmuel_a/13/22"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HTd/Ncfsa",
+  "HNcfsc/Sp3ms",
+  "HC/Ncfsc/Sp3ms",
+  "HC/Ncfsa"
+ ],
+ "glosa_es": ""
+}

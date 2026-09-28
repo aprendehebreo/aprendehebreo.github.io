@@ -1,0 +1,60 @@
+{
+ "strong": "H779",
+ "he": "ארר",
+ "xlit": "ʼârar",
+ "pron": "aw-rar'",
+ "def_en": [
+  "1) to curse",
+  "1a) (Qal)",
+  "1a1) to curse",
+  "1a2) cursed be he (participle used as in curses)",
+  "1b) (Niphal) to be cursed, cursed",
+  "1c)(Piel) to curse, lay under a curse, put a curse on",
+  "1d) (Hophal) to be made a curse, be cursed"
+ ],
+ "kjv": "[idiom] bitterly curse.",
+ "expl": "to execrate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "ארור",
+   "forma_he": "אָר֤וּר",
+   "n": 32,
+   "ref": "bereshit/3/14"
+  },
+  {
+   "forma": "המאררים",
+   "forma_he": "הַמְאָֽרֲרִֽים",
+   "n": 6,
+   "ref": "bamidbar/5/18"
+  },
+  {
+   "forma": "וארור",
+   "forma_he": "וְאָר֥וּר",
+   "n": 4,
+   "ref": "devarim/28/16"
+  },
+  {
+   "forma": "תאר",
+   "forma_he": "תֹּ֖אַר",
+   "n": 3,
+   "ref": "bereshit/29/17"
+  },
+  {
+   "forma": "ארורים",
+   "forma_he": "אֲרוּרִ֣ים",
+   "n": 3,
+   "ref": "yehoshua/9/23"
+  }
+ ],
+ "morph": [
+  "HVqsmsa",
+  "HTd/Vprmpa",
+  "HC/Vqsmsa",
+  "HVqi2ms",
+  "HVqsmpa"
+ ],
+ "glosa_es": ""
+}

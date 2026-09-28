@@ -1,0 +1,56 @@
+{
+ "strong": "H339",
+ "he": "אי",
+ "xlit": "ʼîy",
+ "pron": "ee",
+ "def_en": [
+  "1) coast, island, shore, region"
+ ],
+ "kjv": "country, isle, island.",
+ "expl": "properly, a habitable spot (as desirable); dry land, a coast, an island",
+ "etim": "from ;",
+ "raices": [
+  "H183"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "איים",
+   "forma_he": "אִיִּים֙",
+   "n": 11,
+   "ref": "yeshayahu/13/22"
+  },
+  {
+   "forma": "האיים",
+   "forma_he": "הָאִיִּ֣ים",
+   "n": 5,
+   "ref": "yeshayahu/66/19"
+  },
+  {
+   "forma": "איי",
+   "forma_he": "אִיֵּ֤י",
+   "n": 3,
+   "ref": "bereshit/10/5"
+  },
+  {
+   "forma": "אי",
+   "forma_he": "אֵ֖י",
+   "n": 3,
+   "ref": "bereshit/4/9"
+  },
+  {
+   "forma": "לאיים",
+   "forma_he": "לָֽאִיִּ֔ים",
+   "n": 3,
+   "ref": "yeshayahu/42/15"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HTd/Ncmpa",
+  "HRd/Ncmpa",
+  "HNcmpc",
+  "HTj"
+ ],
+ "glosa_es": ""
+}

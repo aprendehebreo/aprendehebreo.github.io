@@ -1,0 +1,57 @@
+{
+ "strong": "H657",
+ "he": "אפס",
+ "xlit": "ʼepheç",
+ "pron": "eh'-fes",
+ "def_en": [
+  "1) ceasing, end, finality"
+ ],
+ "kjv": "ankle, but (only), end, howbeit, less than nothing, nevertheless (where), no, none (beside), not (any, -withstanding), thing of nought, save(-ing), there, uttermost part, want, without (cause).",
+ "expl": "cessation, i.e. an end (especially of the earth); often used adverb, no further; also the ankle (in the dual), as being the extremity of the leg or foot",
+ "etim": "from ; (sometimes like )",
+ "raices": [
+  "H656",
+  "H6466"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "אפס",
+   "forma_he": "אָפֵ֖ס",
+   "n": 13,
+   "ref": "bereshit/47/15"
+  },
+  {
+   "forma": "אפסי",
+   "forma_he": "אַפְסֵי",
+   "n": 12,
+   "ref": "devarim/33/17"
+  },
+  {
+   "forma": "ואפס",
+   "forma_he": "וְאֶ֗פֶס",
+   "n": 5,
+   "ref": "bamidbar/22/35"
+  },
+  {
+   "forma": "ואפסי",
+   "forma_he": "וְאַפְסִ֣י",
+   "n": 3,
+   "ref": "yeshayahu/47/8"
+  },
+  {
+   "forma": "באפס",
+   "forma_he": "בְּאֶ֥פֶס",
+   "n": 3,
+   "ref": "yeshayahu/52/4"
+  }
+ ],
+ "morph": [
+  "HNcmpc",
+  "HNcmsa",
+  "HC/Ncmsa",
+  "HC/Ncmsc/Sp1cs",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

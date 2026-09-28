@@ -1,0 +1,58 @@
+{
+ "strong": "H6967",
+ "he": "קומה",
+ "xlit": "qôwmâh",
+ "pron": "ko-maw'",
+ "def_en": [
+  "1) height",
+  "1a) height, stature",
+  "1b) height"
+ ],
+ "kjv": "[idiom] along, height, high, stature, tall.",
+ "expl": "height",
+ "etim": "from ;",
+ "raices": [
+  "H6965"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "קומתו",
+   "forma_he": "קוֹמָת֖וֹ",
+   "n": 12,
+   "ref": "shmuel_a/16/7"
+  },
+  {
+   "forma": "קמתו",
+   "forma_he": "קֹמָתֽוֹ",
+   "n": 9,
+   "ref": "shemot/25/10"
+  },
+  {
+   "forma": "קומת",
+   "forma_he": "קוֹמַת֙",
+   "n": 8,
+   "ref": "mlakhim_a/6/26"
+  },
+  {
+   "forma": "קומה",
+   "forma_he": "קוּמָ֣ה",
+   "n": 5,
+   "ref": "bamidbar/10/35"
+  },
+  {
+   "forma": "וקומת",
+   "forma_he": "וְקוֹמַת֙",
+   "n": 3,
+   "ref": "mlakhim_a/7/32"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp3ms",
+  "HNcfsc",
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HC/Ncfsc"
+ ],
+ "glosa_es": ""
+}

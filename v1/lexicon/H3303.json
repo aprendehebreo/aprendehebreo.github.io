@@ -1,0 +1,56 @@
+{
+ "strong": "H3303",
+ "he": "יפה",
+ "xlit": "yâpheh",
+ "pron": "yaw-feh'",
+ "def_en": [
+  "1) fair, beautiful, handsome"
+ ],
+ "kjv": "[phrase] beautiful, beauty, comely, fair(-est, one), [phrase] goodly, pleasant, well.",
+ "expl": "beautiful (literally or figuratively)",
+ "etim": "from ;",
+ "raices": [
+  "H3302"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "יפה",
+   "forma_he": "יָפָ֥ה",
+   "n": 24,
+   "ref": "bereshit/12/14"
+  },
+  {
+   "forma": "יפת",
+   "forma_he": "יָֽפֶת",
+   "n": 6,
+   "ref": "bereshit/5/32"
+  },
+  {
+   "forma": "ויפת",
+   "forma_he": "וָיֶ֖פֶת",
+   "n": 3,
+   "ref": "bereshit/7/13"
+  },
+  {
+   "forma": "היפה",
+   "forma_he": "הַיָּפָ֖ה",
+   "n": 3,
+   "ref": "shir_hashirim/1/8"
+  },
+  {
+   "forma": "יפות",
+   "forma_he": "יְפ֥וֹת",
+   "n": 2,
+   "ref": "bereshit/41/2"
+  }
+ ],
+ "morph": [
+  "HAafsa",
+  "HAamsc",
+  "HAafsc",
+  "HAamsa",
+  "HTd/Aafsa"
+ ],
+ "glosa_es": ""
+}

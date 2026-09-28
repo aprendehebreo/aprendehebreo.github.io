@@ -1,0 +1,59 @@
+{
+ "strong": "H2781",
+ "he": "חרפה",
+ "xlit": "cherpâh",
+ "pron": "kher-paw'",
+ "def_en": [
+  "1) reproach, scorn",
+  "1a) taunt, scorn (upon enemy)",
+  "1b) reproach (resting upon condition of shame, disgrace)",
+  "1c) a reproach (an object)"
+ ],
+ "kjv": "rebuke, reproach(-fully), shame.",
+ "expl": "contumely, disgrace, the pudenda",
+ "etim": "from ;",
+ "raices": [
+  "H2778"
+ ],
+ "ocurrencias": 73,
+ "formas": [
+  {
+   "forma": "חרפה",
+   "forma_he": "חֶרְפָּ֥ה",
+   "n": 20,
+   "ref": "bereshit/34/14"
+  },
+  {
+   "forma": "חרפת",
+   "forma_he": "חֶרְפַּ֥ת",
+   "n": 11,
+   "ref": "yehoshua/5/9"
+  },
+  {
+   "forma": "לחרפה",
+   "forma_he": "לְחֶרְפָּֽה",
+   "n": 7,
+   "ref": "yeshayahu/30/5"
+  },
+  {
+   "forma": "חרפתי",
+   "forma_he": "חֶרְפָּתִֽי",
+   "n": 6,
+   "ref": "bereshit/30/23"
+  },
+  {
+   "forma": "ולחרפה",
+   "forma_he": "וּלְחֶרְפָּ֔ה",
+   "n": 5,
+   "ref": "yirmiyahu/29/18"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfsc",
+  "HR/Ncfsa",
+  "HNcfsc/Sp1cs",
+  "HC/R/Ncfsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,66 @@
+{
+ "strong": "H430",
+ "he": "אלהים",
+ "xlit": "ʼĕlôhîym",
+ "pron": "el-o-heem'",
+ "def_en": [
+  "1) (plural)",
+  "1a) rulers, judges",
+  "1b) divine ones",
+  "1c) angels",
+  "1d) gods",
+  "2) (plural intensive-singular meaning)",
+  "2a) god, goddess",
+  "2b) godlike one",
+  "2c) works or special possessions of God",
+  "2d) the (true) God",
+  "2e) God"
+ ],
+ "kjv": "angels, [idiom] exceeding, God (gods) (-dess, -ly), [idiom] (very) great, judges, [idiom] mighty.",
+ "expl": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
+ "etim": "plural of ;",
+ "raices": [
+  "H433"
+ ],
+ "ocurrencias": 2600,
+ "formas": [
+  {
+   "forma": "אלהים",
+   "forma_he": "אֱלֹהִ֑ים",
+   "n": 680,
+   "ref": "bereshit/1/1"
+  },
+  {
+   "forma": "אלהי",
+   "forma_he": "אֱלֹ֣הֵי",
+   "n": 500,
+   "ref": "bereshit/9/26"
+  },
+  {
+   "forma": "האלהים",
+   "forma_he": "הָֽאֱלֹהִ֗ים",
+   "n": 366,
+   "ref": "bereshit/5/22"
+  },
+  {
+   "forma": "אלהיך",
+   "forma_he": "אֱלֹהֶ֖יךָ",
+   "n": 340,
+   "ref": "bereshit/27/20"
+  },
+  {
+   "forma": "אלהינו",
+   "forma_he": "אֱלֹהֵֽינוּ",
+   "n": 174,
+   "ref": "shemot/3/18"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HNcmpc",
+  "HTd/Ncmpa",
+  "HNcmpc/Sp2ms",
+  "HNcmpc/Sp1cp"
+ ],
+ "glosa_es": "Dios; dioses"
+}

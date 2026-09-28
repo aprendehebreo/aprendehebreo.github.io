@@ -1,0 +1,60 @@
+{
+ "strong": "H5922",
+ "he": "על",
+ "xlit": "ʻal",
+ "pron": "al",
+ "def_en": [
+  "1) upon, over, on account of, above, to, against",
+  "1a) upon, over, on account of, regarding, concerning, on behalf of",
+  "1b) over (with verbs of ruling)",
+  "1c) above, beyond (in comparison)",
+  "1d) to, against (of direction)"
+ ],
+ "kjv": "about, against, concerning, for, (there-) fore, from, in, [idiom] more, of, (there-, up-) on, (in-) to, [phrase] why with.",
+ "expl": "{above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications}",
+ "etim": "(Aramaic) corresponding to",
+ "raices": [
+  "H5921"
+ ],
+ "ocurrencias": 111,
+ "formas": [
+  {
+   "forma": "על",
+   "forma_he": "עַל",
+   "n": 64,
+   "ref": "bereshit/1/2"
+  },
+  {
+   "forma": "עלוהי",
+   "forma_he": "עֲל֑וֹהִי",
+   "n": 12,
+   "ref": "daniel/3/28"
+  },
+  {
+   "forma": "עליך",
+   "forma_he": "עָלֶיךָ֒",
+   "n": 7,
+   "ref": "bereshit/16/5"
+  },
+  {
+   "forma": "ועל",
+   "forma_he": "וְעַ֖ל",
+   "n": 7,
+   "ref": "bereshit/9/2"
+  },
+  {
+   "forma": "עלך",
+   "forma_he": "עֻלֵּ֖ךְ",
+   "n": 6,
+   "ref": "yeshayahu/47/6"
+  }
+ ],
+ "morph": [
+  "AR",
+  "AR/Sp2ms",
+  "AR/Sp3ms",
+  "AC/R",
+  "AR/Sp1cs"
+ ],
+ "glosa_es": ""
+}

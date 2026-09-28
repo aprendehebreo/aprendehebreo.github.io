@@ -1,0 +1,42 @@
+{
+ "strong": "H1496",
+ "he": "גזית",
+ "xlit": "gâzîyth",
+ "pron": "gaw-zeeth'",
+ "def_en": [
+  "1) a cutting, hewing"
+ ],
+ "kjv": "hewed, hewn stone, wrought.",
+ "expl": "something cut, i.e. dressed stone",
+ "etim": "from ;",
+ "raices": [
+  "H1491"
+ ],
+ "ocurrencias": 11,
+ "formas": [
+  {
+   "forma": "גזית",
+   "forma_he": "גָּזִ֑ית",
+   "n": 9,
+   "ref": "shemot/20/25"
+  },
+  {
+   "forma": "וגזית",
+   "forma_he": "וְגָזִ֣ית",
+   "n": 1,
+   "ref": "yeshayahu/9/9"
+  },
+  {
+   "forma": "בגזית",
+   "forma_he": "בְּגָזִ֔ית",
+   "n": 1,
+   "ref": "eikha/3/9"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HR/Ncfsa"
+ ],
+ "glosa_es": ""
+}

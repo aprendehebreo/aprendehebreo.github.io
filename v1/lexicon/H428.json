@@ -1,0 +1,58 @@
+{
+ "strong": "H428",
+ "he": "אלה",
+ "xlit": "ʼêl-leh",
+ "pron": "ale'-leh",
+ "def_en": [
+  "1) these",
+  "1a) used before antecedent",
+  "1b) used following antecedent"
+ ],
+ "kjv": "an-(the) other; one sort, so, some, such, them, these (same), they, this, those, thus, which, who(-m).",
+ "expl": "these or those",
+ "etim": "prolonged from ;",
+ "raices": [
+  "H411"
+ ],
+ "ocurrencias": 747,
+ "formas": [
+  {
+   "forma": "אלה",
+   "forma_he": "אֵ֣לֶּה",
+   "n": 320,
+   "ref": "bereshit/2/4"
+  },
+  {
+   "forma": "האלה",
+   "forma_he": "הָאֵ֗לֶּה",
+   "n": 275,
+   "ref": "bereshit/15/1"
+  },
+  {
+   "forma": "ואלה",
+   "forma_he": "וְאֵ֨לֶּה֙",
+   "n": 106,
+   "ref": "bereshit/10/1"
+  },
+  {
+   "forma": "מאלה",
+   "forma_he": "מֵ֠אֵלֶּה",
+   "n": 13,
+   "ref": "bereshit/10/5"
+  },
+  {
+   "forma": "כאלה",
+   "forma_he": "כָּאֵ֨לֶּה֙",
+   "n": 9,
+   "ref": "bereshit/27/46"
+  }
+ ],
+ "morph": [
+  "HPdxcp",
+  "HTd/Pdxcp",
+  "HC/Pdxcp",
+  "HR/Pdxcp",
+  "HC/R/Pdxcp"
+ ],
+ "glosa_es": "estos"
+}

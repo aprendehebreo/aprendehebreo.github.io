@@ -1,0 +1,62 @@
+{
+ "strong": "H8394",
+ "he": "תבון",
+ "xlit": "tâbûwn",
+ "pron": "taw-boon'",
+ "def_en": [
+  "1) understanding, intelligence",
+  "1a) the act of understanding",
+  "1a1) skill",
+  "1b) the faculty of understanding",
+  "1b1) intelligence, understanding, insight",
+  "1c) the object of knowledge",
+  "1d) teacher (personification)"
+ ],
+ "kjv": "discretion, reason, skilfulness, understanding, wisdom.",
+ "expl": "intelligence; by implication, an argument; by extension, caprice",
+ "etim": "and (feminine) ; or ; from ;",
+ "raices": [
+  "H995"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "תבונה",
+   "forma_he": "תְּבוּנָֽה",
+   "n": 13,
+   "ref": "devarim/32/28"
+  },
+  {
+   "forma": "ותבונה",
+   "forma_he": "וּתְבוּנָה֙",
+   "n": 6,
+   "ref": "shemot/36/1"
+  },
+  {
+   "forma": "בתבונה",
+   "forma_he": "בִּתְבוּנָ֥ה",
+   "n": 4,
+   "ref": "shemot/35/31"
+  },
+  {
+   "forma": "תבונות",
+   "forma_he": "תְּבוּנ֖וֹת",
+   "n": 4,
+   "ref": "yeshayahu/40/14"
+  },
+  {
+   "forma": "ובתבונתו",
+   "forma_he": "וּבִתְבוּנָת֖וֹ",
+   "n": 3,
+   "ref": "yirmiyahu/10/12"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HR/Ncfsa",
+  "HNcfpa",
+  "HC/R/Ncfsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,66 @@
+{
+ "strong": "H3117",
+ "he": "יום",
+ "xlit": "yôwm",
+ "pron": "yome",
+ "def_en": [
+  "1) day, time, year",
+  "1a) day (as opposed to night)",
+  "1b) day (24 hour period)",
+  "1b1) as defined by evening and morning in Genesis 1",
+  "1b2) as a division of time",
+  "1b2a) a working day, a day's journey",
+  "1c) days, lifetime (pl.)",
+  "1d) time, period (general)",
+  "1e) year",
+  "1f) temporal references",
+  "1f1) today",
+  "1f2) yesterday",
+  "1f3) tomorrow"
+ ],
+ "kjv": "age, [phrase] always, [phrase] chronicals, continually(-ance), daily, ((birth-), each, to) day, (now a, two) days (agone), [phrase] elder, [idiom] end, [phrase] evening, [phrase] (for) ever(-lasting, -more), [idiom] full, life, as (so) long as (... live), (even) now, [phrase] old, [phrase] outlived, [phrase] perpetually, presently, [phrase] remaineth, [idiom] required, season, [idiom] since, space, then, (process of) time, [phrase] as at other times, [phrase] in trouble, weather, (as) when, (a, the, within a) while (that), [idiom] whole ([phrase] age), (full) year(-ly), [phrase] younger.",
+ "expl": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
+ "etim": "from an unused root meaning to be hot;",
+ "raices": [],
+ "ocurrencias": 2304,
+ "formas": [
+  {
+   "forma": "ביום",
+   "forma_he": "בַּיּ֣וֹם",
+   "n": 523,
+   "ref": "bereshit/1/18"
+  },
+  {
+   "forma": "היום",
+   "forma_he": "הַיּ֖וֹם",
+   "n": 458,
+   "ref": "bereshit/1/14"
+  },
+  {
+   "forma": "ימים",
+   "forma_he": "יַמִּ֑ים",
+   "n": 271,
+   "ref": "bereshit/1/10"
+  },
+  {
+   "forma": "יום",
+   "forma_he": "י֔וֹם",
+   "n": 239,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "ימי",
+   "forma_he": "יְמֵ֥י",
+   "n": 144,
+   "ref": "bereshit/3/14"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HNcmpa",
+  "HR/Ncmsc",
+  "HNcmsa"
+ ],
+ "glosa_es": "día"
+}

@@ -1,0 +1,68 @@
+{
+ "strong": "H571",
+ "he": "אמת",
+ "xlit": "ʼemeth",
+ "pron": "eh'-meth",
+ "def_en": [
+  "n f",
+  "1) firmness, faithfulness, truth",
+  "1a) sureness, reliability",
+  "1b) stability, continuance",
+  "1c) faithfulness, reliableness",
+  "1d) truth",
+  "1d1) as spoken",
+  "1d2) of testimony and judgment",
+  "1d3) of divine instruction",
+  "1d4) truth as a body of ethical or religious knowledge",
+  "1d5) true doctrine",
+  "adv",
+  "2) in truth, truly"
+ ],
+ "kjv": "assured(-ly), establishment, faithful, right, sure, true (-ly, -th), verity.",
+ "expl": "stability; (figuratively) certainty, truth, trustworthiness",
+ "etim": "contracted from ;",
+ "raices": [
+  "H539"
+ ],
+ "ocurrencias": 127,
+ "formas": [
+  {
+   "forma": "אמת",
+   "forma_he": "אֱמֶ֔ת",
+   "n": 56,
+   "ref": "bereshit/24/48"
+  },
+  {
+   "forma": "ואמת",
+   "forma_he": "וֶֽאֱמֶ֛ת",
+   "n": 22,
+   "ref": "bereshit/24/49"
+  },
+  {
+   "forma": "באמת",
+   "forma_he": "בְּאַמַּת",
+   "n": 21,
+   "ref": "devarim/3/11"
+  },
+  {
+   "forma": "אמתך",
+   "forma_he": "אֲמָתֶ֔ךָ",
+   "n": 8,
+   "ref": "bereshit/21/12"
+  },
+  {
+   "forma": "באמתך",
+   "forma_he": "בַאֲמִתֶּ֨ךָ",
+   "n": 5,
+   "ref": "tehilim/25/5"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HR/Ncfsa",
+  "HNcfsc/Sp2ms",
+  "HR/Ncfsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

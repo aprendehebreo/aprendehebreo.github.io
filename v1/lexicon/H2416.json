@@ -1,0 +1,73 @@
+{
+ "strong": "H2416",
+ "he": "חי",
+ "xlit": "chay",
+ "pron": "khah'-ee",
+ "def_en": [
+  "adj",
+  "1) living, alive",
+  "1a) green (of vegetation)",
+  "1b) flowing, fresh (of water)",
+  "1c) lively, active (of man)",
+  "1d) reviving (of the springtime)",
+  "n m",
+  "2) relatives",
+  "3) life (abstract emphatic)",
+  "3a) life",
+  "3b) sustenance, maintenance",
+  "n f",
+  "4) living thing, animal",
+  "4a) animal",
+  "4b) life",
+  "4c) appetite",
+  "4d) revival, renewal",
+  "5) community"
+ ],
+ "kjv": "[phrase] age, alive, appetite, (wild) beast, company, congregation, life(-time), live(-ly), living (creature, thing), maintenance, [phrase] merry, multitude, [phrase] (be) old, quick, raw, running, springing, troop.",
+ "expl": "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively",
+ "etim": "from ;",
+ "raices": [
+  "H2421"
+ ],
+ "ocurrencias": 503,
+ "formas": [
+  {
+   "forma": "חי",
+   "forma_he": "חָֽי",
+   "n": 124,
+   "ref": "bereshit/3/20"
+  },
+  {
+   "forma": "חיים",
+   "forma_he": "חַיִּ֑ים",
+   "n": 85,
+   "ref": "bereshit/2/7"
+  },
+  {
+   "forma": "חית",
+   "forma_he": "חַיַּ֨ת",
+   "n": 33,
+   "ref": "bereshit/1/25"
+  },
+  {
+   "forma": "חיי",
+   "forma_he": "חַיֵּ֣י",
+   "n": 29,
+   "ref": "bereshit/23/1"
+  },
+  {
+   "forma": "החיים",
+   "forma_he": "הַֽחַיִּים֙",
+   "n": 27,
+   "ref": "bereshit/2/9"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HNcmpa",
+  "HNcfsc",
+  "HNcmpc/Sp1cs"
+ ],
+ "glosa_es": "vivo; viviente; vida"
+}

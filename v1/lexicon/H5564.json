@@ -1,0 +1,59 @@
+{
+ "strong": "H5564",
+ "he": "סמך",
+ "xlit": "çâmak",
+ "pron": "saw-mak'",
+ "def_en": [
+  "1) to lean, lay, rest, support, put, uphold, lean upon",
+  "1a) (Qal)",
+  "1a1) to lean or lay upon, rest upon, lean against",
+  "1a2) to support, uphold, sustain",
+  "1b) (Niphal) to support or brace oneself",
+  "1c) (Piel) to sustain, refresh, revive"
+ ],
+ "kjv": "bear up, establish, (up-) hold, lay, lean, lie hard, put, rest self, set self, stand fast, stay (self), sustain.",
+ "expl": "to prop (literally or figuratively); reflexively, to lean upon or take hold of (in a favorable or unfavorable sense)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "וסמך",
+   "forma_he": "וְסָמַ֨ךְ",
+   "n": 12,
+   "ref": "shemot/29/10"
+  },
+  {
+   "forma": "וסמכו",
+   "forma_he": "וְסָ֨מְכ֜וּ",
+   "n": 4,
+   "ref": "shemot/29/15"
+  },
+  {
+   "forma": "ויסמכו",
+   "forma_he": "וַֽיִּסְמְכ֞וּ",
+   "n": 4,
+   "ref": "vayikra/8/18"
+  },
+  {
+   "forma": "ויסמך",
+   "forma_he": "וַיִּסְמֹ֨ךְ",
+   "n": 3,
+   "ref": "vayikra/8/14"
+  },
+  {
+   "forma": "סומך",
+   "forma_he": "סוֹמֵ֑ךְ",
+   "n": 3,
+   "ref": "yeshayahu/63/5"
+  }
+ ],
+ "morph": [
+  "HC/Vqq3ms",
+  "HC/Vqq3cp",
+  "HC/Vqw3mp",
+  "HVqrmsa",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": ""
+}

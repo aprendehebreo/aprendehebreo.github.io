@@ -1,0 +1,65 @@
+{
+ "strong": "H6924",
+ "he": "קדם",
+ "xlit": "qedem",
+ "pron": "keh'-dem",
+ "def_en": [
+  "n m",
+  "1) east, antiquity, front, that which is before, aforetime",
+  "1a) front, from the front or east, in front, mount of the East",
+  "1b) ancient time, aforetime, ancient, from of old, earliest time",
+  "1c) anciently, of old (adverb)",
+  "1d) beginning",
+  "1e) east",
+  "adv",
+  "2) eastward, to or toward the East"
+ ],
+ "kjv": "aforetime, ancient (time), before, east (end, part, side, -ward), eternal, [idiom] ever(-lasting), forward, old, past. Compare .",
+ "expl": "the front, of place (absolutely, the fore part, relatively the East) or time (antiquity); often used adverbially (before, anciently, eastward)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6923",
+  "H6926"
+ ],
+ "ocurrencias": 87,
+ "formas": [
+  {
+   "forma": "קדם",
+   "forma_he": "קֶֽדֶם",
+   "n": 33,
+   "ref": "bereshit/25/6"
+  },
+  {
+   "forma": "קדמה",
+   "forma_he": "קֵ֖דְמָה",
+   "n": 24,
+   "ref": "bereshit/25/6"
+  },
+  {
+   "forma": "מקדם",
+   "forma_he": "מִקֶּ֑דֶם",
+   "n": 22,
+   "ref": "bereshit/2/8"
+  },
+  {
+   "forma": "וקדמה",
+   "forma_he": "וָקֵ֥דְמָה",
+   "n": 2,
+   "ref": "bereshit/13/14"
+  },
+  {
+   "forma": "כקדם",
+   "forma_he": "כְּקֶ֔דֶם",
+   "n": 2,
+   "ref": "yirmiyahu/30/20"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HNcmsa/Sd",
+  "HC/Ncmsa/Sd",
+  "HD/Sd"
+ ],
+ "glosa_es": ""
+}

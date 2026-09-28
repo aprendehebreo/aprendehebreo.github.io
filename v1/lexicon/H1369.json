@@ -1,0 +1,59 @@
+{
+ "strong": "H1369",
+ "he": "גבורה",
+ "xlit": "gᵉbûwrâh",
+ "pron": "gheb-oo-raw'",
+ "def_en": [
+  "1) strength, might",
+  "1a) strength",
+  "1b) might, valour, bravery",
+  "1c) might, mighty deeds (of God)"
+ ],
+ "kjv": "force, mastery, might, mighty (act, power), power, strength.",
+ "expl": "force (literally or figuratively); by implication, valor, victory",
+ "etim": "feminine passive participle from the same as ;",
+ "raices": [
+  "H1368"
+ ],
+ "ocurrencias": 62,
+ "formas": [
+  {
+   "forma": "וגבורתו",
+   "forma_he": "וּגְבֽוּרָת֑וֹ",
+   "n": 9,
+   "ref": "mlakhim_a/16/5"
+  },
+  {
+   "forma": "וגבורה",
+   "forma_he": "וּגְבוּרָ֖ה",
+   "n": 7,
+   "ref": "mlakhim_b/18/20"
+  },
+  {
+   "forma": "גבורתו",
+   "forma_he": "גְּבוּרָת֑וֹ",
+   "n": 6,
+   "ref": "shoftim/8/21"
+  },
+  {
+   "forma": "גבורה",
+   "forma_he": "גְּבוּרָ֔ה",
+   "n": 4,
+   "ref": "shemot/32/18"
+  },
+  {
+   "forma": "וגבורתך",
+   "forma_he": "וּגְבוּרָתֵ֖ךְ",
+   "n": 3,
+   "ref": "yeshayahu/3/25"
+  }
+ ],
+ "morph": [
+  "HC/Ncfsc/Sp3ms",
+  "HC/Ncfsa",
+  "HNcfsc/Sp3ms",
+  "HNcfsa",
+  "HR/Ncfsa"
+ ],
+ "glosa_es": ""
+}

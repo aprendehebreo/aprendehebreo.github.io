@@ -1,0 +1,57 @@
+{
+ "strong": "H5045",
+ "he": "נגב",
+ "xlit": "negeb",
+ "pron": "neh'-gheb",
+ "def_en": [
+  "1) south-country, Nekeb, south",
+  "1a) south-country",
+  "1a1) region of southern Judah, boundaries not specific",
+  "1b) south"
+ ],
+ "kjv": "south (country, side, -ward).",
+ "expl": "the south (from its drought); specifically, the Negeb or southern district of Judah, occasionally, Egypt (as south to Palestine)",
+ "etim": "from an unused root meaning to be parched;",
+ "raices": [],
+ "ocurrencias": 111,
+ "formas": [
+  {
+   "forma": "נגב",
+   "forma_he": "נֶֽגֶב",
+   "n": 27,
+   "ref": "shemot/27/9"
+  },
+  {
+   "forma": "הנגב",
+   "forma_he": "הַנֶּ֔גֶב",
+   "n": 26,
+   "ref": "bereshit/20/1"
+  },
+  {
+   "forma": "נגבה",
+   "forma_he": "נֶ֥גְבָּה",
+   "n": 19,
+   "ref": "shemot/26/18"
+  },
+  {
+   "forma": "מנגב",
+   "forma_he": "מִנֶּ֖גֶב",
+   "n": 15,
+   "ref": "bereshit/13/3"
+  },
+  {
+   "forma": "בנגב",
+   "forma_he": "בַּנֶּ֔גֶב",
+   "n": 7,
+   "ref": "bamidbar/13/17"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa/Sd",
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

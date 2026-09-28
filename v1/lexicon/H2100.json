@@ -1,0 +1,59 @@
+{
+ "strong": "H2100",
+ "he": "זוב",
+ "xlit": "zûwb",
+ "pron": "zoob",
+ "def_en": [
+  "1) to flow, gush, issue, discharge",
+  "1a) (Qal)",
+  "1a1) to flow, gush",
+  "1a2) to die, pine away (fig.)",
+  "1a3) to flow (of issue from woman), have an issue, flux",
+  "1a4) flowing (participle)"
+ ],
+ "kjv": "flow, gush out, have a (running) issue, pine away, run.",
+ "expl": "to flow freely (as water), i.e. (specifically) to have a (sexual) flux; figuratively, to waste away; also to overflow",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "זבת",
+   "forma_he": "זָבַ֥ת",
+   "n": 20,
+   "ref": "shemot/3/8"
+  },
+  {
+   "forma": "הזב",
+   "forma_he": "הַזָּ֖ב",
+   "n": 9,
+   "ref": "vayikra/15/4"
+  },
+  {
+   "forma": "זב",
+   "forma_he": "זָ֣ב",
+   "n": 5,
+   "ref": "vayikra/15/2"
+  },
+  {
+   "forma": "ויזובו",
+   "forma_he": "וַיָּז֣וּבוּ",
+   "n": 2,
+   "ref": "tehilim/78/20"
+  },
+  {
+   "forma": "זבה",
+   "forma_he": "זָבָ֔ה",
+   "n": 1,
+   "ref": "vayikra/15/19"
+  }
+ ],
+ "morph": [
+  "HVqrfsc",
+  "HTd/Vqrmsa",
+  "HVqrmsa",
+  "HC/Vqw3mp",
+  "HNcmsc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

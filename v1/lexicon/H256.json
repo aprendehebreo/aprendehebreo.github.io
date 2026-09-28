@@ -1,0 +1,58 @@
+{
+ "strong": "H256",
+ "he": "אחאב",
+ "xlit": "ʼAchʼâb",
+ "pron": "akh-awb'",
+ "def_en": [
+  "Ahab = \"father's brother\"",
+  "1) king of Israel, son of Omri, husband of Jezebel",
+  "2) false prophet executed by Nebuchadrezzar, time of Jeremiah"
+ ],
+ "kjv": "Ahab.",
+ "expl": "Achab, the name of a king of Israel and of a prophet at Babylon",
+ "etim": "once (by contraction) (Jeremiah 29:22); from and ; brother (i.e. friend) of (his) father;",
+ "raices": [
+  "H251",
+  "H1"
+ ],
+ "ocurrencias": 93,
+ "formas": [
+  {
+   "forma": "אחאב",
+   "forma_he": "אַחְאָ֥ב",
+   "n": 81,
+   "ref": "mlakhim_a/16/28"
+  },
+  {
+   "forma": "לאחאב",
+   "forma_he": "לְאַחְאָ֛ב",
+   "n": 8,
+   "ref": "mlakhim_a/18/12"
+  },
+  {
+   "forma": "ואחאב",
+   "forma_he": "וְאַחְאָ֣ב",
+   "n": 1,
+   "ref": "mlakhim_a/16/29"
+  },
+  {
+   "forma": "כאחאב",
+   "forma_he": "כְאַחְאָ֔ב",
+   "n": 1,
+   "ref": "mlakhim_a/21/25"
+  },
+  {
+   "forma": "ולאחאב",
+   "forma_he": "וּלְאַחְאָ֛ב",
+   "n": 1,
+   "ref": "mlakhim_b/10/1"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/R/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

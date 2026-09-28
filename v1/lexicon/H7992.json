@@ -1,0 +1,57 @@
+{
+ "strong": "H7992",
+ "he": "שלישי",
+ "xlit": "shᵉlîyshîy",
+ "pron": "shel-ee-shee'",
+ "def_en": [
+  "1) third, one third, third part, third time",
+  "1a) ordinal number"
+ ],
+ "kjv": "third (part, rank, time), three (years old).",
+ "expl": "third; feminine athird (part); by extension, a third (day, year or time); specifically, a third-story cell)",
+ "etim": "ordinal from ;",
+ "raices": [
+  "H7969"
+ ],
+ "ocurrencias": 108,
+ "formas": [
+  {
+   "forma": "השלישי",
+   "forma_he": "הַשְּׁלִישִׁי֙",
+   "n": 47,
+   "ref": "bereshit/2/14"
+  },
+  {
+   "forma": "השלשי",
+   "forma_he": "הַשָּׁלִשִׁ֗י",
+   "n": 11,
+   "ref": "shmuel_b/23/8"
+  },
+  {
+   "forma": "והשלשית",
+   "forma_he": "וְ֠הַשְּׁלִשִׁית",
+   "n": 9,
+   "ref": "shmuel_b/18/2"
+  },
+  {
+   "forma": "השלשית",
+   "forma_he": "הַשְּׁלִשִֽׁית",
+   "n": 8,
+   "ref": "shmuel_a/20/5"
+  },
+  {
+   "forma": "השלישית",
+   "forma_he": "הַשְּׁלִישִׁ֖ית",
+   "n": 5,
+   "ref": "mlakhim_a/18/1"
+  }
+ ],
+ "morph": [
+  "HTd/Aomsa",
+  "HTd/Aofsa",
+  "HC/Td/Ncfsa",
+  "HTd/Ncfsa",
+  "HAofsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H505",
+ "he": "אלף",
+ "xlit": "ʼeleph",
+ "pron": "eh'-lef",
+ "def_en": [
+  "1) a thousand",
+  "1a) as numeral",
+  "2) a thousand, company",
+  "2a) as a company of men under one leader, troops"
+ ],
+ "kjv": "thousand.",
+ "expl": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand",
+ "etim": "prop, the same as ;",
+ "raices": [
+  "H504"
+ ],
+ "ocurrencias": 507,
+ "formas": [
+  {
+   "forma": "אלף",
+   "forma_he": "אֶ֤לֶף",
+   "n": 286,
+   "ref": "bereshit/20/16"
+  },
+  {
+   "forma": "אלפים",
+   "forma_he": "אֲלָפִים֙",
+   "n": 147,
+   "ref": "shemot/18/21"
+  },
+  {
+   "forma": "האלפים",
+   "forma_he": "הָאֲלָפִים֙",
+   "n": 14,
+   "ref": "bamidbar/31/14"
+  },
+  {
+   "forma": "אלפי",
+   "forma_he": "אַלְפֵ֖י",
+   "n": 12,
+   "ref": "shemot/32/28"
+  },
+  {
+   "forma": "ואלף",
+   "forma_he": "וְאֶלֶף֩",
+   "n": 12,
+   "ref": "shemot/38/25"
+  }
+ ],
+ "morph": [
+  "HAcbsa",
+  "HAcbpa",
+  "HTd/Acbpa",
+  "HAcbpc",
+  "HC/Acbsa"
+ ],
+ "glosa_es": "mil"
+}

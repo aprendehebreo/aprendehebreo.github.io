@@ -1,0 +1,67 @@
+{
+ "strong": "H7235",
+ "he": "רבה",
+ "xlit": "râbâh",
+ "pron": "raw-baw'",
+ "def_en": [
+  "1) be or become great, be or become many, be or become much, be or become numerous",
+  "1a) (Qal)",
+  "1a1) to become many, become numerous, multiply (of people, animals, things)",
+  "1a2) to be or grow great",
+  "1b) (Piel) to make large, enlarge, increase, become many",
+  "1c) (Hiphil)",
+  "1c1) to make much, make many, have many",
+  "1c1a) to multiply, increase",
+  "1c1b) to make much to do, do much in respect of, transgress greatly",
+  "1c1c) to increase greatly or exceedingly",
+  "1c2) to make great, enlarge, do much",
+  "2) (Qal) to shoot"
+ ],
+ "kjv": "(bring in) abundance ([idiom] -antly), [phrase] archer (by mistake for ), be in authority, bring up, [idiom] continue, enlarge, excel, exceeding(-ly), be full of, (be, make) great(-er, -ly, [idiom] -ness), grow up, heap, increase, be long, (be, give, have, make, use) many (a time), (any, be, give, give the, have) more (in number), (ask, be, be so, gather, over, take, yield) much (greater, more), (make to) multiply, nourish, plenty(-eous), [idiom] process (of time), sore, store, thoroughly, very.",
+ "expl": "to increase (in whatever respect)",
+ "etim": "a primitive root;",
+ "raices": [
+  "H7232"
+ ],
+ "ocurrencias": 235,
+ "formas": [
+  {
+   "forma": "הרבה",
+   "forma_he": "הַרְבָּ֤ה",
+   "n": 57,
+   "ref": "bereshit/3/16"
+  },
+  {
+   "forma": "ירבה",
+   "forma_he": "יִרְבֶּ֗ה",
+   "n": 19,
+   "ref": "shemot/1/10"
+  },
+  {
+   "forma": "ורבו",
+   "forma_he": "וּרְב֗וּ",
+   "n": 10,
+   "ref": "bereshit/1/22"
+  },
+  {
+   "forma": "והרביתי",
+   "forma_he": "וְהִרְבֵּיתִ֥י",
+   "n": 10,
+   "ref": "bereshit/17/20"
+  },
+  {
+   "forma": "רבו",
+   "forma_he": "רָב֖וּ",
+   "n": 9,
+   "ref": "bereshit/26/22"
+  }
+ ],
+ "morph": [
+  "HVha",
+  "HC/Vhq1cs",
+  "HVqi3ms",
+  "HVhi3ms",
+  "HVhp3ms"
+ ],
+ "glosa_es": "multiplicar; aumentar; abundar"
+}

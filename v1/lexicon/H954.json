@@ -1,0 +1,63 @@
+{
+ "strong": "H954",
+ "he": "בוש",
+ "xlit": "bûwsh",
+ "pron": "boosh",
+ "def_en": [
+  "1) to put to shame, be ashamed, be disconcerted, be disappointed",
+  "1a) (Qal)",
+  "1a1) to feel shame",
+  "1a2) to be ashamed, disconcerted, disappointed (by reason of)",
+  "1b) (Piel) to delay (in shame)",
+  "1c) (Hiphil)",
+  "1c1) to put to shame",
+  "1c2) to act shamefully",
+  "1c3) to be ashamed",
+  "1d) (Hithpolel) to be ashamed before one another"
+ ],
+ "kjv": "(be, make, bring to, cause, put to, with, a-) shamed(-d), be (put to) confounded(-fusion), become dry, delay, be long.",
+ "expl": "properly, to pale, i.e. by implication to be ashamed; also (by implication) to be disappointed or delayed",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 114,
+ "formas": [
+  {
+   "forma": "יבשו",
+   "forma_he": "יֵבֹ֔שׁוּ",
+   "n": 31,
+   "ref": "yeshayahu/1/29"
+  },
+  {
+   "forma": "ויבשו",
+   "forma_he": "וַיֵּבֹ֑שׁוּ",
+   "n": 7,
+   "ref": "mlakhim_b/19/26"
+  },
+  {
+   "forma": "בשו",
+   "forma_he": "בֹּ֥שׁוּ",
+   "n": 6,
+   "ref": "yirmiyahu/14/3"
+  },
+  {
+   "forma": "ובשו",
+   "forma_he": "וּבֹ֛שׁוּ",
+   "n": 5,
+   "ref": "yeshayahu/19/9"
+  },
+  {
+   "forma": "אבוש",
+   "forma_he": "אֵבֽוֹשׁ",
+   "n": 5,
+   "ref": "yeshayahu/50/7"
+  }
+ ],
+ "morph": [
+  "HVqi3mp",
+  "HVqp3cp",
+  "HVqh1cs",
+  "HC/Vqi3mp",
+  "HVhrmsa"
+ ],
+ "glosa_es": ""
+}

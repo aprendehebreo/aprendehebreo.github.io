@@ -1,0 +1,42 @@
+{
+ "strong": "H3602",
+ "he": "ככה",
+ "xlit": "kâkâh",
+ "pron": "kaw'-kaw",
+ "def_en": [
+  "1) like this, thus"
+ ],
+ "kjv": "after that (this) manner, this matter, (even) so, in such a case, thus.",
+ "expl": "just so, referring to the previous or following context",
+ "etim": "from ;",
+ "raices": [
+  "H3541"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "ככה",
+   "forma_he": "כָּ֔כָה",
+   "n": 33,
+   "ref": "shemot/29/35"
+  },
+  {
+   "forma": "וככה",
+   "forma_he": "וְכָכָה֮",
+   "n": 2,
+   "ref": "shemot/12/11"
+  },
+  {
+   "forma": "שככה",
+   "forma_he": "שֶׁכָּ֣כָה",
+   "n": 2,
+   "ref": "tehilim/144/15"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HC/D",
+  "HTr/D"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,54 @@
+{
+ "strong": "H713",
+ "he": "ארגמן",
+ "xlit": "ʼargâmân",
+ "pron": "ar-gaw-mawn'",
+ "def_en": [
+  "1) purple, red-purple"
+ ],
+ "kjv": "purple.",
+ "expl": "purple (the color or the dyed stuff)",
+ "etim": "of foreign origin;",
+ "raices": [],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "וארגמן",
+   "forma_he": "וְאַרְגָּמָ֛ן",
+   "n": 26,
+   "ref": "shemot/25/4"
+  },
+  {
+   "forma": "הארגמן",
+   "forma_he": "הָֽאַרְגָּמָ֑ן",
+   "n": 4,
+   "ref": "shemot/28/5"
+  },
+  {
+   "forma": "ארגמן",
+   "forma_he": "אַרְגָּמָֽן",
+   "n": 3,
+   "ref": "bamidbar/4/13"
+  },
+  {
+   "forma": "ובארגמן",
+   "forma_he": "וּבָֽאַרְגָּמָ֗ן",
+   "n": 2,
+   "ref": "shemot/35/35"
+  },
+  {
+   "forma": "והארגמן",
+   "forma_he": "וְהָֽאַרְגָּמָן֙",
+   "n": 1,
+   "ref": "shemot/39/1"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsa",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HC/Rd/Ncmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

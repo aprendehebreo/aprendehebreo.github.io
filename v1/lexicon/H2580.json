@@ -1,0 +1,52 @@
+{
+ "strong": "H2580",
+ "he": "חן",
+ "xlit": "chên",
+ "pron": "khane",
+ "def_en": [
+  "1) favour, grace, charm",
+  "1a) favour, grace, elegance",
+  "1b) favour, acceptance"
+ ],
+ "kjv": "favour, grace(-ious), pleasant, precious, (well-) favoured.",
+ "expl": "graciousness, i.e. subjective (kindness, favor) or objective (beauty)",
+ "etim": "from ;",
+ "raices": [
+  "H2603"
+ ],
+ "ocurrencias": 69,
+ "formas": [
+  {
+   "forma": "חן",
+   "forma_he": "חֵ֖ן",
+   "n": 66,
+   "ref": "bereshit/6/8"
+  },
+  {
+   "forma": "חנו",
+   "forma_he": "חִנּ֔וֹ",
+   "n": 1,
+   "ref": "bereshit/39/21"
+  },
+  {
+   "forma": "וחן",
+   "forma_he": "וְ֝חֵ֗ן",
+   "n": 1,
+   "ref": "mishlei/3/22"
+  },
+  {
+   "forma": "החן",
+   "forma_he": "הַ֭חֵן",
+   "n": 1,
+   "ref": "mishlei/31/30"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HNcmsc/Sp3ms",
+  "HC/Ncmsa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

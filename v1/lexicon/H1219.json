@@ -1,0 +1,62 @@
+{
+ "strong": "H1219",
+ "he": "בצר",
+ "xlit": "bâtsar",
+ "pron": "baw-tsar'",
+ "def_en": [
+  "1) to gather, restrain, fence, fortify, make inaccessible, enclose",
+  "1a) (Qal)",
+  "1a1) to cut off",
+  "1a2) fortified, cut off, made inaccessible (pass participle)",
+  "1a3) secrets, mysteries, inaccessible things (subst)",
+  "1b) (Niphal) to be withheld",
+  "1c) (Piel) to fortify"
+ ],
+ "kjv": "cut off, (de-) fenced, fortify, (grape) gather(-er), mighty things, restrain, strong, wall (up), withhold.",
+ "expl": "to gather grapes; also to be isolated (i.e. inaccessible by height or fortification)",
+ "etim": "a primitive root; to clip off; specifically (as denominative from )",
+ "raices": [
+  "H1210"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "בצרות",
+   "forma_he": "בְּצֻר֤וֹת",
+   "n": 8,
+   "ref": "bamidbar/13/28"
+  },
+  {
+   "forma": "הבצרות",
+   "forma_he": "הַבְּצֻר֖וֹת",
+   "n": 7,
+   "ref": "mlakhim_b/18/13"
+  },
+  {
+   "forma": "בצורה",
+   "forma_he": "בְצוּרָֽה",
+   "n": 5,
+   "ref": "yeshayahu/2/15"
+  },
+  {
+   "forma": "יבצר",
+   "forma_he": "יִבָּצֵ֣ר",
+   "n": 3,
+   "ref": "bereshit/11/6"
+  },
+  {
+   "forma": "תבצר",
+   "forma_he": "תִבְצֹ֑ר",
+   "n": 3,
+   "ref": "vayikra/25/5"
+  }
+ ],
+ "morph": [
+  "HAafpa",
+  "HTd/Aafpa",
+  "HAafsa",
+  "HC/Aafpa",
+  "HVNi3ms"
+ ],
+ "glosa_es": ""
+}

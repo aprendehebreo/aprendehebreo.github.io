@@ -1,0 +1,80 @@
+{
+ "strong": "H1540",
+ "he": "גלה",
+ "xlit": "gâlâh",
+ "pron": "gaw-law'",
+ "def_en": [
+  "1) to uncover, remove",
+  "1a) (Qal)",
+  "1a1) to uncover",
+  "1a2) to remove, depart",
+  "1a3) to go into exile",
+  "1b) (Niphal)",
+  "1b1) (reflexive)",
+  "1b1a) to uncover oneself",
+  "1b1b) to discover or show oneself",
+  "1b1c) to reveal himself (of God)",
+  "1b2) (passive)",
+  "1b2a) to be uncovered",
+  "1b2b) to be disclosed, be discovered",
+  "1b2c) to be revealed",
+  "1b3) to be removed",
+  "1c) (Piel)",
+  "1c1) to uncover (nakedness)",
+  "1c1a) nakedness",
+  "1c1b) general",
+  "1c2) to disclose, discover, lay bare",
+  "1c3) to make known, show, reveal",
+  "1d) (Pual) to be uncovered",
+  "1e) (Hiphil) to carry away into exile, take into exile",
+  "1f) (Hophal) to be taken into exile",
+  "1g) (Hithpael)",
+  "1g1) to be uncovered",
+  "1g2) to reveal oneself"
+ ],
+ "kjv": "[phrase] advertise, appear, bewray, bring, (carry, lead, go) captive (into captivity), depart, disclose, discover, exile, be gone, open, [idiom] plainly, publish, remove, reveal, [idiom] shamelessly, shew, [idiom] surely, tell, uncover.",
+ "expl": "to denude (especially in a disgraceful sense); by implication, to exile (captives being usually stripped); figuratively, to reveal",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 186,
+ "formas": [
+  {
+   "forma": "גלה",
+   "forma_he": "גִּלָּ֑ה",
+   "n": 23,
+   "ref": "vayikra/20/11"
+  },
+  {
+   "forma": "תגלה",
+   "forma_he": "תִגָּלֶ֥ה",
+   "n": 17,
+   "ref": "shemot/20/26"
+  },
+  {
+   "forma": "הגלה",
+   "forma_he": "הֶגְלָ֥ה",
+   "n": 12,
+   "ref": "mlakhim_b/17/11"
+  },
+  {
+   "forma": "ויגל",
+   "forma_he": "וַיָּ֤גֶל",
+   "n": 11,
+   "ref": "bereshit/29/10"
+  },
+  {
+   "forma": "יגלה",
+   "forma_he": "יְגַלֶּ֖ה",
+   "n": 7,
+   "ref": "devarim/23/1"
+  }
+ ],
+ "morph": [
+  "HVpi2ms",
+  "HVhp3ms",
+  "HVpp3ms",
+  "HVqp3ms",
+  "HVqi3ms"
+ ],
+ "glosa_es": "descubrir; revelar; desnudar"
+}

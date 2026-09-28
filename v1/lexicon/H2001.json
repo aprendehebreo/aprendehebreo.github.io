@@ -1,0 +1,47 @@
+{
+ "strong": "H2001",
+ "he": "המן",
+ "xlit": "Hâmân",
+ "pron": "haw-mawn'",
+ "def_en": [
+  "Haman = \"magnificent\"",
+  "1) chief minister of Ahasuerus, enemy of Mordecai and the Jews, who plotted to kill the Jews but, being foiled by Esther, was hanged, with his family, on the gallows he had made for Mordecai"
+ ],
+ "kjv": "Haman.",
+ "expl": "Haman, a Persian vizier",
+ "etim": "of foreign derivation;",
+ "raices": [],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "המן",
+   "forma_he": "הֲמִן",
+   "n": 38,
+   "ref": "bereshit/3/11"
+  },
+  {
+   "forma": "והמן",
+   "forma_he": "וְהַמָּ֕ן",
+   "n": 10,
+   "ref": "bamidbar/11/7"
+  },
+  {
+   "forma": "להמן",
+   "forma_he": "לְהָמָ֔ן",
+   "n": 5,
+   "ref": "ester/3/2"
+  },
+  {
+   "forma": "מהמן",
+   "forma_he": "מֵֽהָמָ֔ן",
+   "n": 1,
+   "ref": "ester/8/2"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

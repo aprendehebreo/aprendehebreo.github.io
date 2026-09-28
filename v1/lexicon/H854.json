@@ -1,0 +1,61 @@
+{
+ "strong": "H854",
+ "he": "את",
+ "xlit": "ʼêth",
+ "pron": "ayth",
+ "def_en": [
+  "1) with, near, together with",
+  "1a) with, together with",
+  "1b) with (of relationship)",
+  "1c) near (of place)",
+  "1d) with (poss.)",
+  "1e) from...with, from (with other prep)"
+ ],
+ "kjv": "against, among, before, by, for, from, in(-to), (out) of, with. Often with another prepositional prefix.",
+ "expl": "properly, nearness (used only as a preposition or an adverb), near; hence, generally, with, by, at, among, etc.",
+ "etim": "probably from ;",
+ "raices": [
+  "H579"
+ ],
+ "ocurrencias": 889,
+ "formas": [
+  {
+   "forma": "את",
+   "forma_he": "אֵ֥ת",
+   "n": 270,
+   "ref": "bereshit/1/1"
+  },
+  {
+   "forma": "אתו",
+   "forma_he": "אֹת֑וֹ",
+   "n": 153,
+   "ref": "bereshit/1/27"
+  },
+  {
+   "forma": "מאת",
+   "forma_he": "מֵאֹ֖ת",
+   "n": 119,
+   "ref": "bereshit/5/4"
+  },
+  {
+   "forma": "אתך",
+   "forma_he": "אִתָּ֑ךְ",
+   "n": 78,
+   "ref": "bereshit/6/18"
+  },
+  {
+   "forma": "אתי",
+   "forma_he": "אֹתִ֜י",
+   "n": 52,
+   "ref": "bereshit/4/14"
+  }
+ ],
+ "morph": [
+  "HR",
+  "HR/Sp3ms",
+  "HR/R",
+  "HR/Sp1cs",
+  "HR/Sp2mp"
+ ],
+ "glosa_es": "con; junto a"
+}

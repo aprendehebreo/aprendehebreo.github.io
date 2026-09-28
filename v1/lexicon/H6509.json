@@ -1,0 +1,59 @@
+{
+ "strong": "H6509",
+ "he": "פרה",
+ "xlit": "pârâh",
+ "pron": "paw-raw'",
+ "def_en": [
+  "1) to bear fruit, be fruitful, branch off",
+  "1a) (Qal) to bear fruit, be fruitful",
+  "1b) (Hiphil)",
+  "1b1) to cause to bear fruit",
+  "1b2) to make fruitful",
+  "1b3) to show fruitfulness, bear fruit"
+ ],
+ "kjv": "bear, bring forth (fruit), (be, cause to be, make) fruitful, grow, increase.",
+ "expl": "to bear fruit (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 29,
+ "formas": [
+  {
+   "forma": "פרו",
+   "forma_he": "פְּר֣וּ",
+   "n": 5,
+   "ref": "bereshit/1/22"
+  },
+  {
+   "forma": "פריה",
+   "forma_he": "פִּרְיָ֔הּ",
+   "n": 4,
+   "ref": "vayikra/25/19"
+  },
+  {
+   "forma": "ופרו",
+   "forma_he": "וּפָר֥וּ",
+   "n": 3,
+   "ref": "bereshit/8/17"
+  },
+  {
+   "forma": "והפריתי",
+   "forma_he": "וְהִפְרֵיתִ֥י",
+   "n": 2,
+   "ref": "bereshit/17/20"
+  },
+  {
+   "forma": "פרה",
+   "forma_he": "פְּרֵ֣ה",
+   "n": 2,
+   "ref": "bereshit/35/11"
+  }
+ ],
+ "morph": [
+  "HVqv2mp",
+  "HVqrfsa",
+  "HC/Vqq3cp",
+  "HC/Vhq1cs",
+  "HVqrfsc"
+ ],
+ "glosa_es": ""
+}

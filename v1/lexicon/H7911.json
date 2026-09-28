@@ -1,0 +1,61 @@
+{
+ "strong": "H7911",
+ "he": "שכח",
+ "xlit": "shâkach",
+ "pron": "shaw-kakh'",
+ "def_en": [
+  "1) to forget, ignore, wither",
+  "1a) (Qal)",
+  "1a1) to forget",
+  "1a2) to cease to care",
+  "1b) (Niphal) to be forgotten",
+  "1c) (Piel) to cause to forget",
+  "1d) (Hiphil) to make or cause to forget",
+  "1e) (Hithpael) to be forgotten"
+ ],
+ "kjv": "[idiom] at all, (cause to) forget.",
+ "expl": "to mislay, i.e. to be oblivious of, from want of memory or attention",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 102,
+ "formas": [
+  {
+   "forma": "תשכח",
+   "forma_he": "תִּשְׁכַּ֨ח",
+   "n": 19,
+   "ref": "devarim/4/9"
+  },
+  {
+   "forma": "שכחתי",
+   "forma_he": "שָׁכָֽחְתִּי",
+   "n": 8,
+   "ref": "devarim/26/13"
+  },
+  {
+   "forma": "שכחו",
+   "forma_he": "שָׁכְח֖וּ",
+   "n": 6,
+   "ref": "yirmiyahu/3/21"
+  },
+  {
+   "forma": "שכח",
+   "forma_he": "שָׁכֹ֤חַ",
+   "n": 4,
+   "ref": "devarim/8/19"
+  },
+  {
+   "forma": "ותשכח",
+   "forma_he": "וַתִּשְׁכַּ֖ח",
+   "n": 4,
+   "ref": "devarim/32/18"
+  }
+ ],
+ "morph": [
+  "HVqi2ms",
+  "HVqp1cs",
+  "HVqj2ms",
+  "HVqp3cp",
+  "HVNi3fs"
+ ],
+ "glosa_es": ""
+}

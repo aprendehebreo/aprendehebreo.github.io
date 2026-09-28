@@ -1,0 +1,51 @@
+{
+ "strong": "H4327",
+ "he": "מין",
+ "xlit": "mîyn",
+ "pron": "meen",
+ "def_en": [
+  "1) kind, sometimes a species (usually of animals)",
+  "++++",
+  "Groups of living organisms belong in the same created \"kind\" if they have descended from the same ancestral gene pool. This does not preclude new species because this represents a partitioning of the original gene pool. Information is lost or conserved not gained. A new species could arise when a population is isolated and inbreeding occurs. By this definition a new species is not a new \"kind\" but a further partitioning of an existing \"kind\"."
+ ],
+ "kjv": "kind. Compare .",
+ "expl": "a sort, i.e. species",
+ "etim": "from an unused root meaning to portion out;",
+ "raices": [
+  "H4480"
+ ],
+ "ocurrencias": 31,
+ "formas": [
+  {
+   "forma": "למינהו",
+   "forma_he": "לְמִינֵ֔הוּ",
+   "n": 14,
+   "ref": "bereshit/1/12"
+  },
+  {
+   "forma": "למינה",
+   "forma_he": "לְמִינָ֔הּ",
+   "n": 12,
+   "ref": "bereshit/1/24"
+  },
+  {
+   "forma": "למינו",
+   "forma_he": "לְמִינ֔וֹ",
+   "n": 4,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "למינהם",
+   "forma_he": "לְמִֽינֵהֶ֗ם",
+   "n": 1,
+   "ref": "bereshit/1/21"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc/Sp3ms",
+  "HR/Ncmsc/Sp3fs",
+  "HR/Ncmsc/Sp3mp",
+  "HR/Ncmsc/Sp3fp"
+ ],
+ "glosa_es": ""
+}

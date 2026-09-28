@@ -1,0 +1,76 @@
+{
+ "strong": "H2505",
+ "he": "חלק",
+ "xlit": "châlaq",
+ "pron": "khaw-lak'",
+ "def_en": [
+  "1) to divide, share, plunder, allot, apportion, assign",
+  "1a) (Qal)",
+  "1a1) to divide, apportion",
+  "1a2) to assign, distribute",
+  "1a3) to assign, impart",
+  "1a4) to share",
+  "1a5) to divide up, plunder",
+  "1b) (Niphal)",
+  "1b1) to divide oneself",
+  "1b2) to be divided",
+  "1b3) to assign, distribute",
+  "1c) (Piel)",
+  "1c1) to divide, apportion",
+  "1c2) to assign, distribute",
+  "1c3) to scatter",
+  "1d) (Pual) to be divided",
+  "1e) (Hiphil) to receive a portion or part",
+  "1f) (Hithpael) to divide among themselves",
+  "2) to be smooth, slippery, deceitful",
+  "2a) (Qal) to be smooth, slippery",
+  "2b) (Hiphil)",
+  "2b1) to be smooth",
+  "2b2) to flatter"
+ ],
+ "kjv": "deal, distribute, divide, flatter, give, (have, im-) part(-ner), take away a portion, receive, separate self, (be) smooth(-er).",
+ "expl": "to be smooth (figuratively); by implication (as smooth stones were used for lots) to apportion or separate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "יחלק",
+   "forma_he": "יְחַלֵּ֥ק",
+   "n": 10,
+   "ref": "bereshit/49/27"
+  },
+  {
+   "forma": "חלק",
+   "forma_he": "חָלָֽק",
+   "n": 8,
+   "ref": "bereshit/27/11"
+  },
+  {
+   "forma": "ויחלק",
+   "forma_he": "וַיֵּחָלֵ֨ק",
+   "n": 4,
+   "ref": "bereshit/14/15"
+  },
+  {
+   "forma": "תחלק",
+   "forma_he": "תֵּחָלֵ֥ק",
+   "n": 4,
+   "ref": "bamidbar/26/53"
+  },
+  {
+   "forma": "חלקו",
+   "forma_he": "חָלְק֖וּ",
+   "n": 4,
+   "ref": "yehoshua/18/2"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVpi3ms",
+  "HVNi3ms",
+  "HC/Vpw3ms",
+  "HVpi1cs"
+ ],
+ "glosa_es": ""
+}

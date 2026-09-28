@@ -1,0 +1,57 @@
+{
+ "strong": "H2459",
+ "he": "חלב",
+ "xlit": "cheleb",
+ "pron": "kheh'-leb",
+ "def_en": [
+  "1) fat",
+  "1a) fat (of humans)",
+  "1b) fat (of beasts)",
+  "1c) choicest, best part, abundance (of products of the land)"
+ ],
+ "kjv": "[idiom] best, fat(-ness), [idiom] finest, grease, marrow.",
+ "expl": "fat, whether literally or figuratively; hence, the richest or choice part",
+ "etim": "or ; from an unused root meaning to be fat;",
+ "raices": [],
+ "ocurrencias": 92,
+ "formas": [
+  {
+   "forma": "החלב",
+   "forma_he": "הַחֵלֶב֮",
+   "n": 31,
+   "ref": "shemot/29/13"
+  },
+  {
+   "forma": "חלב",
+   "forma_he": "חֵ֥לֶב",
+   "n": 20,
+   "ref": "bereshit/45/18"
+  },
+  {
+   "forma": "חלבו",
+   "forma_he": "חֶלְבּוֹ֙",
+   "n": 7,
+   "ref": "vayikra/3/9"
+  },
+  {
+   "forma": "החלבים",
+   "forma_he": "הַ֣חֲלָבִ֔ים",
+   "n": 7,
+   "ref": "vayikra/8/26"
+  },
+  {
+   "forma": "מחלב",
+   "forma_he": "מֵחָלָֽב",
+   "n": 7,
+   "ref": "bereshit/49/12"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": ""
+}

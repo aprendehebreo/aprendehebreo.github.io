@@ -1,0 +1,60 @@
+{
+ "strong": "H7105",
+ "he": "קציר",
+ "xlit": "qâtsîyr",
+ "pron": "kaw-tseer'",
+ "def_en": [
+  "1) harvest, harvesting",
+  "1a) process of harvesting",
+  "1b) crop, what is harvested or reaped",
+  "1c) time of harvest",
+  "2) boughs, branches"
+ ],
+ "kjv": "bough, branch, harvest (man).",
+ "expl": "severed, i.e. harvest (as reaped), the crop, the time, the reaper, or figuratively; also a limb (of a tree, or simply foliage)",
+ "etim": "from ;",
+ "raices": [
+  "H7114"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "קציר",
+   "forma_he": "קְצִיר",
+   "n": 27,
+   "ref": "bereshit/30/14"
+  },
+  {
+   "forma": "קצירך",
+   "forma_he": "קְצִֽירְךָ֖",
+   "n": 6,
+   "ref": "vayikra/19/9"
+  },
+  {
+   "forma": "בקציר",
+   "forma_he": "בַּקָּצִ֔יר",
+   "n": 5,
+   "ref": "yeshayahu/9/2"
+  },
+  {
+   "forma": "וקציר",
+   "forma_he": "וְ֠קָצִיר",
+   "n": 3,
+   "ref": "bereshit/8/22"
+  },
+  {
+   "forma": "הקציר",
+   "forma_he": "הַקָּצִיר֙",
+   "n": 3,
+   "ref": "shemot/23/16"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HRd/Ncmsa",
+  "HNcmsc/Sp2ms",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

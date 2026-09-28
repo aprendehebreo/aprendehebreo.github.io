@@ -1,0 +1,61 @@
+{
+ "strong": "H8415",
+ "he": "תהום",
+ "xlit": "tᵉhôwm",
+ "pron": "teh-home'",
+ "def_en": [
+  "1) deep, depths, deep places, abyss, the deep, sea",
+  "1a) deep (of subterranean waters)",
+  "1b) deep, sea, abysses (of sea)",
+  "1c) primeval ocean, deep",
+  "1d) deep, depth (of river)",
+  "1e) abyss, the grave"
+ ],
+ "kjv": "deep (place), depth.",
+ "expl": "an abyss (as a surging mass of water), especially the deep (the main sea or the subterranean watersupply)",
+ "etim": "or ; (usually feminine) from ;",
+ "raices": [
+  "H1949"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "תהום",
+   "forma_he": "תְה֑וֹם",
+   "n": 21,
+   "ref": "bereshit/1/2"
+  },
+  {
+   "forma": "תהומות",
+   "forma_he": "תְּהוֹמֽוֹת",
+   "n": 4,
+   "ref": "tehilim/33/7"
+  },
+  {
+   "forma": "תהמות",
+   "forma_he": "תְהֹמֽוֹת",
+   "n": 3,
+   "ref": "tehilim/77/17"
+  },
+  {
+   "forma": "תהמת",
+   "forma_he": "תְּהֹמֹ֖ת",
+   "n": 2,
+   "ref": "shemot/15/5"
+  },
+  {
+   "forma": "בתהמות",
+   "forma_he": "בַּתְּהֹמ֑וֹת",
+   "n": 2,
+   "ref": "yeshayahu/63/13"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HNcbpa",
+  "HRd/Ncbpa",
+  "HC/Ncbpa",
+  "HC/R/Ncbsa"
+ ],
+ "glosa_es": ""
+}

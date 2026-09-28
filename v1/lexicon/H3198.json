@@ -1,0 +1,64 @@
+{
+ "strong": "H3198",
+ "he": "יכח",
+ "xlit": "yâkach",
+ "pron": "yaw-kahh'",
+ "def_en": [
+  "1) to prove, decide, judge, rebuke, reprove, correct, be right",
+  "1a) (Hiphil)",
+  "1a1) to decide, judge",
+  "1a2) to adjudge, appoint",
+  "1a3) to show to be right, prove",
+  "1a4) to convince, convict",
+  "1a5) to reprove, chide",
+  "1a6) to correct, rebuke",
+  "1b) (Hophal) to be chastened",
+  "1c) (Niphal) to reason, reason together",
+  "1d) (Hithp) to argue"
+ ],
+ "kjv": "appoint, argue, chasten, convince, correct(-ion), daysman, dispute, judge, maintain, plead, reason (together), rebuke, reprove(-r), surely, in any wise.",
+ "expl": "to be right (i.e. correct); reciprocal, to argue; causatively, to decide, justify or convict",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "מוכיח",
+   "forma_he": "מוֹכִ֑יחַ",
+   "n": 7,
+   "ref": "yechezkel/3/26"
+  },
+  {
+   "forma": "הוכח",
+   "forma_he": "הוֹכֵ֤חַ",
+   "n": 6,
+   "ref": "vayikra/19/17"
+  },
+  {
+   "forma": "והוכיח",
+   "forma_he": "וְהוֹכִ֨יחַ֙",
+   "n": 6,
+   "ref": "mlakhim_b/19/4"
+  },
+  {
+   "forma": "יוכיח",
+   "forma_he": "יוֹכִֽיחַ",
+   "n": 6,
+   "ref": "yeshayahu/11/3"
+  },
+  {
+   "forma": "ויוכח",
+   "forma_he": "וַיּ֥וֹכַח",
+   "n": 5,
+   "ref": "bereshit/31/42"
+  }
+ ],
+ "morph": [
+  "HVhrmsa",
+  "HVhi3ms",
+  "HVha",
+  "HC/Vhq3ms",
+  "HC/Vhw3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,66 @@
+{
+ "strong": "H3384",
+ "he": "ירה",
+ "xlit": "yârâh",
+ "pron": "yaw-raw'",
+ "def_en": [
+  "1) to throw, shoot, cast, pour",
+  "1a) (Qal)",
+  "1a1) to throw, cast",
+  "1a2) to cast, lay, set",
+  "1a3) to shoot arrows",
+  "1a4) to throw water, rain",
+  "1b) (Niphal) to be shot",
+  "1c) (Hiphil)",
+  "1c1) to throw, cast",
+  "1c2) to shoot",
+  "1c3) to point out, show",
+  "1c4) to direct, teach, instruct",
+  "1c5) to throw water, rain"
+ ],
+ "kjv": "([phrase]) archer, cast, direct, inform, instruct, lay, shew, shoot, teach(-er,-ing), through.",
+ "expl": "properly, to flow as water (i.e. to rain); transitively, to lay or throw (especially an arrow, i.e. to shoot); figuratively, to point out (as if by aiming the finger), to teach",
+ "etim": "or (2 Chronicles 26:15) ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 86,
+ "formas": [
+  {
+   "forma": "ירה",
+   "forma_he": "יָרָ֣ה",
+   "n": 6,
+   "ref": "shemot/15/4"
+  },
+  {
+   "forma": "יורה",
+   "forma_he": "יוֹרֶ֣ה",
+   "n": 6,
+   "ref": "devarim/11/14"
+  },
+  {
+   "forma": "מורה",
+   "forma_he": "מוֹרֶ֑ה",
+   "n": 5,
+   "ref": "bereshit/12/6"
+  },
+  {
+   "forma": "יורו",
+   "forma_he": "יוֹר֨וּ",
+   "n": 4,
+   "ref": "devarim/24/8"
+  },
+  {
+   "forma": "יורוך",
+   "forma_he": "יוֹרֽוּךָ",
+   "n": 3,
+   "ref": "devarim/17/10"
+  }
+ ],
+ "morph": [
+  "HVhi3ms",
+  "HVhi3mp",
+  "HVhrmsa",
+  "HVqp3ms",
+  "HTd/Vhrmpa"
+ ],
+ "glosa_es": ""
+}

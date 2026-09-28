@@ -1,0 +1,56 @@
+{
+ "strong": "H2809",
+ "he": "חשבון",
+ "xlit": "Cheshbôwn",
+ "pron": "khesh-bone'",
+ "def_en": [
+  "Heshbon = \"stronghold\"",
+  "1) the capital city of Sihon, king of the Amorites, located on the western border of the high plain and on the border line between the tribes of Reuben and Gad"
+ ],
+ "kjv": "Heshbon.",
+ "expl": "Cheshbon, a place East of the Jordan",
+ "etim": "the same as ;",
+ "raices": [
+  "H2808"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "חשבון",
+   "forma_he": "חֶשְׁבּ֔וֹן",
+   "n": 23,
+   "ref": "bamidbar/21/26"
+  },
+  {
+   "forma": "בחשבון",
+   "forma_he": "בְּחֶשְׁבּ֖וֹן",
+   "n": 11,
+   "ref": "bamidbar/21/25"
+  },
+  {
+   "forma": "מחשבון",
+   "forma_he": "מֵֽחֶשְׁבּ֔וֹן",
+   "n": 2,
+   "ref": "bamidbar/21/28"
+  },
+  {
+   "forma": "וחשבון",
+   "forma_he": "וְחֶשְׁבּ֖וֹן",
+   "n": 1,
+   "ref": "bamidbar/32/3"
+  },
+  {
+   "forma": "ומחשבון",
+   "forma_he": "וּמֵחֶשְׁבּ֛וֹן",
+   "n": 1,
+   "ref": "yehoshua/13/26"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

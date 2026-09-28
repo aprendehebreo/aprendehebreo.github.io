@@ -1,0 +1,60 @@
+{
+ "strong": "H7399",
+ "he": "רכוש",
+ "xlit": "rᵉkûwsh",
+ "pron": "rek-oosh'",
+ "def_en": [
+  "1) property, goods, possessions",
+  "1a) property, goods",
+  "1a1) general term for all movable goods",
+  "1a2) of livestock",
+  "1a3) of stores, utensils, etc"
+ ],
+ "kjv": "good, riches, substance.",
+ "expl": "property (as gathered)",
+ "etim": "or ; from passive participle of ;",
+ "raices": [
+  "H7408"
+ ],
+ "ocurrencias": 28,
+ "formas": [
+  {
+   "forma": "רכושם",
+   "forma_he": "רְכוּשָׁם֙",
+   "n": 4,
+   "ref": "bereshit/12/5"
+  },
+  {
+   "forma": "הרכוש",
+   "forma_he": "הָרֲכֽוּשׁ",
+   "n": 3,
+   "ref": "bamidbar/16/32"
+  },
+  {
+   "forma": "רכשו",
+   "forma_he": "רָכָ֔שׁוּ",
+   "n": 2,
+   "ref": "bereshit/12/5"
+  },
+  {
+   "forma": "וברכוש",
+   "forma_he": "וּבִרְכ֥וּשׁ",
+   "n": 2,
+   "ref": "daniel/11/13"
+  },
+  {
+   "forma": "ורכוש",
+   "forma_he": "וּרְכ֖וּשׁ",
+   "n": 2,
+   "ref": "daniel/11/24"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3mp",
+  "HNcmsc/Sp3ms",
+  "HTd/Ncmsa",
+  "HR/Ncmsa",
+  "HC/R/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H3920",
+ "he": "לכד",
+ "xlit": "lâkad",
+ "pron": "law-kad'",
+ "def_en": [
+  "1) to capture, take, seize",
+  "1a) (Qal)",
+  "1a1) to capture, seize",
+  "1a2) to capture (of men) (fig.)",
+  "1a3) to take (by lot)",
+  "1b) (Niphal)",
+  "1b1) to be captured",
+  "1b2) to be caught (of men in trap, snare) (fig.)",
+  "1c) (Hithpael) to grasp each other"
+ ],
+ "kjv": "[idiom] at all, catch (self), be frozen, be holden, stick together, take.",
+ "expl": "to catch (in a net, trap or pit); generally, to capture or occupy; also to choose (by lot); figuratively, to cohere",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 121,
+ "formas": [
+  {
+   "forma": "וילכד",
+   "forma_he": "וַיִּלְכֹּ֖ד",
+   "n": 25,
+   "ref": "bamidbar/32/41"
+  },
+  {
+   "forma": "וילכדו",
+   "forma_he": "וַֽיִּלְכְּד֖וּ",
+   "n": 12,
+   "ref": "bamidbar/21/32"
+  },
+  {
+   "forma": "לכד",
+   "forma_he": "לָכַ֤ד",
+   "n": 12,
+   "ref": "yehoshua/8/21"
+  },
+  {
+   "forma": "וילכדה",
+   "forma_he": "וַֽיִּלְכְּדֻ֑הָ",
+   "n": 11,
+   "ref": "bamidbar/32/39"
+  },
+  {
+   "forma": "נלכדה",
+   "forma_he": "נִלְכְּדָ֣ה",
+   "n": 10,
+   "ref": "mlakhim_a/16/18"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HC/Vqw3mp",
+  "HVNp3fs",
+  "HC/Vqw3ms/Sp3fs"
+ ],
+ "glosa_es": ""
+}

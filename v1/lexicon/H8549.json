@@ -1,0 +1,61 @@
+{
+ "strong": "H8549",
+ "he": "תמים",
+ "xlit": "tâmîym",
+ "pron": "taw-meem'",
+ "def_en": [
+  "1) complete, whole, entire, sound",
+  "1a) complete, whole, entire",
+  "1b) whole, sound, healthful",
+  "1c) complete, entire (of time)",
+  "1d) sound, wholesome, unimpaired, innocent, having integrity",
+  "1e) what is complete or entirely in accord with truth and fact (neuter adj/subst)"
+ ],
+ "kjv": "without blemish, complete, full, perfect, sincerely (-ity), sound, without spot, undefiled, upright(-ly), whole.",
+ "expl": "entire (literally, figuratively or morally); also (as noun) integrity, truth",
+ "etim": "from ;",
+ "raices": [
+  "H8552"
+ ],
+ "ocurrencias": 91,
+ "formas": [
+  {
+   "forma": "תמים",
+   "forma_he": "תָּמִ֥ים",
+   "n": 47,
+   "ref": "bereshit/6/9"
+  },
+  {
+   "forma": "תמימם",
+   "forma_he": "תְּמִימִֽם",
+   "n": 24,
+   "ref": "shemot/29/1"
+  },
+  {
+   "forma": "תמימה",
+   "forma_he": "תְמִימָ֔ה",
+   "n": 8,
+   "ref": "vayikra/3/9"
+  },
+  {
+   "forma": "ותמימים",
+   "forma_he": "וּ֝תְמִימִ֗ים",
+   "n": 3,
+   "ref": "mishlei/1/12"
+  },
+  {
+   "forma": "תמימים",
+   "forma_he": "תְּמִימִ֔ים",
+   "n": 2,
+   "ref": "vayikra/14/10"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HAafsa",
+  "HC/Aampa",
+  "HR/Aamsa"
+ ],
+ "glosa_es": ""
+}

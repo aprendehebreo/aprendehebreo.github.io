@@ -1,0 +1,58 @@
+{
+ "strong": "H4910",
+ "he": "משל",
+ "xlit": "mâshal",
+ "pron": "maw-shal'",
+ "def_en": [
+  "1) to rule, have dominion, reign",
+  "1a) (Qal) to rule, have dominion",
+  "1b) (Hiphil)",
+  "1b1) to cause to rule",
+  "1b2) to exercise dominion"
+ ],
+ "kjv": "(have, make to have) dominion, governor, [idiom] indeed, reign, (bear, cause to, have) rule(-ing, -r), have power.",
+ "expl": "to rule",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "משל",
+   "forma_he": "מֹשֵׁ֖ל",
+   "n": 14,
+   "ref": "bereshit/45/26"
+  },
+  {
+   "forma": "ומשל",
+   "forma_he": "וּמֹשֵׁ֖ל",
+   "n": 12,
+   "ref": "bereshit/45/8"
+  },
+  {
+   "forma": "מושל",
+   "forma_he": "מוֹשֵׁל֙",
+   "n": 12,
+   "ref": "shmuel_b/23/3"
+  },
+  {
+   "forma": "משלים",
+   "forma_he": "מֹשְׁלִ֥ים",
+   "n": 7,
+   "ref": "shoftim/14/4"
+  },
+  {
+   "forma": "ימשל",
+   "forma_he": "יִמְשָׁל",
+   "n": 6,
+   "ref": "bereshit/3/16"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HC/Vqrmsa",
+  "HVqi3ms",
+  "HVqrmpa",
+  "HC/Vqq3ms"
+ ],
+ "glosa_es": ""
+}

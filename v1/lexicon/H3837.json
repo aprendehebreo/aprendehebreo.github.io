@@ -1,0 +1,59 @@
+{
+ "strong": "H3837",
+ "he": "לבן",
+ "xlit": "Lâbân",
+ "pron": "law-bawn'",
+ "def_en": [
+  "Laban = \"white\"",
+  "n pr m",
+  "1) son of Bethuel, brother of Rebekah, and father of Leah and Rachel",
+  "n pr loc",
+  "2) a wilderness encampment of the Israelites"
+ ],
+ "kjv": "Laban.",
+ "expl": "Laban, a Mesopotamian; also a place in the Desert",
+ "etim": "the same as ;",
+ "raices": [
+  "H3836"
+ ],
+ "ocurrencias": 55,
+ "formas": [
+  {
+   "forma": "לבן",
+   "forma_he": "לָבָ֑ן",
+   "n": 45,
+   "ref": "bereshit/24/29"
+  },
+  {
+   "forma": "ללבן",
+   "forma_he": "לְלָבָ֔ן",
+   "n": 5,
+   "ref": "bereshit/29/13"
+  },
+  {
+   "forma": "ולבן",
+   "forma_he": "וְלָבָ֣ן",
+   "n": 3,
+   "ref": "bereshit/31/19"
+  },
+  {
+   "forma": "וללבן",
+   "forma_he": "וּלְלָבָ֖ן",
+   "n": 1,
+   "ref": "bereshit/29/16"
+  },
+  {
+   "forma": "בלבן",
+   "forma_he": "בְּלָבָ֑ן",
+   "n": 1,
+   "ref": "bereshit/31/36"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

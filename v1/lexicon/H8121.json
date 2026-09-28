@@ -1,0 +1,61 @@
+{
+ "strong": "H8121",
+ "he": "שמש",
+ "xlit": "shemesh",
+ "pron": "sheh'-mesh",
+ "def_en": [
+  "1) sun",
+  "1a) sun",
+  "1b) sunrise, sun-rising, east, sun-setting, west (of direction)",
+  "1c) sun (as object of illicit worship)",
+  "1d) openly, publicly (in other phrases)",
+  "1e) pinnacles, battlements, shields (as glittering or shining)"
+ ],
+ "kjv": "[phrase] east side(-ward), sun (rising), [phrase] west(-ward), window. See also .",
+ "expl": "the sun; by implication, the east; figuratively, a ray, i.e. (architectural) a notched battlement",
+ "etim": "from an unused root meaning to be brilliant;",
+ "raices": [
+  "H1053"
+ ],
+ "ocurrencias": 134,
+ "formas": [
+  {
+   "forma": "השמש",
+   "forma_he": "הַשֶּׁ֨מֶשׁ֙",
+   "n": 91,
+   "ref": "bereshit/15/12"
+  },
+  {
+   "forma": "שמש",
+   "forma_he": "שָֽׁמֶשׁ",
+   "n": 28,
+   "ref": "devarim/4/41"
+  },
+  {
+   "forma": "לשמש",
+   "forma_he": "לַשֶּׁ֤מֶשׁ",
+   "n": 5,
+   "ref": "mlakhim_b/23/5"
+  },
+  {
+   "forma": "והשמש",
+   "forma_he": "וְהַשֶּׁ֣מֶשׁ",
+   "n": 2,
+   "ref": "shmuel_b/2/24"
+  },
+  {
+   "forma": "ושמש",
+   "forma_he": "וָשָׁ֑מֶשׁ",
+   "n": 2,
+   "ref": "yeshayahu/49/10"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HNcbsa",
+  "HRd/Ncbsa",
+  "HC/Td/Ncbsa",
+  "HC/Ncbsa"
+ ],
+ "glosa_es": ""
+}

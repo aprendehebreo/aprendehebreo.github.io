@@ -1,0 +1,63 @@
+{
+ "strong": "H5095",
+ "he": "נהל",
+ "xlit": "nâhal",
+ "pron": "naw-hal'",
+ "def_en": [
+  "1) to lead, give rest, lead with care, guide to a watering place or station, cause to rest, bring to a station or place of rest, guide, refresh",
+  "1a) (Piel)",
+  "1a1) to lead to a watering-place or station and cause to rest there",
+  "1a2) to lead or bring to a station or goal",
+  "1a3) to lead, guide",
+  "1a4) to give rest to",
+  "1a5) to refresh (with food)",
+  "1b) (Hithpael)",
+  "1b1) to lead on",
+  "1b2) to journey by stations or stages"
+ ],
+ "kjv": "carry, feed, guide, lead (gently, on).",
+ "expl": "properly, to run with asparkle, i.e. flow; hence (transitively), to conduct, and (by inference) to protect, sustain",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 10,
+ "formas": [
+  {
+   "forma": "וינהלם",
+   "forma_he": "וַיְנַהֲלֵ֤ם",
+   "n": 2,
+   "ref": "bereshit/47/17"
+  },
+  {
+   "forma": "אתנהלה",
+   "forma_he": "אֶֽתְנָהֲלָ֣ה",
+   "n": 1,
+   "ref": "bereshit/33/14"
+  },
+  {
+   "forma": "נהלת",
+   "forma_he": "נֵהַ֥לְתָּ",
+   "n": 1,
+   "ref": "shemot/15/13"
+  },
+  {
+   "forma": "ינהל",
+   "forma_he": "יְנַהֵֽל",
+   "n": 1,
+   "ref": "yeshayahu/40/11"
+  },
+  {
+   "forma": "ינהלם",
+   "forma_he": "יְנַהֲלֵֽם",
+   "n": 1,
+   "ref": "yeshayahu/49/10"
+  }
+ ],
+ "morph": [
+  "HC/Vpw3ms/Sp3mp",
+  "HVth1cs",
+  "HVpp2ms",
+  "HVpi3ms",
+  "HVpi3ms/Sp3mp"
+ ],
+ "glosa_es": ""
+}

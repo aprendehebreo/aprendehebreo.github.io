@@ -1,0 +1,72 @@
+{
+ "strong": "H8552",
+ "he": "תמם",
+ "xlit": "tâmam",
+ "pron": "taw-mam'",
+ "def_en": [
+  "1) to be complete, be finished, be at an end",
+  "1a) (Qal)",
+  "1a1) to be finished, be completed",
+  "1a1a) completely, wholly, entirely (as auxiliary with verb)",
+  "1a2) to be finished, come to an end, cease",
+  "1a3) to be complete (of number)",
+  "1a4) to be consumed, be exhausted, be spent",
+  "1a5) to be finished, be consumed, be destroyed",
+  "1a6) to be complete, be sound, be unimpaired, be upright (ethically)",
+  "1a7) to complete, finish",
+  "1a8) to be completely crossed over",
+  "1b) (Niphal) to be consumed",
+  "1c) (Hiphil)",
+  "1c1) to finish, complete, perfect",
+  "1c2) to finish, cease doing, leave off doing",
+  "1c3) to complete, sum up, make whole",
+  "1c4) to destroy (uncleanness)",
+  "1c5) to make sound",
+  "1d) (Hithpael) to deal in integrity, act uprightly"
+ ],
+ "kjv": "accomplish, cease, be clean (pass-) ed, consume, have done, (come to an, have an, make an) end, fail, come to the full, be all gone, [idiom] be all here, be (make) perfect, be spent, sum, be (shew self) upright, be wasted, whole.",
+ "expl": "to complete, in a good or a bad sense, literal, or figurative, transitive or intransitive",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "תם",
+   "forma_he": "תָּ֔ם",
+   "n": 14,
+   "ref": "bereshit/25/27"
+  },
+  {
+   "forma": "תמו",
+   "forma_he": "תַּ֜מּוּ",
+   "n": 11,
+   "ref": "devarim/2/16"
+  },
+  {
+   "forma": "תמם",
+   "forma_he": "תֻּמָּֽם",
+   "n": 6,
+   "ref": "devarim/2/15"
+  },
+  {
+   "forma": "יתמו",
+   "forma_he": "יִתַּ֖מּוּ",
+   "n": 5,
+   "ref": "bamidbar/14/35"
+  },
+  {
+   "forma": "תמנו",
+   "forma_he": "תַּ֖מְנוּ",
+   "n": 4,
+   "ref": "bamidbar/17/28"
+  }
+ ],
+ "morph": [
+  "HVqc",
+  "HVqp3cp",
+  "HVqc/Sp3mp",
+  "HVqi3mp",
+  "HVqp3ms"
+ ],
+ "glosa_es": ""
+}

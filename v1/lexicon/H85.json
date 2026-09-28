@@ -1,0 +1,49 @@
+{
+ "strong": "H85",
+ "he": "אברהם",
+ "xlit": "ʼAbrâhâm",
+ "pron": "ab-raw-hawm'",
+ "def_en": [
+  "Abraham = \"father of a multitude\" or \"chief of multitude\"",
+  "1) friend of God and founder of Hebrew nation via God's elective covenant"
+ ],
+ "kjv": "Abraham.",
+ "expl": "Abraham, the later name of Abram",
+ "etim": "contracted from and an unused root (probably meaning to be populous); father of a multitude;",
+ "raices": [
+  "H1"
+ ],
+ "ocurrencias": 175,
+ "formas": [
+  {
+   "forma": "אברהם",
+   "forma_he": "אַבְרָהָ֔ם",
+   "n": 139,
+   "ref": "bereshit/17/5"
+  },
+  {
+   "forma": "לאברהם",
+   "forma_he": "לְאַבְרָהָ֗ם",
+   "n": 27,
+   "ref": "bereshit/20/9"
+  },
+  {
+   "forma": "ואברהם",
+   "forma_he": "וְאַ֨בְרָהָ֔ם",
+   "n": 8,
+   "ref": "bereshit/17/24"
+  },
+  {
+   "forma": "מאברהם",
+   "forma_he": "מֵֽאַבְרָהָ֔ם",
+   "n": 1,
+   "ref": "bereshit/18/17"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": "Abraham"
+}

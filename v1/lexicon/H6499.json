@@ -1,0 +1,56 @@
+{
+ "strong": "H6499",
+ "he": "פר",
+ "xlit": "par",
+ "pron": "par",
+ "def_en": [
+  "1) young bull, steer, bullock"
+ ],
+ "kjv": "([phrase] young) bull(-ock), calf, ox.",
+ "expl": "a bullock (apparently as breaking forth in wild strength, or perhaps as dividing the hoof)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6565"
+ ],
+ "ocurrencias": 133,
+ "formas": [
+  {
+   "forma": "פר",
+   "forma_he": "פַּ֣ר",
+   "n": 40,
+   "ref": "shemot/29/1"
+  },
+  {
+   "forma": "הפר",
+   "forma_he": "הֵפַֽר",
+   "n": 31,
+   "ref": "bereshit/17/14"
+  },
+  {
+   "forma": "פרים",
+   "forma_he": "פָּרִֽים",
+   "n": 30,
+   "ref": "shemot/24/5"
+  },
+  {
+   "forma": "לפר",
+   "forma_he": "לַפָּ֔ר",
+   "n": 13,
+   "ref": "vayikra/4/20"
+  },
+  {
+   "forma": "לפרים",
+   "forma_he": "לַ֠פָּרִים",
+   "n": 6,
+   "ref": "bamidbar/29/18"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmpa",
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

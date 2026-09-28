@@ -1,0 +1,63 @@
+{
+ "strong": "H7442",
+ "he": "רנן",
+ "xlit": "rânan",
+ "pron": "raw-nan'",
+ "def_en": [
+  "1) to overcome",
+  "1a) (Hithpolel) to be overcome",
+  "2) to cry out, shout for joy, give a ringing cry",
+  "2a) (Qal)",
+  "2a1) to give a ringing cry (in joy, exaltation, distress)",
+  "2a2) to cry aloud (in summons, exhortation of wisdom)",
+  "2b) (Piel) to give a ringing cry (in joy, exultation, praise",
+  "2c) (Pual) ringing cry, singing out (passive)",
+  "2d) (Hiphil) to cause to ring or sing out (for joy)",
+  "2e) (Hithpolel) rejoicing (participle)"
+ ],
+ "kjv": "aloud for joy, cry out, be joyful (greatly, make to) rejoice, (cause to) shout (for joy), (cause to) sing (aloud, for joy, out), triumph.",
+ "expl": "properly, to creak (or emit a stridulous sound), i.e. to shout (usually for joy)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 53,
+ "formas": [
+  {
+   "forma": "ירננו",
+   "forma_he": "יְרַנֵּ֑נוּ",
+   "n": 11,
+   "ref": "yeshayahu/52/8"
+  },
+  {
+   "forma": "ירנו",
+   "forma_he": "יָרֹ֑נּוּ",
+   "n": 5,
+   "ref": "yeshayahu/24/14"
+  },
+  {
+   "forma": "ורננו",
+   "forma_he": "וְרַנְּנ֜וּ",
+   "n": 4,
+   "ref": "yeshayahu/26/19"
+  },
+  {
+   "forma": "רני",
+   "forma_he": "רָנִּ֥י",
+   "n": 4,
+   "ref": "yeshayahu/54/1"
+  },
+  {
+   "forma": "רנו",
+   "forma_he": "רָנּ֨וּ",
+   "n": 3,
+   "ref": "yeshayahu/44/23"
+  }
+ ],
+ "morph": [
+  "HVpi3mp",
+  "HVqi3mp",
+  "HVqv2fs",
+  "HVqv2mp",
+  "HVhv2mp"
+ ],
+ "glosa_es": ""
+}

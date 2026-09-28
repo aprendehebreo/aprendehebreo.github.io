@@ -1,0 +1,62 @@
+{
+ "strong": "H1588",
+ "he": "גן",
+ "xlit": "gan",
+ "pron": "gan",
+ "def_en": [
+  "n m/f",
+  "1) garden, enclosure",
+  "1a) enclosed garden",
+  "1a1) (fig. of a bride)",
+  "1b) garden (of plants)",
+  "n pr loc",
+  "1c) Garden of Eden"
+ ],
+ "kjv": "garden.",
+ "expl": "a garden (as fenced)",
+ "etim": "from ;",
+ "raices": [
+  "H1598"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "בגן",
+   "forma_he": "בְגַן",
+   "n": 9,
+   "ref": "bereshit/2/15"
+  },
+  {
+   "forma": "הגן",
+   "forma_he": "הַגָּ֔ן",
+   "n": 8,
+   "ref": "bereshit/2/9"
+  },
+  {
+   "forma": "כגן",
+   "forma_he": "כְּגַן",
+   "n": 8,
+   "ref": "bereshit/13/10"
+  },
+  {
+   "forma": "גן",
+   "forma_he": "גַּן",
+   "n": 6,
+   "ref": "bereshit/2/8"
+  },
+  {
+   "forma": "לגן",
+   "forma_he": "לְגַן",
+   "n": 3,
+   "ref": "bereshit/3/24"
+  }
+ ],
+ "morph": [
+  "HR/Ncbsc",
+  "HTd/Ncbsa",
+  "HNcbsc",
+  "HRd/Ncbsa",
+  "HNcbsa"
+ ],
+ "glosa_es": ""
+}

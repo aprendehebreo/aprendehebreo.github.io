@@ -1,0 +1,60 @@
+{
+ "strong": "H5331",
+ "he": "נצח",
+ "xlit": "netsach",
+ "pron": "neh'-tsakh",
+ "def_en": [
+  "1) eminence, perpetuity, strength, victory, enduring, everlastingness",
+  "1a) eminence",
+  "1b) enduring of life",
+  "1c) endurance in time, perpetual, continual, unto the end",
+  "1d) everlastingness, ever"
+ ],
+ "kjv": "alway(-s), constantly, end, ([phrase] n-) ever(more), perpetual, strength, victory.",
+ "expl": "properly, a goal, i.e. the bright object at adistance travelled towards; hence (figuratively), splendor, or (subjectively) truthfulness, or (objectively) confidence; but usually (adverbially), continually (i.e. to the most distant point of view)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5329"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "לנצח",
+   "forma_he": "לָנֶ֔צַח",
+   "n": 31,
+   "ref": "yeshayahu/13/20"
+  },
+  {
+   "forma": "נצח",
+   "forma_he": "נֵ֣צַח",
+   "n": 8,
+   "ref": "shmuel_a/15/29"
+  },
+  {
+   "forma": "הלנצח",
+   "forma_he": "הֲלָנֶ֨צַח֙",
+   "n": 1,
+   "ref": "shmuel_b/2/26"
+  },
+  {
+   "forma": "נצחים",
+   "forma_he": "נְצָחִ֔ים",
+   "n": 1,
+   "ref": "yeshayahu/34/10"
+  },
+  {
+   "forma": "נצחי",
+   "forma_he": "נִצְחִ֔י",
+   "n": 1,
+   "ref": "eikha/3/18"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsa",
+  "HNcmsa",
+  "HNcmsc",
+  "HTi/R/Ncmsa",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": ""
+}

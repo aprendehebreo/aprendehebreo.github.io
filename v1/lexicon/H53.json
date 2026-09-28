@@ -1,0 +1,58 @@
+{
+ "strong": "H53",
+ "he": "אבישלום",
+ "xlit": "ʼĂbîyshâlôwm",
+ "pron": "ab-ee-shaw-lome'",
+ "def_en": [
+  "Absalom or Abishalom = \"my father is peace\"",
+  "1) father-in-law of Rehoboam",
+  "2) third son of David, killer of first-born son Amnon, also leader of revolt against his father-David"
+ ],
+ "kjv": "Abishalom, Absalom.",
+ "expl": "Abshalom, a son of David; also (the fuller form) a later Israelite",
+ "etim": "or (shortened) ; from and ; father of peace (i.e. friendly);",
+ "raices": [
+  "H1",
+  "H7965"
+ ],
+ "ocurrencias": 111,
+ "formas": [
+  {
+   "forma": "אבשלום",
+   "forma_he": "אַבְשָׁל֣וֹם",
+   "n": 74,
+   "ref": "shmuel_b/3/3"
+  },
+  {
+   "forma": "אבשלם",
+   "forma_he": "אַבְשָׁלֹ֥ם",
+   "n": 12,
+   "ref": "shmuel_b/13/4"
+  },
+  {
+   "forma": "לאבשלום",
+   "forma_he": "לְאַבְשָׁל֔וֹם",
+   "n": 9,
+   "ref": "shmuel_b/13/23"
+  },
+  {
+   "forma": "ואבשלום",
+   "forma_he": "וְאַבְשָׁל֣וֹם",
+   "n": 5,
+   "ref": "shmuel_b/13/37"
+  },
+  {
+   "forma": "ואבשלם",
+   "forma_he": "וְאַבְשָׁלֹ֔ם",
+   "n": 4,
+   "ref": "shmuel_b/15/37"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H8610",
+ "he": "תפש",
+ "xlit": "tâphas",
+ "pron": "taw-fas'",
+ "def_en": [
+  "1) to catch, handle, lay hold, take hold of, seize, wield",
+  "1a) (Qal)",
+  "1a1) to lay hold of, seize, arrest, catch",
+  "1a2) to grasp (in order to) wield, wield, use skilfully",
+  "1b) (Niphal) to be seized, be arrested, be caught, be taken, captured",
+  "1c) (Piel) to catch, grasp (with the hands)"
+ ],
+ "kjv": "catch, handle, (lay, take) hold (on, over), stop, [idiom] surely, surprise, take.",
+ "expl": "to manipulate, i.e. seize; chiefly to capture, wield, specifically, to overlay; figuratively, to use unwarrantably",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "תפשי",
+   "forma_he": "תֹּפְשֵׂ֣י",
+   "n": 6,
+   "ref": "bamidbar/31/27"
+  },
+  {
+   "forma": "תפש",
+   "forma_he": "תֹּפֵ֥שׂ",
+   "n": 5,
+   "ref": "bereshit/4/21"
+  },
+  {
+   "forma": "ויתפש",
+   "forma_he": "וַיִּתְפֹּ֛שׂ",
+   "n": 4,
+   "ref": "shmuel_a/15/8"
+  },
+  {
+   "forma": "נתפשה",
+   "forma_he": "נִתְפָּֽשָׂה",
+   "n": 3,
+   "ref": "bamidbar/5/13"
+  },
+  {
+   "forma": "תפשום",
+   "forma_he": "תִּפְשׂ֣וּם",
+   "n": 3,
+   "ref": "mlakhim_a/20/18"
+  }
+ ],
+ "morph": [
+  "HVqrmpc",
+  "HC/Vqw3ms",
+  "HVNp3fs",
+  "HVqv2mp/Sp3mp",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": ""
+}

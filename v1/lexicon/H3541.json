@@ -1,0 +1,45 @@
+{
+ "strong": "H3541",
+ "he": "כה",
+ "xlit": "kôh",
+ "pron": "ko",
+ "def_en": [
+  "1) thus, here, in this manner",
+  "1a) thus, so",
+  "1b) here, here and there",
+  "1c) until now, until now...until then, meanwhile"
+ ],
+ "kjv": "also, here, + hitherto, like, on the other side, so (and much), such, on that manner, (on) this (manner, side, way, way and that way), + mean while, yonder.",
+ "expl": "properly, like this, i.e. by implication, (of manner) thus (or so); also (of place) here (or hither); or (of time) now",
+ "etim": "from the prefix k and ;",
+ "raices": [
+  "H1931"
+ ],
+ "ocurrencias": 577,
+ "formas": [
+  {
+   "forma": "כה",
+   "forma_he": "כֹּ֥ה",
+   "n": 554,
+   "ref": "bereshit/15/5"
+  },
+  {
+   "forma": "וכה",
+   "forma_he": "וָכֹ֔ה",
+   "n": 21,
+   "ref": "shemot/2/12"
+  },
+  {
+   "forma": "בכה",
+   "forma_he": "בָּכָ֖ה",
+   "n": 2,
+   "ref": "bereshit/45/14"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HC/D",
+  "HR/D"
+ ],
+ "glosa_es": "así; de este modo"
+}

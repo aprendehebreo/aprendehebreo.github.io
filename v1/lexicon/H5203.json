@@ -1,0 +1,63 @@
+{
+ "strong": "H5203",
+ "he": "נטש",
+ "xlit": "nâṭash",
+ "pron": "naw-tash'",
+ "def_en": [
+  "1) to leave, permit, forsake, cast off or away, reject, suffer, join, spread out or abroad, be loosed, cease, abandon, quit, hang loose, cast down, make a raid, lie fallow, let fall, forgo, draw",
+  "1a) (Qal)",
+  "1a1) to leave, let alone, lie fallow, entrust to",
+  "1a2) to forsake, abandon",
+  "1a3) to permit",
+  "1b) (Niphal)",
+  "1b1) to be forsaken",
+  "1b2) to be loosened, be loose",
+  "1b3) to be let go, spread abroad",
+  "1c) (Pual) to be abandoned, be deserted"
+ ],
+ "kjv": "cast off, drawn, let fall, forsake, join (battle), leave (off), lie still, loose, spread (self) abroad, stretch out, suffer.",
+ "expl": "properly, to pound, i.e. smite; by implication (as if beating out, and thus expanding) to disperse; also, to thrust off, down, out or upon (inclusively, reject, let alone, permit, remit, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "ויטש",
+   "forma_he": "וַיִּטֹּ֨שׁ",
+   "n": 6,
+   "ref": "bamidbar/11/31"
+  },
+  {
+   "forma": "וינטשו",
+   "forma_he": "וַיִּנָּטְשׁ֖וּ",
+   "n": 3,
+   "ref": "shoftim/15/9"
+  },
+  {
+   "forma": "ונטשתי",
+   "forma_he": "וְנָטַשְׁתִּ֗י",
+   "n": 3,
+   "ref": "mlakhim_b/21/14"
+  },
+  {
+   "forma": "נטש",
+   "forma_he": "נָטַ֤שׁ",
+   "n": 2,
+   "ref": "shmuel_a/10/2"
+  },
+  {
+   "forma": "יטש",
+   "forma_he": "יִטֹּ֤שׁ",
+   "n": 2,
+   "ref": "shmuel_a/12/22"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/VNw3mp",
+  "HVqi3ms",
+  "HC/Vqq1cs",
+  "HVqp2ms"
+ ],
+ "glosa_es": ""
+}

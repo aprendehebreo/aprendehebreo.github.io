@@ -1,0 +1,60 @@
+{
+ "strong": "H8141",
+ "he": "שנה",
+ "xlit": "shâneh",
+ "pron": "shaw-neh'",
+ "def_en": [
+  "1) year",
+  "1a) as division of time",
+  "1b) as measure of time",
+  "1c) as indication of age",
+  "1d) a lifetime (of years of life)"
+ ],
+ "kjv": "[phrase] whole age, [idiom] long, [phrase] old, year([idiom] -ly).",
+ "expl": "a year (as a revolution of time)",
+ "etim": "(in plural or (feminine) ; from ;",
+ "raices": [
+  "H8138"
+ ],
+ "ocurrencias": 880,
+ "formas": [
+  {
+   "forma": "שנה",
+   "forma_he": "שָׁנָ֔ה",
+   "n": 420,
+   "ref": "bereshit/5/3"
+  },
+  {
+   "forma": "שנים",
+   "forma_he": "שָׁנִ֖ים",
+   "n": 126,
+   "ref": "bereshit/5/6"
+  },
+  {
+   "forma": "בשנת",
+   "forma_he": "בִּשְׁנַ֨ת",
+   "n": 74,
+   "ref": "bereshit/7/11"
+  },
+  {
+   "forma": "בשנה",
+   "forma_he": "בַּשָּׁנָ֖ה",
+   "n": 68,
+   "ref": "bereshit/17/21"
+  },
+  {
+   "forma": "שנת",
+   "forma_he": "שְׁנַ֣ת",
+   "n": 31,
+   "ref": "bereshit/41/50"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfpa",
+  "HR/Ncfsc",
+  "HRd/Ncfsa",
+  "HNcfsc"
+ ],
+ "glosa_es": "año"
+}

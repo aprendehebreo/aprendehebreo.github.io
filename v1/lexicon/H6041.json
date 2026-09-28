@@ -1,0 +1,62 @@
+{
+ "strong": "H6041",
+ "he": "עני",
+ "xlit": "ʻânîy",
+ "pron": "aw-nee'",
+ "def_en": [
+  "1) poor, afflicted, humble, wretched",
+  "1a) poor, needy",
+  "1b) poor and weak",
+  "1c) poor, weak, afflicted, wretched",
+  "1d) humble, lowly"
+ ],
+ "kjv": "afflicted, humble, lowly, needy, poor.",
+ "expl": "depressed, in mind or circumstances",
+ "etim": "from ; (practically the same as , although the margin constantly disputes this, making subjective and objective);",
+ "raices": [
+  "H6031",
+  "H6035",
+  "H6035"
+ ],
+ "ocurrencias": 79,
+ "formas": [
+  {
+   "forma": "עני",
+   "forma_he": "עֳנִ֥י",
+   "n": 38,
+   "ref": "shemot/3/7"
+  },
+  {
+   "forma": "עניים",
+   "forma_he": "עֲנִיִּ֖ים",
+   "n": 11,
+   "ref": "yeshayahu/3/15"
+  },
+  {
+   "forma": "לעני",
+   "forma_he": "לֶֽעָנִ֤י",
+   "n": 6,
+   "ref": "vayikra/19/10"
+  },
+  {
+   "forma": "עניי",
+   "forma_he": "עָנְיִ֞י",
+   "n": 6,
+   "ref": "bereshit/31/42"
+  },
+  {
+   "forma": "ועני",
+   "forma_he": "וְעָנִ֤י",
+   "n": 5,
+   "ref": "yechezkel/22/29"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HAampc",
+  "HRd/Aamsa",
+  "HC/Aamsa"
+ ],
+ "glosa_es": ""
+}

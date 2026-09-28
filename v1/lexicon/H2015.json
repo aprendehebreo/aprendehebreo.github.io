@@ -1,0 +1,70 @@
+{
+ "strong": "H2015",
+ "he": "הפך",
+ "xlit": "hâphak",
+ "pron": "haw-fak'",
+ "def_en": [
+  "1) to turn, overthrow, overturn",
+  "1a) (Qal)",
+  "1a1) to overturn, overthrow",
+  "1a2) to turn, turn about, turn over, turn around",
+  "1a3) to change, transform",
+  "1b) (Niphal)",
+  "1b1) to turn oneself, turn, turn back",
+  "1b2) to change oneself",
+  "1b3) to be perverse",
+  "1b4) to be turned, be turned over, be changed, be turned against",
+  "1b5) to be reversed",
+  "1b6) to be overturned, be overthrown",
+  "1b7) to be upturned",
+  "1c) (Hithpael)",
+  "1c1) to transform oneself",
+  "1c2) to turn this way and that, turn every way",
+  "1d) (Hophal) to turn on someone"
+ ],
+ "kjv": "[idiom] become, change, come, be converted, give, make (a bed), overthrow (-turn), perverse, retire, tumble, turn (again, aside, back, to the contrary, every way).",
+ "expl": "to turn about or over; by implication, to change, overturn, return, pervert",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 94,
+ "formas": [
+  {
+   "forma": "הפך",
+   "forma_he": "הָפַ֣ךְ",
+   "n": 16,
+   "ref": "vayikra/13/3"
+  },
+  {
+   "forma": "נהפך",
+   "forma_he": "נֶהְפַּ֥ךְ",
+   "n": 12,
+   "ref": "shemot/7/15"
+  },
+  {
+   "forma": "ויהפך",
+   "forma_he": "וַֽיַּהֲפֹךְ֙",
+   "n": 10,
+   "ref": "bereshit/19/25"
+  },
+  {
+   "forma": "נהפכו",
+   "forma_he": "נֶהֶפְכ֥וּ",
+   "n": 5,
+   "ref": "shmuel_a/4/19"
+  },
+  {
+   "forma": "והפכתי",
+   "forma_he": "וְהָפַכְתִּ֨י",
+   "n": 4,
+   "ref": "yirmiyahu/31/13"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVNp3ms",
+  "HC/Vqw3ms",
+  "HVNp3cp",
+  "HC/Vqq1cs"
+ ],
+ "glosa_es": ""
+}

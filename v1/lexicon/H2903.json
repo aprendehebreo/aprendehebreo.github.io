@@ -1,0 +1,39 @@
+{
+ "strong": "H2903",
+ "he": "טופפה",
+ "xlit": "ṭôwphâphâh",
+ "pron": "to-faw-faw'",
+ "def_en": [
+  "1) bands, phylacteries, frontlets, marks"
+ ],
+ "kjv": "frontlet.",
+ "expl": "a fillet for the forehead",
+ "etim": "from an unused root meaning to go around or bind;",
+ "raices": [],
+ "ocurrencias": 3,
+ "formas": [
+  {
+   "forma": "ולטוטפת",
+   "forma_he": "וּלְטוֹטָפֹ֖ת",
+   "n": 1,
+   "ref": "shemot/13/16"
+  },
+  {
+   "forma": "לטטפת",
+   "forma_he": "לְטֹטָפֹ֖ת",
+   "n": 1,
+   "ref": "devarim/6/8"
+  },
+  {
+   "forma": "לטוטפת",
+   "forma_he": "לְטוֹטָפֹ֖ת",
+   "n": 1,
+   "ref": "devarim/11/18"
+  }
+ ],
+ "morph": [
+  "HR/Ncfpa",
+  "HC/R/Ncfpa"
+ ],
+ "glosa_es": ""
+}

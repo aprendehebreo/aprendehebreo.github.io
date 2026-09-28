@@ -1,0 +1,55 @@
+{
+ "strong": "H519",
+ "he": "אמה",
+ "xlit": "ʼâmâh",
+ "pron": "aw-maw'",
+ "def_en": [
+  "1) maid-servant, female slave, maid, handmaid, concubine",
+  "1a) of humility (fig.)"
+ ],
+ "kjv": "(hand-) bondmaid(-woman), maid(-servant).",
+ "expl": "a maidservant or female slave",
+ "etim": "apparently a primitive word;",
+ "raices": [],
+ "ocurrencias": 56,
+ "formas": [
+  {
+   "forma": "אמתך",
+   "forma_he": "אֲמָתֶ֔ךָ",
+   "n": 16,
+   "ref": "bereshit/21/12"
+  },
+  {
+   "forma": "ואמתך",
+   "forma_he": "וַאֲמָֽתְךָ֙",
+   "n": 8,
+   "ref": "shemot/20/10"
+  },
+  {
+   "forma": "אמתו",
+   "forma_he": "אֲמָתוֹ֙",
+   "n": 6,
+   "ref": "shemot/21/20"
+  },
+  {
+   "forma": "לאמתך",
+   "forma_he": "לַאֲמָתְךָ֖",
+   "n": 4,
+   "ref": "devarim/15/17"
+  },
+  {
+   "forma": "האמה",
+   "forma_he": "הָאָמָ֥ה",
+   "n": 3,
+   "ref": "bereshit/21/10"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp2ms",
+  "HC/Ncfsc/Sp2ms",
+  "HNcfsc/Sp3ms",
+  "HR/Ncfsc/Sp2ms",
+  "HTd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

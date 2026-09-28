@@ -1,0 +1,54 @@
+{
+ "strong": "H5560",
+ "he": "סלת",
+ "xlit": "çôleth",
+ "pron": "so'-leth",
+ "def_en": [
+  "1) fine flour"
+ ],
+ "kjv": "(fine) flour, meal.",
+ "expl": "flour (as chipped off)",
+ "etim": "from an unused root meaning to strip;",
+ "raices": [],
+ "ocurrencias": 53,
+ "formas": [
+  {
+   "forma": "סלת",
+   "forma_he": "סֹ֔לֶת",
+   "n": 47,
+   "ref": "bereshit/18/6"
+  },
+  {
+   "forma": "הסלת",
+   "forma_he": "הַסֹּ֑לֶת",
+   "n": 2,
+   "ref": "yechezkel/46/14"
+  },
+  {
+   "forma": "מסלתה",
+   "forma_he": "מִסָּלְתָּהּ֙",
+   "n": 1,
+   "ref": "vayikra/2/2"
+  },
+  {
+   "forma": "מסלת",
+   "forma_he": "מִסֹּ֤לֶת",
+   "n": 1,
+   "ref": "vayikra/6/8"
+  },
+  {
+   "forma": "וסלת",
+   "forma_he": "וְסֹ֣לֶת",
+   "n": 1,
+   "ref": "vayikra/7/12"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfsc",
+  "HTd/Ncfsa",
+  "HR/Ncfsc/Sp3fs",
+  "HR/Ncfsc"
+ ],
+ "glosa_es": ""
+}

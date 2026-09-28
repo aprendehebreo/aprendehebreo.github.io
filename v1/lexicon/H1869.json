@@ -1,0 +1,64 @@
+{
+ "strong": "H1869",
+ "he": "דרך",
+ "xlit": "dârak",
+ "pron": "daw-rak'",
+ "def_en": [
+  "1) to tread, bend, lead, march",
+  "1a) (Qal)",
+  "1a1) to tread, march, march forth",
+  "1a2) to tread on, tread upon",
+  "1a3) to tread (a press)",
+  "1a4) to tread (bend) a bow",
+  "1a5) archer, bow-benders (participle)",
+  "1b) (Hiphil)",
+  "1b1) to tread, tread down",
+  "1b2) to tread (bend with the foot) a bow",
+  "1b3) to cause to go, lead, march, tread"
+ ],
+ "kjv": "archer, bend, come, draw, go (over), guide, lead (forth), thresh, tread (down), walk.",
+ "expl": "to tread; by implication, to walk; also to string abow (by treading on it in bending)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "ידרך",
+   "forma_he": "יִדְרֹ֥ךְ",
+   "n": 8,
+   "ref": "yeshayahu/16/10"
+  },
+  {
+   "forma": "דרך",
+   "forma_he": "דֶּ֖רֶךְ",
+   "n": 7,
+   "ref": "bereshit/3/24"
+  },
+  {
+   "forma": "תדרך",
+   "forma_he": "תִּדְרֹ֧ךְ",
+   "n": 5,
+   "ref": "devarim/11/24"
+  },
+  {
+   "forma": "דרכי",
+   "forma_he": "דַּרְכִּ֔י",
+   "n": 4,
+   "ref": "bereshit/24/42"
+  },
+  {
+   "forma": "ודרך",
+   "forma_he": "וְדֶ֥רֶךְ",
+   "n": 3,
+   "ref": "yeshayahu/3/12"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVqp3ms",
+  "HVqrmpc",
+  "HVqi2ms",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

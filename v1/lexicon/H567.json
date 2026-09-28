@@ -1,0 +1,50 @@
+{
+ "strong": "H567",
+ "he": "אמרי",
+ "xlit": "ʼĔmôrîy",
+ "pron": "em-o-ree'",
+ "def_en": [
+  "Amorite = \"a sayer\"",
+  "1) one of the peoples of east Canaan and beyond the Jordan, dispossessed by the Israelite incursion from Egypt"
+ ],
+ "kjv": "Amorite.",
+ "expl": "an Emorite, one of the Canaanitish tribes",
+ "etim": "probably a patronymic from an unused name derived from in the sense of publicity, i.e. prominence; thus, a mountaineer;",
+ "raices": [
+  "H559"
+ ],
+ "ocurrencias": 87,
+ "formas": [
+  {
+   "forma": "האמרי",
+   "forma_he": "הָ֣אֱמֹרִ֔י",
+   "n": 71,
+   "ref": "bereshit/10/16"
+  },
+  {
+   "forma": "והאמרי",
+   "forma_he": "וְהָֽאֱמֹרִי֙",
+   "n": 13,
+   "ref": "shemot/3/8"
+  },
+  {
+   "forma": "אמרי",
+   "forma_he": "אִמְרִי",
+   "n": 2,
+   "ref": "bereshit/12/13"
+  },
+  {
+   "forma": "לאמרי",
+   "forma_he": "לָֽאֱמֹרִֽי",
+   "n": 1,
+   "ref": "bamidbar/22/2"
+  }
+ ],
+ "morph": [
+  "HTd/Ngmsa",
+  "HC/Td/Ngmsa",
+  "HNgmsa",
+  "HRd/Ngmsa"
+ ],
+ "glosa_es": ""
+}

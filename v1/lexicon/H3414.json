@@ -1,0 +1,64 @@
+{
+ "strong": "H3414",
+ "he": "ירמיה",
+ "xlit": "Yirmᵉyâh",
+ "pron": "yir-meh-yaw'",
+ "def_en": [
+  "Jeremiah = \"whom Jehovah has appointed\"",
+  "1) the major prophet, son of Hilkiah of the priestly family in Anathoth; author of the prophetic book bearing his name",
+  "2) a man of Libnah and father of Hamutal the wife of king Josiah",
+  "3) a Gadite who joined David at Ziklag",
+  "4) a Manassehite, one of the mighty men of valour of the Transjordanic half tribe of Manasseh",
+  "5) a Gadite and warrior of David",
+  "6) a warrior of David",
+  "7) a priest who joined Nehemiah in the covenant ceremony",
+  "8) a priest also in the time of Nehemiah; maybe same as 7",
+  "9) father of Jaazaniah the Rechabites"
+ ],
+ "kjv": "Jeremiah.",
+ "expl": "Jirmejah, the name of eight or nine Israelites",
+ "etim": "or ; from and ; Jah will rise;",
+ "raices": [
+  "H7311",
+  "H3050"
+ ],
+ "ocurrencias": 147,
+ "formas": [
+  {
+   "forma": "ירמיהו",
+   "forma_he": "יִרְמְיָ֖הוּ",
+   "n": 121,
+   "ref": "mlakhim_b/23/31"
+  },
+  {
+   "forma": "ירמיה",
+   "forma_he": "יִרְמְיָ֔ה",
+   "n": 14,
+   "ref": "yirmiyahu/27/1"
+  },
+  {
+   "forma": "וירמיהו",
+   "forma_he": "וְיִרְמְיָ֣הוּ",
+   "n": 4,
+   "ref": "yirmiyahu/32/2"
+  },
+  {
+   "forma": "וירמיה",
+   "forma_he": "וְיִרְמְיָֽה",
+   "n": 3,
+   "ref": "nechemia/12/34"
+  },
+  {
+   "forma": "בירמיהו",
+   "forma_he": "בְּיִרְמְיָ֖הוּ",
+   "n": 2,
+   "ref": "yirmiyahu/29/27"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

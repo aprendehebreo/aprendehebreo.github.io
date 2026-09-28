@@ -1,0 +1,64 @@
+{
+ "strong": "H5128",
+ "he": "נוע",
+ "xlit": "nûwaʻ",
+ "pron": "noo'-ah",
+ "def_en": [
+  "1) to quiver, totter, shake, reel, stagger, wander, move, sift, make move, wave, waver, tremble",
+  "1a) (Qal)",
+  "1a1) to wave, quiver, vibrate, swing, stagger, tremble, be unstable",
+  "1a2) to totter, go tottering",
+  "1a2a) vagabond (participle)",
+  "1b) (Niphal) to be tossed about or around",
+  "1c) (Hiphil)",
+  "1c1) to toss about",
+  "1c2) to shake, cause to totter",
+  "1c3) to shake, disturb",
+  "1c4) to cause to wander"
+ ],
+ "kjv": "continually, fugitive, [idiom] make, to (go) up and down, be gone away, (be) move(-able, -d), be promoted, reel, remove, scatter, set, shake, sift, stagger, to and fro, be vagabond, wag, (make) wander (up and down).",
+ "expl": "to waver, in a great variety of applications, literally and figuratively (as subjoined)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "נעו",
+   "forma_he": "נָע֖וּ",
+   "n": 5,
+   "ref": "yeshayahu/29/9"
+  },
+  {
+   "forma": "לנוע",
+   "forma_he": "לָנ֖וּעַ",
+   "n": 4,
+   "ref": "shoftim/9/9"
+  },
+  {
+   "forma": "וינעו",
+   "forma_he": "וַיָּנֻ֔עוּ",
+   "n": 3,
+   "ref": "shemot/20/18"
+  },
+  {
+   "forma": "ונעו",
+   "forma_he": "וְנָע֞וּ",
+   "n": 3,
+   "ref": "yeshayahu/19/1"
+  },
+  {
+   "forma": "נע",
+   "forma_he": "נָ֥ע",
+   "n": 2,
+   "ref": "bereshit/4/12"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HVqp3cp",
+  "HC/Vqq3cp",
+  "HVqrmsa",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": ""
+}

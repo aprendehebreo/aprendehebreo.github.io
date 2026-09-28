@@ -1,0 +1,65 @@
+{
+ "strong": "H5127",
+ "he": "נוס",
+ "xlit": "nûwç",
+ "pron": "noos",
+ "def_en": [
+  "1) to flee, escape",
+  "1a) (Qal)",
+  "1a1) to flee",
+  "1a2) to escape",
+  "1a3) to take flight, m depart, disappear",
+  "1a4) to fly (to the attack) on horseback",
+  "1b) (Polel) to drive at",
+  "1c) (Hithpolel) to take flight",
+  "1d) (Hiphil)",
+  "1d1) to put to flight",
+  "1d2) to drive hastily",
+  "1d3) to cause to disappear, hide"
+ ],
+ "kjv": "[idiom] abate, away, be displayed, (make to) flee (away, -ing), put to flight, [idiom] hide, lift up a standard.",
+ "expl": "to flit, i.e. vanish away (subside, escape; causatively, chase, impel, deliver)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 161,
+ "formas": [
+  {
+   "forma": "וינסו",
+   "forma_he": "וַיָּנֻ֛סוּ",
+   "n": 26,
+   "ref": "bereshit/14/10"
+  },
+  {
+   "forma": "וינס",
+   "forma_he": "וַיָּ֖נָס",
+   "n": 22,
+   "ref": "bereshit/39/12"
+  },
+  {
+   "forma": "נס",
+   "forma_he": "נֵ֑ס",
+   "n": 16,
+   "ref": "bamidbar/21/8"
+  },
+  {
+   "forma": "נסו",
+   "forma_he": "נָּֽסוּ",
+   "n": 15,
+   "ref": "bereshit/14/10"
+  },
+  {
+   "forma": "לנוס",
+   "forma_he": "לָנ֥וּס",
+   "n": 11,
+   "ref": "bereshit/19/20"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3mp",
+  "HC/Vqw3ms",
+  "HR/Vqc",
+  "HVqp3ms",
+  "HVqp3cp"
+ ],
+ "glosa_es": "huir; escapar"
+}

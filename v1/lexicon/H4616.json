@@ -1,0 +1,60 @@
+{
+ "strong": "H4616",
+ "he": "מען",
+ "xlit": "maʻan",
+ "pron": "mah'-an",
+ "def_en": [
+  "1) purpose, intent prep",
+  "1a) for the sake of",
+  "1b) in view of, on account of",
+  "1c) for the purpose of, to the intent that, in order to conj",
+  "1d) to the end that"
+ ],
+ "kjv": "because of, to the end (intent) that, for (to,... 's sake), [phrase] lest, that, to.",
+ "expl": "properly, heed, i.e. purpose; used only adverbially, on account of (as a motive or an aim), teleologically, in order that",
+ "etim": "from ;",
+ "raices": [
+  "H6030"
+ ],
+ "ocurrencias": 272,
+ "formas": [
+  {
+   "forma": "למען",
+   "forma_he": "לְמַ֨עַן֙",
+   "n": 243,
+   "ref": "bereshit/12/13"
+  },
+  {
+   "forma": "ולמען",
+   "forma_he": "וּלְמַ֛עַן",
+   "n": 17,
+   "ref": "shemot/9/16"
+  },
+  {
+   "forma": "למעני",
+   "forma_he": "לְמַֽעֲנִ֔י",
+   "n": 6,
+   "ref": "mlakhim_b/19/34"
+  },
+  {
+   "forma": "למענכם",
+   "forma_he": "לְמַ֣עַנְכֶ֔ם",
+   "n": 4,
+   "ref": "devarim/3/26"
+  },
+  {
+   "forma": "הלמענך",
+   "forma_he": "הַ֭לְמַעַנְךָ",
+   "n": 1,
+   "ref": "iyov/18/4"
+  }
+ ],
+ "morph": [
+  "HR",
+  "HC/R",
+  "HR/Sp1cs",
+  "HR/Sp2mp",
+  "HTi/R/Sp2ms"
+ ],
+ "glosa_es": "para que; a fin de"
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H5046",
+ "he": "נגד",
+ "xlit": "nâgad",
+ "pron": "naw-gad'",
+ "def_en": [
+  "1) to be conspicuous, tell, make known",
+  "1a) (Hiphil) to tell, declare",
+  "1a1) to tell, announce, report",
+  "1a2) to declare, make known, expound",
+  "1a3) to inform of",
+  "1a4) to publish, declare, proclaim",
+  "1a5) to avow, acknowledge, confess",
+  "1a5a) messenger (participle)",
+  "1b) (Hophal) to be told, be announced, be reported"
+ ],
+ "kjv": "bewray, [idiom] certainly, certify, declare(-ing), denounce, expound, [idiom] fully, messenger, plainly, profess, rehearse, report, shew (forth), speak, [idiom] surely, tell, utter.",
+ "expl": "properly, to front, i.e. stand boldly out opposite; by implication (causatively), to manifest; figuratively, to announce (always by word of mouth to one present); specifically, to expose, predict, explain, praise",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 371,
+ "formas": [
+  {
+   "forma": "ויגד",
+   "forma_he": "וַיַּגֵּ֥ד",
+   "n": 73,
+   "ref": "bereshit/9/22"
+  },
+  {
+   "forma": "להגיד",
+   "forma_he": "לְהַגִּ֣יד",
+   "n": 25,
+   "ref": "bereshit/32/6"
+  },
+  {
+   "forma": "הגיד",
+   "forma_he": "הִגִּ֣יד",
+   "n": 24,
+   "ref": "bereshit/3/11"
+  },
+  {
+   "forma": "ויגידו",
+   "forma_he": "וַיַּגִּ֣ידוּ",
+   "n": 23,
+   "ref": "bereshit/42/29"
+  },
+  {
+   "forma": "הגד",
+   "forma_he": "הֻגֵּ֨ד",
+   "n": 23,
+   "ref": "yehoshua/9/24"
+  }
+ ],
+ "morph": [
+  "HC/Vhw3ms",
+  "HC/Vhw3mp",
+  "HR/Vhc",
+  "HC/VHw3ms",
+  "HVhp3ms"
+ ],
+ "glosa_es": "anunciar; declarar; informar"
+}

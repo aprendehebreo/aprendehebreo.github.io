@@ -1,0 +1,58 @@
+{
+ "strong": "H5739",
+ "he": "עדר",
+ "xlit": "ʻêder",
+ "pron": "ay'-der",
+ "def_en": [
+  "1) flock, herd",
+  "1a) flock",
+  "1b) herds, flocks and herds"
+ ],
+ "kjv": "drove, flock, herd.",
+ "expl": "an arrangement, i.e. muster (of animals)",
+ "etim": "from ;",
+ "raices": [
+  "H5737"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "עדר",
+   "forma_he": "עֵ֥דֶר",
+   "n": 7,
+   "ref": "bereshit/32/17"
+  },
+  {
+   "forma": "כעדר",
+   "forma_he": "כְּעֵ֨דֶר֙",
+   "n": 6,
+   "ref": "mikha/2/12"
+  },
+  {
+   "forma": "עדרי",
+   "forma_he": "עֶדְרֵי",
+   "n": 4,
+   "ref": "bereshit/29/2"
+  },
+  {
+   "forma": "העדרים",
+   "forma_he": "הָעֲדָרִ֑ים",
+   "n": 4,
+   "ref": "bereshit/29/2"
+  },
+  {
+   "forma": "עדרים",
+   "forma_he": "עֲדָרִים֙",
+   "n": 4,
+   "ref": "bereshit/30/40"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpc",
+  "HTd/Ncmpa",
+  "HNcmpa",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

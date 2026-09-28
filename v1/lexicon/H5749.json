@@ -1,0 +1,64 @@
+{
+ "strong": "H5749",
+ "he": "עוד",
+ "xlit": "ʻûwd",
+ "pron": "ood",
+ "def_en": [
+  "1) to return, repeat, go about, do again",
+  "1a) (Piel) to surround, go round and round",
+  "1b) (Pilel) to restore, relieve",
+  "1c) (Hithpalel) to be restored",
+  "2) to bear witness",
+  "2a) (Qal) to bear witness, say again and again",
+  "2b) (Hiphil)",
+  "2b1) to testify, bear witness",
+  "2b2) to cause to testify, take or call as witness, invoke",
+  "2b3) to protest, affirm solemnly, warn, exhort or enjoin solemnly, admonish, charge",
+  "2c) (Hophal) to protest, give warning"
+ ],
+ "kjv": "admonish, charge, earnestly, lift up, protest, call (take) to record, relieve, rob, solemnly, stand upright, testify, give warning, (bear, call to, give, take to) witness.",
+ "expl": "to duplicate or repeat; by implication, to protest, testify (as by reiteration); intensively, to encompass, restore (as a sort of reduplication)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "ואעידה",
+   "forma_he": "וְאָעִ֣ידָה",
+   "n": 6,
+   "ref": "devarim/31/28"
+  },
+  {
+   "forma": "העד",
+   "forma_he": "הָעֵ֣ד",
+   "n": 5,
+   "ref": "bereshit/43/3"
+  },
+  {
+   "forma": "העידתי",
+   "forma_he": "הַעִידֹתִי֩",
+   "n": 3,
+   "ref": "devarim/4/26"
+  },
+  {
+   "forma": "והעד",
+   "forma_he": "וְהָעֵ֖ד",
+   "n": 3,
+   "ref": "yirmiyahu/11/7"
+  },
+  {
+   "forma": "העדתי",
+   "forma_he": "הַעִדֹ֤תִי",
+   "n": 2,
+   "ref": "devarim/8/19"
+  }
+ ],
+ "morph": [
+  "HVhp1cs",
+  "HC/Vhh1cs",
+  "HVha",
+  "HVhp3ms",
+  "HC/Vhw1cs"
+ ],
+ "glosa_es": ""
+}

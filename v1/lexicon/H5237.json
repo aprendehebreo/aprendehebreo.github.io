@@ -1,0 +1,60 @@
+{
+ "strong": "H5237",
+ "he": "נכרי",
+ "xlit": "nokrîy",
+ "pron": "nok-ree'",
+ "def_en": [
+  "1) foreign, alien",
+  "1a) foreign",
+  "1b) foreigner (subst)",
+  "1c) foreign woman, harlot",
+  "1d) unknown, unfamiliar (fig.)"
+ ],
+ "kjv": "alien, foreigner, outlandish, strange(-r, woman).",
+ "expl": "strange, in a variety of degrees and applications (foreign, non-relative, adulterous, different, wonderful)",
+ "etim": "from (second form);",
+ "raices": [
+  "H5235"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "נכריה",
+   "forma_he": "נָכְרִיָּֽה",
+   "n": 10,
+   "ref": "shemot/2/22"
+  },
+  {
+   "forma": "נכריות",
+   "forma_he": "נָכְרִיּ֛וֹת",
+   "n": 9,
+   "ref": "bereshit/31/15"
+  },
+  {
+   "forma": "נכרי",
+   "forma_he": "נָכְרִ֛י",
+   "n": 9,
+   "ref": "shemot/21/8"
+  },
+  {
+   "forma": "הנכרי",
+   "forma_he": "הַנָּכְרִ֖י",
+   "n": 5,
+   "ref": "devarim/15/3"
+  },
+  {
+   "forma": "הנכריות",
+   "forma_he": "הַנָּכְרִיּ֑וֹת",
+   "n": 3,
+   "ref": "mlakhim_a/11/8"
+  }
+ ],
+ "morph": [
+  "HAafsa",
+  "HAafpa",
+  "HAamsa",
+  "HTd/Aamsa",
+  "HTd/Aafpa"
+ ],
+ "glosa_es": ""
+}

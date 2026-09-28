@@ -1,0 +1,5419 @@
+{
+ "generado_por": "build/build_all.py",
+ "fecha": "2026-09-28T17:26:37Z",
+ "total_archivos": 1353,
+ "archivos": {
+  "alefbet.json": {
+   "bytes": 14626,
+   "sha256": "a769c9607ed939a34337f97ba306dab09b1a749eb9a12ee5d3c528d3b1f17d70"
+  },
+  "index.json": {
+   "bytes": 1914,
+   "sha256": "8b0384a7972989c50d936c3f122b9ac39cbb51e80c4682de70cd5ee2c2c548f8"
+  },
+  "niqqud.json": {
+   "bytes": 15995,
+   "sha256": "4538b601533b1e4846f6575a9ad8dc02da730fc6fe4e22f934588640c5e091e8"
+  },
+  "lexicon/H1.json": {
+   "bytes": 1428,
+   "sha256": "d3a9c2f810c36073ea81fef4978f25f29b4e97c6c73edc4b600521fd590bff02"
+  },
+  "lexicon/H1004.json": {
+   "bytes": 1771,
+   "sha256": "d3fbb5f8f58dd52ad5355500dee5f528aa41ee6b932087aeda02d3038817db9c"
+  },
+  "lexicon/H1005.json": {
+   "bytes": 987,
+   "sha256": "aebbdca5dcc917018e843d1df6f43ad335901337119e2d07d3c149bb112014f7"
+  },
+  "lexicon/H1008.json": {
+   "bytes": 629,
+   "sha256": "f12bd5c7b70112f753f1d82d27066867fa7fcfb0ae35b31d97367bfde61d0154"
+  },
+  "lexicon/H1035.json": {
+   "bytes": 554,
+   "sha256": "e4d132ce96629fc2195e8a106b4926d4318cabe828c9da2a79fc896f362142ba"
+  },
+  "lexicon/H1058.json": {
+   "bytes": 1273,
+   "sha256": "5b84a0a6dc5b8890ad3e193c35b7bd69911ab62d586cddd86e2c2adb6a2af602"
+  },
+  "lexicon/H1060.json": {
+   "bytes": 1011,
+   "sha256": "f40c7003d148e65f2d40f126192ba43c3797086f9d090aeb672e9edd9af8d856"
+  },
+  "lexicon/H1077.json": {
+   "bytes": 602,
+   "sha256": "a8e5a4898ef06ea42ff4f91842e24f7a3523be1991def4cf3a752b8dd23789d8"
+  },
+  "lexicon/H1097.json": {
+   "bytes": 1124,
+   "sha256": "b38f0eab7a8064b06b32302cd8904a39dd183e68921fa8e6393abbf259fa8c0b"
+  },
+  "lexicon/H1101.json": {
+   "bytes": 1259,
+   "sha256": "f393c1ff002dcfbdedcd5004e8f89d9900eec68521e3c452a5260f0ed951567d"
+  },
+  "lexicon/H1104.json": {
+   "bytes": 1320,
+   "sha256": "c66658f5106533f1519249f9a09451f2b630bdafd7b2becd84b33722eaaf67f9"
+  },
+  "lexicon/H1109.json": {
+   "bytes": 886,
+   "sha256": "58f622390a235a6e43ec63ed40a04c8903d37f8d8c39c0e2b60955ffc3769d0b"
+  },
+  "lexicon/H1111.json": {
+   "bytes": 807,
+   "sha256": "cfb2a4de8491f7f0c847b71def9f547e6e15323dedcba3fc5a19b6415c1a34e9"
+  },
+  "lexicon/H1115.json": {
+   "bytes": 1468,
+   "sha256": "6b03418853bfd7aa10418558f4254c8f5283749593c5768ec15f179fec9b8aa9"
+  },
+  "lexicon/H1116.json": {
+   "bytes": 1124,
+   "sha256": "691642efa458261fbd7c3b50c9084202b739d88f3eed0a3097b7095372d9e15c"
+  },
+  "lexicon/H1121.json": {
+   "bytes": 2228,
+   "sha256": "3562343ce0a1c6b0c1ea3c65ee91045ec913a8d0bd1aac981739cdf80a93f4e1"
+  },
+  "lexicon/H1129.json": {
+   "bytes": 1386,
+   "sha256": "9ba3fab634115c0fed328e77c8ea7352ccda22227cbb99670dd78ab3b5011220"
+  },
+  "lexicon/H113.json": {
+   "bytes": 1997,
+   "sha256": "ccd4e6c2e3cc0ef6ab1f69c40bbc3f0a7c811b8eca0fcccb7f0455a9c2102d99"
+  },
+  "lexicon/H1141.json": {
+   "bytes": 1799,
+   "sha256": "2e06c5f303c272cb399f838844dd2660bef77b41f5d108c52b42a84d55efb8dc"
+  },
+  "lexicon/H1144.json": {
+   "bytes": 1356,
+   "sha256": "2bf28ba6e73511adefaece9a3e1f709152d9efefbd3fccdc2b8453f95b2cc5a4"
+  },
+  "lexicon/H1157.json": {
+   "bytes": 1223,
+   "sha256": "52dd57a960a67ff2a551ee2a0ba351293651b028ebe13ea1329675b6ddb44582"
+  },
+  "lexicon/H116.json": {
+   "bytes": 691,
+   "sha256": "c1bc99522ee4b36522133fbed2498dc0063142b4fab24c9c94d2bae9858be954"
+  },
+  "lexicon/H1167.json": {
+   "bytes": 1540,
+   "sha256": "92c174eb60390be2f0b1c2f9b9cd0cb117605f33004ac8f756a822aa7d272302"
+  },
+  "lexicon/H1168.json": {
+   "bytes": 1124,
+   "sha256": "d0b409a507b610c853457c6ec6897d8dab5815cb51a815b6b50062f4e98cb951"
+  },
+  "lexicon/H1197.json": {
+   "bytes": 1696,
+   "sha256": "533539faf63b3db5403bd38a88647bb1c61bbce52624a5eefcfe4ecce0f24aea"
+  },
+  "lexicon/H120.json": {
+   "bytes": 1205,
+   "sha256": "b5071dabbc7060ec5aef4a1d0182567f53d4b49c6a9998600ac034d05125be20"
+  },
+  "lexicon/H1219.json": {
+   "bytes": 1397,
+   "sha256": "6b50ac1c64da57d34ff0783eeb603bf1cd3f346356b492d21d180bad2d44a714"
+  },
+  "lexicon/H123.json": {
+   "bytes": 1119,
+   "sha256": "4cab3ba28bfe3da21883148e548cd47f56d14a804ba9fed84f80ddcc65a708d8"
+  },
+  "lexicon/H1234.json": {
+   "bytes": 1729,
+   "sha256": "d3a2957e19d2d2c410cd80986de5ab8c1da8935d6e69b421427ddfdeeda0c200"
+  },
+  "lexicon/H1241.json": {
+   "bytes": 1230,
+   "sha256": "3aa33eeeffe59b23df1b4407686ab29c002b2678e7d0e26db4a713c19573910d"
+  },
+  "lexicon/H1242.json": {
+   "bytes": 1218,
+   "sha256": "20ca7c3c4c2ca387abaeded9a78a8453ababbf513affe2f2eaaf86429e1c89ab"
+  },
+  "lexicon/H1245.json": {
+   "bytes": 1339,
+   "sha256": "28f4ddc0db914b1584e9c62c7ab5a15bf57f046ebb1e26d6c3ae6d6d53c56975"
+  },
+  "lexicon/H1254.json": {
+   "bytes": 1480,
+   "sha256": "6a08502eb33551e83aa0831e3f91ea3eb933dbb3b77ed382756f57ca0cccbe1e"
+  },
+  "lexicon/H127.json": {
+   "bytes": 1307,
+   "sha256": "9dfb197df790f0e958ce2ec77138177140e8f06441145ee9e5da94d6538d14d8"
+  },
+  "lexicon/H1270.json": {
+   "bytes": 1133,
+   "sha256": "fad7bceae51050b798108606c9e2263e8128bd40913f817f6114c3823d08eb7f"
+  },
+  "lexicon/H1272.json": {
+   "bytes": 1311,
+   "sha256": "382a6cd4cfe4b8b0257c1b2f912c15bc8a61a6e661ae37c72a9db4c4032ac013"
+  },
+  "lexicon/H1280.json": {
+   "bytes": 1025,
+   "sha256": "5bdce7741eb33d329da515a3fc3905943215166f92485c7b423a76fa351c2c04"
+  },
+  "lexicon/H1285.json": {
+   "bytes": 1529,
+   "sha256": "37e9dbb0ab4a7d304ca7e58367e56907c0bf7a3a99ad9d7d424fe072dc09c97d"
+  },
+  "lexicon/H1288.json": {
+   "bytes": 1514,
+   "sha256": "b24e6f1fd5560b1b87a16d5a8efc47f41980cb716e3e872c1d843cc45622afb2"
+  },
+  "lexicon/H1293.json": {
+   "bytes": 1088,
+   "sha256": "dfb994545394fdf492e3edf1e493480bc91be676135dc31f655ec8fce4d35917"
+  },
+  "lexicon/H1316.json": {
+   "bytes": 1053,
+   "sha256": "ed48a55d82313b17279515cd3695cc1a7fa5b5d2ce861c114312bb4951748e58"
+  },
+  "lexicon/H1320.json": {
+   "bytes": 1334,
+   "sha256": "48549a4e0f2c14c5b10dbb8db626116a90a608968303b20c9ebaae756657ec5d"
+  },
+  "lexicon/H1323.json": {
+   "bytes": 1414,
+   "sha256": "e2e136c64d154cfd7e5cb17108788da2ffc39d0d1a784729d272faa1b5377851"
+  },
+  "lexicon/H1330.json": {
+   "bytes": 1063,
+   "sha256": "ea2487c0f41c2afe934b8cbec54772f096377913d7a32d9c5fd4b9a4b0a19f5a"
+  },
+  "lexicon/H134.json": {
+   "bytes": 1195,
+   "sha256": "4b6fd125917a0c8e65f5b6757f856abe24de4eef956a50c79b99726997bd2654"
+  },
+  "lexicon/H1347.json": {
+   "bytes": 1232,
+   "sha256": "ff98617e9de3f6dfe46ce6035014ded3bf7b1b0d6e724148a24e351672976460"
+  },
+  "lexicon/H1350.json": {
+   "bytes": 1698,
+   "sha256": "8102a166d2b878f094a42d0e3ff559f35c9be92a26748067f0be28bd3a4433bd"
+  },
+  "lexicon/H136.json": {
+   "bytes": 1079,
+   "sha256": "b12086bad1c8dd2cdde38b38ad14bb6c19c8c2b5f3a5636cc9116a5923fb6ab5"
+  },
+  "lexicon/H1364.json": {
+   "bytes": 1108,
+   "sha256": "5ca4283a864464bedfde35bb7ba2abed0949b2d6f821ccab0a599765196dbbf9"
+  },
+  "lexicon/H1366.json": {
+   "bytes": 1221,
+   "sha256": "f7c3ab2f90d90b9ee5d1aa462353866028f2444909d42750bbc2b507886e7641"
+  },
+  "lexicon/H1368.json": {
+   "bytes": 1154,
+   "sha256": "cdb435926495128f1b17014b40799f2c91ee3be51eabb496364ef3c3a5dd8d65"
+  },
+  "lexicon/H1369.json": {
+   "bytes": 1194,
+   "sha256": "bf983240bb25d119d2a22ba85c8ad11214f152fe3cef8abeb1f865c3cfc11728"
+  },
+  "lexicon/H1389.json": {
+   "bytes": 1059,
+   "sha256": "4fa2ce64214e3bcb9e680c25113074a608d879643caafc6b474082988d6fe630"
+  },
+  "lexicon/H1390.json": {
+   "bytes": 1094,
+   "sha256": "3d9d5028794977e151e5a366fb158d245aa62cc9ed41557764b9242a1210e9ed"
+  },
+  "lexicon/H1391.json": {
+   "bytes": 1057,
+   "sha256": "0649f5463aa7b270818fc0d2318be68becb79a727d08477e6b19c4f6d0100c65"
+  },
+  "lexicon/H1397.json": {
+   "bytes": 1027,
+   "sha256": "2607ca1160e0ff80b39b20b30b735daf1e86e569c90fb44957d1f836c2736a3a"
+  },
+  "lexicon/H14.json": {
+   "bytes": 1032,
+   "sha256": "188f10e53264c710dfbf6d6bdc4fa7ce4e92a5e0850cc86b7c8e3a4c9c9a17c9"
+  },
+  "lexicon/H1410.json": {
+   "bytes": 1239,
+   "sha256": "1a27d2e6ef7f90751f5534090c27619d873ce372b71ee8675a714b7066a20e89"
+  },
+  "lexicon/H1419.json": {
+   "bytes": 1564,
+   "sha256": "11002aeee7d8c522d4b4ab6601d1bf1d50b7566ce96ae1f9a92383c93107a889"
+  },
+  "lexicon/H1431.json": {
+   "bytes": 1685,
+   "sha256": "54f4bb70f8d44def0debc67121802d242d4bf04900f392fd447aaf9b6177d1a9"
+  },
+  "lexicon/H1439.json": {
+   "bytes": 935,
+   "sha256": "6822bd4bc13ddabb8d9a2462d1ada4d600c495429695ee1b371f55d318cd97c4"
+  },
+  "lexicon/H1471.json": {
+   "bytes": 1306,
+   "sha256": "0e79b0bc3cef281d712ec446c2c5027011a7b0e530a136a0e63eefecbd1d459a"
+  },
+  "lexicon/H1473.json": {
+   "bytes": 1086,
+   "sha256": "422f9038049fcdca5dfeb3dbab98f4efbed1db3a3d9cee01a44c82565be89222"
+  },
+  "lexicon/H1481.json": {
+   "bytes": 1709,
+   "sha256": "cb2fa8edba0aea32bd05f6f4d23e6a7a1fa4f84f2d6ff10602e094ba44bfd75d"
+  },
+  "lexicon/H1486.json": {
+   "bytes": 1230,
+   "sha256": "48c46d7ec4720269863a30fdae9ea29451ec6458e68d6167606076514b6c7c5f"
+  },
+  "lexicon/H1496.json": {
+   "bytes": 687,
+   "sha256": "10c5bfda7648a40687562dae326e82042785ea83a95d082b24b24565651ea687"
+  },
+  "lexicon/H1516.json": {
+   "bytes": 1021,
+   "sha256": "3cd0d4ddca3966990be139462dde977e7ed67ec1e6fdb7eb4adcefb93cb9987b"
+  },
+  "lexicon/H1523.json": {
+   "bytes": 1107,
+   "sha256": "a72653d4971e90c698021a7e2e14300ec20d53ef96be75afad3c1acb1ef33a58"
+  },
+  "lexicon/H1537.json": {
+   "bytes": 1349,
+   "sha256": "4db1a9a8ff988f1834bad402997faaa4dda2e46af6f56c70e2338f1ce4531531"
+  },
+  "lexicon/H1540.json": {
+   "bytes": 2008,
+   "sha256": "856ea3f0d0c8f1a2806c65600b8efd3e7f8c6f344d30968361bf779624a7b5c7"
+  },
+  "lexicon/H1544.json": {
+   "bytes": 1009,
+   "sha256": "2706337fe111be6692c3653130b4f3668a0d6c3cf7cd5706a25a2b871a57085c"
+  },
+  "lexicon/H1558.json": {
+   "bytes": 911,
+   "sha256": "cb506f6683a3092222b7ee083a0c221fc0633ab47cf1d3f4b6f89c4a88161d1d"
+  },
+  "lexicon/H1568.json": {
+   "bytes": 1448,
+   "sha256": "11ae7fc33628227af5c521d8f146ac884623b2f41d9e8b3a18b63b94a46a3f0b"
+  },
+  "lexicon/H157.json": {
+   "bytes": 1514,
+   "sha256": "5cbfa22e62caa4de1022b287bc945aeebb01a168aeeb8094fc6a757cb8c8cb04"
+  },
+  "lexicon/H1571.json": {
+   "bytes": 1504,
+   "sha256": "be6327a25f3b4a7063d0b0d3dda306e608c4b95a035acecd83122d58fd1cfaa1"
+  },
+  "lexicon/H1580.json": {
+   "bytes": 1349,
+   "sha256": "3af4e3e4b9c3bf8376c4038a03924c710c48e020201f7700413ee2fd982989a4"
+  },
+  "lexicon/H1581.json": {
+   "bytes": 1037,
+   "sha256": "a588c063822b5edb5f7286e4c2924b02af7dc66a28c90028844253b2bf07e323"
+  },
+  "lexicon/H1588.json": {
+   "bytes": 961,
+   "sha256": "e46878a84efb59c2c9afa27c5e9597e08e021ad84086b690b7d04322d6217c37"
+  },
+  "lexicon/H1589.json": {
+   "bytes": 1209,
+   "sha256": "1a8f7092aca53c75faea73bd9fafa2c4c7ac258c9ba984a79b8d3e3ce061bcac"
+  },
+  "lexicon/H160.json": {
+   "bytes": 1146,
+   "sha256": "3c70f132e0576e9a0ca1083cb15f95a6d0ab51fc299e728d8f68b2408320948d"
+  },
+  "lexicon/H1612.json": {
+   "bytes": 1039,
+   "sha256": "5257b95d3c0c6c9ce7c2dec1517121be16a45d5a45b4e84d1ec6efd91600cc52"
+  },
+  "lexicon/H1616.json": {
+   "bytes": 1053,
+   "sha256": "33b3d159c016835ce9dfe02c4c74adc1f2d2a22148753e8f2daf34e636cb0bde"
+  },
+  "lexicon/H1637.json": {
+   "bytes": 1076,
+   "sha256": "d59fa29aea0e47ba0d25dae4f7c0e03b7e969d29c778e2c745eb9267c01e3bbc"
+  },
+  "lexicon/H1644.json": {
+   "bytes": 1319,
+   "sha256": "6eec23cbfe122ec5e1b75359aa9a38bce712122223c34126433273da055f3a23"
+  },
+  "lexicon/H168.json": {
+   "bytes": 1115,
+   "sha256": "31345da8d0b3097f9c0240ef706efc5dae1ce27e091d28f8c98c1af51bbbdf41"
+  },
+  "lexicon/H1692.json": {
+   "bytes": 1413,
+   "sha256": "9344a800d5e005cdc5311290ce2992423689916bcf3758232c4890b2f42e512b"
+  },
+  "lexicon/H1696.json": {
+   "bytes": 1500,
+   "sha256": "3865a617e248c78bc1f2d01931bf2528b49aed3f0cb26b2b8b27597a97b662cc"
+  },
+  "lexicon/H1697.json": {
+   "bytes": 2101,
+   "sha256": "14137d9ac233b0d00f3320365816108bda2da2be6c128268c89851078901d674"
+  },
+  "lexicon/H1698.json": {
+   "bytes": 985,
+   "sha256": "8cb8605bce5ecf8342f24a011feab6bc479525bd77dff36e06b112cc942a04bc"
+  },
+  "lexicon/H1706.json": {
+   "bytes": 933,
+   "sha256": "c7e30eb219e94ed6ca8a1754f633b1ed60a5a7d04055528ee2a85ca8ed69dad8"
+  },
+  "lexicon/H1710.json": {
+   "bytes": 920,
+   "sha256": "34164dc8eb976a955940369950def6396fff5fad15bf03eae759d623f324659e"
+  },
+  "lexicon/H1715.json": {
+   "bytes": 931,
+   "sha256": "57ab552c193169d199ac9f19b0ed5d83c6774024b1e3a38c485f42469c9085a8"
+  },
+  "lexicon/H1730.json": {
+   "bytes": 1110,
+   "sha256": "8f9eba153e1c9da077fdb42b80ff66611fa035853689791a003e8ea22ba496eb"
+  },
+  "lexicon/H1732.json": {
+   "bytes": 980,
+   "sha256": "822353ad4abdadd6125eab5a5fdf69e067602bba347f17d60b77457360bc0360"
+  },
+  "lexicon/H175.json": {
+   "bytes": 988,
+   "sha256": "a3648da18842a07ee38a969fdf150e90011d1c750a49f515b436534945fd9d50"
+  },
+  "lexicon/H1755.json": {
+   "bytes": 1265,
+   "sha256": "7290ade937682c0bc707f0208ec9a1deaef922d08c44dfcf83f95b246c21ff85"
+  },
+  "lexicon/H176.json": {
+   "bytes": 869,
+   "sha256": "e1b09c1c54c483c280506bc61ce64a43879bbba81149eaf793a5bf1520131ac2"
+  },
+  "lexicon/H1767.json": {
+   "bytes": 1136,
+   "sha256": "050e706d39fb3e1a480cec5e2e33168bf6a32abb9afd79a0e925ac435ef2803e"
+  },
+  "lexicon/H1768.json": {
+   "bytes": 1206,
+   "sha256": "30ab55e20ad64984a967ea2d34e0043cd18da18ad4a9a74e4c16d69dc2d917cb"
+  },
+  "lexicon/H1800.json": {
+   "bytes": 936,
+   "sha256": "876ca2b49e7ea7ac70bf24f6de841e6f69e1532a1653ddebaaf64bea3046ed89"
+  },
+  "lexicon/H1817.json": {
+   "bytes": 1151,
+   "sha256": "aabcdc20c3b78ef9482f2831f1e38aae9135a48ba88e0714771fff3e649b05b2"
+  },
+  "lexicon/H1818.json": {
+   "bytes": 1091,
+   "sha256": "6f049c6f8e0b4f2ef977c3ff4ae4ffc819a366670fd4382d5048b75b3b09033a"
+  },
+  "lexicon/H1823.json": {
+   "bytes": 1053,
+   "sha256": "5496fd21d11ae9b838501c3b67e9f78b4d366529133ec5afa1911f27949734fd"
+  },
+  "lexicon/H1834.json": {
+   "bytes": 1087,
+   "sha256": "1879e4594b6771367f53a01fae93899a9c337646392c36195e1d38ab0f0f8424"
+  },
+  "lexicon/H1835.json": {
+   "bytes": 1152,
+   "sha256": "f009a2619df6b2097ef460fad37216979c564e02954eafff9b82f7252455040b"
+  },
+  "lexicon/H1836.json": {
+   "bytes": 976,
+   "sha256": "58722e879852329ee3a7827f7389798025a83451abf383b58c44c9e4c78b77ab"
+  },
+  "lexicon/H1841.json": {
+   "bytes": 1455,
+   "sha256": "8cead568030408a4ed74817b8aa9397668ae355a5db8286e165f1577d6e8430c"
+  },
+  "lexicon/H1847.json": {
+   "bytes": 1021,
+   "sha256": "70d4631a118abcb6c95238641cbc87e3d4a6a24a748c62dc03e893788d26d558"
+  },
+  "lexicon/H1869.json": {
+   "bytes": 1375,
+   "sha256": "17ad7fb7505649facf401b2d002a8c5e2297a0069f630acbfaf35a19cfc4c52d"
+  },
+  "lexicon/H1870.json": {
+   "bytes": 1316,
+   "sha256": "e3943e075310cc1798f234cb7ff4c9fa97f2f373395db1763225ee0a2d918f23"
+  },
+  "lexicon/H1875.json": {
+   "bytes": 1855,
+   "sha256": "3d2564d61cd8b215886d7d69f8b7b3dc0c4ff76ec10f85be5a44f1bc2787523d"
+  },
+  "lexicon/H1876.json": {
+   "bytes": 638,
+   "sha256": "572231a3704a848727febac3ff37f44164b7f6917e8b87076c2bd2c400a2fb98"
+  },
+  "lexicon/H1877.json": {
+   "bytes": 716,
+   "sha256": "c76cb64f60595dc79342a7e3b581e44644e5db8e8360ffa59e270a78e5b31ae7"
+  },
+  "lexicon/H1878.json": {
+   "bytes": 1444,
+   "sha256": "b70312a98eb8bbdee311094c2d5439798936c47d667fd490f5c2db07717c897d"
+  },
+  "lexicon/H1892.json": {
+   "bytes": 1103,
+   "sha256": "b4b29cd70d931dba3e7309396e27df8e2669f0e99853d6340cb5ad9ea38d06a2"
+  },
+  "lexicon/H1920.json": {
+   "bytes": 1104,
+   "sha256": "b991883024d5e30e5b571ff774901020ca07447a53397784c9cdbcaf63d92042"
+  },
+  "lexicon/H1931.json": {
+   "bytes": 1527,
+   "sha256": "8d5b1bb872ef9c75b5df47ba4a29f87d79f8f73eef37047f727d0a2cc0797de9"
+  },
+  "lexicon/H1934.json": {
+   "bytes": 1505,
+   "sha256": "f3e1573a8892fc00edaf690cc31f24941ec306215213612e0c846f5af2c8c525"
+  },
+  "lexicon/H194.json": {
+   "bytes": 610,
+   "sha256": "a8032bc6dbb6657253975a9a04f6dec61df81c4b4055f946e4ccf08970148ede"
+  },
+  "lexicon/H1945.json": {
+   "bytes": 554,
+   "sha256": "43014984717a7ba2d839fab148ae05c3b77727c1f57087fdac8a117df0b5b95f"
+  },
+  "lexicon/H1961.json": {
+   "bytes": 1926,
+   "sha256": "55d597f031e9bdc2686f5f85ab092b3592b57411ad879b15392157de2a110272"
+  },
+  "lexicon/H1964.json": {
+   "bytes": 1137,
+   "sha256": "1e789aede9d5d5fad8e5559d7b261c6a2a6a9e6a8228dfa94d29e85f449a4cfd"
+  },
+  "lexicon/H1980.json": {
+   "bytes": 1864,
+   "sha256": "91d51dc18ca497bb357a6c5d514723a99779fd4717674b7dd6f8d9f21efccdf7"
+  },
+  "lexicon/H1984.json": {
+   "bytes": 1832,
+   "sha256": "a3c81b21d8348cdb2c9139bac905daaf9b73eca1ce8fff317e35f06b1c980375"
+  },
+  "lexicon/H1992.json": {
+   "bytes": 1080,
+   "sha256": "c4fb0fd9697a64e65003dfce482c1d1b00c644ee43ebde6765fe7430b9586902"
+  },
+  "lexicon/H1995.json": {
+   "bytes": 1231,
+   "sha256": "ac4d7b1a76a86c0f9509813ef1f1ab803cb6eec57b7f8bfa2a52771f0efb2cb1"
+  },
+  "lexicon/H2001.json": {
+   "bytes": 935,
+   "sha256": "a61d05be68d3babc5de729211199b28e4c33412793b9df7a1330f069de88a6eb"
+  },
+  "lexicon/H2005.json": {
+   "bytes": 961,
+   "sha256": "358296f9a63eaabaa954d414384ea7f7fc83a037770a190ecdfea9be66a1516e"
+  },
+  "lexicon/H2007.json": {
+   "bytes": 1083,
+   "sha256": "5e188cb86195f823b8c522794b60ed1961d20b0a7efbff0928d39938ebd7fa75"
+  },
+  "lexicon/H2008.json": {
+   "bytes": 691,
+   "sha256": "f5401443a1d68429bcf68fab466be442767ddf06604c19c2501490a73fbc4794"
+  },
+  "lexicon/H2009.json": {
+   "bytes": 900,
+   "sha256": "03d2290310fb7ce68c4dbadac1b35d7e4c792f0620abd9027f5cb3740ccdbc89"
+  },
+  "lexicon/H2015.json": {
+   "bytes": 1687,
+   "sha256": "39d5f5918ad76b69b2e4faeaa879e00676e4c4673ce6fc37ae1702ff8261034e"
+  },
+  "lexicon/H2022.json": {
+   "bytes": 986,
+   "sha256": "81e2d35051f76b2f99f1af3ef0ac095ba10ad2072e382b1a89ddfe4f8463df09"
+  },
+  "lexicon/H2026.json": {
+   "bytes": 1178,
+   "sha256": "c1a33817ab9448b19492ed71c3b351d01182ab45d631c8b9951c30cb3e16e9ba"
+  },
+  "lexicon/H2029.json": {
+   "bytes": 1153,
+   "sha256": "db82533be38cc22308f9c73f90210d7cb73b16150512be5db73bf2985381e26a"
+  },
+  "lexicon/H2040.json": {
+   "bytes": 1381,
+   "sha256": "747b7bcc7e003f76728c06c6c2183e6d885ec8ff93cc7b4a4fc8176ee5ce5bed"
+  },
+  "lexicon/H205.json": {
+   "bytes": 1272,
+   "sha256": "2da38cb69f7924b2beb9192fbb261a040e442d136f0e3928d7c8fb6c498a505d"
+  },
+  "lexicon/H2063.json": {
+   "bytes": 1934,
+   "sha256": "5b7132bd04734458d7fe2fe076b22c914ca81d48499996466aea87aebb5cf841"
+  },
+  "lexicon/H2074.json": {
+   "bytes": 1179,
+   "sha256": "93ccc2495bd65ab6ad63ffc7d940e108fa795cbb8ad8d1aa988027741ceb62a1"
+  },
+  "lexicon/H2076.json": {
+   "bytes": 1182,
+   "sha256": "99911ec780326d3bda027b885b3941b35c33999da411be56862d12122456d59c"
+  },
+  "lexicon/H2077.json": {
+   "bytes": 1198,
+   "sha256": "05c25095a16a0ba965a345285711df991824dd47bea278e0b1ac00051915c3ce"
+  },
+  "lexicon/H2088.json": {
+   "bytes": 2098,
+   "sha256": "378d7c4c76eb6015133860551d13655d94bdbd451a2648156ebf33a2d66860cc"
+  },
+  "lexicon/H2091.json": {
+   "bytes": 1089,
+   "sha256": "412386e77c4a29c53e5e0e96b2c9a616bcb634d827df5cf4be6691e33b294d13"
+  },
+  "lexicon/H2100.json": {
+   "bytes": 1186,
+   "sha256": "b997620f4aadf6ff3ac63e705a8ab088dbf0aff33440e5e2f79031889e3af29f"
+  },
+  "lexicon/H2114.json": {
+   "bytes": 1362,
+   "sha256": "cc1f932a0db80692b75de495eaba414e3bd01d05c1d93cee02dc5ca5115bcd6e"
+  },
+  "lexicon/H2132.json": {
+   "bytes": 1115,
+   "sha256": "5cbabf69a8e2868db604142f9c428dd09e79882c817d71dba30545e0ce6da246"
+  },
+  "lexicon/H214.json": {
+   "bytes": 1283,
+   "sha256": "641d5dbaea0c8d61a6b934a63b3c8f0587e1c2672aebbfd3bd138714fdbe0ece"
+  },
+  "lexicon/H2142.json": {
+   "bytes": 1598,
+   "sha256": "c5f5b80f1d9947316207b1b74deba471453ad419dbf1aeeec51e459816d34add"
+  },
+  "lexicon/H2145.json": {
+   "bytes": 1051,
+   "sha256": "6cd621b7da7553d5469d3088c53c9720db5cc783e1ebfb0695dad84964643686"
+  },
+  "lexicon/H2148.json": {
+   "bytes": 3328,
+   "sha256": "d0df71e7a7abc028be7964eff2c38ad341d40475feda062b3dc6a555639eb34a"
+  },
+  "lexicon/H215.json": {
+   "bytes": 1468,
+   "sha256": "76bcaac3bd7125a8aedc383b51d47a7c864fba0f742f2c63327c6cfe4b49722a"
+  },
+  "lexicon/H216.json": {
+   "bytes": 1294,
+   "sha256": "acf7b5517defafc9a106c82e3725c873f1112c74b5bdd9c4cb57b72426afbd2d"
+  },
+  "lexicon/H2167.json": {
+   "bytes": 1279,
+   "sha256": "f31f1f72e2c65df8cc5c700713913a43e8ba8cc39eecde188bf62ffd9890f938"
+  },
+  "lexicon/H2181.json": {
+   "bytes": 1667,
+   "sha256": "5c8441bbd55622f5c69c60ac8beba84d3001f30459c8a70a301e357474c08397"
+  },
+  "lexicon/H2199.json": {
+   "bytes": 1450,
+   "sha256": "f7f1274e0b03c794aa3a2320f077bd550362752808dc7de6b683d8815851d7b0"
+  },
+  "lexicon/H2205.json": {
+   "bytes": 1016,
+   "sha256": "380d41e70dc31f6033429ae217971b655cfcebf4579d35dd0837d71d4f9f4fbf"
+  },
+  "lexicon/H2219.json": {
+   "bytes": 1340,
+   "sha256": "8307fafa3b2f8157187e43b0852c43e3332a8ba5c41f3bceeac551ee8d8c108d"
+  },
+  "lexicon/H2220.json": {
+   "bytes": 1209,
+   "sha256": "554ac0c0a08677a7d5449bb8424a3276bc4a9f4d6c88d1b41939cdeeb68fc2b2"
+  },
+  "lexicon/H223.json": {
+   "bytes": 1093,
+   "sha256": "4c6a7bb69f76f28db5b805123399a1707bd5310000674e5deb54dddeac2ea80f"
+  },
+  "lexicon/H2232.json": {
+   "bytes": 1192,
+   "sha256": "d116a779bd03bc64d984db32d8928973fe02ae5e44fbf9e2f59dff546bcf250d"
+  },
+  "lexicon/H2233.json": {
+   "bytes": 1236,
+   "sha256": "fadc296d13080e52f3879115f6b682f290f2ba9bcdae70a3eb69b0e6e355b5bc"
+  },
+  "lexicon/H2256.json": {
+   "bytes": 1495,
+   "sha256": "6b7e33d97e2ee56b96917313c5b090d22da548adb302023ac63edc8b60f7c651"
+  },
+  "lexicon/H226.json": {
+   "bytes": 1167,
+   "sha256": "df3961fa50104fb77ac70a09ab3f94752e2d6324aa9fcd886ac234f09e025292"
+  },
+  "lexicon/H227.json": {
+   "bytes": 1015,
+   "sha256": "baec739753c20da181bbd7fe80009e3f228176b5e8e67474ebf1c1310d0a94a1"
+  },
+  "lexicon/H2275.json": {
+   "bytes": 1231,
+   "sha256": "72008798546d2cf2868d46856578f6467c110b75e368d31a4e5686da12d88c4f"
+  },
+  "lexicon/H2282.json": {
+   "bytes": 971,
+   "sha256": "a1e333c35f9cbb2c5e4dcbc4dbd4a70059041df48758f4d21f6d9e67181b5d33"
+  },
+  "lexicon/H2296.json": {
+   "bytes": 1104,
+   "sha256": "2586d7642288c7fe4edd537a5f5b8cfb1756a3cf2631e7088f9be6575d31bdbe"
+  },
+  "lexicon/H2308.json": {
+   "bytes": 1164,
+   "sha256": "486314a9f0c56ae71b88a5f7e5d2c666eb35ca634dc7a230bc95e9c535fa204b"
+  },
+  "lexicon/H2315.json": {
+   "bytes": 1014,
+   "sha256": "b0d83373fc3c4ae34136f676d063fb656466576b491a3e87114b150cdd35511e"
+  },
+  "lexicon/H2319.json": {
+   "bytes": 901,
+   "sha256": "0ffe375e197102bf49080fc979f3afebc845a06de415837c572f635d954efdf1"
+  },
+  "lexicon/H2320.json": {
+   "bytes": 1018,
+   "sha256": "ec67d7342c20d5fde9e1164e92dfea3d31f55ae52d4d8a3822ff4821cbfb6ac8"
+  },
+  "lexicon/H2342.json": {
+   "bytes": 1921,
+   "sha256": "cf6bf421280c93a005ea09cb9708b61d4fd4e13364b0b303b566c3350452ebe5"
+  },
+  "lexicon/H2346.json": {
+   "bytes": 952,
+   "sha256": "d81684b41a1b978d310ee17c570dffdf7bf015d0e7b323bc5e1bd011e0098f39"
+  },
+  "lexicon/H2351.json": {
+   "bytes": 1105,
+   "sha256": "cdabfa69dbcd2ac09782895dae5ac253a475ec700b9b190e6d3ec29418d60f79"
+  },
+  "lexicon/H2372.json": {
+   "bytes": 1217,
+   "sha256": "c098c73fdf9fa9d20482bb7a97690a6c71515cf505263de2221249f056af1a1e"
+  },
+  "lexicon/H238.json": {
+   "bytes": 1236,
+   "sha256": "8866923520e8ce8343fb84f5196f498ee6dd57ae1118d1c60dc9060a21e81198"
+  },
+  "lexicon/H2388.json": {
+   "bytes": 2640,
+   "sha256": "d46ee19b2ff4a5ab9668b0ec3237b45f2750f08f6139fbe8686a9482425a9dab"
+  },
+  "lexicon/H2389.json": {
+   "bytes": 1092,
+   "sha256": "fff941e90a62bd2fedaad421822ca3246e3f0a82cc5afd3e29356a700a245186"
+  },
+  "lexicon/H2396.json": {
+   "bytes": 1416,
+   "sha256": "87c6916a107b52f9b7a52aa2695833dadcef8eaa8a146f68bb508165c3504d83"
+  },
+  "lexicon/H2398.json": {
+   "bytes": 1843,
+   "sha256": "ac7176fa8fb3e736b71cc8116a63bf7efcc53a94142756c62aff7610bb1f69fc"
+  },
+  "lexicon/H2403.json": {
+   "bytes": 1308,
+   "sha256": "5ec29530926eb1dbc9829df3704aec3243e2d2c782c3d504567e3d884f80f8c0"
+  },
+  "lexicon/H241.json": {
+   "bytes": 1138,
+   "sha256": "c3bbb01104fa3b1df6b8f5868ac142d55e75a1a22e2a17f29ebcb8e8702d224a"
+  },
+  "lexicon/H2416.json": {
+   "bytes": 1647,
+   "sha256": "83aacf46ff73d0ba0446316dc796374eb3ad2c661f4ca7f99513f8fa0bf50d21"
+  },
+  "lexicon/H2421.json": {
+   "bytes": 2030,
+   "sha256": "5d9c7d1399fbda224c822bd188ab946cfe36be9bd8e4a54a7a00dcf3b98154b5"
+  },
+  "lexicon/H2428.json": {
+   "bytes": 1331,
+   "sha256": "85cf8bf588707f609253e1f9d546db9728efc024067ccee04a6526275f8ee9e6"
+  },
+  "lexicon/H2436.json": {
+   "bytes": 999,
+   "sha256": "cddb5e080a9379e5777ba3935609d8bc88ecb1d7f0632db8a9254717ff924fce"
+  },
+  "lexicon/H2450.json": {
+   "bytes": 1161,
+   "sha256": "19183cd19c04797dc13a72ebf36d5e00cf160332eb3708ff9bb99c75a5e5507c"
+  },
+  "lexicon/H2451.json": {
+   "bytes": 1101,
+   "sha256": "269c2226352007a5976759c8fe1c05a3a7e4c10135744f4213237535e5246464"
+  },
+  "lexicon/H2459.json": {
+   "bytes": 1123,
+   "sha256": "0157cec850e64dd442c64b2001bba56a344ea570175bbbbfad6bf5b17101062d"
+  },
+  "lexicon/H2461.json": {
+   "bytes": 1014,
+   "sha256": "42d76c2aaf89151be743ac163063e355f826f63e9179edffc88560e538ae089e"
+  },
+  "lexicon/H2470.json": {
+   "bytes": 1976,
+   "sha256": "8606d89456f8433bcd9649a6a3b0ce48b69a1ff8e3b5be77c2872a550b1b4908"
+  },
+  "lexicon/H2472.json": {
+   "bytes": 974,
+   "sha256": "b5d0fc445618d37688771397952ec4d3b50567dc31dde72e359cb40c2fb69d56"
+  },
+  "lexicon/H2490.json": {
+   "bytes": 2092,
+   "sha256": "2296c28c346e2a5df26d7910f27e4c49bf55895894e71443be8578ac20b5ea41"
+  },
+  "lexicon/H2491.json": {
+   "bytes": 1134,
+   "sha256": "b977a5a60ac4730a96146fbde30273d338bc443f083a3d01c762a80f4026e00b"
+  },
+  "lexicon/H2502.json": {
+   "bytes": 1744,
+   "sha256": "8ba53c35a58dd03095412b8d7067881510e49bc47e584843b3a55f0b8e51e9fd"
+  },
+  "lexicon/H2505.json": {
+   "bytes": 1756,
+   "sha256": "fc77ddd67a1e9efe23a6d64070054996aece01a4a45260070df44bba2c10d1b3"
+  },
+  "lexicon/H2506.json": {
+   "bytes": 1202,
+   "sha256": "538df27b8172dc4aa94ed93d71b28738069dbff6b606b96cde9cef613d42bc25"
+  },
+  "lexicon/H251.json": {
+   "bytes": 1284,
+   "sha256": "4881ff8c4403a75af2e1fe43682fe1dc00ef8b862e524a8a083a19618b1790f0"
+  },
+  "lexicon/H2530.json": {
+   "bytes": 1193,
+   "sha256": "72d24a5182ef7ba328a5f865b7dc3abeb707f91189e933a3cfb24f9d91104581"
+  },
+  "lexicon/H2534.json": {
+   "bytes": 1190,
+   "sha256": "86af306a270758429dfdd240a03febeec68ca9e5e02cbd678a7fafd2b185dacd"
+  },
+  "lexicon/H2543.json": {
+   "bytes": 924,
+   "sha256": "ea04a0b59fb8fc069090a5e7a2c8f1845eb175fc270c275c0eae832af94b92e1"
+  },
+  "lexicon/H2549.json": {
+   "bytes": 981,
+   "sha256": "a35b3526b4a3a36de358e7ebb065f88d7dd5230761a283242ced3656aef41ff7"
+  },
+  "lexicon/H2550.json": {
+   "bytes": 967,
+   "sha256": "4723ef3c55af8daee0f12d2961eef82f8304b694a49802443aec1ca666d9de79"
+  },
+  "lexicon/H2555.json": {
+   "bytes": 1054,
+   "sha256": "00f4e274e46fc29fbc2762436713916b2257bbb6e10fbff18e12119446874da9"
+  },
+  "lexicon/H256.json": {
+   "bytes": 1162,
+   "sha256": "bf8a8a4943ae0a87e26e7b8d193d3750954dc69444a9208e08584b68534b630c"
+  },
+  "lexicon/H2568.json": {
+   "bytes": 1041,
+   "sha256": "14ac488164813ff6eeb1cef59cabc06fbf627dd621b9264a716d6b853b5c0eae"
+  },
+  "lexicon/H2572.json": {
+   "bytes": 1082,
+   "sha256": "19bcb0644735c37cb06c17c8c92b18375c4550c42188ff41e9a3cd0b8c3fd943"
+  },
+  "lexicon/H2580.json": {
+   "bytes": 911,
+   "sha256": "438099b3ce6320c09eea7ccfeed9da7a3ec147648be9ee5db8231347a26159b8"
+  },
+  "lexicon/H2583.json": {
+   "bytes": 1218,
+   "sha256": "89434671b5e883c1edf330df9757207ba7707841ca2f1ccdb62705db15fa7ebf"
+  },
+  "lexicon/H259.json": {
+   "bytes": 1381,
+   "sha256": "646e2b436d381c2ec1f12ba64a116801b959d40e8857ed6c9bb8a76a5eedb945"
+  },
+  "lexicon/H2595.json": {
+   "bytes": 1008,
+   "sha256": "82b7eca8bb939ebe69bfc2fcd46ebdfa4f4f6d48df22e13805a9d547c81c6767"
+  },
+  "lexicon/H2603.json": {
+   "bytes": 1596,
+   "sha256": "9abeab031b63aca35565c427a866bc067b107d99224bf54b8e44267de276596c"
+  },
+  "lexicon/H2617.json": {
+   "bytes": 1170,
+   "sha256": "45709f7e89dc62a711e03195165cbac6a25dc7b4405d9c213dd1d06c76156188"
+  },
+  "lexicon/H2620.json": {
+   "bytes": 1054,
+   "sha256": "4dc6617ca20a82afb78f4a512cee2d9e82ca6f7f989795b66d52a9ad79145988"
+  },
+  "lexicon/H2637.json": {
+   "bytes": 1199,
+   "sha256": "44a9a5426a72e116a2b47d0ec71f8d4f314b122e47bbc3e2269a9c13816ed22d"
+  },
+  "lexicon/H2654.json": {
+   "bytes": 1406,
+   "sha256": "225ac63c84921662df71cba37e83cbcedd2273cdb371d17204cf72eaaec6ee38"
+  },
+  "lexicon/H2656.json": {
+   "bytes": 1197,
+   "sha256": "cbd6253dbe6fe653887a4f98930384d60784bbd01bca98049615cab662d2c7cf"
+  },
+  "lexicon/H2671.json": {
+   "bytes": 1027,
+   "sha256": "c8bcd95da81f0915f48b8ca6f89dcd7ffdca27d78f02a2e618e05b364142a0fd"
+  },
+  "lexicon/H2672.json": {
+   "bytes": 1406,
+   "sha256": "cee41d6b16cc9ae077bbbfc333a2cac3fd9e7d297f0d3bcfffa4208e03488a2b"
+  },
+  "lexicon/H2677.json": {
+   "bytes": 990,
+   "sha256": "444b922eaab0c0fb2b5951fdfc89a1371dd85d3f154ecdd546c7cb5663109034"
+  },
+  "lexicon/H268.json": {
+   "bytes": 1143,
+   "sha256": "182bfae2b777fd33148b6593779f2fac63067460ebdb0f5fb34dd151bb562842"
+  },
+  "lexicon/H269.json": {
+   "bytes": 1229,
+   "sha256": "de5f924dc0bcdaeef6df25eb8ca7747206c0df97da382eae56de3e70ba476012"
+  },
+  "lexicon/H2691.json": {
+   "bytes": 1137,
+   "sha256": "d852f5cff83359aa8e4b08a41538690e84cbf8330446bf7eb68a89f101b3d9ca"
+  },
+  "lexicon/H270.json": {
+   "bytes": 1239,
+   "sha256": "238cb71638b066b86064b885d1039b721eb05eb75b8f1377ff12cccf99112b02"
+  },
+  "lexicon/H2706.json": {
+   "bytes": 1503,
+   "sha256": "a8db3ba18a1057632e803916ab0f674774dbc2612fe5508ebb097713c2a22f82"
+  },
+  "lexicon/H2708.json": {
+   "bytes": 1113,
+   "sha256": "6fe7c78af8f07938088128fb75fd74f10648980d9bd4d38f4555102d3ee2aeff"
+  },
+  "lexicon/H271.json": {
+   "bytes": 793,
+   "sha256": "9e427461ecbe29db37154720604b9c9291115f913755a7d961abfb8e6c1216c3"
+  },
+  "lexicon/H2717.json": {
+   "bytes": 1507,
+   "sha256": "53ad534c261bd68dc06c96f8ac777214a2769deab18027a12c168d41a3ba5073"
+  },
+  "lexicon/H2719.json": {
+   "bytes": 1074,
+   "sha256": "1979c58bae892f73857708d1a0635f85f008cf2a00e96d5167b604374e72aae8"
+  },
+  "lexicon/H272.json": {
+   "bytes": 1058,
+   "sha256": "c4a02eb0d12deaf4aeddfbf5662679a3501e952271e0f3178af47c0165bcd237"
+  },
+  "lexicon/H2723.json": {
+   "bytes": 1047,
+   "sha256": "b3511b2ec5105d9bedccbb226508a82a68396b51e35bc86220a276da9e497bb0"
+  },
+  "lexicon/H2729.json": {
+   "bytes": 1345,
+   "sha256": "5f15914c8e08bd1dbc5c19f0e3173d78a15d588dd5210c4dc0a262753a731280"
+  },
+  "lexicon/H2734.json": {
+   "bytes": 1297,
+   "sha256": "ce793647b99361636fc4234252aae84b036383b0607060c239f5380b4a8dadcb"
+  },
+  "lexicon/H274.json": {
+   "bytes": 1126,
+   "sha256": "94c4b85891379c194caf78b7e8c858293863af99102d817f9018372b1ce1f36f"
+  },
+  "lexicon/H2740.json": {
+   "bytes": 1021,
+   "sha256": "127611c58ce1285ca1fa7f4c6afb638ad412e94d5dcbdf0c423c76d45f0a1a5e"
+  },
+  "lexicon/H2763.json": {
+   "bytes": 1642,
+   "sha256": "4cf02c265db7a278a104851b89704dc5a44ad9efde5b9a46049ecbc277352870"
+  },
+  "lexicon/H2764.json": {
+   "bytes": 1279,
+   "sha256": "d9fde276a0257be70cb7c9736472f8bcac68ac45b8492b8ed919daf1c99127b9"
+  },
+  "lexicon/H2771.json": {
+   "bytes": 1231,
+   "sha256": "32eb36798eb4a45955b2869148048bed36687f76a16b678aead28463da175520"
+  },
+  "lexicon/H2778.json": {
+   "bytes": 1352,
+   "sha256": "cebadd6680e5d99fbbf89c690ff8d4dc44bf74af6a843bc0c09ef03f035bf7c6"
+  },
+  "lexicon/H2781.json": {
+   "bytes": 1093,
+   "sha256": "a71158332bc6b8d23b931070d2b8b2f6cfd09a2f4ac02689c981e388dd18d9dc"
+  },
+  "lexicon/H2790.json": {
+   "bytes": 1823,
+   "sha256": "999a52db9b3f7a6ec9f773b2c7c76fa130fbfb10f53f23533c45eb5ff60f0349"
+  },
+  "lexicon/H2796.json": {
+   "bytes": 1159,
+   "sha256": "142bf798bb87a5d8d63d4a181b948e5391868e75e62783fd9de11a51120724b3"
+  },
+  "lexicon/H2803.json": {
+   "bytes": 1814,
+   "sha256": "eee4508ce6a6095d3c444fd815230ab4aa717690935dc4c83f13a528eeb76e82"
+  },
+  "lexicon/H2809.json": {
+   "bytes": 1140,
+   "sha256": "cb6db3df798c18cecd214bb9e213e60f331f256641cb602994c960d85f29b1b8"
+  },
+  "lexicon/H2822.json": {
+   "bytes": 1060,
+   "sha256": "fa5edd5d77a152c29bd457dce02bb2f98faee73fcb460f35c637427ea2597764"
+  },
+  "lexicon/H2850.json": {
+   "bytes": 995,
+   "sha256": "ad97c942ff68df11a3ed4429c17d5fca5aa40c1ad4f37f41ec7671bb16c0a968"
+  },
+  "lexicon/H2865.json": {
+   "bytes": 1408,
+   "sha256": "a9171aa4f76318a913a3b87deea3480e41666b37f47aeb781fc0865cdc1b3cd7"
+  },
+  "lexicon/H2885.json": {
+   "bytes": 1094,
+   "sha256": "16ae299464505c7b38fb48105850c959f7204dab779e49353868f2b824288790"
+  },
+  "lexicon/H2889.json": {
+   "bytes": 1070,
+   "sha256": "4fd4349f7319f1f708921a3c01443c3e2bd7d7dcde67e600ae2a3de24f24a03c"
+  },
+  "lexicon/H2891.json": {
+   "bytes": 1639,
+   "sha256": "f048fbb66e874b905449ce6f3b767e22936eb15abeaf64a97251b56b9470f313"
+  },
+  "lexicon/H2896.json": {
+   "bytes": 2200,
+   "sha256": "0f7147bdd0fb89b7a99f2815c223a5a13add324651624b78241ffca6a2bdc95c"
+  },
+  "lexicon/H2898.json": {
+   "bytes": 1225,
+   "sha256": "4358438cb1f07b3ccdf901cccd037a871d164a08e769b1c739b6824512103d55"
+  },
+  "lexicon/H2903.json": {
+   "bytes": 734,
+   "sha256": "69a83076ddd9e2e2159a4fb920324746e57f68aad10519095493105c5c7be07e"
+  },
+  "lexicon/H2930.json": {
+   "bytes": 1636,
+   "sha256": "ec1c2468cc41dda2e1ba4bbcced080d88e7429b8adf841a86143b6cf735a5254"
+  },
+  "lexicon/H2931.json": {
+   "bytes": 1013,
+   "sha256": "3b0d5c173bfb50e81c11e067dc0220d9c56ba166aaa6c6dea95991762c9784ae"
+  },
+  "lexicon/H2932.json": {
+   "bytes": 1051,
+   "sha256": "256f2001751f13ba7fe8099ccb6730abf638c7b4630d1c9c60c870e365b6452b"
+  },
+  "lexicon/H2945.json": {
+   "bytes": 1023,
+   "sha256": "0401e2a9c2d2448b143b9d6f8e975b465fc284106e6723ca2ad9c74ec0ac3824"
+  },
+  "lexicon/H2962.json": {
+   "bytes": 978,
+   "sha256": "e9837dd8748749ceba1346b31205cb6d6a620fab0bdaf5b94d5f2796de25b49e"
+  },
+  "lexicon/H2975.json": {
+   "bytes": 1220,
+   "sha256": "3214474fd8592e55afdb9fe3c0fbf4812f9faef2a6c23e4f1fd2c5a6ce6ed897"
+  },
+  "lexicon/H2977.json": {
+   "bytes": 1251,
+   "sha256": "57964cfb4dbdf1bdcec9ad46be282740eaa946b3734d85cda7d69cdf9a0d1117"
+  },
+  "lexicon/H2983.json": {
+   "bytes": 1078,
+   "sha256": "09c6697fd5294ea1ecedfda1cb0978a04c800a3d0a4aaa0fb469a5d46116cc4b"
+  },
+  "lexicon/H3001.json": {
+   "bytes": 1380,
+   "sha256": "b22ec5c1a142072c0b339a0f0c38c23b6f75361653a1ada34773e31a8c892c88"
+  },
+  "lexicon/H3004.json": {
+   "bytes": 818,
+   "sha256": "402e626c445d16231ef95541d711eb7253bf11db6b7fd13b05d0ac0ed0ef09e5"
+  },
+  "lexicon/H3027.json": {
+   "bytes": 2409,
+   "sha256": "a8043e2e8fbb6574e409a8eb9e09217317fbf4d4e156377c8de5056856706e49"
+  },
+  "lexicon/H3034.json": {
+   "bytes": 1456,
+   "sha256": "abdcdf854fcd6d6a71140cb58a24b28b7209550c20d90470a3ffaff0efd10712"
+  },
+  "lexicon/H3045.json": {
+   "bytes": 2725,
+   "sha256": "32131ad0a214f91b4a4b874385d873ddeca1004b0c327961358f20c2f0fa35a8"
+  },
+  "lexicon/H3046.json": {
+   "bytes": 1251,
+   "sha256": "de0b81b2f13b9bbf2d4a7e76e2c3128a667b7f8db04d765894b9a5ef66c5180f"
+  },
+  "lexicon/H3050.json": {
+   "bytes": 771,
+   "sha256": "1be740894c0713845d8cad2a7fe56117d4057f5a409eb03a96cd9840cacc0095"
+  },
+  "lexicon/H3058.json": {
+   "bytes": 1042,
+   "sha256": "d329e12b4c2dd15d61f8446ef78c04d3a4977a26a7f448358d28cdcde978efa4"
+  },
+  "lexicon/H3063.json": {
+   "bytes": 1512,
+   "sha256": "a9ba5001f169fe76c7d763714d8de5e7d0762f47ccb79ec63a00a4fb6a11beb8"
+  },
+  "lexicon/H3064.json": {
+   "bytes": 996,
+   "sha256": "27b30eef19287636ac15339438b0697516f0d1eb4a2840fbfc8cf9db1f8899b5"
+  },
+  "lexicon/H3068.json": {
+   "bytes": 1131,
+   "sha256": "e198f05877f4a950417513b72cecc5c544fdce652c5fde1e7436afb2eab3406c"
+  },
+  "lexicon/H3069.json": {
+   "bytes": 835,
+   "sha256": "4f7206b73eca248a905790a9385a88dc011a710197c9422981eb676fa40bc05f"
+  },
+  "lexicon/H3077.json": {
+   "bytes": 1126,
+   "sha256": "79e1afb67f50721e0d295b6653c62d7764e95409875972905629b371ec4db1fd"
+  },
+  "lexicon/H3079.json": {
+   "bytes": 990,
+   "sha256": "92b57cd721fcd38e2c5c9f2157cf0d3b49b4f9fb9deea3a4b576fa01098865e6"
+  },
+  "lexicon/H3083.json": {
+   "bytes": 1975,
+   "sha256": "85fec3b04941cf343263985cb0652a9f4efd80b27b341b97ceec3716770eb421"
+  },
+  "lexicon/H3091.json": {
+   "bytes": 1500,
+   "sha256": "5952fc810ef6be5662a61f47e515a2e114e8730d49fdc2fb7bdc320fba0a0043"
+  },
+  "lexicon/H3092.json": {
+   "bytes": 1447,
+   "sha256": "33cf71a1f7a927059e6762411f5ef17938b4a068a32c1a94e6a07b8def8a01bb"
+  },
+  "lexicon/H3097.json": {
+   "bytes": 1067,
+   "sha256": "e01669044a5a76fb900277fd31e19690e8f09192b4792393caae0bf70d06abf2"
+  },
+  "lexicon/H310.json": {
+   "bytes": 1664,
+   "sha256": "d93ec5e5c9ac8b09f2de4bb0250eb1313267286a7b618652b3b6f71e0a2ce873"
+  },
+  "lexicon/H3101.json": {
+   "bytes": 1165,
+   "sha256": "751098647d0b0d941ab53af112bee7f23861fedc9ff03a67bc9572bb9a7c7bbd"
+  },
+  "lexicon/H3117.json": {
+   "bytes": 2002,
+   "sha256": "f495c9789f8eef27e9b3897ff6bff1a72ef4e942ba7d5d420db5ef3a791d0dc1"
+  },
+  "lexicon/H3119.json": {
+   "bytes": 696,
+   "sha256": "0eb919551001f4eee78267786647e45c57fc46d24565e7180fccdfbcd1063ded"
+  },
+  "lexicon/H312.json": {
+   "bytes": 1024,
+   "sha256": "41ce4729b5f1eabba320cdbc0389e29c19fbc1f1e04bdb372ac081e5a4839860"
+  },
+  "lexicon/H3129.json": {
+   "bytes": 1631,
+   "sha256": "06f74b7a509a923bbb6f225ff72a28d6237885f0162d7c0649be7e861dc830dd"
+  },
+  "lexicon/H3130.json": {
+   "bytes": 1162,
+   "sha256": "e543f4fdfeb543b88e91553cade6a14f021da1dee03d05439f323cb76a47fe63"
+  },
+  "lexicon/H314.json": {
+   "bytes": 1251,
+   "sha256": "008a5ba37d6cb6b172c264a8fa3508be0ec3acf5e7ec76d0b2b27337aff342f2"
+  },
+  "lexicon/H3157.json": {
+   "bytes": 1266,
+   "sha256": "403788e4117ffad96aed8f34ebeb6b433e15cfb8ab279ad7010497b61c13bb2a"
+  },
+  "lexicon/H3162.json": {
+   "bytes": 1021,
+   "sha256": "c25bde82d3bc51704c7dc3cd453229c79e8715168917f6a1e7b47bdf5c17531c"
+  },
+  "lexicon/H3176.json": {
+   "bytes": 1160,
+   "sha256": "de1cbb96a1833b3e4f370a3ccb869ecae68c3b15bbdd83ffa56dde919297d422"
+  },
+  "lexicon/H319.json": {
+   "bytes": 1209,
+   "sha256": "1243572a7a2a23cfa4ac4893cc031c7a38228b53ceff65d84bf4470207f6ee3c"
+  },
+  "lexicon/H3190.json": {
+   "bytes": 1774,
+   "sha256": "25b3a088e30ec3d7772945ef39ed8638221c2b62091fdddd088375b1fbe026b7"
+  },
+  "lexicon/H3196.json": {
+   "bytes": 958,
+   "sha256": "b9f741692ac9924e95d95dc05df4f34742f0ac97027045e01152892f7c061e51"
+  },
+  "lexicon/H3198.json": {
+   "bytes": 1473,
+   "sha256": "72bffc6a5eee608f447af904fa9956846a759050048187e77ee70895f0d5ba15"
+  },
+  "lexicon/H3201.json": {
+   "bytes": 1314,
+   "sha256": "7ad5b403129e2e73b9e77e1c154c4fddae21b33d4360b7169fd364927ca037df"
+  },
+  "lexicon/H3205.json": {
+   "bytes": 1853,
+   "sha256": "561a1af90a320fcc964aaf44992836ce5ca242c98eff49f8145d7d267f3fa5c9"
+  },
+  "lexicon/H3206.json": {
+   "bytes": 1100,
+   "sha256": "4bbeab55dc80c80bade9578d3d299596ab3fe52a7a3706cc77c027b129956cf2"
+  },
+  "lexicon/H3212.json": {
+   "bytes": 1498,
+   "sha256": "2f09c92ed07f2058b21776d647ba43d21213b17df4d09f0bc94c8b428024e009"
+  },
+  "lexicon/H3220.json": {
+   "bytes": 1335,
+   "sha256": "7a22bcad322a772c2abeb78a373efb5aa625f2411f95a38965c91679f764df9b"
+  },
+  "lexicon/H3225.json": {
+   "bytes": 1185,
+   "sha256": "c8cf0387da94bb34bba1e1dd8fe07f8f9fb38d04dc3ea232e3f7c0a669a8e97c"
+  },
+  "lexicon/H3240.json": {
+   "bytes": 1782,
+   "sha256": "e6ff49c4a17731e52f5958a8a2668e5fd234ff606482f00dae530b2c3e747279"
+  },
+  "lexicon/H3245.json": {
+   "bytes": 1430,
+   "sha256": "a430c87c92e6ed42107ce542609889285a110697198b27b9da239b33b153c6f8"
+  },
+  "lexicon/H3254.json": {
+   "bytes": 1565,
+   "sha256": "8936cf5382a70a3c26ff24ca19ac8f6a0fcda9c00dd3945fe4760c8419abf38b"
+  },
+  "lexicon/H3256.json": {
+   "bytes": 1404,
+   "sha256": "fced798cddfb491db552d6dd8eb0f8e37146a25cba5d0c269bc7d14b6fecb8ca"
+  },
+  "lexicon/H3282.json": {
+   "bytes": 964,
+   "sha256": "4ee56b889b2f1dc832ada8fc1606266f2a3438cf21b9479a88ad86d720feb72f"
+  },
+  "lexicon/H3289.json": {
+   "bytes": 1302,
+   "sha256": "d3bc8dd03a07ea9780ef6c35d4eba82d40c0a5e43d5b07609a3f08a6f4a47651"
+  },
+  "lexicon/H3290.json": {
+   "bytes": 1079,
+   "sha256": "8bdfd9285bbd4ca1b807f71976c127c8baad783aabc4a7ead1e15d8b6672d87e"
+  },
+  "lexicon/H3293.json": {
+   "bytes": 1029,
+   "sha256": "f486a9b32a44430867ae527d037f02866059a4032bfdaed04d4581991533f36f"
+  },
+  "lexicon/H3303.json": {
+   "bytes": 973,
+   "sha256": "a671b2f6106e5d58e948fb8040b00681d769290e98e0f009f184bcaac0e9273d"
+  },
+  "lexicon/H3318.json": {
+   "bytes": 2086,
+   "sha256": "0041efe015edda12c50a1e7882a48086ca2cee5aa648c5eee3854e60e49a7eac"
+  },
+  "lexicon/H3320.json": {
+   "bytes": 1251,
+   "sha256": "d6a339dabeaff8d520e31f8c8b84cecbd00eb6c8f5811f9d4675871bdf70f611"
+  },
+  "lexicon/H3327.json": {
+   "bytes": 1034,
+   "sha256": "f997adc746f739e83b06da883366f3903dba703962f653dc8584f9855434152c"
+  },
+  "lexicon/H3332.json": {
+   "bytes": 1388,
+   "sha256": "1b8ec31a4343b11eb0203e69c8a6b5c2e536eefe123e8e8ac7ff989e4142f713"
+  },
+  "lexicon/H3335.json": {
+   "bytes": 1536,
+   "sha256": "783e34655e3881ede2311acf84d8d8bd6f203017d3efa0e189b177a4b7a079c0"
+  },
+  "lexicon/H335.json": {
+   "bytes": 944,
+   "sha256": "ead581015b4d6b4868759c485bcaf70a45af0964012140e591a6608be32f9c18"
+  },
+  "lexicon/H3368.json": {
+   "bytes": 1182,
+   "sha256": "43ccd920e98a97cfc33a565d985d139919dca1f2c94ed93bdaa7cb26be252a27"
+  },
+  "lexicon/H3372.json": {
+   "bytes": 1468,
+   "sha256": "4136724bb18f5c3300790479cf3bd400ab817c4d7db20aa0c9f307a129473df6"
+  },
+  "lexicon/H3373.json": {
+   "bytes": 925,
+   "sha256": "8158d3030b7a0ed5662bd6fd8e5afc219993cbe9d1ce8c0fd47929496fd0685c"
+  },
+  "lexicon/H3374.json": {
+   "bytes": 1146,
+   "sha256": "deb6605e81f2c778f3de0f878e8017b9c17fbee5ea2783f69f005eebdd2eb0e6"
+  },
+  "lexicon/H3379.json": {
+   "bytes": 1271,
+   "sha256": "85a339cf804f7ebb55afcabb6638ba40dd633abaed66c280981574e82cfef601"
+  },
+  "lexicon/H3381.json": {
+   "bytes": 1706,
+   "sha256": "5c9e8ee1f865901ae395d76b6ac2f16f030105b4192ffde0296a1f59174f7651"
+  },
+  "lexicon/H3383.json": {
+   "bytes": 1096,
+   "sha256": "640d769182aa1b29a5095dfbbacda186a95262b469a49fa907fc9efaa126c871"
+  },
+  "lexicon/H3384.json": {
+   "bytes": 1461,
+   "sha256": "c03231e0dad6f8e000f92e9967fb9f7a0233a239b9eed4701cbc166aa8c3424a"
+  },
+  "lexicon/H3389.json": {
+   "bytes": 1380,
+   "sha256": "159cf14c10b836985336c1bc35900185a92d61886383c1dfec5413cd804b1d8e"
+  },
+  "lexicon/H339.json": {
+   "bytes": 945,
+   "sha256": "1478453dbd35f7e0b3f1fe205c679459a5956d2087f4d4d700ee8ff7e1e03782"
+  },
+  "lexicon/H34.json": {
+   "bytes": 1185,
+   "sha256": "5765d4f5e55d3082d9c1ce8699be5a67de53cd89b659f40bed8406085f0fc951"
+  },
+  "lexicon/H3405.json": {
+   "bytes": 1186,
+   "sha256": "c8f29334858f794f7602675de7ee5155e7a94fd16e754fd9bb7bfb54af16c3a4"
+  },
+  "lexicon/H3407.json": {
+   "bytes": 933,
+   "sha256": "f5db3f894d6abf55925220cb5c0df6bcc778dd6fd9533d9ba4f52f73fa5b2c1d"
+  },
+  "lexicon/H341.json": {
+   "bytes": 998,
+   "sha256": "564b43c27345525eda7edfe601f0e63918136e3664afc99adc6b4d44eddf7811"
+  },
+  "lexicon/H3414.json": {
+   "bytes": 1589,
+   "sha256": "5b7715fc45cf3172c08090bea121bc457fb9e4d97862d8a7ddaf8b96c3a75b89"
+  },
+  "lexicon/H3418.json": {
+   "bytes": 832,
+   "sha256": "023f5dac47d94081ba3084864756fcdbb41f2cedc25f26087ac7d8edf639e2dc"
+  },
+  "lexicon/H3423.json": {
+   "bytes": 1884,
+   "sha256": "a7d636d57769592262f489c6af0ac77b647f5f264999b8da8011f37b5337bb01"
+  },
+  "lexicon/H3426.json": {
+   "bytes": 1344,
+   "sha256": "ad690e7af07d464cd7ce9366ec191f8faabac86320c88a38c97473d60455e622"
+  },
+  "lexicon/H3427.json": {
+   "bytes": 1833,
+   "sha256": "99ca9339fe3368d76dcf51f0842d1e7f74688746a3f292c791ab9a9e0ad24505"
+  },
+  "lexicon/H3444.json": {
+   "bytes": 1202,
+   "sha256": "7266394ceb7608c22ef948335bd1326eeefc04c4f1220c58b099859d399fea0a"
+  },
+  "lexicon/H3448.json": {
+   "bytes": 836,
+   "sha256": "e08344b22127ef63a51a0ba2af5654cb77b253e0329220c12e6080669440aeb5"
+  },
+  "lexicon/H3458.json": {
+   "bytes": 1291,
+   "sha256": "cc998184acd3a66f85b56cf72fe9cdad2cf035c9d8cd56e8abdd571b5b92c0df"
+  },
+  "lexicon/H346.json": {
+   "bytes": 786,
+   "sha256": "b974de8b24376a5a81a04a43520f9c5d2c0c6cee9cef1da18cc32f4b9303c900"
+  },
+  "lexicon/H3467.json": {
+   "bytes": 1403,
+   "sha256": "b1dad6c8836ea5a08d1f0d7b8439e5369edaa3e23d2ca6958acbe963a901bea8"
+  },
+  "lexicon/H3468.json": {
+   "bytes": 1053,
+   "sha256": "9d9655025054b35617b3d7c8065c450c40bdab0ccf726e0ecfc1e73f2540f78c"
+  },
+  "lexicon/H347.json": {
+   "bytes": 953,
+   "sha256": "be45a350a7e28750937617747050934a87ff70fbae6a8deca9e9191f306c1ae9"
+  },
+  "lexicon/H3470.json": {
+   "bytes": 1661,
+   "sha256": "03c0811101335f9660b7fa037f450f8b2105ea6b723bc1be54ae5dc958fa586a"
+  },
+  "lexicon/H3477.json": {
+   "bytes": 1232,
+   "sha256": "8c7fc504ec360ebf58fee433f5d39b6b1fcff96c2b3f8e36fdd44d8d7f159b20"
+  },
+  "lexicon/H3478.json": {
+   "bytes": 1493,
+   "sha256": "9b7ebdc8f90c82fbdf25fe88282aed669282497c323544709a431ddbceee78f2"
+  },
+  "lexicon/H3485.json": {
+   "bytes": 1426,
+   "sha256": "82a8c89fed2a79dd8e60a97e6b31f3334da081331ba2a0c6c57fa8cf7c7b920f"
+  },
+  "lexicon/H349.json": {
+   "bytes": 954,
+   "sha256": "3a938463a829b3aba1806cae69160f61cc3e991fc57ae3496127f73777ec2b9f"
+  },
+  "lexicon/H3490.json": {
+   "bytes": 962,
+   "sha256": "82715a3aec50f5b1b1703a456785bb4549bb1ef94cd319382328d65ecdde6c4f"
+  },
+  "lexicon/H3498.json": {
+   "bytes": 1493,
+   "sha256": "02658e65867b08433545a8db0eae590cda3312bd212e14a35f3f3409c663d954"
+  },
+  "lexicon/H3499.json": {
+   "bytes": 1317,
+   "sha256": "cf83c4e32da1d494bab89846e5ec42b1ed9ef7f9157a7a1886b2b298ffbbff77"
+  },
+  "lexicon/H3513.json": {
+   "bytes": 2176,
+   "sha256": "ad9bc8758fa9ad039868e4e7bc99d60828861959003310669490557f338fbde5"
+  },
+  "lexicon/H3515.json": {
+   "bytes": 1187,
+   "sha256": "d699d0473a455abff34df5363c92c86fc69f0973680cc05ce8a1e896cbf552a3"
+  },
+  "lexicon/H3519.json": {
+   "bytes": 1221,
+   "sha256": "4512f1af2c9192acaae0416c89ed04edaa5ea85bb71527052c1c433bd40c3d83"
+  },
+  "lexicon/H352.json": {
+   "bytes": 1291,
+   "sha256": "46086dcf66c7e146cb78f9e65afa0d6aada7ead2ddc8e033a8f277174460b115"
+  },
+  "lexicon/H3526.json": {
+   "bytes": 1217,
+   "sha256": "59fe03fbfc8496a277e07f0282778e9b468e1c03cbce50c4fdf76cd7a48d8b00"
+  },
+  "lexicon/H3532.json": {
+   "bytes": 961,
+   "sha256": "673316f18fcb26b50f0cf601f6e3e0b6b937da5a6060fb985ae08ed9287cbef0"
+  },
+  "lexicon/H3533.json": {
+   "bytes": 1344,
+   "sha256": "817bd612751a6d77ebae75252608d8be15058862c28a0210d5e36f96822f5648"
+  },
+  "lexicon/H3541.json": {
+   "bytes": 996,
+   "sha256": "368ccf0f0790061f7297fe1aad82f4769f2adc9f684c6891a3e1fcfadce78a4c"
+  },
+  "lexicon/H3548.json": {
+   "bytes": 1296,
+   "sha256": "78b787d14ddadd63bd51f823a0b903c84314538be78d20450d32b92c826f0cc8"
+  },
+  "lexicon/H3556.json": {
+   "bytes": 1158,
+   "sha256": "2527b8cd055e127d9b6f0f7fc84790483cfc7fa8deb57e088a3d5780c7f977bf"
+  },
+  "lexicon/H3557.json": {
+   "bytes": 1502,
+   "sha256": "e9bea6fa694f2cbc57368733d1609bf02c7d8b49cab7f9290f88990c2afd6c88"
+  },
+  "lexicon/H3559.json": {
+   "bytes": 2324,
+   "sha256": "9d7b832468a1c2ea32093eb4665717e61b3a169f602de2d37f15c910aa8f3970"
+  },
+  "lexicon/H3563.json": {
+   "bytes": 1121,
+   "sha256": "af2b4ad32e7cfa4ca0aab75151115fe20eeab195af9e76c7e1ae8537d9ab6ebc"
+  },
+  "lexicon/H3581.json": {
+   "bytes": 1405,
+   "sha256": "456842e48bf4574e3e3f7eeac8c202589b896e2505db684fce810c4e769c0df5"
+  },
+  "lexicon/H3588.json": {
+   "bytes": 1748,
+   "sha256": "e78dce9207accf53da75001e0d234d33d514a1b30ffe5a4ba57a8bec36af2650"
+  },
+  "lexicon/H3602.json": {
+   "bytes": 729,
+   "sha256": "19d3dc611a410c2bb9eff60a6979cb784b7d7898bf0b1f189eeaa8c515f7c625"
+  },
+  "lexicon/H3603.json": {
+   "bytes": 1215,
+   "sha256": "438c47c9c7c86339b98c2c10d04531c8bace2a7ac34f09b24ea0ee233428135e"
+  },
+  "lexicon/H3605.json": {
+   "bytes": 1212,
+   "sha256": "5d167ce7a38178ebe95454019f848fba40981712c593d3c873d9a4af2da2c19f"
+  },
+  "lexicon/H3606.json": {
+   "bytes": 1135,
+   "sha256": "28b4fa3cd42db85b6e6ebbea67a1f47674f4de6103df53675feb82b3ea3de53e"
+  },
+  "lexicon/H3615.json": {
+   "bytes": 2169,
+   "sha256": "1ff53d6d4b9b31f50e36811d9021421d9a6bfd37ad7ccbc39c5a14557407a2dd"
+  },
+  "lexicon/H3627.json": {
+   "bytes": 1576,
+   "sha256": "3986f72c7d9f872f9f92dc1d015d7e8d1dab4e07e984a318034cecc417acde76"
+  },
+  "lexicon/H3637.json": {
+   "bytes": 1519,
+   "sha256": "16767dae4d425c927ff09bed9e66006b33ba191109192af7d688b08e2daa6c58"
+  },
+  "lexicon/H3644.json": {
+   "bytes": 1093,
+   "sha256": "07c4604d54db50fa7c84c9020a33c9f2416fecc1568fd0857ffd5beefddcf186"
+  },
+  "lexicon/H3651.json": {
+   "bytes": 1841,
+   "sha256": "70656c9a4955f0f511ad4a66aec7e67ddea81b6a6055fdd90f9b9a79419140f9"
+  },
+  "lexicon/H3658.json": {
+   "bytes": 933,
+   "sha256": "314f947125388d06f97181c0e1c29eed0d4b54140e1c699ad649232d27e08cf5"
+  },
+  "lexicon/H3665.json": {
+   "bytes": 1249,
+   "sha256": "7568e1516a82660bf141f244358cd29bb86a2f23bc772ffa6ab25a579285fad4"
+  },
+  "lexicon/H3667.json": {
+   "bytes": 1057,
+   "sha256": "d34dbda1f42e79a186fab29e7ec57bd98c47028b38f5af339bfc61fad475db1b"
+  },
+  "lexicon/H3669.json": {
+   "bytes": 1311,
+   "sha256": "a0e4b8ca60179d1d393cfb4b928506443f38c8b950d9c60adce71a098accb5a0"
+  },
+  "lexicon/H3671.json": {
+   "bytes": 1307,
+   "sha256": "f794cd6d67a246c7acd070a3729eea1c821fdeb7e62b8b7075105b524e2437d7"
+  },
+  "lexicon/H3678.json": {
+   "bytes": 1051,
+   "sha256": "a1ef816fef57de6d56742e12565da724020209dcf7a816dc0fb8f2cf5643bfb4"
+  },
+  "lexicon/H3680.json": {
+   "bytes": 1454,
+   "sha256": "3ee4c7fb56e6f50ce71712b4ad7fc7b66ff6fb52bed871e16a5e605c6c9946c6"
+  },
+  "lexicon/H3684.json": {
+   "bytes": 980,
+   "sha256": "3fcba99a6ae12d329c1312ae574b2d850c62e027efbb31283e49a46dcf96341a"
+  },
+  "lexicon/H369.json": {
+   "bytes": 1305,
+   "sha256": "bcab2e68854f8d7c3b095d8e997d2b4697adb8b8f5eebaff3327a6f68714afcd"
+  },
+  "lexicon/H3701.json": {
+   "bytes": 1072,
+   "sha256": "61c74aa4abaca62210919328c0a5adf60b1bcc335b93fcf9828aaa027f9ca2ee"
+  },
+  "lexicon/H3707.json": {
+   "bytes": 1344,
+   "sha256": "9a981240fdb0e5bcec5a0efa3f304c36cfa19a0cb28af6dcd614ce7cbe20e3f2"
+  },
+  "lexicon/H3709.json": {
+   "bytes": 1485,
+   "sha256": "0293d274b9842eced79cd6552d188a0b76c294da2994c16c3fb2770bc6b0c8ce"
+  },
+  "lexicon/H3722.json": {
+   "bytes": 1502,
+   "sha256": "884fe6f189019b8ab92463f05793b85ec4cc58937861264658278c44d85e89b5"
+  },
+  "lexicon/H374.json": {
+   "bytes": 1221,
+   "sha256": "540b2e6dd5592cf9dcb0a50e13b8585cfa1ab4cb3747448b7b13709549ee86d7"
+  },
+  "lexicon/H3742.json": {
+   "bytes": 1172,
+   "sha256": "7c7ab936231880f7ef66da522dd50ca5dba95a1f99a10b9284063ca98b868362"
+  },
+  "lexicon/H3754.json": {
+   "bytes": 974,
+   "sha256": "5351e83ba7ae82500640ee777d8d59c27f2f1d7515dc0a6240ab2178c24ae69d"
+  },
+  "lexicon/H376.json": {
+   "bytes": 1640,
+   "sha256": "3905f44663897942fbf6158427931bba1b41685dad6ee04762e7c566a463c648"
+  },
+  "lexicon/H3766.json": {
+   "bytes": 1282,
+   "sha256": "9a41fc865417413420276dd363bf883583dfedc85e6dbff3f0ff7b0cc41a6798"
+  },
+  "lexicon/H3772.json": {
+   "bytes": 1876,
+   "sha256": "2ed74dc82da39754062a2cf7c2cf7d538eddc794975932aa2163e4bab37c72f1"
+  },
+  "lexicon/H3778.json": {
+   "bytes": 1457,
+   "sha256": "dd2ab0d851cbd060a2b5769783088e9c1eced2caf117c8649ac121d5119969bd"
+  },
+  "lexicon/H3782.json": {
+   "bytes": 1532,
+   "sha256": "0b32857519832a4f32266e5cd5a47f1c58ccdcdea51021bd200699c172422c2f"
+  },
+  "lexicon/H3789.json": {
+   "bytes": 1350,
+   "sha256": "834d9998c300080551bc1a30e7f61ca90ceac65a038cecfc8efdf977c19b8dcf"
+  },
+  "lexicon/H3802.json": {
+   "bytes": 1252,
+   "sha256": "4b5b8264b7ab12a1ab5933d93f4a6be68f3a885e5ce1538781c623a4eb95537b"
+  },
+  "lexicon/H3808.json": {
+   "bytes": 1413,
+   "sha256": "06f4e97dfc36b800b04b93dbaf445d9411a53073dcdef183656a89d6089571eb"
+  },
+  "lexicon/H3809.json": {
+   "bytes": 859,
+   "sha256": "ad855933435e35b122d0ec11d695df2381512db8102b808c2042da00d1253036"
+  },
+  "lexicon/H3816.json": {
+   "bytes": 923,
+   "sha256": "fefc65a37154b203fa1587630d36f832f47b63dca195d19ef3cb318151d51022"
+  },
+  "lexicon/H3820.json": {
+   "bytes": 1708,
+   "sha256": "ec69191b865d8500b335b0115d5aaeff836f9eb2857b3f25982a9350bd7b218c"
+  },
+  "lexicon/H3824.json": {
+   "bytes": 1511,
+   "sha256": "198402df12080a2bf275e3cde3275e907b92b7261abf9e52b4531e2acbd90865"
+  },
+  "lexicon/H3837.json": {
+   "bytes": 1048,
+   "sha256": "06950cf959e841c6d23aaafce19adca2767d3f03cc2348da4ccbd5591624f63a"
+  },
+  "lexicon/H3844.json": {
+   "bytes": 1072,
+   "sha256": "5240f5564e2953bc7216e78fb19a0413dd362afcbee9a333335393f354d3d68a"
+  },
+  "lexicon/H3847.json": {
+   "bytes": 1311,
+   "sha256": "b86e48f91515a3f63349a4ecae2a6c74a725d80ec00a34fab25156b38fb4ad8e"
+  },
+  "lexicon/H3871.json": {
+   "bytes": 1032,
+   "sha256": "c409a8e7b2ccfe2ccd705dbbd89c0db26cf3766ad057ffee65858f1dd7dfbefa"
+  },
+  "lexicon/H3876.json": {
+   "bytes": 837,
+   "sha256": "ebc51f15ec4e53567eee762637975e9f41e74ab8966b07c25e876a0509d3cd66"
+  },
+  "lexicon/H3878.json": {
+   "bytes": 989,
+   "sha256": "a6cd1ca1b4c2837c93b1b792566d83482ab4db226b98ea4d894e17229d821bb8"
+  },
+  "lexicon/H3881.json": {
+   "bytes": 1143,
+   "sha256": "c6fc8430ad12d361cf7187097b977475735910e7d0aa47ecdc0c2910fac943bb"
+  },
+  "lexicon/H3885.json": {
+   "bytes": 1492,
+   "sha256": "23455c9e743276468d0da309f48719898615361ae6fab6706dfce2ca954bf1cb"
+  },
+  "lexicon/H389.json": {
+   "bytes": 773,
+   "sha256": "6bd4339cac75f4f2a366897eff76eae9c82195cf05db55f0213c0f3124612887"
+  },
+  "lexicon/H3898.json": {
+   "bytes": 1212,
+   "sha256": "bf207eb124ed84d34ea0639ba298e6d064b0a9104635241bcd42d58d49733fc7"
+  },
+  "lexicon/H3899.json": {
+   "bytes": 1102,
+   "sha256": "f1b821b95eed56f0b3957fffa1d56fbf241792e4d608e631af8c6aca6b1f8770"
+  },
+  "lexicon/H3915.json": {
+   "bytes": 1106,
+   "sha256": "1b8183e07c5a7f6f4902df7beebe7c5ea40163ddcb12c5e92301d936f254707f"
+  },
+  "lexicon/H3920.json": {
+   "bytes": 1360,
+   "sha256": "3831f5f258aa9d2603a872e8de86e5d09640fc7192a2068efe2ca1ae18e7ecd6"
+  },
+  "lexicon/H3925.json": {
+   "bytes": 1144,
+   "sha256": "2b894de64ef9d9d3e0ef8f15cc4410f54e0c2c08b4cd8bc4821762873b2de954"
+  },
+  "lexicon/H3940.json": {
+   "bytes": 999,
+   "sha256": "a36bf57a039b58331274d55a6ba1cb571c60d3343c763f8d959c50338558b8a5"
+  },
+  "lexicon/H3947.json": {
+   "bytes": 2094,
+   "sha256": "102f008095761d16599d39f395f1abcb29b22cedddd74e0359127272069470cc"
+  },
+  "lexicon/H3950.json": {
+   "bytes": 1209,
+   "sha256": "ae63010144aa7459d93b9f0ee95f23b584cce1ccf5f32c936fb656e0eccaf898"
+  },
+  "lexicon/H3956.json": {
+   "bytes": 1360,
+   "sha256": "795eb8a253c2a44a2602d9bc1677b1fb1fe829aeee9d9126ae80ea84c968ae39"
+  },
+  "lexicon/H3957.json": {
+   "bytes": 1046,
+   "sha256": "42a2ec1037da331ae5100c3bcbf71763c680810209a6b6a3f24577ca6e21765c"
+  },
+  "lexicon/H3966.json": {
+   "bytes": 1579,
+   "sha256": "3f5bc1111b9941bbc75223be8643ede17bd30c2ef1741d2ab79047202f9dc99a"
+  },
+  "lexicon/H3967.json": {
+   "bytes": 1082,
+   "sha256": "7c487cf5f658484e8aecfedb1d91d573491334b1594235d03790e8fa1163cb83"
+  },
+  "lexicon/H3974.json": {
+   "bytes": 1080,
+   "sha256": "deed9da11be94bb466a596f1fcf82a1b59dbcb3d93ff578fa5f5869b9cdb8779"
+  },
+  "lexicon/H398.json": {
+   "bytes": 1693,
+   "sha256": "2b4b6b9f0424a890002898c5be91b2b016cd9c8339839a31004722d3c1cd5d3b"
+  },
+  "lexicon/H3985.json": {
+   "bytes": 903,
+   "sha256": "3f3c5e28eeb3424846725ef784d243e618c85d1de04168502b0c48216af199e2"
+  },
+  "lexicon/H3988.json": {
+   "bytes": 1186,
+   "sha256": "20dd6c553b0b3d5c3dc5f37827c7c20be46995a39964f6990cc3d42dc7529234"
+  },
+  "lexicon/H40.json": {
+   "bytes": 1243,
+   "sha256": "c5af22f415b4e0254b52ff6cc75891f03d35ad66962067e0e3a8d0f403977cd5"
+  },
+  "lexicon/H400.json": {
+   "bytes": 988,
+   "sha256": "4ff5a957c2e4fa01566363b5c418493906c24131e41dcd31738ce1665b0e225c"
+  },
+  "lexicon/H4013.json": {
+   "bytes": 1115,
+   "sha256": "c907834714140ba6ffea7600f5b2275e17199fc719eddfd9624024c13a42403d"
+  },
+  "lexicon/H402.json": {
+   "bytes": 571,
+   "sha256": "12adf32a6233557b4f2aff5a37c90e9aa156aea78b4a0f189fd716198b9a42ed"
+  },
+  "lexicon/H4026.json": {
+   "bytes": 1133,
+   "sha256": "970099ed0e51c9625fb6387490444c63bbb2db16280b6d5662c81978036fdc3a"
+  },
+  "lexicon/H4043.json": {
+   "bytes": 1062,
+   "sha256": "959e7d6cda8fde0bcab8055fa0eb9827cfa7e6d4b7d05609dfd52991a758b67d"
+  },
+  "lexicon/H4054.json": {
+   "bytes": 1166,
+   "sha256": "06f234c55faae2060d76c16064bd6e2ff004dadee214f3ddea705632c7db398f"
+  },
+  "lexicon/H4057.json": {
+   "bytes": 1273,
+   "sha256": "8893570d4e7f29182a4d5733f0b116c26023720f2c70ef16a914f8b26ce00741"
+  },
+  "lexicon/H4058.json": {
+   "bytes": 1215,
+   "sha256": "da89f6b291b54f7f4bb5a8f0b040fb03ecf061aef85a0cbc8401c8dc5e416e78"
+  },
+  "lexicon/H4060.json": {
+   "bytes": 1286,
+   "sha256": "585fe6e1e32f8ca226704327d0e4f52448d7955148ffbe41b8d4d8d08712f1a8"
+  },
+  "lexicon/H4069.json": {
+   "bytes": 770,
+   "sha256": "97402dfbb9ef0aee3cb56fd225af01b799a177a5249141d86aca831c6ad6bbbd"
+  },
+  "lexicon/H408.json": {
+   "bytes": 990,
+   "sha256": "133be5023910d7f9b8b105133fff734cf52c87b6c0f7ebf083ee8eb9796bedd4"
+  },
+  "lexicon/H4080.json": {
+   "bytes": 1293,
+   "sha256": "8678c8e510b3b032c704e95a0d465e4956311da6a3efb8ac2556ac4b4121bf6c"
+  },
+  "lexicon/H4082.json": {
+   "bytes": 1081,
+   "sha256": "60d4f7ad09c667a372947f1b5f2de5a6057b3399961cd2f603860b126f172b4e"
+  },
+  "lexicon/H410.json": {
+   "bytes": 1242,
+   "sha256": "87244297b7edaf8be8afcbc78ce2bd0cb4c3d633bbbba7f055adf3bd1087d8d8"
+  },
+  "lexicon/H4100.json": {
+   "bytes": 1815,
+   "sha256": "a056319ce61844b4acd4513fd70d3747ea6e0b15f8a3465964d4633dd5276cdf"
+  },
+  "lexicon/H4116.json": {
+   "bytes": 1517,
+   "sha256": "746e9a17233e73e46071be6df6fcd0e76a1647183d0fc1f3ef6579163722e1b9"
+  },
+  "lexicon/H4124.json": {
+   "bytes": 1208,
+   "sha256": "e4b5d5aace33f3af5325eabd525deb0de52b3c716412ba2160322b423eefac50"
+  },
+  "lexicon/H413.json": {
+   "bytes": 1673,
+   "sha256": "9aa916f08d1f62578210f7cc0f3f5b651aa1c970d7335d858fadc353a9955a1c"
+  },
+  "lexicon/H4131.json": {
+   "bytes": 1215,
+   "sha256": "15831a2d7cb4944a860b021902240ef24925bb57d79d7144a84e5589078ce2d0"
+  },
+  "lexicon/H4135.json": {
+   "bytes": 1311,
+   "sha256": "d9f21a23d6eb9f86b9ef50c5e5ca6b7f8aaca3b11f3de6d4ca7cbe40f845ca5a"
+  },
+  "lexicon/H4136.json": {
+   "bytes": 1350,
+   "sha256": "ed41936c425ab14967b593e56e418c01aa362c09a13802333a4edaaff3c9936f"
+  },
+  "lexicon/H4138.json": {
+   "bytes": 1234,
+   "sha256": "c460c889d21cfc3e5aedc46265a57c7ae094d8bc8be73ac6dd9003ae0a964e13"
+  },
+  "lexicon/H4148.json": {
+   "bytes": 1132,
+   "sha256": "61eb9479b28636ddb1131d1dedaa9a2ba89b42a7872ff9cc6aec59a954ff035e"
+  },
+  "lexicon/H4150.json": {
+   "bytes": 1635,
+   "sha256": "f9c47b4e13d93c3349bd625e504524d133ff223cbd7c53c4e976e86b5acd91f5"
+  },
+  "lexicon/H4159.json": {
+   "bytes": 1115,
+   "sha256": "60086588f334f1d8a6f2399f8a4e5591715359e698f79bcaa2c5d39d8a92a450"
+  },
+  "lexicon/H4176.json": {
+   "bytes": 894,
+   "sha256": "fe21759b13828348cf7898926e740ab9aa46cc7bb526bb0261927d2ec87271a0"
+  },
+  "lexicon/H4186.json": {
+   "bytes": 1406,
+   "sha256": "a69bb863e1903e5dab023fefdc8fa45c8130e018f4d031da7717e4089de0dc9b"
+  },
+  "lexicon/H4191.json": {
+   "bytes": 1507,
+   "sha256": "06d719b6264feeaa508e6af0875c13b29f6b1e5241f25642be60228c0f71b532"
+  },
+  "lexicon/H4194.json": {
+   "bytes": 1135,
+   "sha256": "4cff22b4900edeabff3c1ce184dcf639ec2483f323e70060bb5081934356e97d"
+  },
+  "lexicon/H4196.json": {
+   "bytes": 935,
+   "sha256": "3a629ba42d6634f5719a729197c4da0c1a0d1f36f8ba7bdfc45e802cdb841a5a"
+  },
+  "lexicon/H4201.json": {
+   "bytes": 976,
+   "sha256": "bbe3b02c2a3236d392f99d1443135ecf81cb8edd9f58b753c650cd70fa324651"
+  },
+  "lexicon/H4210.json": {
+   "bytes": 454,
+   "sha256": "19a7243c2eae0222a0ac893dded8000685ad7672d65129db3bbf3e2f623ece5b"
+  },
+  "lexicon/H4217.json": {
+   "bytes": 1107,
+   "sha256": "c842e2bae95df754824de9f6ce6ae1ec6395f811f2620b6fbe1b88a64ed557b8"
+  },
+  "lexicon/H4229.json": {
+   "bytes": 1402,
+   "sha256": "cd360f41609435dfc4c3728aa99d0c5c06e6d5b1d7912742467baa2df624629b"
+  },
+  "lexicon/H423.json": {
+   "bytes": 1014,
+   "sha256": "e7d56221824f718a8ed6994015ca95b7036548197a43a1355065ad25e26daf75"
+  },
+  "lexicon/H4256.json": {
+   "bytes": 1224,
+   "sha256": "9ed559719603f43f6b0085f6616711508b8142db235e007d36b2b60cc636e80a"
+  },
+  "lexicon/H426.json": {
+   "bytes": 933,
+   "sha256": "0d97d8e040186b3ac18a98c0c6d744419be917da023695229704a9196b86c154"
+  },
+  "lexicon/H4264.json": {
+   "bytes": 1284,
+   "sha256": "98edc0c07db6ee1b0e17a0e1919d1de0fb8d57db55df3b63a8209078b437b9bc"
+  },
+  "lexicon/H4279.json": {
+   "bytes": 837,
+   "sha256": "166e6d068812c5a7b02080d5893842eb13acccbcb45547ffe5c67e7189f9e11c"
+  },
+  "lexicon/H428.json": {
+   "bytes": 1061,
+   "sha256": "f6e489f3fd572ddddf0fa4b8c911437efa4cc25c34af3243f753384e9914042f"
+  },
+  "lexicon/H4284.json": {
+   "bytes": 1241,
+   "sha256": "c90d9b9d18d60b81306d515156af5e47b019d34d79b8802f184abf62ac0f95a0"
+  },
+  "lexicon/H4294.json": {
+   "bytes": 1275,
+   "sha256": "1d98243ead109f65eb3a1aada31746f380aa5a793711da00fb34026540181a06"
+  },
+  "lexicon/H430.json": {
+   "bytes": 1468,
+   "sha256": "9e2bbfb834862dbffc73cf9ae29910c70da2c130d94d8f4582208a7fdb74425e"
+  },
+  "lexicon/H4306.json": {
+   "bytes": 847,
+   "sha256": "703fcc626a536444fca74050defe4bff48e7041e3b2cf7ad1b51221d93a097f4"
+  },
+  "lexicon/H4310.json": {
+   "bytes": 1148,
+   "sha256": "66274b74e8c7fb9764869f75dd5ca00537bae4f47b32f9fa53cdcd4c688dffc4"
+  },
+  "lexicon/H4325.json": {
+   "bytes": 1119,
+   "sha256": "f9141e9a889dd3ff312cac8518dd518fd3f1f0622febb4c7919a1439b122bd4e"
+  },
+  "lexicon/H4327.json": {
+   "bytes": 1358,
+   "sha256": "f43009eb37bc209a4bcc4c36f1b5fc57ae147d822c4bfef0552548df84d60815"
+  },
+  "lexicon/H433.json": {
+   "bytes": 964,
+   "sha256": "b90b564e3466229c2032c3787b60029a335cc38a2b1d8be3f6513a27a2c2d190"
+  },
+  "lexicon/H4347.json": {
+   "bytes": 1220,
+   "sha256": "2857a1d82a8436557241707d4e9db79947b6546204ade3906a6745c877c9900e"
+  },
+  "lexicon/H436.json": {
+   "bytes": 726,
+   "sha256": "663cfb63b394f8aebcf45844da7e564ab23c42c447eaa00c8eb8c0573021fd9d"
+  },
+  "lexicon/H4376.json": {
+   "bytes": 1194,
+   "sha256": "2d010c7c5f4e74511cacdcea1c9ab65ce7111806c9fca8f86a9e7cda3bcd6b57"
+  },
+  "lexicon/H4390.json": {
+   "bytes": 1755,
+   "sha256": "e032f0db38370ae7af356ce03b260f1af3aa9f2af0489f05a0e6347aa2bd5ae1"
+  },
+  "lexicon/H4392.json": {
+   "bytes": 1097,
+   "sha256": "5c4d676198c4b377ae6d5723f1a999b978609e63bae07ab36be8f00d045e9e5c"
+  },
+  "lexicon/H4393.json": {
+   "bytes": 1224,
+   "sha256": "0133b9c1f947e3d29e53b578b191b1b3322b6697d1ce72f8f408d7a8681efe2d"
+  },
+  "lexicon/H4397.json": {
+   "bytes": 1152,
+   "sha256": "4023636132ea96bd48869b0447c8fb2a8ef56a74febc380691a8442f037a66df"
+  },
+  "lexicon/H4399.json": {
+   "bytes": 1452,
+   "sha256": "fa0040172b1498146b21875cea540e0019bfdf80b44dbfb80ac4e261674ff86c"
+  },
+  "lexicon/H4405.json": {
+   "bytes": 1044,
+   "sha256": "dc0e491d02263dbd618cf6b62d76573b9bda81b3d075e31141eae340a6fe32e6"
+  },
+  "lexicon/H441.json": {
+   "bytes": 1166,
+   "sha256": "95d2daf9e85cc8e678c9baeae54354f50ac7d1a08f3a3c372866f6c4eef65b00"
+  },
+  "lexicon/H4421.json": {
+   "bytes": 1060,
+   "sha256": "4b57bb1bd50a9553431c646af7dfdfdaffa4c13df4a17e8f9d4425932518a886"
+  },
+  "lexicon/H4422.json": {
+   "bytes": 1528,
+   "sha256": "a6044666813c23e253cba71a292be3b5cb6c23d17887ad1a6e2b9d1f0ddd25d8"
+  },
+  "lexicon/H4427.json": {
+   "bytes": 1382,
+   "sha256": "187d90a012753378de1f0dd55ec23d5184658e32e7ceafd82663e21572d4cf49"
+  },
+  "lexicon/H4428.json": {
+   "bytes": 878,
+   "sha256": "1e426d048b92447a92fcc622b8414384424a75959c4bee067a4f331522964793"
+  },
+  "lexicon/H4430.json": {
+   "bytes": 909,
+   "sha256": "8b73fec272992d4e1dd9885d4e4086612b5f410fbd69beaeba6ea8427e84595c"
+  },
+  "lexicon/H4437.json": {
+   "bytes": 1117,
+   "sha256": "76275a6dca01f5b28fe15fb24a1eb27b03897eedf0dadb6de62672328f23f275"
+  },
+  "lexicon/H4438.json": {
+   "bytes": 1117,
+   "sha256": "81c27732cc96b60aff7a058cd174ee71e2463af20c2ce221ae5e18935a292907"
+  },
+  "lexicon/H4467.json": {
+   "bytes": 1117,
+   "sha256": "6f5a4db2a2dec759ff7f3605f3d509d92141300506523ae48b95045a3d463917"
+  },
+  "lexicon/H4475.json": {
+   "bytes": 1144,
+   "sha256": "779f0c46676009c21a7279def38f7587d795c072ee86e33e6099328e0e7fb91f"
+  },
+  "lexicon/H4480.json": {
+   "bytes": 1759,
+   "sha256": "a11ed034f9858d3002c586f3e7602e58ba2d0cc60da55e3b5623933072ed02c1"
+  },
+  "lexicon/H4481.json": {
+   "bytes": 1258,
+   "sha256": "4eb83c96c70a73181baafcef2cf7b850c4e0cbfc453253a4ce9d515c2c734c0d"
+  },
+  "lexicon/H4496.json": {
+   "bytes": 1136,
+   "sha256": "2c33b73ce32b73a4e3027efcce135dd2aa0ac0376e1c685d5d71654627fc395d"
+  },
+  "lexicon/H4501.json": {
+   "bytes": 962,
+   "sha256": "6a4d5fca0f1c064d04c622edc10c8913ea707e71a1c18e29355cf60b50fcd62e"
+  },
+  "lexicon/H4503.json": {
+   "bytes": 1234,
+   "sha256": "de08b8d5410ec757b281d9c25b8c40f628e35b67ebbd915929119ea7f69dbae3"
+  },
+  "lexicon/H4519.json": {
+   "bytes": 1490,
+   "sha256": "f3938474709ee54990665bd5fd1a15d1b80ce472e8f41503dde6d3280430c8bf"
+  },
+  "lexicon/H452.json": {
+   "bytes": 1251,
+   "sha256": "3a612560c0af302a1b610a61618e99df713c1d00b5701c609f7ce295da1d041b"
+  },
+  "lexicon/H4532.json": {
+   "bytes": 770,
+   "sha256": "ecd877d1001c37a9026c30bde378a9441e0598c69e7a9cd6e6e34eb22cba80f1"
+  },
+  "lexicon/H4557.json": {
+   "bytes": 1331,
+   "sha256": "4a86fe2b2e28a5d4d0f5f4705d34b370a8b5c60ece8708440858f9da1bcc9672"
+  },
+  "lexicon/H4570.json": {
+   "bytes": 1120,
+   "sha256": "4f5bff4b44f8f98f46c586253758cf493349a68d75b6dbc2969b97a577a35b00"
+  },
+  "lexicon/H4581.json": {
+   "bytes": 1179,
+   "sha256": "1cccbead57b7198c577d8c0fc0bc27fa001156d067eae166219ac7e3dafc0a6a"
+  },
+  "lexicon/H4592.json": {
+   "bytes": 1188,
+   "sha256": "674a63fb6ccc13ff4b0395eeb48974af1d3d05a78f3fc61e37c29c250b3dc571"
+  },
+  "lexicon/H4603.json": {
+   "bytes": 1185,
+   "sha256": "48694f2db892156ca967722d2af642b995540b7bd7a823b0d5bc9a979ca3fd72"
+  },
+  "lexicon/H4605.json": {
+   "bytes": 1232,
+   "sha256": "effb068b2412aea26f2fa6e95ae548526f51420f666ffb97848249a5622fdcc6"
+  },
+  "lexicon/H4609.json": {
+   "bytes": 1477,
+   "sha256": "c86b552b0e35524a35ce37786c2d7c743424c3cc21fcabb5ae7faa04eb3296d4"
+  },
+  "lexicon/H4611.json": {
+   "bytes": 1096,
+   "sha256": "f9e31edd5e14fd6ac059c41651486cee556b15e5b2ddb50c73a625a4ca1eacb8"
+  },
+  "lexicon/H4616.json": {
+   "bytes": 1268,
+   "sha256": "57d438206fff2432da93372379138a373c11387236ec973c1f9c662b7559d8f8"
+  },
+  "lexicon/H4631.json": {
+   "bytes": 956,
+   "sha256": "ab09311485d3ae008eabf27c64f9716975d9ae749da74d054d4051bab2a85f25"
+  },
+  "lexicon/H4639.json": {
+   "bytes": 1530,
+   "sha256": "4e36a4d16a3f2c156eb7e2c2542d8bb4465363947519533821746be8e19479ed"
+  },
+  "lexicon/H4672.json": {
+   "bytes": 2409,
+   "sha256": "c23796eff7f0aca00eb39f6b557c43e69718f6233477037ebc6dd236e752f981"
+  },
+  "lexicon/H4682.json": {
+   "bytes": 1174,
+   "sha256": "c9003b9a23bb2a9e8cd02f58b999517d4db43b35c5e3a7beb938d8b739b005c6"
+  },
+  "lexicon/H4687.json": {
+   "bytes": 1142,
+   "sha256": "81cf1f0ffffd26d348976fd80e37475f3a523f88aa83e010921954c62358442c"
+  },
+  "lexicon/H4709.json": {
+   "bytes": 1267,
+   "sha256": "d7fa14bc69d54967c2fae488993d4a8bc20c80f7b2eb70e7af80782868e832cf"
+  },
+  "lexicon/H4713.json": {
+   "bytes": 1069,
+   "sha256": "cfa6794f6872e0623bef92dd262dc2f69df33bd35dbf0332eb1cb366a777071d"
+  },
+  "lexicon/H4714.json": {
+   "bytes": 1219,
+   "sha256": "51b3aee3ae49ffcf400713c0433ec86cd42b358546d032f335b9f76b0220e72e"
+  },
+  "lexicon/H4720.json": {
+   "bytes": 1222,
+   "sha256": "8f830cf889ebe0a6c0efb60f416b1724ca3c608bb74b75b44175709de30bba38"
+  },
+  "lexicon/H4723.json": {
+   "bytes": 1384,
+   "sha256": "a5a351cbd9f82f228638179a1e1c6754047e7ca98486749bebcb79a7166e6a7f"
+  },
+  "lexicon/H4725.json": {
+   "bytes": 1399,
+   "sha256": "a0926dabfac59ae7618cb903160f8c79f00d2554107f61aaf1702325dc9e2e93"
+  },
+  "lexicon/H4735.json": {
+   "bytes": 1157,
+   "sha256": "ffe0758db93b207333029051cceaff72199e7f92a2f3467cd7be1041f881208e"
+  },
+  "lexicon/H4751.json": {
+   "bytes": 1148,
+   "sha256": "239f24b19e68221d862c54d7f6e17e1d8313ed01cbe70565dd2e4cb52e7e77fe"
+  },
+  "lexicon/H4758.json": {
+   "bytes": 1422,
+   "sha256": "fd8db530c8b557e29de8f71c887f2ccc4bf90dcdede4371bc1b2580518fa91e3"
+  },
+  "lexicon/H477.json": {
+   "bytes": 752,
+   "sha256": "8eea5f4241865a14e3d247b48e6e69712f52ebcdd139175ae5e2c24ecbb064c3"
+  },
+  "lexicon/H4782.json": {
+   "bytes": 1274,
+   "sha256": "0bf6b81d48f119b448ea85afe3aa50526bbe0e2ebbc3cc0c2681692336581dc4"
+  },
+  "lexicon/H4784.json": {
+   "bytes": 1322,
+   "sha256": "4261658e61d20407d0db794a0e824ba16391d7e3cbfc953982b9f828a9646495"
+  },
+  "lexicon/H4791.json": {
+   "bytes": 1227,
+   "sha256": "55cd6b851eecbaf6882daa042388108af71b8d425ec03e1bb15b378ea68355e1"
+  },
+  "lexicon/H4818.json": {
+   "bytes": 979,
+   "sha256": "452d0eb3994a8a8c75b321e1bc1d9c4e06a1327afbd07b028a8f131ea07ed88e"
+  },
+  "lexicon/H4820.json": {
+   "bytes": 996,
+   "sha256": "0b27f7e77846f951eb69235c61ed014429f3b2b51cc0e972faf9e79ce3f76d8c"
+  },
+  "lexicon/H4847.json": {
+   "bytes": 743,
+   "sha256": "df2e7a67d88b69e2676d94af70aad2407fce7f96ed81fef72246a78d817ce2c1"
+  },
+  "lexicon/H4853.json": {
+   "bytes": 1385,
+   "sha256": "acbf6991e88eb4d6d1e35f4970493d0dbe8028cebd2861f4155b3e736aa9807b"
+  },
+  "lexicon/H4872.json": {
+   "bytes": 974,
+   "sha256": "9bc9c4980dc03cc0893090948fea9e27e859068db7dcb1a683d4e2c2179274b9"
+  },
+  "lexicon/H4886.json": {
+   "bytes": 1139,
+   "sha256": "3f7dfa921b44316895bb90bb23ef7e4d376edadd2d2986580456ccad803d3cd1"
+  },
+  "lexicon/H4899.json": {
+   "bytes": 1201,
+   "sha256": "8079d2a84bfa1eeca69799f91cb2ff4398a8f2c44b1f91096ed907461e4ec190"
+  },
+  "lexicon/H490.json": {
+   "bytes": 990,
+   "sha256": "f227ce57832b0704c10f5bcb6a4a1880faba0f3c069478d2c6c8427fffeb30ef"
+  },
+  "lexicon/H4904.json": {
+   "bytes": 1178,
+   "sha256": "b508be6ec4029a722c109323a033abba0e9b4711a209dde88e7bcffef4cd0b18"
+  },
+  "lexicon/H4908.json": {
+   "bytes": 1185,
+   "sha256": "04d66ab92e6ab1cf4af7408982e12792fd4c00a3e3a31dc1b158c937c1982775"
+  },
+  "lexicon/H4910.json": {
+   "bytes": 1109,
+   "sha256": "88142dc7f0b66ba24139a37e86e394df522287bd47a5702a2ad629f4ec2251d1"
+  },
+  "lexicon/H4912.json": {
+   "bytes": 1227,
+   "sha256": "b566f158e5225060cdd68e2ee4d2121d30736d2cce48cd7f6f9e1405ca28a2e8"
+  },
+  "lexicon/H4931.json": {
+   "bytes": 1396,
+   "sha256": "44ccbd54911b3c0aeda7d6b2985829a3f0cdc516379be4b73dc6d259269a119a"
+  },
+  "lexicon/H4938.json": {
+   "bytes": 1079,
+   "sha256": "16278fe92854dd96b88f89df767f71796c868e84f35cb2fd8a0970e44d5303e1"
+  },
+  "lexicon/H4940.json": {
+   "bytes": 1298,
+   "sha256": "802bdd1d238d6cecd9be5079732ab6da113e12fdc39d3f328ffef6a5c2956e28"
+  },
+  "lexicon/H4941.json": {
+   "bytes": 2106,
+   "sha256": "e62475ada0a2e7e1e16d8ac3d04a4f8c01d70e98e9357cf450a67c1d955025c2"
+  },
+  "lexicon/H4948.json": {
+   "bytes": 976,
+   "sha256": "54f91051e5a57930728fa41f94df65b67993a7dbd31aa5061f036ee8625cffdd"
+  },
+  "lexicon/H4960.json": {
+   "bytes": 1087,
+   "sha256": "12c27bb67b0de1d2df209c59d513504fa2f47d9583c2dddf6aed46ded53a9868"
+  },
+  "lexicon/H4970.json": {
+   "bytes": 844,
+   "sha256": "5ff367a23af63f8b9e457472c484e8b331c3686a1dccb285a184d82546a21e9e"
+  },
+  "lexicon/H4975.json": {
+   "bytes": 1128,
+   "sha256": "58478bda12bc28aedc50759b73598f2161c3fb8f5a8d32c52143cd367a322758"
+  },
+  "lexicon/H499.json": {
+   "bytes": 1130,
+   "sha256": "54006db36071d868b0bf5e96496f2bc97dfcdc02a724d2580c3f41af308b84ec"
+  },
+  "lexicon/H4994.json": {
+   "bytes": 681,
+   "sha256": "bec99eb6c831a7ac72bcdaaf3786196da9c76fd9ae49423fa223c88324b587d6"
+  },
+  "lexicon/H4999.json": {
+   "bytes": 652,
+   "sha256": "c3b3096933485c8c44487f6592796ccecd29ef345af052292bfeacaddf17411f"
+  },
+  "lexicon/H5002.json": {
+   "bytes": 823,
+   "sha256": "2db126e1946cea5129acc483bd262ad81a71bc663fb866a108e1b5532a599c54"
+  },
+  "lexicon/H5003.json": {
+   "bytes": 1327,
+   "sha256": "5fb1f724a5758deb519772df3ce26e87d2cc27ca7899b8d0effc61dacfbf2aa3"
+  },
+  "lexicon/H5012.json": {
+   "bytes": 1226,
+   "sha256": "9e5bb374cb66df4fc95effa44f40f82e46cfd1bf82973ba119dca7fc9107a17c"
+  },
+  "lexicon/H5019.json": {
+   "bytes": 1315,
+   "sha256": "2b4a10fc8525ceb6968d9138f7eed574835d7066266ba0692c909e37c9fb6b39"
+  },
+  "lexicon/H5027.json": {
+   "bytes": 1181,
+   "sha256": "58e6b89bb42d7935312913b95ba2a4421d896fb21f3f5d0a50091293179a0ad8"
+  },
+  "lexicon/H5030.json": {
+   "bytes": 1054,
+   "sha256": "764051771ed2a1cb2db2b8f502402392389e25d99dede30fc7ff21b3839a683a"
+  },
+  "lexicon/H5035.json": {
+   "bytes": 1188,
+   "sha256": "fb318877dcc2d1b06af59b8ec542572281778d383f78a73ccf22a0919e9f0626"
+  },
+  "lexicon/H5038.json": {
+   "bytes": 1130,
+   "sha256": "0480742e452085b866481b197c9853ecb569611dcb97c8e9cf9a11ed2fc54e8e"
+  },
+  "lexicon/H5045.json": {
+   "bytes": 1149,
+   "sha256": "15ad7950337e6f2399666dffd62c1eb6bceaf24eb6c90694894d564e2005b1f4"
+  },
+  "lexicon/H5046.json": {
+   "bytes": 1626,
+   "sha256": "cb6b22c248ab91b935b8c8a4957b905b1986111a6d842aba96cc000eceeddf3d"
+  },
+  "lexicon/H5048.json": {
+   "bytes": 1740,
+   "sha256": "bb736914f577ea8f587c2df5078d26135a7c42f118df2e0ffee8986e9f78fff9"
+  },
+  "lexicon/H505.json": {
+   "bytes": 1093,
+   "sha256": "faac07ff0295d207638c2b6cd09ebdc711b51fdd6a466fd23e51f677cfded4f8"
+  },
+  "lexicon/H5057.json": {
+   "bytes": 1209,
+   "sha256": "410490c8b5c23065b3c6e09563d733314f39bedc286a3e3aab2a3355a842ef8a"
+  },
+  "lexicon/H5060.json": {
+   "bytes": 1713,
+   "sha256": "90a4d692c329c3ff15bff5177b02c344195ffd043f4a452ee87ca176286d0b40"
+  },
+  "lexicon/H5061.json": {
+   "bytes": 1131,
+   "sha256": "9fc2ce21432b39708fbd9a31f959e920f3fda7214fb01cda7089b6c2f43b6d8a"
+  },
+  "lexicon/H5062.json": {
+   "bytes": 1118,
+   "sha256": "03e864fda7f98d1eae617a65ed4a2e15227f0e3cc4c4d2df76554705b07431e8"
+  },
+  "lexicon/H5066.json": {
+   "bytes": 1614,
+   "sha256": "ddbb91945d0b2e153c0440ad242fc4c627cc65efc1ec187ff74309c962a4d30b"
+  },
+  "lexicon/H5080.json": {
+   "bytes": 1737,
+   "sha256": "aecc8429dae9d62c3164804044bbcb359df449004ba4ddcfa5916f96b3abf7f7"
+  },
+  "lexicon/H5088.json": {
+   "bytes": 959,
+   "sha256": "ebfc4e629172db86fc2316d0079658ccf2d6f6eebd84d93e19d6cc22a1ad48f4"
+  },
+  "lexicon/H5095.json": {
+   "bytes": 1485,
+   "sha256": "1966b720f4e9700919d3aefc3f13d5b96bd04868e521ff5dec457844a2605807"
+  },
+  "lexicon/H5104.json": {
+   "bytes": 1015,
+   "sha256": "9a7845be4fffb0369045a38a2cf0a9ef288bae285be05fddede4f624df998eae"
+  },
+  "lexicon/H5117.json": {
+   "bytes": 1691,
+   "sha256": "f3e744c97f1a291de3c9ae1de1213ffcf2699f66dda5ed04d4d76eb9f40926b4"
+  },
+  "lexicon/H5127.json": {
+   "bytes": 1372,
+   "sha256": "65c182693e1c47cf1072f56b11d69d26a7a391343ca6089c1e46e40cd5409639"
+  },
+  "lexicon/H5128.json": {
+   "bytes": 1555,
+   "sha256": "a28dbd08b3c2bd1fb713fac57bfc130d065ab27b66793050fcf03f940d1a418e"
+  },
+  "lexicon/H5130.json": {
+   "bytes": 1491,
+   "sha256": "2ff4c9ece6eb0966cebd25429cc7d885da34f921be7df662a8a0d4324370860e"
+  },
+  "lexicon/H5146.json": {
+   "bytes": 901,
+   "sha256": "60fedc3835883045c862ed7834276a0ab8db49bd3af02a7eb8da7db533b80b41"
+  },
+  "lexicon/H5148.json": {
+   "bytes": 1082,
+   "sha256": "2838fae5288ef34652761a35247077df7980e9cefd3fdb1657082cdb887f793a"
+  },
+  "lexicon/H5157.json": {
+   "bytes": 1713,
+   "sha256": "3e76e230f3b4ea9d127cbbf58c92745719024fea0c144b43050180218b3a14c1"
+  },
+  "lexicon/H5158.json": {
+   "bytes": 1255,
+   "sha256": "aca46f6057f099c16c2711b4674a9fcf52b9dd124f3f819484782269affd6cb7"
+  },
+  "lexicon/H5159.json": {
+   "bytes": 1229,
+   "sha256": "8088a40a491ea4e2d357138004a2bfb2511fb7879eaeb3fc32b17c9de0e03a18"
+  },
+  "lexicon/H5162.json": {
+   "bytes": 1608,
+   "sha256": "7a90167ea8ac74cb01658ad3d016f27b90bb07d488610ce625c105dea3760041"
+  },
+  "lexicon/H517.json": {
+   "bytes": 1106,
+   "sha256": "93c577c4a5db7d220ab5dbf546e1f9cac0e4ca45e78fa333595f6d12d57e76d1"
+  },
+  "lexicon/H5178.json": {
+   "bytes": 1278,
+   "sha256": "b5824fc82ba2c3cb6e02958980746e4166e0bae3966aae6e8e1ff1d75399efb9"
+  },
+  "lexicon/H518.json": {
+   "bytes": 1341,
+   "sha256": "730ef66734351072964415a2f9e58a2bca21ccb5302a5d67aac9e8b3ca3c435a"
+  },
+  "lexicon/H5186.json": {
+   "bytes": 1797,
+   "sha256": "2251ec82ba8fb43f52d92f7b3274073a82a3ec737161003e6b6e1d0ccc8a4764"
+  },
+  "lexicon/H519.json": {
+   "bytes": 1041,
+   "sha256": "9015b8bd4f06b521fd27b9283d217fb48cc0736f7eb2443eba3f287832b60cc2"
+  },
+  "lexicon/H5193.json": {
+   "bytes": 1136,
+   "sha256": "3486362d4d62143fef02df914a73be004a9dda5adbcdd6d30966a25bfc53b638"
+  },
+  "lexicon/H520.json": {
+   "bytes": 1337,
+   "sha256": "bee9256fa21b3f2ed1c3d42bd08f682cc7d47d2ea3cdbc839b10834a7759854c"
+  },
+  "lexicon/H5203.json": {
+   "bytes": 1666,
+   "sha256": "aad91ddc80cb48fa28551e8c0a7e58affb6bd9bb3bafa9cdc97144cc36ad1e8b"
+  },
+  "lexicon/H5207.json": {
+   "bytes": 998,
+   "sha256": "f38f705a2df6f6b512fe5ba878d09aa29c8491a5939d4b725e610511356b139f"
+  },
+  "lexicon/H5216.json": {
+   "bytes": 1015,
+   "sha256": "668f3c0304a453894a7f5a459caba1238e7fb7645f678329d0c48b4653e2d9c9"
+  },
+  "lexicon/H5221.json": {
+   "bytes": 1826,
+   "sha256": "6aa7ad13bacbeaa6d71e9351481989c1de2ce8f6a4d029c60e1793b126fbbd40"
+  },
+  "lexicon/H5234.json": {
+   "bytes": 2036,
+   "sha256": "950c5d7196bed1314c14aa775b1c9afd532698f23735adee4925878f2ed069b3"
+  },
+  "lexicon/H5237.json": {
+   "bytes": 1177,
+   "sha256": "7541791bf1417bd4b72a801ffbfcd0394c8d27227e49e4ff3e29734ef34a0652"
+  },
+  "lexicon/H5254.json": {
+   "bytes": 1080,
+   "sha256": "8b239def74fb40173227617eb9986ad6dd4e18efba3b5f97ff9af9148508967b"
+  },
+  "lexicon/H5262.json": {
+   "bytes": 1072,
+   "sha256": "de43b4e3dbbddc0fad7ac59dd1a24d7b067d98830dd1e5b33a03cbb36f8e0667"
+  },
+  "lexicon/H5265.json": {
+   "bytes": 1460,
+   "sha256": "56a187619edd99301aca0b55285146927c5ecaf561e03e08e2d8485751b95b4b"
+  },
+  "lexicon/H5271.json": {
+   "bytes": 1157,
+   "sha256": "f0a1924d944cd46c2a5859beb81800a034b27c8400b7a6a6c44d6dd20b79b9a6"
+  },
+  "lexicon/H5288.json": {
+   "bytes": 1190,
+   "sha256": "bb9cb4f493fe9a49ffe2b9db6ef0b59d17f61c9a69fa8d759eb9ce3b43544b25"
+  },
+  "lexicon/H5291.json": {
+   "bytes": 1133,
+   "sha256": "aec4d3f23bc2debedf498368905ba8380377c7a192614460ec7c353b60d265a7"
+  },
+  "lexicon/H53.json": {
+   "bytes": 1242,
+   "sha256": "06c7386618fa949ed59de6791446b353a43b6aa0a37858687316e3f26f2a6d5f"
+  },
+  "lexicon/H530.json": {
+   "bytes": 1129,
+   "sha256": "fbc6453022e0754db51a95cbe27583e5ddb637ac642abaedf14ad8c9b609a040"
+  },
+  "lexicon/H5307.json": {
+   "bytes": 2173,
+   "sha256": "b46ba641110bda429b8e59db7fc53dc4d0b87c83c3a55ca802e01ca014d8b880"
+  },
+  "lexicon/H5315.json": {
+   "bytes": 1968,
+   "sha256": "4e7918760534b4e0c6ccfecb2dcfb6c9f5103b152cfcdc826a95d486246a9e68"
+  },
+  "lexicon/H5321.json": {
+   "bytes": 1241,
+   "sha256": "f8cc36fa00b2de1747a89adfe0cf063b6e0365615fd8a9548321653a4bcbb1b9"
+  },
+  "lexicon/H5324.json": {
+   "bytes": 1670,
+   "sha256": "2187c8c5dc131f58bdb29912828c363da8139156bd568f89bdffe9bbef9a9b92"
+  },
+  "lexicon/H5329.json": {
+   "bytes": 1321,
+   "sha256": "5b1b805335a1bfaeb57d27fd14cd01bf9d41f37ab0979c283aa591871c67a37e"
+  },
+  "lexicon/H5331.json": {
+   "bytes": 1386,
+   "sha256": "6bbf49e625bb5ff94d85c6e628fa64174d25ca82b13a88e330268c847db2b7f2"
+  },
+  "lexicon/H5337.json": {
+   "bytes": 1589,
+   "sha256": "612a45f88d0bc1c9e101f8350eed1f95f129ac89f1aadce42d8298c892f0e5d4"
+  },
+  "lexicon/H5341.json": {
+   "bytes": 1311,
+   "sha256": "596b62073ecb3f44d7470b9ec4cb121cda83e2ecdd00d86998767bbb6ec095d9"
+  },
+  "lexicon/H5347.json": {
+   "bytes": 854,
+   "sha256": "c39541a4f2549e791923481a8e8ee9570af48a9f42b53c45982c7cfc2ba1980b"
+  },
+  "lexicon/H5352.json": {
+   "bytes": 1614,
+   "sha256": "0b0c98ae76b73f7f35695e1486c9bbe3e6317b3e579c76573d63cfedfb71d5c9"
+  },
+  "lexicon/H5355.json": {
+   "bytes": 1117,
+   "sha256": "485229fc3942c3313c959d2b0a1dd285576664ab5d5057f825232a2f02207920"
+  },
+  "lexicon/H5375.json": {
+   "bytes": 2141,
+   "sha256": "a2bfc28b414e372f170d5adb35ecbbbd322c9834e99a8bce4cbfec22da181c84"
+  },
+  "lexicon/H5381.json": {
+   "bytes": 1233,
+   "sha256": "7a3467f66943bd47b792aa428d71aa22ad071e8a1036d991cd4ff69fee6b7cc2"
+  },
+  "lexicon/H5387.json": {
+   "bytes": 1072,
+   "sha256": "a6117743652385751387ea049a1147b1312a97ebc513adbac6c8ef0c0bd21743"
+  },
+  "lexicon/H539.json": {
+   "bytes": 1926,
+   "sha256": "3fb1f5d783dee9321134c383b014a354834d4f7e01c33c8b427111818081eab2"
+  },
+  "lexicon/H5414.json": {
+   "bytes": 2465,
+   "sha256": "48ab672ad85f3ef2e59447b976cc14af086f23b38ffcdb1706776df810dd0c24"
+  },
+  "lexicon/H5416.json": {
+   "bytes": 1206,
+   "sha256": "c817d211f936966462547679cf137a96c8e4812996c02d0672dfa9bb94195924"
+  },
+  "lexicon/H5422.json": {
+   "bytes": 1299,
+   "sha256": "1a0000f7e33b27f9c56ab24b94556388559be7f186ac9c2ac866990f9ac5a8ec"
+  },
+  "lexicon/H5437.json": {
+   "bytes": 2245,
+   "sha256": "d95e4c1acbc332aba4077c1ebbb79599b2ea3c12a1320c28a3ed64d2db8b1348"
+  },
+  "lexicon/H5439.json": {
+   "bytes": 1242,
+   "sha256": "f072cf5e8d57b4dfbdeb5c5483439c3db1b4f3744338b702abe24330cd43b68c"
+  },
+  "lexicon/H5462.json": {
+   "bytes": 1360,
+   "sha256": "a1e5fdad23b043c94626f764d810d25e17c932a0918b8977599301daf30f2e17"
+  },
+  "lexicon/H5467.json": {
+   "bytes": 975,
+   "sha256": "61dfa20c66b184cf516d16dac20a01716a7d492e8d13e1a626829e5d2f69be16"
+  },
+  "lexicon/H5483.json": {
+   "bytes": 1051,
+   "sha256": "70521d29bb329e2a31da324923c8c7c55de5e3fab4b89c96742429a141c5b139"
+  },
+  "lexicon/H5493.json": {
+   "bytes": 1572,
+   "sha256": "71231921071c63634c32991b4b26f94decfe622e83c5afeff47ca53f6de41c75"
+  },
+  "lexicon/H5511.json": {
+   "bytes": 881,
+   "sha256": "7576b019e8d6556c60fa7dc6768ba1cae9cf42f867c578bbaa747b8b21283102"
+  },
+  "lexicon/H553.json": {
+   "bytes": 1487,
+   "sha256": "4e89c4628cf9bb3f2d00ba958ee1f91dd755ba046d5d4470daa9ac6c12d63650"
+  },
+  "lexicon/H5542.json": {
+   "bytes": 509,
+   "sha256": "a606dff16cbb2db3a41ef602eb5f942e31cafbb82cb68faea9212e1bd19767a8"
+  },
+  "lexicon/H5545.json": {
+   "bytes": 971,
+   "sha256": "f03f91f667049f54db8f97f342d170299a1e61d1f1be38d646ba9e9e0db6cdba"
+  },
+  "lexicon/H5553.json": {
+   "bytes": 1067,
+   "sha256": "77b9793742c3de9e149fc6c0637125297f834af3bc2c8d82d644d9dfaf64996b"
+  },
+  "lexicon/H5560.json": {
+   "bytes": 921,
+   "sha256": "0eabbd35878d4c8fb75e3915d6aa98940700fc19cf7979ece9eaa3b283bf718c"
+  },
+  "lexicon/H5564.json": {
+   "bytes": 1352,
+   "sha256": "8cb10b3d28b1387b191b5de7d513d246020d6f18f8a47965b18fec6e762fda40"
+  },
+  "lexicon/H558.json": {
+   "bytes": 1209,
+   "sha256": "d608dc05de3bbc7ae99c905338c815143e82852ec36d8ff59a921511c352c02f"
+  },
+  "lexicon/H559.json": {
+   "bytes": 1609,
+   "sha256": "7250ef81715ffb0c71435b6e9b0c4499cffb041920ec5f31664e91da3a493ded"
+  },
+  "lexicon/H56.json": {
+   "bytes": 1176,
+   "sha256": "d56d2dacbbe8902707d19dabbd0d3c9d862bc26f1681becc626fe695cce66c00"
+  },
+  "lexicon/H560.json": {
+   "bytes": 989,
+   "sha256": "0fb38872bf841a1117a11c272bf0c1643d726e8f86f6262df1b50d242eebe8f0"
+  },
+  "lexicon/H5608.json": {
+   "bytes": 1652,
+   "sha256": "11e6baab9db125e1dec3ba72c9690fa73320d87ecb86bd41efc69ca717120807"
+  },
+  "lexicon/H561.json": {
+   "bytes": 990,
+   "sha256": "e89bbaa506076839580d252ec960a731934b5ea5d703cc6e9cead14f4e64119b"
+  },
+  "lexicon/H5612.json": {
+   "bytes": 1603,
+   "sha256": "f90a09b193157d3fafb337a487be97f4e4444797324a3d8ec4bf6767830be3f2"
+  },
+  "lexicon/H5631.json": {
+   "bytes": 1076,
+   "sha256": "9c71175d5cfcc4592cb13384fac9204968367554af1f2c7ccadb1237ea353b8d"
+  },
+  "lexicon/H5641.json": {
+   "bytes": 1253,
+   "sha256": "abde31067dc7ada5c346f6115ea8c334ef632fb67df3755bd659a9023b7ad504"
+  },
+  "lexicon/H5647.json": {
+   "bytes": 1780,
+   "sha256": "93d4c7dcbf48685d5cd80efe6223a76f7161dda389191759593326707d4876f0"
+  },
+  "lexicon/H565.json": {
+   "bytes": 1029,
+   "sha256": "f64dcfe0b2d9ffaa65537bb823c7194be8c9827f229c8c4b161c54348fa98d95"
+  },
+  "lexicon/H5650.json": {
+   "bytes": 1202,
+   "sha256": "75ae02ee25b19c40ee7de53a319d5964929e99583dd5ebd1dffea364feff1abe"
+  },
+  "lexicon/H5656.json": {
+   "bytes": 1176,
+   "sha256": "668217e8989b23fede77c37a7d5f2ab7aefd82c8ed7b9459aed9c59325845653"
+  },
+  "lexicon/H5668.json": {
+   "bytes": 1171,
+   "sha256": "b8da587d269309fc6781cf2c60d5c14bd58160d01e526d87b14de1a3a806286e"
+  },
+  "lexicon/H567.json": {
+   "bytes": 1053,
+   "sha256": "ce204113c362d1e55f8b153367ae88dc90722f3803ae4fbd9c2c2ff5f13434cf"
+  },
+  "lexicon/H5674.json": {
+   "bytes": 2951,
+   "sha256": "fb55ccbcc53525f38d1ef37aa0a069377064df633546774f43622f19bf25938e"
+  },
+  "lexicon/H5676.json": {
+   "bytes": 1196,
+   "sha256": "6f7dd081eb44bba664afdc29d8c246dc376df695ea8d43af9fc36dd327fb6d2a"
+  },
+  "lexicon/H5703.json": {
+   "bytes": 1110,
+   "sha256": "984375a8a1c607767539952e20d705ec54f6db6663f34e6b01d54e6fdb45a255"
+  },
+  "lexicon/H5704.json": {
+   "bytes": 1615,
+   "sha256": "a91304408f4c6fa664901e9b46b08b66af063b7cba1b6b572b653d6fdf1b67cd"
+  },
+  "lexicon/H5707.json": {
+   "bytes": 981,
+   "sha256": "66bd510e85cd7e0aebb92eec1c59ee6bb54fa13c812b8a8621fab7909f09fbe0"
+  },
+  "lexicon/H571.json": {
+   "bytes": 1363,
+   "sha256": "6ddabb936cc187411afabae2b3734dab010d39bd32f8e11af2b26367f1639e3a"
+  },
+  "lexicon/H5712.json": {
+   "bytes": 1066,
+   "sha256": "5774a4380041be4c48b8405a25cbbbea11fa1d2637bd55f5dc4484d49fc9da09"
+  },
+  "lexicon/H5713.json": {
+   "bytes": 1033,
+   "sha256": "42636a6ab9923b64c891194498a0a28a1b33c774b1bc3a605264cc09c979eccf"
+  },
+  "lexicon/H5715.json": {
+   "bytes": 932,
+   "sha256": "5479f1e5b697cd2e552a53495124b7ae6e9d077d91391aecc9091e5264210e66"
+  },
+  "lexicon/H5739.json": {
+   "bytes": 964,
+   "sha256": "1df1930c935f305b00d6e222c073231615a81b83bcae34ec2ed1b26d7bbcebe4"
+  },
+  "lexicon/H5749.json": {
+   "bytes": 1644,
+   "sha256": "e518ed171e5d1d3e3f86846c52ac9f8b094672ad8950f9dc8639da97c32a4ede"
+  },
+  "lexicon/H575.json": {
+   "bytes": 987,
+   "sha256": "9cfa817ad0a9e7b1de6a5cced6d491c43f075ac7928319fbc9cd7d399701b815"
+  },
+  "lexicon/H5750.json": {
+   "bytes": 1418,
+   "sha256": "5999294f60660c73f1f736a3b140ef99653dbf24d9bd70611adbb3979a3b9d03"
+  },
+  "lexicon/H5766.json": {
+   "bytes": 1093,
+   "sha256": "56bd82e5fe2c5ab413a746e4744f7ae4f94d5a782ce2d1e2a3482fcf1f513d62"
+  },
+  "lexicon/H5769.json": {
+   "bytes": 1629,
+   "sha256": "5263fdfa1708effd6344b7921698d2f27e8b5211b42fef82a105eadc56ab37a7"
+  },
+  "lexicon/H5771.json": {
+   "bytes": 1214,
+   "sha256": "c0b2c3e3457ea4c46d1b5999751499ea873457f0815ad887fd43dcaec0bd5d8a"
+  },
+  "lexicon/H5774.json": {
+   "bytes": 1400,
+   "sha256": "1f2f112d33157ffdfec8b774ea2b62f3ce67d961ca6300692c8fe55ab2d66a4e"
+  },
+  "lexicon/H5775.json": {
+   "bytes": 1028,
+   "sha256": "d4fc74e9cb6c7a79acec67985abf9169fd16428c5aa738b0cd2ed3c876806110"
+  },
+  "lexicon/H5782.json": {
+   "bytes": 1288,
+   "sha256": "3a38ff0d2e1765721ab97e30719048f2aa28becea12214be1f0d5b29a09a1bc5"
+  },
+  "lexicon/H5785.json": {
+   "bytes": 943,
+   "sha256": "31f7c1ef441b7046f107d248b38b721c314ee2c29def9743c134c7077aa6aaa2"
+  },
+  "lexicon/H5795.json": {
+   "bytes": 985,
+   "sha256": "db7688419531a794dbce8dd03d6d5ebdf433b8ad62ad3a313ffdf7ccebd547a6"
+  },
+  "lexicon/H5797.json": {
+   "bytes": 1027,
+   "sha256": "d965ce09a86617b6954f629ec91ac2913bc8fb93e00896ca2afe301fb3394305"
+  },
+  "lexicon/H5800.json": {
+   "bytes": 1365,
+   "sha256": "1f2180fdc620880af196ed7d12280069fb492f7e318c8de431e978684f6adabd"
+  },
+  "lexicon/H582.json": {
+   "bytes": 1432,
+   "sha256": "c321458e7ae29e6cf384cff8480373c0d7ec0f9a0677714071188057e70b2635"
+  },
+  "lexicon/H5826.json": {
+   "bytes": 1008,
+   "sha256": "ed9291ba5da33367da80fbe0e453e6df4b46cb88023ba935bf1e84b2d1d60d54"
+  },
+  "lexicon/H5838.json": {
+   "bytes": 3366,
+   "sha256": "b24a58695d7b9f5c0f5d014c35391c2e2d444f6929f28c5fe26ee6c7a002d795"
+  },
+  "lexicon/H5857.json": {
+   "bytes": 1176,
+   "sha256": "624d627d8874e46b421c818dcb1c2ebdf2ed72e0b4c55b7ce4e830f0ac6789a8"
+  },
+  "lexicon/H5869.json": {
+   "bytes": 1624,
+   "sha256": "d9a5c5cdb2b22ef2f17f00db4dece4f6c0b5cda953747303270a6fa79c6a971a"
+  },
+  "lexicon/H587.json": {
+   "bytes": 588,
+   "sha256": "6ceca72b3943c9cd7d872574599c2f60cb770dbe2ec1f2f1ec56d68757c9f69f"
+  },
+  "lexicon/H589.json": {
+   "bytes": 846,
+   "sha256": "fc5888fad49517f3959d52fabe5b104243f6e3a494dd19377d4ef8ee7e3ec1ae"
+  },
+  "lexicon/H5892.json": {
+   "bytes": 1128,
+   "sha256": "9fd8e11c6f2c80177e959f4ae9e1d35790fb8218ce6fcded8881411423d9dd86"
+  },
+  "lexicon/H5921.json": {
+   "bytes": 2273,
+   "sha256": "7a0f837becc73bf0e3d957f5a231931c1207a496b1281dbfd59a6e0cdecb50df"
+  },
+  "lexicon/H5922.json": {
+   "bytes": 1295,
+   "sha256": "dd1a27f94d937107e83093d325da5e4f094a246b756fa057598f7160e66e2133"
+  },
+  "lexicon/H5923.json": {
+   "bytes": 891,
+   "sha256": "f63d0200b5d58f17715d1d853b69b1d0508e9ad29c6004168b9704be1f7da23f"
+  },
+  "lexicon/H5927.json": {
+   "bytes": 2587,
+   "sha256": "27e3fa6a36981cf6a03d01227763c6013d77009f4e13ec887382948285764648"
+  },
+  "lexicon/H5930.json": {
+   "bytes": 1091,
+   "sha256": "382c973ce0b71bea8257da1b35593c08bfc3856016310d778514cbe10facaa19"
+  },
+  "lexicon/H5945.json": {
+   "bytes": 1191,
+   "sha256": "2700d480a4661d42f48f82a8cc9950a5e8c9871ddf20764648879318d3f9e1d7"
+  },
+  "lexicon/H595.json": {
+   "bytes": 684,
+   "sha256": "9b722ce249c2f8fa41f9ede4e4fcc928fe97c519380e9534787c5626a35c23b1"
+  },
+  "lexicon/H5971.json": {
+   "bytes": 1125,
+   "sha256": "7fb0e8c3302b7b6b776ba2b0c7156bd6ee0369ebc1dd33d946a17937e94584ce"
+  },
+  "lexicon/H5973.json": {
+   "bytes": 1285,
+   "sha256": "40532268224337901e390185bfecc834ca665fa6124fc844b4de8e3be682cc6f"
+  },
+  "lexicon/H5975.json": {
+   "bytes": 2226,
+   "sha256": "deb66ec13fa96e658d6b1eddfef0cdd7fb017292bb57902d30f2b9727dced030"
+  },
+  "lexicon/H5978.json": {
+   "bytes": 614,
+   "sha256": "043eca6a866a9dcf3faa3d6d011eeee426f843d8ff6f78e4e9fb4fb80d4fe567"
+  },
+  "lexicon/H5982.json": {
+   "bytes": 1048,
+   "sha256": "c73be2ffa5a0eea2f6eba9fdc0149de6cd484218af0f4706c34d227315e8312f"
+  },
+  "lexicon/H5983.json": {
+   "bytes": 674,
+   "sha256": "3e588471afbe7ff026c71a67c4a7641f27f7be5834fd26738d109b5542e2d832"
+  },
+  "lexicon/H5999.json": {
+   "bytes": 1152,
+   "sha256": "e748215c8c51dbd9e4cd6c92d914972c3797db7434d19b0a4b92e56ad390010e"
+  },
+  "lexicon/H6.json": {
+   "bytes": 1608,
+   "sha256": "6f57ad0815e02a5152d2e6ae3061bd09b6dff4f11e4a5db29cabf4ff9e7cff65"
+  },
+  "lexicon/H6002.json": {
+   "bytes": 1128,
+   "sha256": "0fd4c42766a52ac6785297ee569192f86b4bafdc1f8fab5494df56a8153addc5"
+  },
+  "lexicon/H6010.json": {
+   "bytes": 983,
+   "sha256": "4660ac065107b1a49e4e9eaabd01313e9c1b8bd997a6304378cc9fd398b98aec"
+  },
+  "lexicon/H6030.json": {
+   "bytes": 1601,
+   "sha256": "eb27614b355fe2e0d4201729ae10cdc6f9a6feb542dacd2eda0c9ff12bea4a77"
+  },
+  "lexicon/H6031.json": {
+   "bytes": 1965,
+   "sha256": "f003f836b365297040df155e7d1c1d94ef03ba7ac2f719bb3aa592a43e3b8272"
+  },
+  "lexicon/H6041.json": {
+   "bytes": 1182,
+   "sha256": "fc22fb08b3cb11b292750fc44db655254f895325c07b2050414632cfdb1ccaca"
+  },
+  "lexicon/H6051.json": {
+   "bytes": 997,
+   "sha256": "f2332bca735b7d98eedb957cfce544733cb4da7c12134f315b3f54634e7d7da3"
+  },
+  "lexicon/H6083.json": {
+   "bytes": 1079,
+   "sha256": "43373fb4e463eafe63e2b242748ee28eba2bd3a24113a88cc3d49a06a8ffeaf8"
+  },
+  "lexicon/H6086.json": {
+   "bytes": 1132,
+   "sha256": "e21d53d762b0d4291a196c6c929fdcae3ed1fdc5f6bf69f04465cc911523fd16"
+  },
+  "lexicon/H609.json": {
+   "bytes": 752,
+   "sha256": "2625d13b675042e82b5255b29baad546e5b4b56e57e5e667e94d6f187e42c775"
+  },
+  "lexicon/H6098.json": {
+   "bytes": 950,
+   "sha256": "d24d934b93788c22df0cf209991f6e82632fd6f89ded91f2d66621ca083f9e88"
+  },
+  "lexicon/H6106.json": {
+   "bytes": 1160,
+   "sha256": "4789244ece1da35d39f842f0015a56dc11f353a84e16e04d16d63d3609d345af"
+  },
+  "lexicon/H6113.json": {
+   "bytes": 1291,
+   "sha256": "3ab0a47431bd1196f24132f6d397fc2c2374aab68ba44c5d3167a5350253320e"
+  },
+  "lexicon/H6153.json": {
+   "bytes": 965,
+   "sha256": "3d620615d972af84778497299fae7a93320df5fe0a22eb003a5697fb3c1152c5"
+  },
+  "lexicon/H6160.json": {
+   "bytes": 1166,
+   "sha256": "d239d5fce68714015607b9693d4b7d6786de9e4cd6d0362d16c11ca0270d7a87"
+  },
+  "lexicon/H6172.json": {
+   "bytes": 1159,
+   "sha256": "ff5edc6750ba3e1738968882cb602d99e829a281ee8aec993fba78f41052a516"
+  },
+  "lexicon/H6186.json": {
+   "bytes": 1466,
+   "sha256": "e32ac3cbf8e31ba2aaea5cedde05a7e627c9333f3da00a1d3a7144c9e889a8ca"
+  },
+  "lexicon/H6205.json": {
+   "bytes": 1034,
+   "sha256": "f75f93ccf192388ce1723b7f03050438a1181faf396a85dd8bc37a4ba5db3d88"
+  },
+  "lexicon/H6212.json": {
+   "bytes": 960,
+   "sha256": "99ee93ce26ab549cea7c37d7e98ad1d345524d7ef713a9446941d7f4ac5b519a"
+  },
+  "lexicon/H6213.json": {
+   "bytes": 2469,
+   "sha256": "af083e5b7dd8b52b8f8953170a7c541b395b31d81244af909717a4bb7aa6f134"
+  },
+  "lexicon/H6215.json": {
+   "bytes": 944,
+   "sha256": "febe88f050b152c18ffa16a664599c71f2a00408f7ec71b0e0c125354a811a4d"
+  },
+  "lexicon/H622.json": {
+   "bytes": 1944,
+   "sha256": "778e20b784a6c8ca185189645ea2fc5ae8458d248c7d922a074da4bbe0fb6ec5"
+  },
+  "lexicon/H6226.json": {
+   "bytes": 512,
+   "sha256": "798f57f6f188b2cee34a958ff538211aeb3cbb07a5c0ed45a3d0ef40286a0ac1"
+  },
+  "lexicon/H623.json": {
+   "bytes": 841,
+   "sha256": "d3cc89194b9d21843b4b0b35a4176e6c1ddb17286368a2c726cb996519b52bbe"
+  },
+  "lexicon/H6235.json": {
+   "bytes": 1020,
+   "sha256": "5ae0deb1bea35c4f74e852f9df8a339789905a98fe21dc741679f417e28d0160"
+  },
+  "lexicon/H6239.json": {
+   "bytes": 911,
+   "sha256": "fbd9329eb9bc7b9efa94f42349b7d1cb21151e21669af1fca412bd32fb331c0b"
+  },
+  "lexicon/H6240.json": {
+   "bytes": 905,
+   "sha256": "f5a20c9151aec6785acb9b5df65fae9fcd87430941ae16bbf04e0ffa0ad3ed04"
+  },
+  "lexicon/H6242.json": {
+   "bytes": 981,
+   "sha256": "8c8441f559964260bf14547bac463d0fd42ff8d9bc315cde3d14724d9b4e314d"
+  },
+  "lexicon/H6256.json": {
+   "bytes": 1170,
+   "sha256": "8225eeee36aa4a2efb11b1d21de1a9d458e83b647cd0fa76670d59dbf5aed6ed"
+  },
+  "lexicon/H6258.json": {
+   "bytes": 930,
+   "sha256": "cf70e64cb10ae515d925578eac6da5fb647f4653336b61899adb7338d60a9794"
+  },
+  "lexicon/H6275.json": {
+   "bytes": 1258,
+   "sha256": "2847af7c0b40dac3b715f78dcb471983b60198bd7e837c3ed09b6355d242d680"
+  },
+  "lexicon/H6285.json": {
+   "bytes": 1014,
+   "sha256": "21ec8f59a274175aea0a5459d19cb8587696064dd4b1fb98428fd3a1ad81744d"
+  },
+  "lexicon/H6293.json": {
+   "bytes": 1515,
+   "sha256": "daef47b135dadd2cc6d7adc27d743342cfe55690a3ac3eded5f8b444ef970f1a"
+  },
+  "lexicon/H6299.json": {
+   "bytes": 1192,
+   "sha256": "e086a4cb2d46a66b34a634abdef61a088ac2c358318a48e8b23630dd2d07fe06"
+  },
+  "lexicon/H631.json": {
+   "bytes": 1377,
+   "sha256": "13b6073d894a45e2b1ac2be8b085045ded7207723197c91e3e35143669c8fa80"
+  },
+  "lexicon/H6310.json": {
+   "bytes": 1563,
+   "sha256": "f7c7ee956451bd42f2c1bcafabe00e76e6254bfa9154105d7c7182c0027ec3cc"
+  },
+  "lexicon/H6311.json": {
+   "bytes": 1025,
+   "sha256": "bc0bbf08b15b417628aa76a0035267e4bda13f76a5dddcc854a70d2d1ac9eaea"
+  },
+  "lexicon/H6327.json": {
+   "bytes": 1372,
+   "sha256": "b2f3253bf21e5bac2e0dfb95803f6630a331375d18d0a7757ab5f95f9eb163aa"
+  },
+  "lexicon/H6343.json": {
+   "bytes": 1038,
+   "sha256": "450ddab27f1a1e43dcb1ffab28fcb3fbfb40d435b5927c7045aa2f4360fbf963"
+  },
+  "lexicon/H635.json": {
+   "bytes": 984,
+   "sha256": "9b9cb53d09f8f11ea51b8d7ec22b780bd4e54b38ce47c2ccbdd6d5439d85d53e"
+  },
+  "lexicon/H637.json": {
+   "bytes": 912,
+   "sha256": "259cc72283c25d833f3ecd99d47a4cbcba4e025bbf990585a88e50e7f8268608"
+  },
+  "lexicon/H6370.json": {
+   "bytes": 1047,
+   "sha256": "62047959c37a6c1c98e87a912017df835f5bad638a9ec8b2db3416ea3dd95e83"
+  },
+  "lexicon/H6381.json": {
+   "bytes": 1832,
+   "sha256": "1a4fd0170d7560108691e8f758e34b1e8b293d0f84cd80249ad8afaa9959c2f4"
+  },
+  "lexicon/H639.json": {
+   "bytes": 1135,
+   "sha256": "2671d379da8aaef4e27f57968995ddeba375b6287a23730930504ac1e833cdca"
+  },
+  "lexicon/H6419.json": {
+   "bytes": 1176,
+   "sha256": "86cba364ed37567b0564d5b8f350d980d0f899578f25f6c5786bdd2d63d436e8"
+  },
+  "lexicon/H6430.json": {
+   "bytes": 1181,
+   "sha256": "16ff3d389b5f1b67fdadb29021bd3d48373153cb34c90a04a09dc480506d4e75"
+  },
+  "lexicon/H6435.json": {
+   "bytes": 609,
+   "sha256": "4f4844f3079cb3e34ff14bad95bd77e5282e577dfdcc82e465d71ddb1e65d962"
+  },
+  "lexicon/H6437.json": {
+   "bytes": 1567,
+   "sha256": "aca4f480b1c9981161ef47785953d5f66dbe9859788c71fea14ad6792f5a939f"
+  },
+  "lexicon/H6440.json": {
+   "bytes": 2474,
+   "sha256": "65f68f39993ec6fb42acc9cbf21340e2969cb4f2cd293f328356e0629450f075"
+  },
+  "lexicon/H6453.json": {
+   "bytes": 1114,
+   "sha256": "7357f51c0d409d5246a2f525dc5c846da614035978826a5907667b7912dd57df"
+  },
+  "lexicon/H6459.json": {
+   "bytes": 883,
+   "sha256": "8f2102faf8a7fad2d68c362190b92e9caad9011a94c34756e1868a2a02b20f42"
+  },
+  "lexicon/H646.json": {
+   "bytes": 1285,
+   "sha256": "c0b35e1b1c5da77c84c864c2d6994573d169f76bf9867235849dc2327b7b343a"
+  },
+  "lexicon/H6466.json": {
+   "bytes": 1023,
+   "sha256": "226f7947781c12ebb1f52c8b0daa0fe5c0460d652595784ae0f0ef65602af016"
+  },
+  "lexicon/H6467.json": {
+   "bytes": 1055,
+   "sha256": "2f83b9037d32d3afd98e9f29f99e2721d479604a1e758e9a6a28f084a48bd7e0"
+  },
+  "lexicon/H6471.json": {
+   "bytes": 1393,
+   "sha256": "2a0a5bbace7a87670b481b7f278e7a03339d86bd0782189ba1ffc9adcf3e7265"
+  },
+  "lexicon/H6485.json": {
+   "bytes": 2429,
+   "sha256": "df51b009ed19fc298cbbf53f69790320768d55232c68f65de7dd231a77a28c6e"
+  },
+  "lexicon/H6499.json": {
+   "bytes": 971,
+   "sha256": "fe7e8385361065b8eb42f6ccdbea87d28891066aa0ddca38864cf15629c126e4"
+  },
+  "lexicon/H6509.json": {
+   "bytes": 1169,
+   "sha256": "56fedff76ace7311f093691d245364b7044e1b374df2dc52ac95d92f7696a342"
+  },
+  "lexicon/H6529.json": {
+   "bytes": 1058,
+   "sha256": "72a5b5b2d9c68fc9d125d713019cb02e06b4c4a5000f1aec6fa014cf72c6e79d"
+  },
+  "lexicon/H6547.json": {
+   "bytes": 958,
+   "sha256": "87e0345a3a024b2b9a5f53b30e2fe53cba16af817081628b61ec7401c1cdd30b"
+  },
+  "lexicon/H6555.json": {
+   "bytes": 1620,
+   "sha256": "8ecfad68ef7b0c62ac6e1979b78ccc108577cffbfc7e7410bf30204295c3fe7f"
+  },
+  "lexicon/H6565.json": {
+   "bytes": 1483,
+   "sha256": "95a44ca542705f7cfd60d84bd416eb689236d2abca0d0e58c5db8667fbeae9a4"
+  },
+  "lexicon/H6566.json": {
+   "bytes": 1215,
+   "sha256": "c1d417fce0411ba0a51bcffc829a41e2f6cfa1e8815a643b799dc27a1935785a"
+  },
+  "lexicon/H657.json": {
+   "bytes": 1239,
+   "sha256": "f3bfcf26cd80043e582395e3577aeab84a8cbc8f335a4b86c80342c0f18b65a8"
+  },
+  "lexicon/H6571.json": {
+   "bytes": 1129,
+   "sha256": "a5d33a4b15f88e069b1570b286193ae0b8c16e9dee9936f3e63fa50f4c5194f4"
+  },
+  "lexicon/H6584.json": {
+   "bytes": 1436,
+   "sha256": "c31c237306f1426c1ba3df7e2c5a9c8ef8798ff4aced6dab7e8328895621a4f9"
+  },
+  "lexicon/H6586.json": {
+   "bytes": 1176,
+   "sha256": "d93426e92b433be5ad5a95b09296d0ecbf94c231b0a2334471189da8216f0cfd"
+  },
+  "lexicon/H6588.json": {
+   "bytes": 1340,
+   "sha256": "aad4894217d70ede36354e8f71dfd8fe78592ece47b2b3efa11dd65e3a1e2985"
+  },
+  "lexicon/H6605.json": {
+   "bytes": 1377,
+   "sha256": "78814fad1868121c07d0f77852bdf1bc593291f9691ef8e93029e54fbb83ee04"
+  },
+  "lexicon/H6607.json": {
+   "bytes": 1010,
+   "sha256": "a1939675a588520745d933b474a206d45a536321b6f23fe7c0ce908a5ebd3b3e"
+  },
+  "lexicon/H6629.json": {
+   "bytes": 1230,
+   "sha256": "dc21bd27792dd69cb5fb20cd73f59f7390a0af04dff12832312f1bf6c5806f6e"
+  },
+  "lexicon/H6635.json": {
+   "bytes": 1431,
+   "sha256": "3713c76e5767c4b8b8a52bf922bca74b409a0408cf9f16a71d4976937d7dc618"
+  },
+  "lexicon/H6659.json": {
+   "bytes": 1732,
+   "sha256": "ad23014e57ae23380ce0514f5c177740033746c338f0012623c0bf6e7d06251c"
+  },
+  "lexicon/H6662.json": {
+   "bytes": 1164,
+   "sha256": "a9c3f9a52eafbdb4ba3bd7abd7d8e3b39771aa87e5357df52e33915cc3e63678"
+  },
+  "lexicon/H6663.json": {
+   "bytes": 1607,
+   "sha256": "cfa8802ee080b4d6f9e31ca64e4ae6ddd219f5cecc0029d23933a98ec3464e17"
+  },
+  "lexicon/H6664.json": {
+   "bytes": 1746,
+   "sha256": "6ca1973165e6007ce1b38692b8fcb96594fb059781c6a836f758a9015e280429"
+  },
+  "lexicon/H6666.json": {
+   "bytes": 1536,
+   "sha256": "97b696e8b9182dc27b695758bb4b75df2d9c8ff0c0fa42eedd257347490885f8"
+  },
+  "lexicon/H6667.json": {
+   "bytes": 1529,
+   "sha256": "aa3690650c15f856081612da47fb835090f77294fd4735be44fca6325b0c9017"
+  },
+  "lexicon/H6677.json": {
+   "bytes": 1120,
+   "sha256": "66ab4a7f680bb64d600749a00f0d1d8bf5621fff3ae4f3739ea508ac90c5b3f3"
+  },
+  "lexicon/H6680.json": {
+   "bytes": 1443,
+   "sha256": "973a1659b93f577a09854baec2416e4813ac81ffeea8f1cb672f1a772f3cf646"
+  },
+  "lexicon/H669.json": {
+   "bytes": 1377,
+   "sha256": "12749240a6501140916c2e58cced8effadc4e3304b6335fe1404a28167fe719a"
+  },
+  "lexicon/H6697.json": {
+   "bytes": 1285,
+   "sha256": "6989915b9ad281198cf74516d9dfdd0e93c092a9cbb11d8851062130983e478a"
+  },
+  "lexicon/H6726.json": {
+   "bytes": 1095,
+   "sha256": "77b97e30e23b798baecd0934c9dc4e090fca2c5e2f4fb41fc61fe3dd69b658f9"
+  },
+  "lexicon/H6738.json": {
+   "bytes": 1007,
+   "sha256": "61cfcc13d294dc053f44d9fb11cdb94284024de1e6589be020adf9ae2bb7806e"
+  },
+  "lexicon/H6743.json": {
+   "bytes": 1343,
+   "sha256": "04019d04821f90517390ab0e0bbba10b9dc16473d648c9f0a9a8c124f00a4916"
+  },
+  "lexicon/H6754.json": {
+   "bytes": 1157,
+   "sha256": "ead21b3079e507928e722270f895d60fb76c2b0dbea3fea2bdbc8467c6bdb83b"
+  },
+  "lexicon/H6757.json": {
+   "bytes": 1082,
+   "sha256": "01f940be35f9bc89af02e3bf162e4575f7ebe08c95b0ec701ad7c1693d1aaffd"
+  },
+  "lexicon/H6763.json": {
+   "bytes": 1433,
+   "sha256": "6896fd24bab0cd30dc22641cc17ea3d95dcac5f9a8a974cdbb650c086893c41a"
+  },
+  "lexicon/H68.json": {
+   "bytes": 1699,
+   "sha256": "5fdd24a2caa0a4b74621058816a34e336e90642895cbdf1d38d2c8d6b2399787"
+  },
+  "lexicon/H681.json": {
+   "bytes": 1140,
+   "sha256": "7f91be63fce370e7a7fe777bb040c84901efaba94ab74c982c5783d3a134dc78"
+  },
+  "lexicon/H6817.json": {
+   "bytes": 1255,
+   "sha256": "ffd0cdf11c829d30d2f70ba13ec198b8ec86221988846f4e7a1c00fd06148361"
+  },
+  "lexicon/H6822.json": {
+   "bytes": 1141,
+   "sha256": "1eb2d15d187ecf214ad9d7e60b68533d993c8dc1d232aa7a0a76f876645547ed"
+  },
+  "lexicon/H6823.json": {
+   "bytes": 1129,
+   "sha256": "e51371729164019771b1123e111f33ff6181519ca0d4b45ad0fb4dcba7910870"
+  },
+  "lexicon/H6828.json": {
+   "bytes": 1057,
+   "sha256": "e8564d2bc287ea2f603fa7e0f99ee08dd3e132a88ecd38886e755c2e1c92c32e"
+  },
+  "lexicon/H6833.json": {
+   "bytes": 969,
+   "sha256": "6b9dd9d0937f9e93f3bfb6c6ef48743cbdecc2ff0540d5324f87eaf625fee636"
+  },
+  "lexicon/H6862.json": {
+   "bytes": 1207,
+   "sha256": "1192889b90e997ba9e597164c2883b99c037d167647d8c7561f3733d47a9904d"
+  },
+  "lexicon/H6865.json": {
+   "bytes": 899,
+   "sha256": "d91510c1185e7aa915fb13fcc3574504eed67e7dc5ac48e117f127e83ebe576e"
+  },
+  "lexicon/H6869.json": {
+   "bytes": 1051,
+   "sha256": "df837c5433c2a2d0ebcbc0a20926c688ee7e6fd93051a2801c525430aae2298d"
+  },
+  "lexicon/H6887.json": {
+   "bytes": 1548,
+   "sha256": "7d27a9c6210dbbe3b904ac0d10be4603a0c3b7294acedff4b6e291652f2dc6f2"
+  },
+  "lexicon/H6908.json": {
+   "bytes": 1316,
+   "sha256": "bcf80f12d12a5c8f097d2051f933ad24eef8828d9d77a4b43416ec88b35386ca"
+  },
+  "lexicon/H6912.json": {
+   "bytes": 1062,
+   "sha256": "9e4509cff2f7daba40432cb5e3aa5120959c94c60969dc04ff3c5438ee9f4a81"
+  },
+  "lexicon/H6913.json": {
+   "bytes": 928,
+   "sha256": "832bf4db22c26bd5b07de445ce96588030a6c9d648bf8eab1057ea7a6000cc5d"
+  },
+  "lexicon/H6918.json": {
+   "bytes": 1017,
+   "sha256": "81c0f3eab1c367b7dcf27f2d48c1000453f3707843e8c6f9d44132ca7f55f093"
+  },
+  "lexicon/H6921.json": {
+   "bytes": 1073,
+   "sha256": "10109b173e470ce8cbb28c5be9e79c8eb8fe19c6cde8cdacd507eeb5e04a1747"
+  },
+  "lexicon/H6924.json": {
+   "bytes": 1451,
+   "sha256": "05b454c93736a3c2fc603b939277f8adeb9d0e074390f628f255bfdf5369bd05"
+  },
+  "lexicon/H6925.json": {
+   "bytes": 1044,
+   "sha256": "7995259071740688bcf8dc753a66a0cef3b481ecd7e11637756abbf2d9815e12"
+  },
+  "lexicon/H693.json": {
+   "bytes": 1087,
+   "sha256": "8036d9cad45286d1eb469043b90a76afbfba77d96bb945edba9181eb258b5b0c"
+  },
+  "lexicon/H6942.json": {
+   "bytes": 2048,
+   "sha256": "b376743194ed2767f4b993caaf7fe6f4e04a9d301894fb3ef440f3036ee5b343"
+  },
+  "lexicon/H6944.json": {
+   "bytes": 1245,
+   "sha256": "d7154ce90f8fe3a069c91e102364e7c42c08d42a9ef007dbff4f4b0975646824"
+  },
+  "lexicon/H6950.json": {
+   "bytes": 1156,
+   "sha256": "39a8216707607c29ba6abea5e197f1d82855a361685c8f61d8597beb05e31c46"
+  },
+  "lexicon/H6951.json": {
+   "bytes": 1128,
+   "sha256": "f0f81d0146a5de70ea9df024ad706b43f17080a969e8633c35caec21314bc729"
+  },
+  "lexicon/H6960.json": {
+   "bytes": 1242,
+   "sha256": "3ee3f7647e2064ba553b5603b85e9b3b35858265eae5663c3aefeb6ac3a1f81a"
+  },
+  "lexicon/H6963.json": {
+   "bytes": 1189,
+   "sha256": "ddff5c0990bce853e8f868adde2c27a595192b29c0367fe6eca16414734f1a3a"
+  },
+  "lexicon/H6965.json": {
+   "bytes": 2350,
+   "sha256": "7ff39a05cb06cb65af22149093113d536d82705c3c36b426404639e1ff05039f"
+  },
+  "lexicon/H6967.json": {
+   "bytes": 944,
+   "sha256": "9858d3b8239d6b837fec99bc1b8848471bf435486a183290f3f553db69898ab0"
+  },
+  "lexicon/H6996.json": {
+   "bytes": 1168,
+   "sha256": "1895611653218046ad94aa8eb3991e04425d1c9534b0bcea080a7c2ab217e53b"
+  },
+  "lexicon/H6999.json": {
+   "bytes": 1579,
+   "sha256": "007100eb4172cde026b649c81cbb7d9bdfd991c12d2b363df36bce86e000cc88"
+  },
+  "lexicon/H7004.json": {
+   "bytes": 1037,
+   "sha256": "ac1c5a6fffcbefcee1aad838b711f23639b2e1b6a8aa2194fdddf1578af95fa8"
+  },
+  "lexicon/H702.json": {
+   "bytes": 914,
+   "sha256": "24cf87481e129db44ba6ef9723437ec9e12a3748cfa4eb4f7bc239c51cbcfbe6"
+  },
+  "lexicon/H7023.json": {
+   "bytes": 1030,
+   "sha256": "88ad324d7d91e7fc7ac8241aa164ec257a148040257f46e15a2d5c9e2a8c6eda"
+  },
+  "lexicon/H7043.json": {
+   "bytes": 1882,
+   "sha256": "5903c7bf8c6857ece3e5e3a2401a5979e08ebdb77493f9de0b937a9e3affc4a1"
+  },
+  "lexicon/H705.json": {
+   "bytes": 950,
+   "sha256": "c1ff4520237d8ce31e8be95b5c240afd4fcdaac0be430de6642074901196b1bc"
+  },
+  "lexicon/H7067.json": {
+   "bytes": 412,
+   "sha256": "a7e5d1817ed6d86bb98e78a7ff88dc4156f4a4e3155b31128c00060fcecd08ae"
+  },
+  "lexicon/H7068.json": {
+   "bytes": 1343,
+   "sha256": "f0f8e6399a2a435a400ab5f8f1e4a34265ba6b08e09fc744f50418cde73004fe"
+  },
+  "lexicon/H7069.json": {
+   "bytes": 1416,
+   "sha256": "541e9e5243e117c97f94df40dd1187adb8f32145aa77b4bf6bc8046a3aec1790"
+  },
+  "lexicon/H7070.json": {
+   "bytes": 1378,
+   "sha256": "3cef4ae558dfb30f354844de09baa935b1361d58abc173b5f5dbdfcb8236d125"
+  },
+  "lexicon/H7093.json": {
+   "bytes": 1014,
+   "sha256": "25a8115d59e9b506c6b80b1885d274bb2bca3f7aff40ef5162c45af42d534726"
+  },
+  "lexicon/H7097.json": {
+   "bytes": 1288,
+   "sha256": "7ed80ecdf4d58e7e192c3a384b0b5ac929f782265a861a1226c10268a45493ba"
+  },
+  "lexicon/H7105.json": {
+   "bytes": 1167,
+   "sha256": "e542e76bf4c584a8ee8ef3ffa6a0a0793a73ac84137cc2e44c58607e1dd1c6bd"
+  },
+  "lexicon/H7114.json": {
+   "bytes": 1364,
+   "sha256": "0f356edcb02e14913e26fcfc97f48d158b18f5556b6d70c0e5ad1e4a4877dca8"
+  },
+  "lexicon/H7121.json": {
+   "bytes": 1805,
+   "sha256": "feb50df701835d9d09ca5b0d09a6c8a7fdff509a4ba13d141bebdc8bbf9592cc"
+  },
+  "lexicon/H7122.json": {
+   "bytes": 1179,
+   "sha256": "0a66442bace03a58ffbfb2ff699fc2d13af122ad62e3f98b7060a885ed0df10d"
+  },
+  "lexicon/H7125.json": {
+   "bytes": 1181,
+   "sha256": "56c084919089dc708b36c1090664e369ce9a0bdcd0c4d19825c8142844ec06bc"
+  },
+  "lexicon/H7126.json": {
+   "bytes": 1391,
+   "sha256": "2fac71fb2c478f9eef34d30743ebdb1baf2e94623c0e53081a1961b8aa5ad80e"
+  },
+  "lexicon/H713.json": {
+   "bytes": 990,
+   "sha256": "1d768148619f75cab9ba3ba43e5cec0ef972fc44b44c8006095bfe44be7a2746"
+  },
+  "lexicon/H7130.json": {
+   "bytes": 1555,
+   "sha256": "68b5426fd8f713332eea503fab34292f98653d05ff0918f276b6f6d3912dbc35"
+  },
+  "lexicon/H7133.json": {
+   "bytes": 1004,
+   "sha256": "91d181232860dbf394a58bde93ecd501a0f19420e74be66399ff670fc1f9ff9c"
+  },
+  "lexicon/H7138.json": {
+   "bytes": 1157,
+   "sha256": "d618d2ac3ed5b003ccfa2e90e9bad8aa97c64fafb291af49822df1ff8a17ffaf"
+  },
+  "lexicon/H7141.json": {
+   "bytes": 1153,
+   "sha256": "83a9f7b47218c914117125a9a5a8fe8a8b257fa56cd8e10a9fa204e7a935f6ef"
+  },
+  "lexicon/H7161.json": {
+   "bytes": 1351,
+   "sha256": "bb9642113dd6796ceb548cab7ea3046e5a39ad2aee6b7d62705df8eb2ccd1d57"
+  },
+  "lexicon/H7167.json": {
+   "bytes": 1278,
+   "sha256": "6843a26c3d6217787277ce16354a75527f82183a36be395d52b1dcd4afe81885"
+  },
+  "lexicon/H7175.json": {
+   "bytes": 1002,
+   "sha256": "17ff27ad85bb720471f896d1cc08125168d8f04c16faaa082e1777a001621d69"
+  },
+  "lexicon/H7181.json": {
+   "bytes": 1229,
+   "sha256": "19d475153e795eed5966ceb6ce02e97a71ea382a28a6851d621141a6824e9b7c"
+  },
+  "lexicon/H7194.json": {
+   "bytes": 1415,
+   "sha256": "7ee074ac8bb7d7494c328755b6d84c778085e76359dc8540556e4d8e669f1032"
+  },
+  "lexicon/H7198.json": {
+   "bytes": 1142,
+   "sha256": "0a93e3093d2350269671dcc900d677084b0f5076b89f8d2a07da0f55a356284c"
+  },
+  "lexicon/H7200.json": {
+   "bytes": 2178,
+   "sha256": "157bd154cb7ed25b71f8612e9911e539a4623b8089c233ae8c6b94a501ade164"
+  },
+  "lexicon/H7205.json": {
+   "bytes": 979,
+   "sha256": "c653df66184cde940beebb62a3351ff04231b2d00f95f5ace1afab16757b91ad"
+  },
+  "lexicon/H7218.json": {
+   "bytes": 1590,
+   "sha256": "24e9c819fc4bacfd033fb2d104c5ca5bbea7cbce89f6535202c7bf45dbb8fdfc"
+  },
+  "lexicon/H7223.json": {
+   "bytes": 1365,
+   "sha256": "cd8f366e770f8a19f0954bba92a60b2776c488354162fec706f32b527b02e39f"
+  },
+  "lexicon/H7225.json": {
+   "bytes": 1144,
+   "sha256": "974eec625915cf174700de3fceddb848578ae5522498a03f68d192628241d2f0"
+  },
+  "lexicon/H7227.json": {
+   "bytes": 1477,
+   "sha256": "5208036afc8945037b3d12d4649cff3b167b6fa5912c6329c6cfa324f7741ea2"
+  },
+  "lexicon/H7230.json": {
+   "bytes": 1168,
+   "sha256": "37aa9d76f869d221cb9aa87b18d1b4c9178c987b96a6fa6cfd9fbb948e2ca096"
+  },
+  "lexicon/H7235.json": {
+   "bytes": 1975,
+   "sha256": "97183a542e18dbfe86038a52fcf3ff74a854a543f0aafc06622e129abf227b0e"
+  },
+  "lexicon/H7243.json": {
+   "bytes": 1042,
+   "sha256": "6e36fa6ecbb9583e62968b3ff2e09d2bd1b07c25e830b516f74cbead5efbaf60"
+  },
+  "lexicon/H7256.json": {
+   "bytes": 466,
+   "sha256": "3347b11fff30e9dc6e35a0c1cc883be3e513247e99edb9614dc3b31b6b851854"
+  },
+  "lexicon/H7257.json": {
+   "bytes": 1205,
+   "sha256": "718b8bbe522f10444eb434ba106b5fac1e128fab78d52539cc7ca9c8c059bd46"
+  },
+  "lexicon/H7264.json": {
+   "bytes": 1287,
+   "sha256": "ac12610b3034b8a188b33da17b74b49e66890b37be31fed8ccf46a1f0d8d86cf"
+  },
+  "lexicon/H727.json": {
+   "bytes": 996,
+   "sha256": "dbed92195e0009ae8b94059b8d86861b796834e95875adc801c599180b692483"
+  },
+  "lexicon/H7272.json": {
+   "bytes": 1374,
+   "sha256": "9e6bd1b8f0610472a530c7d25f681e15013a5dbaca78a268f49580c9d41c3e58"
+  },
+  "lexicon/H7287.json": {
+   "bytes": 1187,
+   "sha256": "611cbb5ff6ac486c6de65b2987962744c81ffdf0c08c81ccb0a9e11dad72f331"
+  },
+  "lexicon/H7291.json": {
+   "bytes": 1518,
+   "sha256": "360f140ec0d337069933136b2ba33d42ac63b83399cb023390d48180a17947a7"
+  },
+  "lexicon/H730.json": {
+   "bytes": 1000,
+   "sha256": "92f5fa03cafae896ae4655adb06d2ca31b9a41de55ed9b93959dadb131758904"
+  },
+  "lexicon/H7307.json": {
+   "bytes": 2655,
+   "sha256": "ac253c389aa0d4fbabb2c1ba6fd3f47620c8d6ce90a03ea971c5f676424b6885"
+  },
+  "lexicon/H7310.json": {
+   "bytes": 540,
+   "sha256": "ac4cb43662b0bff277ad1c40378ab8a53dd1033999f20bb0b06084b679823df5"
+  },
+  "lexicon/H7311.json": {
+   "bytes": 1938,
+   "sha256": "81941add2119cf322a150c4f3fc2c21163c599ca5d7fe958898a1e4986baa69a"
+  },
+  "lexicon/H7321.json": {
+   "bytes": 1544,
+   "sha256": "3187b5da54df76b697d415cac0ea8438eee1e47b465f78d3411527787c6bde19"
+  },
+  "lexicon/H7323.json": {
+   "bytes": 1203,
+   "sha256": "8c0923a8bebd9883b710749fff844b2703843791d2a602052fb49faf74e247c8"
+  },
+  "lexicon/H7339.json": {
+   "bytes": 1028,
+   "sha256": "79ab62e80c598358fd993872da3de82c56e93398c1ed20260fc0586fea4405ff"
+  },
+  "lexicon/H734.json": {
+   "bytes": 1119,
+   "sha256": "fe6dc0afe57ab8112e4f69ff0fc7c8bd7f35b0a7a5cedf956ad84f23ec243031"
+  },
+  "lexicon/H7341.json": {
+   "bytes": 945,
+   "sha256": "5b5206a3ce85aa77bd8d80ef2d1039182ff5f006862f231206c240713cf15f72"
+  },
+  "lexicon/H7346.json": {
+   "bytes": 841,
+   "sha256": "4a0231b58617df8e0f860df590cc592172fcdaf3fc179b835055d5675c2c6746"
+  },
+  "lexicon/H7350.json": {
+   "bytes": 1201,
+   "sha256": "1641a8e2387655ad272166f931f44e1a89f5729ce5f77a8a236d063ccee28c06"
+  },
+  "lexicon/H7354.json": {
+   "bytes": 925,
+   "sha256": "04a38998a03adc8c837b952e51af22dbd83488bb3e03df4cd715dd2efb642f71"
+  },
+  "lexicon/H7355.json": {
+   "bytes": 1299,
+   "sha256": "1312faf0f474345d385528cb8a3c41932ca0729c54ce7b6ff87ba412430167b3"
+  },
+  "lexicon/H7356.json": {
+   "bytes": 1095,
+   "sha256": "9f8e11add79daa683835419e842f12198b24b33db26d0025aa03be35a6c877cf"
+  },
+  "lexicon/H7363.json": {
+   "bytes": 715,
+   "sha256": "4f1057dca8cfa126248538a8a3119cda11e7a3037d98d14d0a281a6dad6f1d46"
+  },
+  "lexicon/H7364.json": {
+   "bytes": 1101,
+   "sha256": "dce4fd9940dc3a00865b65f03acb95195fd6f8a9a2d4282ceb2f55244caf9dd4"
+  },
+  "lexicon/H7368.json": {
+   "bytes": 1433,
+   "sha256": "646e839207e8dd311953f97f2482a90078419c96c4f1d982b0da83fc4c883e76"
+  },
+  "lexicon/H7378.json": {
+   "bytes": 1301,
+   "sha256": "df6fcd47499ed8a016ab12c9fcde43385719a63c26fe1681f56d36a3ac27a7c5"
+  },
+  "lexicon/H7379.json": {
+   "bytes": 1101,
+   "sha256": "da61f5ebd280906657ab3cebf8decf4774fb617f41db575641874bf1c613f8cb"
+  },
+  "lexicon/H738.json": {
+   "bytes": 996,
+   "sha256": "56e726d0502480d20bb23570faf5b6dca04087eb70b9850e67affb9775cd1cd9"
+  },
+  "lexicon/H7381.json": {
+   "bytes": 995,
+   "sha256": "70086b82be5d035e9f762d53a904c683a0ee4b29585acd0ebffdf883cc925e95"
+  },
+  "lexicon/H7392.json": {
+   "bytes": 1383,
+   "sha256": "0acbecb736b4a8d08f212679744fd44b84167a20e84bdbbe4ffaff7c0a7493b2"
+  },
+  "lexicon/H7393.json": {
+   "bytes": 1265,
+   "sha256": "66ea1f2e24e2262444ffbbba93c3b16c652dfd24caa1cf087a5fab47ed5c4500"
+  },
+  "lexicon/H7399.json": {
+   "bytes": 1116,
+   "sha256": "2477db91dd1019e667cd22b86f4735a9eb767607f739acdabd99a7d8316c4c9c"
+  },
+  "lexicon/H74.json": {
+   "bytes": 897,
+   "sha256": "81a534fbfedbb78597bc3bb70d5734e3c0a1ad28d8672de7354f1256267f65d7"
+  },
+  "lexicon/H7408.json": {
+   "bytes": 548,
+   "sha256": "839bbc45fd704e300a43ac3877eb3e1a4ae9d51ec59597bd6203bd5e18bef713"
+  },
+  "lexicon/H7430.json": {
+   "bytes": 1199,
+   "sha256": "b7c076e6f15fb3939849b9e03d122df8913b53fd5fff22b9458515e67b970fab"
+  },
+  "lexicon/H7431.json": {
+   "bytes": 971,
+   "sha256": "f2e47d796320c6ee62dee7a071fb3fc01f1162582a319885907eaf8388aeb1b8"
+  },
+  "lexicon/H7442.json": {
+   "bytes": 1524,
+   "sha256": "496088c29ce141e4e9771728d96cd00a3c3ad58d3414c52435287c823a540dd9"
+  },
+  "lexicon/H7451.json": {
+   "bytes": 2031,
+   "sha256": "69c9233ca237d3e418dd065da1402f6fd6aade8f922de5b889200713eabd38d8"
+  },
+  "lexicon/H7453.json": {
+   "bytes": 1186,
+   "sha256": "88bb8095d7192f6bead9ca3e1b0e1fe3721c74b76b9939052aae1a9a414f2537"
+  },
+  "lexicon/H7458.json": {
+   "bytes": 1053,
+   "sha256": "02d1ebb63ff70940a511bb44460379befc85f7bb40702e24adec23a98c103b33"
+  },
+  "lexicon/H7462.json": {
+   "bytes": 1739,
+   "sha256": "46c16c17e93c0e7d5ab809369b83dd5dd1a3aaa15ff03b9cf7694f68fe3523e5"
+  },
+  "lexicon/H748.json": {
+   "bytes": 1202,
+   "sha256": "bce1ee57a29b100dae872e93f7991a1067fe8430643b7f6e404084e2e1f537d3"
+  },
+  "lexicon/H7489.json": {
+   "bytes": 1780,
+   "sha256": "cce8b8fc556414ffee7abd7b704a153a7bd3fee0085ea9a7f3d7756512245d9a"
+  },
+  "lexicon/H7495.json": {
+   "bytes": 1521,
+   "sha256": "624390daaa2bae0bf6669b72e7f3950c9f38300ecd008188124e133d8db8aca7"
+  },
+  "lexicon/H7503.json": {
+   "bytes": 1534,
+   "sha256": "6d5bad0a893267480ec7c7675f6e81a872428e06158fd4f560b4e733ec2ccfdc"
+  },
+  "lexicon/H7521.json": {
+   "bytes": 1480,
+   "sha256": "a00617701ffbfe8efae5167a07ef7504f51a21472f5df96e8480214e2faa0bad"
+  },
+  "lexicon/H7522.json": {
+   "bytes": 1181,
+   "sha256": "92ea928947df79cd132f30e6074618efbf90bb920c0fb456e58046389990d740"
+  },
+  "lexicon/H7523.json": {
+   "bytes": 1284,
+   "sha256": "3587aeb3eaf7471941413ec1df2b070b2a23ed1f295e9c64d3a9524fbaa8ca1a"
+  },
+  "lexicon/H753.json": {
+   "bytes": 981,
+   "sha256": "b3b819b623cf03d8a30785c10eeb9babdd649619642f79188182df2c6017ab0b"
+  },
+  "lexicon/H7535.json": {
+   "bytes": 1109,
+   "sha256": "5367999d4d4687afdf0ffce90f95b66006e88b4a083fdd41a9001ec0d01a4d62"
+  },
+  "lexicon/H7549.json": {
+   "bytes": 1067,
+   "sha256": "246be1ff1d267e059d5426c8dff75db9f26bd9ed8e977f2a79c44db5d10b0222"
+  },
+  "lexicon/H7563.json": {
+   "bytes": 1144,
+   "sha256": "b8d686ebc90e0aa5cc160c7623f9e188251a7e6814770ea097dab8531a7c1b9a"
+  },
+  "lexicon/H758.json": {
+   "bytes": 1196,
+   "sha256": "1bc658f95a80e75e970e190f5f0182da1efc2f37fa55da5ab6e14653a0fe3b90"
+  },
+  "lexicon/H7585.json": {
+   "bytes": 1316,
+   "sha256": "d05c25ecdf6934a945fbe5c458925ba433f8a093ba580d369e15344e5b914f1a"
+  },
+  "lexicon/H7586.json": {
+   "bytes": 1145,
+   "sha256": "4ec3aea67612c89c8195b6b587c7e89a1d1956f7c15259e432ae554fc3b56788"
+  },
+  "lexicon/H7592.json": {
+   "bytes": 1717,
+   "sha256": "58f93cb543e40a7dfdbe45636047db56d5deb9d62e93a5ead98cfcca1e359262"
+  },
+  "lexicon/H7604.json": {
+   "bytes": 1346,
+   "sha256": "9a26f531154c4d0f2bc726925266918b3882908e65fa2cc66fb8fc9a9a956693"
+  },
+  "lexicon/H7611.json": {
+   "bytes": 1142,
+   "sha256": "f743891e7d609fe9536ac980d139f637237ce8cad356501984b466bf93a3c71c"
+  },
+  "lexicon/H7617.json": {
+   "bytes": 1128,
+   "sha256": "38ca850947c5da7f6057f1d8f437d72c5fa9b491dd5aa90e5b0c895fa2683a4d"
+  },
+  "lexicon/H7622.json": {
+   "bytes": 989,
+   "sha256": "b5faae3a18928ef295c15baa78c3c7a109e1f3b38266ed811cf074ad39b5c29d"
+  },
+  "lexicon/H7626.json": {
+   "bytes": 1296,
+   "sha256": "7d22ab67d302e835d9f1fbb53c4003f9dd46a1144d631a5b9593a873f3c57194"
+  },
+  "lexicon/H7628.json": {
+   "bytes": 1138,
+   "sha256": "c8e40e212b38cd0561afec543fbe8f1a7c39efb32215b66abadedf78039ca637"
+  },
+  "lexicon/H7637.json": {
+   "bytes": 1001,
+   "sha256": "6ec3417bc4fa8f6860774ad28337c6b0b7586ae2776792acad2d4a3f8116dbd0"
+  },
+  "lexicon/H7646.json": {
+   "bytes": 1509,
+   "sha256": "72958a8a71efc09f4dc457a9eec2fa82ee014380cead0b4d89a789b0b1d78e9e"
+  },
+  "lexicon/H7650.json": {
+   "bytes": 1444,
+   "sha256": "7f5cccf79d8b5d35ae691bcd84f1c36f0d0efc4dc00b9864039dceeb75e55970"
+  },
+  "lexicon/H7651.json": {
+   "bytes": 1193,
+   "sha256": "a5a6ac81e8a92656f68f2993ab6212d47b2ad8ece3a200a6479ca3635f65c4c4"
+  },
+  "lexicon/H7657.json": {
+   "bytes": 849,
+   "sha256": "a9415ab55678fca5e7e9be4b08ec571125b41e5cc91ff0082b77e0075bac111a"
+  },
+  "lexicon/H7665.json": {
+   "bytes": 1454,
+   "sha256": "4f2cb2ac9b5adcc450b630c15995c13db2735c2a9d9f807561a547226433ca3a"
+  },
+  "lexicon/H7667.json": {
+   "bytes": 1254,
+   "sha256": "19eea00286ef6d7931361c17311612d3cf04d533b646065802aaf6457ffc764d"
+  },
+  "lexicon/H7673.json": {
+   "bytes": 1494,
+   "sha256": "032a05b59a7dfca814c2a1e8a31cb7682952b20629035f6a9ed44e4dba381530"
+  },
+  "lexicon/H7676.json": {
+   "bytes": 1077,
+   "sha256": "c746bea6b8b2618f3bfa17b1e8213c2a65d3bb51e3e03e75eba7ae8bf3498036"
+  },
+  "lexicon/H7703.json": {
+   "bytes": 1426,
+   "sha256": "79091456f9c51260f6388cb789c10c22045daf764e2bc5182b4be51ca70d81dd"
+  },
+  "lexicon/H7704.json": {
+   "bytes": 1093,
+   "sha256": "74cf00cc9d80bad5681131e6e8ffb944e2de9f60d2f11558031c5b0ffe752301"
+  },
+  "lexicon/H7706.json": {
+   "bytes": 794,
+   "sha256": "a01703bb390ba68af45118224ef05fde2cacff2f6397d269fecb867ced46f07a"
+  },
+  "lexicon/H7716.json": {
+   "bytes": 1077,
+   "sha256": "07344415a07ed74fec3a1e6235a1e4394b32d4c5f87a3806ca4437a920709fd7"
+  },
+  "lexicon/H7723.json": {
+   "bytes": 1231,
+   "sha256": "70baf58f5e9e28208d7df1c77dd6efd074245459194bc48e2ff6e6283d4dcdd2"
+  },
+  "lexicon/H7725.json": {
+   "bytes": 3370,
+   "sha256": "c95782e797c96689e38c68211a671d1a5013f261bea480c7fec76e4064660f37"
+  },
+  "lexicon/H776.json": {
+   "bytes": 1820,
+   "sha256": "96f7a743c6255a4c668e539fafa1ef7a0c5222ede1ec6e3e2653e59d5916dea5"
+  },
+  "lexicon/H7760.json": {
+   "bytes": 1968,
+   "sha256": "0d92196ce5b2ea83206ca5f9c6d456a7f9503072985d9f67e3a3da3d3ed8fae0"
+  },
+  "lexicon/H7778.json": {
+   "bytes": 1032,
+   "sha256": "0afaf43e79b5f9df178c0f919f2787d40ec2577dcc3b7ddde4a90be24d9435e4"
+  },
+  "lexicon/H7782.json": {
+   "bytes": 1007,
+   "sha256": "11072c5cc55c50efc8a1f3ec5653dab7b0d5e8bb8b3845a167c7ae8c8ce98592"
+  },
+  "lexicon/H779.json": {
+   "bytes": 1138,
+   "sha256": "3e25ffbe54f8481c38c19a6698e602cbf783fa410c6d9ee0300140f9b383e130"
+  },
+  "lexicon/H7794.json": {
+   "bytes": 982,
+   "sha256": "eccd6b256f2cabbb67b1f407319d374c325f16fb9e5d341eeb24bbe46eeb6225"
+  },
+  "lexicon/H7812.json": {
+   "bytes": 1423,
+   "sha256": "42daed984b5b22f13340b4831e0c3c2963c2d2cc1934797099914e1dcfc37029"
+  },
+  "lexicon/H7819.json": {
+   "bytes": 1282,
+   "sha256": "81c55caeaa3af25901dfddb834c4f06720b17478a2884f774036698262deaee5"
+  },
+  "lexicon/H784.json": {
+   "bytes": 1060,
+   "sha256": "9856de9b2700919d5f4a18a5881a3b41a232508f38038eb27a6eedeb70fc4b8b"
+  },
+  "lexicon/H7843.json": {
+   "bytes": 1459,
+   "sha256": "956c698d7155fbb2d194168f1f6680690f7c0b43b634fa748da94ff1e5d846cb"
+  },
+  "lexicon/H7891.json": {
+   "bytes": 1507,
+   "sha256": "732acf62f8a0767681f58941df14cdc12d5af08628203d9fd7162dae0c475305"
+  },
+  "lexicon/H7892.json": {
+   "bytes": 1060,
+   "sha256": "53a6b486c5231e2b01023efeadaaf83eb0710f0754a78572c78a7cf6dbdc95e5"
+  },
+  "lexicon/H7896.json": {
+   "bytes": 1295,
+   "sha256": "a9c0f04b6a377920625daf693abd8ee06e3e51b49f3d14af16a2869705796be4"
+  },
+  "lexicon/H7901.json": {
+   "bytes": 1436,
+   "sha256": "1a560c37571615a8062d9897897891bcc51e6aea63f435024fa2d6a78640de68"
+  },
+  "lexicon/H7911.json": {
+   "bytes": 1208,
+   "sha256": "c4d9710244bd073473d2a2cc91592c0733ea6cd79682f6e487d29de96739bf3d"
+  },
+  "lexicon/H7919.json": {
+   "bytes": 1721,
+   "sha256": "10f5a8f01908b82f6038467b5e561e1f4835e13561ec3399ff71284d5ceb07cb"
+  },
+  "lexicon/H7925.json": {
+   "bytes": 1286,
+   "sha256": "3bac17ac3f7168c78e109f9e4a024eb03dbc256d3330264aca8b7e6374df1fdb"
+  },
+  "lexicon/H7927.json": {
+   "bytes": 1195,
+   "sha256": "edb14fd863ee11158008785520930dab058e85eefa6b0d0c65dd6a7956dbd944"
+  },
+  "lexicon/H7931.json": {
+   "bytes": 1490,
+   "sha256": "a59522f9432ee6a144aad67c0471880df120bc580888bfebd6e882df5506bb09"
+  },
+  "lexicon/H7965.json": {
+   "bytes": 1628,
+   "sha256": "d0541bb7450c428e2cad456c03105960f328fd8a74bc8869dadf91fb265ef095"
+  },
+  "lexicon/H7969.json": {
+   "bytes": 1099,
+   "sha256": "c2a5ccd90c0813833dfa202bb07d07c50199d7c18815cdeda7a8124803295ed0"
+  },
+  "lexicon/H7970.json": {
+   "bytes": 1038,
+   "sha256": "a9838d30c877fc7dd6e71e13924ef7ee9208fd03508b1a25919ab3d556bc0a58"
+  },
+  "lexicon/H7971.json": {
+   "bytes": 1761,
+   "sha256": "bc4879a05400855d0a42485466b86f1e5cc56e8f56bfecffd2cd1e4edb7c8db5"
+  },
+  "lexicon/H7979.json": {
+   "bytes": 1019,
+   "sha256": "5ce07deba73b4f66ab93b04e6cc4353bc50cc951979f8c0f4a9bb2ab07c2a16d"
+  },
+  "lexicon/H7992.json": {
+   "bytes": 1172,
+   "sha256": "bf835cb2fbbbaf028afd3538c65bef27107c70f66c7a3ad42d337032430b6a01"
+  },
+  "lexicon/H7993.json": {
+   "bytes": 1314,
+   "sha256": "e15128a977bede0f6c5ab6a82acf3bd705de73ff2b8167a10c22e64f700a86c2"
+  },
+  "lexicon/H7998.json": {
+   "bytes": 1014,
+   "sha256": "e06751d263d4c745c57ca921db7d0a99e56ddfa32b27c513b700a40a8011b573"
+  },
+  "lexicon/H7999.json": {
+   "bytes": 2055,
+   "sha256": "425db69aa9ae6dd8547c6fed4825ebb923be58179eef5cb8838645848218d4a7"
+  },
+  "lexicon/H8002.json": {
+   "bytes": 1078,
+   "sha256": "8b150e1295a9bf9581a91d6d441f0e403d4f84175e98dddb742a316331eb9c2d"
+  },
+  "lexicon/H801.json": {
+   "bytes": 1035,
+   "sha256": "b0052c4677c95979ce6400f02109a496ffc278ab69364eead16dc7dffabaa041"
+  },
+  "lexicon/H8010.json": {
+   "bytes": 1047,
+   "sha256": "dcde9840b9275e1c793e878a476e26eed1babbce0e18bd17d11b86c1891bdf82"
+  },
+  "lexicon/H802.json": {
+   "bytes": 1243,
+   "sha256": "5f46e80305fcc72c2ec3e330f0a1bd76d87bd95c8e2b0cd2c3cc71a9dbfba3ba"
+  },
+  "lexicon/H8029.json": {
+   "bytes": 489,
+   "sha256": "ad667a6c3205e37390286d09edd4a56d6e8bfdf50edc2f993fe08e9bf19d619c"
+  },
+  "lexicon/H8033.json": {
+   "bytes": 1162,
+   "sha256": "456e8efc3ca4db8f922b2f8924e50abd2acce06f152dab6e90f243abf24f1620"
+  },
+  "lexicon/H8034.json": {
+   "bytes": 1203,
+   "sha256": "0ba7bc765c9e91b75619605aeaff3e55e2e4f699cd4ef80f42caa065bdced4f1"
+  },
+  "lexicon/H804.json": {
+   "bytes": 1321,
+   "sha256": "1a4ed5b5214b0faf4705ea9d6fa1bec3482bd5f9c23e8a1cec7b52fd30dc9c0a"
+  },
+  "lexicon/H8040.json": {
+   "bytes": 1219,
+   "sha256": "159fe5e926e1c763808e11333193dae55dee3ba1665219eeddff50edebeddb5d"
+  },
+  "lexicon/H8045.json": {
+   "bytes": 1225,
+   "sha256": "b6f65a49bbec1dd5d8fdf1cf7ea3af1cc780b6715f92a8b90ea40d85a9691597"
+  },
+  "lexicon/H8047.json": {
+   "bytes": 1032,
+   "sha256": "52bb791ac2d65c12de4e11ab0fc567edeb06fdb14a7c84a73580de53280c8752"
+  },
+  "lexicon/H8050.json": {
+   "bytes": 1081,
+   "sha256": "dfa8ae582a20b5bc5d9ffa14e39a9cc8cc36ea76fdbd39ff08ba0e0919b7ea99"
+  },
+  "lexicon/H8055.json": {
+   "bytes": 1347,
+   "sha256": "9d10541fad39e7632a44975166cce9e110e116c6cfc172d2e6da21a48689e4a5"
+  },
+  "lexicon/H8057.json": {
+   "bytes": 1132,
+   "sha256": "1bf2f204fd3f93ab19b96da7b3f835f73476147bc21f631e77e998984a2e15f0"
+  },
+  "lexicon/H8064.json": {
+   "bytes": 1344,
+   "sha256": "74a4cb283a9d634d9e1ea43a27fea3ac9c3ff5b8f2b3ac0313fd0f545312c88f"
+  },
+  "lexicon/H8065.json": {
+   "bytes": 885,
+   "sha256": "8cab2669ccdf3f6676f1f60eab0fddb543207faa0f86912ef9a1a008da88f7e9"
+  },
+  "lexicon/H8074.json": {
+   "bytes": 1843,
+   "sha256": "2fda8597c75969bf2036e2d88cd3832a78fb2757ba096e4a7fee425bd04318f3"
+  },
+  "lexicon/H8077.json": {
+   "bytes": 1016,
+   "sha256": "bb9f3cb9766543a76cce6aacf5f3aa3971ded63ca60a2f2ab10112927fa0c82f"
+  },
+  "lexicon/H8081.json": {
+   "bytes": 1211,
+   "sha256": "4820f2cb138eb01bb801ce801017e4fab452eb5544d70a4467de549182865b42"
+  },
+  "lexicon/H8083.json": {
+   "bytes": 1194,
+   "sha256": "147e9408ba60dd098415cd3591a8f556e66552baad898dc4f1e2760d2d339da1"
+  },
+  "lexicon/H8084.json": {
+   "bytes": 1082,
+   "sha256": "a257322b45f2c2678d1406bef45b4808c619f71beb82fdb0981eb0f9e5328cb8"
+  },
+  "lexicon/H8085.json": {
+   "bytes": 2239,
+   "sha256": "24febfe9b8328fa9d39023d0849d65f77ed0e007050a837a1e1d93a4b24bf879"
+  },
+  "lexicon/H8095.json": {
+   "bytes": 1048,
+   "sha256": "99fc7833e54cffa36990eb0f408d86f276b6722c0afc66f9321d13cb71242f2b"
+  },
+  "lexicon/H8096.json": {
+   "bytes": 2122,
+   "sha256": "e6bae86d43029b6fb500b02fbd205fb50d0d921f395c66389369318f2cbb5314"
+  },
+  "lexicon/H8098.json": {
+   "bytes": 3219,
+   "sha256": "1b6200744857c49044da3810dfff0f3b2d366445af4418e23f2b04738292bccb"
+  },
+  "lexicon/H8104.json": {
+   "bytes": 1876,
+   "sha256": "65a1d7d85ed11c151761fb1a389b4df013d843d94dc0d8f60c708fc019b0765f"
+  },
+  "lexicon/H8111.json": {
+   "bytes": 1380,
+   "sha256": "a46b1941643a1cbcd0ef296565c63446a339858807cb2a3396a3378f525199cf"
+  },
+  "lexicon/H8121.json": {
+   "bytes": 1336,
+   "sha256": "97c23ea22a93ccdde9b089de0b88ca0454e99648ba45658346681bf0a70638fe"
+  },
+  "lexicon/H8123.json": {
+   "bytes": 657,
+   "sha256": "ba29e83f562224e4bf31b64c972f92760e4097be90e479c568c1d1af71d63e97"
+  },
+  "lexicon/H8127.json": {
+   "bytes": 1139,
+   "sha256": "846170a04693c9cdb3812b4549e885c097b405b6426ecc4e11915935f1ca5be0"
+  },
+  "lexicon/H8130.json": {
+   "bytes": 1187,
+   "sha256": "703757e7e613f1b1b00c4b633ac5ade462ada87aed069c2018d5e1661a149124"
+  },
+  "lexicon/H8141.json": {
+   "bytes": 1104,
+   "sha256": "e1567e93b1fff68d853819e95396966eb596dd6684c9a04b5d88579c21967349"
+  },
+  "lexicon/H8144.json": {
+   "bytes": 1154,
+   "sha256": "893ac4af2c4c914a092f562b06bc505c3da9f10c1544677302ea9c108b0c15f5"
+  },
+  "lexicon/H8145.json": {
+   "bytes": 1107,
+   "sha256": "e74f49685b638a03514c3e93f57bc3aadfc4d7aa5a185754310cee07ac5a80dd"
+  },
+  "lexicon/H8147.json": {
+   "bytes": 1197,
+   "sha256": "f1ec1000ea88171b6595d6d1453b6fcfdb7ff7394c668e6f796b77e624234171"
+  },
+  "lexicon/H8150.json": {
+   "bytes": 1151,
+   "sha256": "8962648b55f7efc4bd0eed9d4d7a818db42422d9481e9a0f1b372d666e3c2eba"
+  },
+  "lexicon/H8163.json": {
+   "bytes": 1129,
+   "sha256": "8a28e75ae5d3f0e8e7e2922d04b62fc5e856eab2c6fb480dc90045d0d5f97b32"
+  },
+  "lexicon/H8165.json": {
+   "bytes": 1438,
+   "sha256": "05aa3d5cf56368bfdc0d2d7d3e4379caf2c79916f5f154032d8735e79d5d30b8"
+  },
+  "lexicon/H817.json": {
+   "bytes": 1126,
+   "sha256": "d8db178a4c695092d65febc9605c0e3d77ad1dfdc92feb44998f57a4d0b6821e"
+  },
+  "lexicon/H8179.json": {
+   "bytes": 1190,
+   "sha256": "041c58595cb28306fce82f90b5823effecad598238cbd84f2bfc7750fb76a37e"
+  },
+  "lexicon/H8193.json": {
+   "bytes": 1384,
+   "sha256": "da0a53d1fc40ab0cb98946be551fa58a79dd316d657f4920b53b785a756abba7"
+  },
+  "lexicon/H8198.json": {
+   "bytes": 1216,
+   "sha256": "10e388a0ee68d5c067098d52ba5aed02d07269a57b1a78e994088eadf02cd4bc"
+  },
+  "lexicon/H8199.json": {
+   "bytes": 1711,
+   "sha256": "b476efb20e31574f316c48cc0ce05e5383bc2b025aaf5659f0273e61116cc891"
+  },
+  "lexicon/H8210.json": {
+   "bytes": 1393,
+   "sha256": "2b20b2f59ad34ab3c1b161aa5b5981e32434799d2e496485bdfa33e0218c4e67"
+  },
+  "lexicon/H8242.json": {
+   "bytes": 1177,
+   "sha256": "cd0ec13900863154b5fb9f67ae9f6ba5ca7c3f44c1b9ca881ab0c0dcdb69326f"
+  },
+  "lexicon/H8248.json": {
+   "bytes": 1245,
+   "sha256": "a380b0d2089bd9e4a63213205b356cb2d8ad1e02193767ca2058c0b8e8279fa7"
+  },
+  "lexicon/H8252.json": {
+   "bytes": 1367,
+   "sha256": "b18567f731f089cfa3a62be383bc31f8125e0f0821bdb06df9d87fb2cac01a79"
+  },
+  "lexicon/H8255.json": {
+   "bytes": 1144,
+   "sha256": "95c7c3443ed9acc7926888113dd458f9b04e5d27cc39d745f68d35ceac4e578e"
+  },
+  "lexicon/H8267.json": {
+   "bytes": 1429,
+   "sha256": "04d6b25dc5e0ea8da99b3806fd1c8c3ceae6334d9b9c506dd065bafd1d79a9b3"
+  },
+  "lexicon/H8269.json": {
+   "bytes": 1465,
+   "sha256": "c217448fe69350e58a546d4f181d2694b59a937fca134648617c6067ee5b4373"
+  },
+  "lexicon/H8283.json": {
+   "bytes": 818,
+   "sha256": "510b7c059dafd72f3197d4fccc1b1f7e4593dc3e5538d61cc633791e39d33692"
+  },
+  "lexicon/H8297.json": {
+   "bytes": 597,
+   "sha256": "abd906c3ac35d25aeac7f7f134574d2c65ced2d9a8a945d4ab84425dcf00b0c3"
+  },
+  "lexicon/H8313.json": {
+   "bytes": 1093,
+   "sha256": "45694494fd13c770d2805403921feb8efbbb8de47134e0e1e09da47a87d187d1"
+  },
+  "lexicon/H8317.json": {
+   "bytes": 1071,
+   "sha256": "0e0a5887e3aa9021150a3cf3969c4cddeac1312cdf82c4fbfd1f88dcc0c6ae68"
+  },
+  "lexicon/H8318.json": {
+   "bytes": 806,
+   "sha256": "b13c982c037cc828c5dfe750423bf6e8dcd713138309b23c7857d269801a408d"
+  },
+  "lexicon/H8334.json": {
+   "bytes": 1036,
+   "sha256": "19ccadf71fd1b47f7c98149958477b94995279dd5af79dc44c3e79159f73fe01"
+  },
+  "lexicon/H8336.json": {
+   "bytes": 1060,
+   "sha256": "fe4a233024bbf33dd50bfec7bc747d13634027ae0a0380107d771ffd923e62a3"
+  },
+  "lexicon/H8337.json": {
+   "bytes": 1071,
+   "sha256": "27cf06278175df0a7674ed94eb0cd6d3a2dc3dfa8703fe085bc1eba2dc041455"
+  },
+  "lexicon/H834.json": {
+   "bytes": 1654,
+   "sha256": "b32e93c60b7d6fe97afb4c95894d616cb0f3ec79084ea00e1a89c02d6fd051f3"
+  },
+  "lexicon/H8345.json": {
+   "bytes": 994,
+   "sha256": "e7e8fadc11b46d5f704073e306b64d8aa1c76ff3ca736e8d256e76bb5fd0445b"
+  },
+  "lexicon/H8346.json": {
+   "bytes": 701,
+   "sha256": "a53ad10e323a6ccbd14e825d4346872557a44eca2041a432bc24cfa10c2aa53f"
+  },
+  "lexicon/H835.json": {
+   "bytes": 1057,
+   "sha256": "7149418556b016a09168075820a0e51020fe3d6cb1c605385a515738f801d356"
+  },
+  "lexicon/H8354.json": {
+   "bytes": 1214,
+   "sha256": "0a94ebe1e9950ed3b37fa10af07354c0816e1c1d26919c1a3cfc1981b49d32fe"
+  },
+  "lexicon/H836.json": {
+   "bytes": 1073,
+   "sha256": "cbbf20bbd4609387095e6e1e3311d780bbecd59ea513105f246a58f68b50f9f0"
+  },
+  "lexicon/H8384.json": {
+   "bytes": 968,
+   "sha256": "a8ce444f80cede66fae112602b0ec4ac42f9de75f55e57c8b205124c9d141791"
+  },
+  "lexicon/H8393.json": {
+   "bytes": 1164,
+   "sha256": "5809da08cb8e3b70c8d40c4a90b13af286809d0987e8a980f07f671df6f0f0b6"
+  },
+  "lexicon/H8394.json": {
+   "bytes": 1279,
+   "sha256": "e2d3d254bb210f108f2848d3ec84381ba36d4b6ef1c56403d7bee38eaa0b21f8"
+  },
+  "lexicon/H8414.json": {
+   "bytes": 1334,
+   "sha256": "74c50d065b560d399a9a31bc6887dfb822487138a084fda1ca482e9a50a02628"
+  },
+  "lexicon/H8415.json": {
+   "bytes": 1230,
+   "sha256": "c6dfefa5fff4fcc3873edb4420ca881bc4203a3a8f5f61781f4d80dfb3cf1911"
+  },
+  "lexicon/H8416.json": {
+   "bytes": 1289,
+   "sha256": "13956f7dae4060c65d922d9662b16daea6ace9a616a7f734d8686f3bf7a2c4e6"
+  },
+  "lexicon/H842.json": {
+   "bytes": 1259,
+   "sha256": "83cc791ac6356065891244dcda0d89ade3a6c1c1929993537d93971f50124434"
+  },
+  "lexicon/H8432.json": {
+   "bytes": 1332,
+   "sha256": "c14e64abc2f4b2ef360b9325820cea04a852f56c8d36844b250b48d40b71f6c5"
+  },
+  "lexicon/H8435.json": {
+   "bytes": 1266,
+   "sha256": "0092713c989c480e64cbf657bf54013f08c2c9b3293a0139225e7d930701cecd"
+  },
+  "lexicon/H8438.json": {
+   "bytes": 2280,
+   "sha256": "3c978d271a3d4fbdfefd8e4448f6478aa0e6920348803e7585d5d6e3d5fbfd25"
+  },
+  "lexicon/H8441.json": {
+   "bytes": 1241,
+   "sha256": "7969b45963cf0be99654cda0e02a2a19d5e2c798dd98008823216ce97e97c1da"
+  },
+  "lexicon/H8451.json": {
+   "bytes": 1350,
+   "sha256": "392cf805d99b130f420d22fd5c7ef9051ff6ec9b1e75c56a1fe44c8073b42e85"
+  },
+  "lexicon/H8478.json": {
+   "bytes": 2019,
+   "sha256": "c7e8c332a92099bd5bd3a3f08b6a3d2c2ff2844dda42fd8499adae92cdaac338"
+  },
+  "lexicon/H8492.json": {
+   "bytes": 1105,
+   "sha256": "354b29f603c4b640faa3c3945c01741926512671bb6f95252941a323b0a5d3cf"
+  },
+  "lexicon/H85.json": {
+   "bytes": 1024,
+   "sha256": "39cf48733550f6eaad25d7a146d801a2c450f6a081b6d0afe012c91e6cba5c4b"
+  },
+  "lexicon/H8504.json": {
+   "bytes": 1016,
+   "sha256": "033bb4822c94006299857fcb4e356cda6e429e6bc7e014fc634a702bd2af9874"
+  },
+  "lexicon/H853.json": {
+   "bytes": 1176,
+   "sha256": "5c844f0a0cc4c99425ecb8dbea04c28961d557580eee55b9c57895a73eeabc9c"
+  },
+  "lexicon/H854.json": {
+   "bytes": 1209,
+   "sha256": "6506ffba0426385aab6784d10817c283ed8bf93c1ca148e6a9e18af82ce55e6a"
+  },
+  "lexicon/H8544.json": {
+   "bytes": 1124,
+   "sha256": "9ccae433817095e028dfc70851d96da3242284e0cf9d1906a7f55a1ea8333a7e"
+  },
+  "lexicon/H8548.json": {
+   "bytes": 988,
+   "sha256": "1cce1646e4e9ab8b33f61f2fce0f44c99941a0c7a16a77feaf5cf2debe274e1b"
+  },
+  "lexicon/H8549.json": {
+   "bytes": 1342,
+   "sha256": "6b6f547b8b6c5fa218a4ee0f24a1ea93e3dbd6bf7c7a001e0a0dd28f9e354684"
+  },
+  "lexicon/H8552.json": {
+   "bytes": 1932,
+   "sha256": "0a2fdddf4e07d227e0c439f66a8b0b1e5cf612a64cf13462f31029863191841b"
+  },
+  "lexicon/H8577.json": {
+   "bytes": 1118,
+   "sha256": "7aafb49322d074e0b33490975d348c899d4981e2c336ad9f8eec707ff071ecf8"
+  },
+  "lexicon/H8582.json": {
+   "bytes": 1570,
+   "sha256": "212217b9b15c23160d750520f0c5839aab1bf6c06316bf748eb18a20a4480a79"
+  },
+  "lexicon/H859.json": {
+   "bytes": 1048,
+   "sha256": "804bafd93ae67dd2c4ec60f77954126ce8fea417a99a8b3f2371b9e7ebd61c77"
+  },
+  "lexicon/H8597.json": {
+   "bytes": 1283,
+   "sha256": "ecef6b16b44da590709b14ff781a25842188c5d5dcc1f6c2670b73a7b8d33b44"
+  },
+  "lexicon/H860.json": {
+   "bytes": 986,
+   "sha256": "68dc3fec47e67f5fc96b8c400c1082b64f6a0daa114e3ccddc2f4cbd435203ee"
+  },
+  "lexicon/H8605.json": {
+   "bytes": 1101,
+   "sha256": "a59f4709f2c5856e286a2f19b9fe639729ed34eec5c84f66d5f010bd001b7abd"
+  },
+  "lexicon/H8610.json": {
+   "bytes": 1374,
+   "sha256": "c989bf34ad36c7d90469f999a06c9663a5ef87f4deff6542f2f2b460b355eddd"
+  },
+  "lexicon/H8628.json": {
+   "bytes": 1419,
+   "sha256": "6a2b5d32d380577c3a3cece60809fa03149a04c4a3e526ae7c59842184143510"
+  },
+  "lexicon/H8641.json": {
+   "bytes": 1199,
+   "sha256": "d4e9f1ca505cbaa0906d6abc7ab9ae617b48e2305a0ed66a0f27ef46a866537e"
+  },
+  "lexicon/H8672.json": {
+   "bytes": 1134,
+   "sha256": "023824f3e1d237f2a0ffa4dcfadff86f7c6ac8a3b9a92bfabd7e73f03eb28c51"
+  },
+  "lexicon/H87.json": {
+   "bytes": 968,
+   "sha256": "85ca18493b55c41060a0c464bd076fd9525ace3c16d8435da0629140b24106b4"
+  },
+  "lexicon/H875.json": {
+   "bytes": 904,
+   "sha256": "9d551f61d7e37a47c8a209f1f7d262c8c5157b87a8ab5ec63d7b0581aa4dc419"
+  },
+  "lexicon/H894.json": {
+   "bytes": 1096,
+   "sha256": "f30dc9cb85e22fb2dab62264f040ea063a70ae91a69f5f38fd9d2b6bde501ee9"
+  },
+  "lexicon/H898.json": {
+   "bytes": 1222,
+   "sha256": "15b221aaef098f4a551f3a71325affc3803d21943a65c034cac4a53b96187af6"
+  },
+  "lexicon/H899.json": {
+   "bytes": 1101,
+   "sha256": "83d72db4cd46a51f6297055fafb1f42f174fb829bd596326ffa3f112f2e5d0c7"
+  },
+  "lexicon/H905.json": {
+   "bytes": 1379,
+   "sha256": "2954512fb39f41518d6d9a9179207e2996dd9797046aaca5e03297897a58170e"
+  },
+  "lexicon/H914.json": {
+   "bytes": 1493,
+   "sha256": "abcf78556471ecb26a3e16ea2182d89ba45b40f9794a188dadc0fcc0710c5d9f"
+  },
+  "lexicon/H922.json": {
+   "bytes": 591,
+   "sha256": "d5f09c6e480bf782d59f6c99fb3725f2c47fafbbbb8e0051a993c0046e3fbd09"
+  },
+  "lexicon/H926.json": {
+   "bytes": 1621,
+   "sha256": "d9fb7c01aca85587b0fe2e63ec1f489415856866a33eb9040c2caf5310dd6b82"
+  },
+  "lexicon/H929.json": {
+   "bytes": 1176,
+   "sha256": "99506d524d1057ab1885f02bdb3aa1a8f9f1d60eb2fa9001a0db45035f1b6cd3"
+  },
+  "lexicon/H935.json": {
+   "bytes": 2017,
+   "sha256": "f23bdcea4e4d4545ec1fd07bbeb6d0f7e8f6a1692824a46fa1d9d2d9ea09aa9a"
+  },
+  "lexicon/H953.json": {
+   "bytes": 981,
+   "sha256": "9b21d55d0de59e8f76a9c135a1ec5d951d5f637fdd1b2f17c92a5b805ebd3fa5"
+  },
+  "lexicon/H954.json": {
+   "bytes": 1426,
+   "sha256": "1343a547f23f8a2f19c6cf4300cd2449f90fa4475c7bda98b6e489d94cdf4983"
+  },
+  "lexicon/H959.json": {
+   "bytes": 1162,
+   "sha256": "0e7be131f9410b0284e2a5d237eae1befb8284d23b3ab257fb2ea6025a95f0cc"
+  },
+  "lexicon/H962.json": {
+   "bytes": 1114,
+   "sha256": "128c202467461876034c3cb85341fc3ce4778556dff0ed76d6c1c0146a82ffb0"
+  },
+  "lexicon/H970.json": {
+   "bytes": 1023,
+   "sha256": "b49c35375d472f7d8db2941efdd134fe475e8e66aef0ade28f67473bdb90e1ac"
+  },
+  "lexicon/H977.json": {
+   "bytes": 1103,
+   "sha256": "2d67491d598d23630051e474d5a858ff7c12d0800e9b8aa88bec313887df405c"
+  },
+  "lexicon/H982.json": {
+   "bytes": 1324,
+   "sha256": "b02932ac23518fa3be724aeb795b9091328d8fa501f0ed5bf7baf906e68cd5eb"
+  },
+  "lexicon/H983.json": {
+   "bytes": 885,
+   "sha256": "e5ba8eaf6546a539fdba9e1b0b45601034a782c4501de253a1b99b7e6b2174d0"
+  },
+  "lexicon/H990.json": {
+   "bytes": 1161,
+   "sha256": "450d6815a6bba7a20de9c4879255918c95ab8923d0276d329936d8357fb4fe9d"
+  },
+  "lexicon/H995.json": {
+   "bytes": 1786,
+   "sha256": "b178b4f705343a59cdcec66dab3d149ddbfd8736b3f3612025bacb1eeeb6f1e2"
+  },
+  "lexicon/H996.json": {
+   "bytes": 1269,
+   "sha256": "806c957c38cc89c7d2ed130445665b762a444797efb478ff6c21bbfcd8db68fd"
+  },
+  "lexicon/H998.json": {
+   "bytes": 1044,
+   "sha256": "a17fead29a8efd4eb12f5a5dff4a8f12bc047173ddf37a6d53b1135fbc6bf909"
+  },
+  "lexicon/index.json": {
+   "bytes": 116859,
+   "sha256": "96d156a2ac88527710f55d8199c31365a8f653a17d1d2fb591eef7962f6d05e8"
+  },
+  "reading/index.json": {
+   "bytes": 767,
+   "sha256": "41225237b0d78b2915fd9ed6f4912c762330178ca2f4039d18b0a7cbd07497ce"
+  },
+  "reading/tehilim/23.json": {
+   "bytes": 9636,
+   "sha256": "3faf74b957d5445c15ae3ff6bca7a0eee66080006fde2d9c8b54e6885c4b72e7"
+  },
+  "reading/devarim/6.json": {
+   "bytes": 54032,
+   "sha256": "e0c67c9f16f1d1d2ef97d933c043c0baf1fed3ef4b1230a8fbd1621ef3ec28fa"
+  },
+  "reading/bereshit/1.json": {
+   "bytes": 70946,
+   "sha256": "5fea11c40383828ad182bfebb0af16d699a87f17f25fe4344997d390e39fd23a"
+  },
+  "reading/bereshit/12.json": {
+   "bytes": 43930,
+   "sha256": "831d8e1669fbb7fae2ff7a12a66424547c8dd524cda85f9fb01f7ebc8d054a13"
+  },
+  "reading/shemot/20.json": {
+   "bytes": 51070,
+   "sha256": "a942c42e8c2690144e36feefbc6ce061917ac140e0ca86a81aa3e653802f8ddc"
+  },
+  "lessons/01.json": {
+   "bytes": 7581,
+   "sha256": "de626116bfcf58f23462b6a413cc1ce9b437849649c1e4a1009766e9eb180b7d"
+  },
+  "lessons/02.json": {
+   "bytes": 6814,
+   "sha256": "f266095e6b1d22e4a899b12cbcbc3c901b0e6a0656fd5f232cf789063f931b0d"
+  },
+  "lessons/03.json": {
+   "bytes": 8155,
+   "sha256": "bbc93e053d6e312d564b969f44e485c221887f715b8243fcb46bbe895b41dfbc"
+  },
+  "lessons/04.json": {
+   "bytes": 6147,
+   "sha256": "96fb91422c1f94193aa6f40abb62119e8cd444780cf7d077c9827099744b00d0"
+  },
+  "lessons/05.json": {
+   "bytes": 7772,
+   "sha256": "7389c17885cabf698c87af9a9930f7d79d4bd2be659ccdbcc15adf1c29c12a26"
+  },
+  "lessons/06.json": {
+   "bytes": 7199,
+   "sha256": "4f3093e36c7a35e8e1b005573052b78fbd2b55c7b23d26c7316c01983b09fe4c"
+  },
+  "lessons/07.json": {
+   "bytes": 7654,
+   "sha256": "508170f094033b55f033d78478cbb58ee534ccbd67ddc3ac2af58ae1a20f853d"
+  },
+  "lessons/08.json": {
+   "bytes": 7371,
+   "sha256": "3e9299d717fc8d3dd2205ab8c96af0e715a721d4eaf3af25fb55d0949cb98c03"
+  },
+  "lessons/09.json": {
+   "bytes": 9536,
+   "sha256": "d7cf6306463ca3de9270b4c72dd4a30e854ca5bdd264a88c642d236fcf225309"
+  },
+  "lessons/10.json": {
+   "bytes": 9452,
+   "sha256": "68219a9084171e4847034f5cf91d1d93a1125fea6c9361091686fad9dc552b18"
+  },
+  "lessons/11.json": {
+   "bytes": 9068,
+   "sha256": "0df6f4b3b6090e4252e8247c8c654ca0f4299757dfe064575b00e8ff12fccbc1"
+  },
+  "lessons/12.json": {
+   "bytes": 8753,
+   "sha256": "aa357ceed65ab9b2b123cdc8c04e875b5a3cea2268c937320880dc78ccbc55bd"
+  },
+  "lessons/index.json": {
+   "bytes": 5453,
+   "sha256": "bf4c02e6ac2eaf36dc23454f77ecd0dc43846fd65bd27811e9503c16a2ccf6f0"
+  },
+  "audio/index.json": {
+   "bytes": 55405,
+   "sha256": "d03dd808f9850480ec7500af423ee29318d77ba1e76b428f7dfe7deed08de590"
+  },
+  "audio/letra-01.mp3": {
+   "bytes": 12528,
+   "sha256": "9533bb5650d35959847d55ac497bc94ed771d84541260d21a2adda466ef37786"
+  },
+  "audio/letra-02.mp3": {
+   "bytes": 12528,
+   "sha256": "890bdb1587a51025da71ec8fe2bb5da5ea00653600ba3b536f62b81e1fbf05dc"
+  },
+  "audio/letra-03.mp3": {
+   "bytes": 12528,
+   "sha256": "b4089b34a34a04d091de1e21bbe5601caed704f122cc467683c9e2652f2701a2"
+  },
+  "audio/letra-04.mp3": {
+   "bytes": 12528,
+   "sha256": "711d0d0db5903ee0d09a3e1fe4f72317c4e99c90a72f0501b9c43948002025ec"
+  },
+  "audio/letra-05.mp3": {
+   "bytes": 12528,
+   "sha256": "61a8e7afc90f616d432ee38cead8e5157dc8fd1454b59acacc7d0198adb9a45a"
+  },
+  "audio/letra-06.mp3": {
+   "bytes": 12528,
+   "sha256": "6c20a697dbcd6a2ec89644f4002433ffe1193aa3a135433421e8a98200b6f5bd"
+  },
+  "audio/letra-07.mp3": {
+   "bytes": 12528,
+   "sha256": "1d5586449f96b3d7864bbc2acfb7bbb455cf96d9470ba2a8e183d10aa1ac32b0"
+  },
+  "audio/letra-08.mp3": {
+   "bytes": 12528,
+   "sha256": "50751b5890001e4712c2ad887f95f075afde425766b06098bb47aed12f443b80"
+  },
+  "audio/letra-09.mp3": {
+   "bytes": 12528,
+   "sha256": "c2985dc6f407851cff859a4d1f3d6888857e9469445870b3b7a2160422d98c72"
+  },
+  "audio/letra-10.mp3": {
+   "bytes": 12528,
+   "sha256": "b23e49f15ce88463b7e75eaec9b16e68607e7d3cff8123ff1c56d62a8781533b"
+  },
+  "audio/letra-11.mp3": {
+   "bytes": 10944,
+   "sha256": "4a633dac4c2a6fbb68bfefc0ec65a2887717578d07ec64caf934bdd4e661fe6b"
+  },
+  "audio/letra-12.mp3": {
+   "bytes": 12528,
+   "sha256": "70c7594f47ff43d28cb0697b040e13c21c22f7066a9237ca3395315cc9c8367a"
+  },
+  "audio/letra-13.mp3": {
+   "bytes": 12528,
+   "sha256": "34d7fe3f97d87a7d69ce78e169d3ca62790fb91461ef8062b826236bd0ea0ab0"
+  },
+  "audio/letra-14.mp3": {
+   "bytes": 12528,
+   "sha256": "66afadc736243a26888e045061d6b1fe10130b68ecf7766975a4661346d5b297"
+  },
+  "audio/letra-15.mp3": {
+   "bytes": 12528,
+   "sha256": "c75ba2708d28980dbdeb4d7d7f82e7d2deb458ffff2bf91586207e400f173e03"
+  },
+  "audio/letra-16.mp3": {
+   "bytes": 12528,
+   "sha256": "84605dd13f33f2317f71d55d32161e5b10d08e79c07eba21dbf6b8b73b4e7d10"
+  },
+  "audio/letra-17.mp3": {
+   "bytes": 12528,
+   "sha256": "92f204e16118cfb3bf12f25df5f67d9b9b99dd49c3ad33ed438948fb449cd878"
+  },
+  "audio/letra-18.mp3": {
+   "bytes": 12528,
+   "sha256": "61a4ab81551d9f12ad8f233533433ed8466d3cb3edc070c265e45930492be09f"
+  },
+  "audio/letra-19.mp3": {
+   "bytes": 12528,
+   "sha256": "1e145519e72a0d4ebe3727f73f2da7f93362ebc7f15c843e98ccdc7ba65e42f0"
+  },
+  "audio/letra-20.mp3": {
+   "bytes": 12528,
+   "sha256": "63d3813329f3a3ce77788c1f92a6e21b9746ac3aa7dac7bb7e8283a63a5e18d0"
+  },
+  "audio/letra-21.mp3": {
+   "bytes": 12528,
+   "sha256": "ad15e9738db5df74f44cd870cbf7da94d65a56b984a696d37db775d74e1be91f"
+  },
+  "audio/letra-22.mp3": {
+   "bytes": 12528,
+   "sha256": "51418b214d626531c8657c5e4278c85adab411f522eb7a774cdaa69884cdd3f1"
+  },
+  "audio/letra-23.mp3": {
+   "bytes": 12816,
+   "sha256": "32b830cc7a086d7d8dbc270c6e324e47517fe54872a14e62542e605b74f77bba"
+  },
+  "audio/letra-24.mp3": {
+   "bytes": 12528,
+   "sha256": "d2bc1bf17fb508c1d59b378d72bfab7413454344ca33bfa1bc6c2e1d3c732655"
+  },
+  "audio/letra-25.mp3": {
+   "bytes": 12528,
+   "sha256": "33e75be4e4d1d0d0424925101059f184195a7d6c04cf3a28bd91a6b6964ab5e1"
+  },
+  "audio/letra-26.mp3": {
+   "bytes": 12528,
+   "sha256": "a763b74c4991d139c16f962fcf99d982cf1c2313345484a6beb58ab163bb0887"
+  },
+  "audio/letra-27.mp3": {
+   "bytes": 12528,
+   "sha256": "7603011a770d43b8228e970854b6c04778dcec026a800e099273c32c152e5234"
+  },
+  "audio/niqqud-01.mp3": {
+   "bytes": 12528,
+   "sha256": "27514990044450ef72a1fdc71e68c7c285069e97d386b8c1792fb4715ee8055a"
+  },
+  "audio/niqqud-02.mp3": {
+   "bytes": 12528,
+   "sha256": "6ce270837f363ab7e0724c8e99c774e9664e3ecf878bf761aee4cc4a578c99c4"
+  },
+  "audio/niqqud-03.mp3": {
+   "bytes": 12528,
+   "sha256": "d0334b634f4dfeeae3d62ee4be23256f77471fdb79bd3841fa4879388d1f9e99"
+  },
+  "audio/niqqud-04.mp3": {
+   "bytes": 12528,
+   "sha256": "1356d122feba0f84833702c28a24842303a1e37636e99f25ed2df51a68ae519b"
+  },
+  "audio/niqqud-05.mp3": {
+   "bytes": 12528,
+   "sha256": "ca1033b33da0f89def4913f485d0fa37386b2114f0ac84d4765f6f48716a20fd"
+  },
+  "audio/niqqud-06.mp3": {
+   "bytes": 12528,
+   "sha256": "dfda00e1af6a55779fce03bfce170f2d44312ad90a40489f588633d0a7846aea"
+  },
+  "audio/niqqud-07.mp3": {
+   "bytes": 12528,
+   "sha256": "4b6d007fee385a753b94ddedb7b4f001b1cf61acb688088c486369337c3a955e"
+  },
+  "audio/niqqud-08.mp3": {
+   "bytes": 12528,
+   "sha256": "3bfd19b6c768e480ecca2879e193975d245b330c79ddb85e4fcfd6fdc38f37d1"
+  },
+  "audio/niqqud-09.mp3": {
+   "bytes": 12528,
+   "sha256": "3263d1d3ead91f864920de753a5dcf77c788e12425deaf91ed2d907d6ea129c1"
+  },
+  "audio/niqqud-10.mp3": {
+   "bytes": 10944,
+   "sha256": "c1a24b0a2fcd5e931c6eb99f1ce95093c64043a0165a50a1b12e5f0c3b82a43a"
+  },
+  "audio/niqqud-12.mp3": {
+   "bytes": 12528,
+   "sha256": "226ba3a3a6d94ebb276bd5d92605139b3410d5b3a5cc32c8c805e4e5003391d8"
+  },
+  "audio/niqqud-13.mp3": {
+   "bytes": 12528,
+   "sha256": "d37a1344c0ad4516caa4cc64821a26676010cd086045f065e48c0350badc34c9"
+  },
+  "audio/niqqud-17.mp3": {
+   "bytes": 12528,
+   "sha256": "9bc95cf8cd0ed6e303ee7e1145ae2141d69e429a56c4d4aa8dac66bcf537a39d"
+  },
+  "audio/niqqud-18.mp3": {
+   "bytes": 12528,
+   "sha256": "bc49ce24997e15a41a967b8571f46353fffa81d55925e3f51bed0a1e475ad59b"
+  },
+  "audio/niqqud-19.mp3": {
+   "bytes": 12528,
+   "sha256": "5fa9714ae0a82892de8cce5d11e3b22f609d39bf4608ef823fd0ea8a47889339"
+  },
+  "audio/niqqud-23.mp3": {
+   "bytes": 12528,
+   "sha256": "0339763e090303066ef19b3ef468b2334376c05851c585641acd5f526d2b24bb"
+  },
+  "audio/niqqud-24.mp3": {
+   "bytes": 13536,
+   "sha256": "ebc05e90596f31f91ad55843fdc6e9e47de357d52a763777432ba749ff5558af"
+  },
+  "audio/niqqud-26.mp3": {
+   "bytes": 12528,
+   "sha256": "f0063a6513a723250b1d13df4622c4a5845b17f80ced75e78f09a655e798ad75"
+  },
+  "audio/palabra-001.mp3": {
+   "bytes": 12528,
+   "sha256": "f33149f9d53ef9e50ae3bfda6bdd12ab22ce8f7409c6791757d3b82966da020f"
+  },
+  "audio/palabra-002.mp3": {
+   "bytes": 12528,
+   "sha256": "85a2fd7d2ca02118f5cc4530842430860c4387b2ccb141ee104cc78102304a90"
+  },
+  "audio/palabra-003.mp3": {
+   "bytes": 12528,
+   "sha256": "cca37eb2f062e8cc6be5b6e3e08d3d4b77227b45b313aefc108ca93a79f1996e"
+  },
+  "audio/palabra-004.mp3": {
+   "bytes": 12528,
+   "sha256": "71c32135785f864ff467f0e557bd9956f3725642ae8e08cb59ea9ab5a3cc6c69"
+  },
+  "audio/palabra-005.mp3": {
+   "bytes": 11088,
+   "sha256": "768e96f8071e40eb760047ebcd310bdf21a7b48dd85c4151e8b630c660464ccb"
+  },
+  "audio/palabra-006.mp3": {
+   "bytes": 12528,
+   "sha256": "e2532b61805c245abb16d2b5c77eef6d3dc05bf7eaaf8898a9c4d3f04e0e52cf"
+  },
+  "audio/palabra-007.mp3": {
+   "bytes": 12672,
+   "sha256": "729592a054b09e6214f52d53e562bbf09cb41e04680cfdc91c7cf569cb717d65"
+  },
+  "audio/palabra-008.mp3": {
+   "bytes": 12528,
+   "sha256": "a19f62fef2a8119f4c83a48e0c13559c665e2348841cd68bd1dc3dedd085c776"
+  },
+  "audio/palabra-009.mp3": {
+   "bytes": 12528,
+   "sha256": "97c291614692886200d8148c5cbbb5589d3df64d4abf2d3d133a521586852ec5"
+  },
+  "audio/palabra-010.mp3": {
+   "bytes": 12528,
+   "sha256": "54debd320b9cb5a6262537d9f34837de7bc1c4f7861238b076127dd30c436bba"
+  },
+  "audio/palabra-011.mp3": {
+   "bytes": 12528,
+   "sha256": "a7c05d0cf7aa89f9d86c6f8694b7e9ec146f4fa390dadd5e057e181ba93c7d64"
+  },
+  "audio/palabra-012.mp3": {
+   "bytes": 12528,
+   "sha256": "a774b786f4b0b4698709f365b7bc30257721a3ace63f999a56f3c2e12e8a845d"
+  },
+  "audio/palabra-013.mp3": {
+   "bytes": 12528,
+   "sha256": "8938e2ccf107565f3081c30d5a4545d86bafcca63c878456d0acb0847d2e3cc2"
+  },
+  "audio/palabra-014.mp3": {
+   "bytes": 11376,
+   "sha256": "ee71417b44bdb4a884f3f396274de5ed2cf96785c98b1758937cc35638e0213a"
+  },
+  "audio/palabra-015.mp3": {
+   "bytes": 12528,
+   "sha256": "b96d9fa44d97cdec32746ea6c7acdcd38e25aef6dd5fac04ebd89424f408b27c"
+  },
+  "audio/palabra-016.mp3": {
+   "bytes": 12528,
+   "sha256": "a65270c4c7fb856baad3c74d58b865293ef6544110884480e2b688cff360d0e2"
+  },
+  "audio/palabra-017.mp3": {
+   "bytes": 12528,
+   "sha256": "89f55bbc4a9e758417f9ec41f5147cd0dd0e44828c0868a2cef87705ec8aef9d"
+  },
+  "audio/palabra-018.mp3": {
+   "bytes": 12528,
+   "sha256": "744505b0eb4d2549b81ae08d53a13d8a16fddd900aa59ede46b809edb6cd4d51"
+  },
+  "audio/palabra-019.mp3": {
+   "bytes": 10224,
+   "sha256": "f8c0874b489c21171d395b786543e040059f0fed495e5d623d12e371f69f228d"
+  },
+  "audio/palabra-020.mp3": {
+   "bytes": 11376,
+   "sha256": "8f92ac67713301ff3eee1b513a75052b83203082713bbe432ee874b27524248a"
+  },
+  "audio/palabra-021.mp3": {
+   "bytes": 12528,
+   "sha256": "bd1a5af13b80f18f7190ea7a1025696ed9e34866e452b3a38152e808b47754ba"
+  },
+  "audio/palabra-022.mp3": {
+   "bytes": 12528,
+   "sha256": "35bd03c4707bf2de6bca306303b12a6fdf3e3b9992c013d01cfd0102e7594c65"
+  },
+  "audio/palabra-023.mp3": {
+   "bytes": 12528,
+   "sha256": "0ea4dc0abf09da239aca0e939416e43526755ab59d06ba41fbf6f9ca4b0caef4"
+  },
+  "audio/palabra-024.mp3": {
+   "bytes": 12528,
+   "sha256": "3d1b4e7ed114c73a4527e712184ac39a1303fbed99e2ed5d5da0d12ad6171e2a"
+  },
+  "audio/palabra-025.mp3": {
+   "bytes": 12528,
+   "sha256": "4f4be811674c5ce2b2bc716cbbeb6644c6cd1f6b734ce13878766a771dadc1b9"
+  },
+  "audio/palabra-026.mp3": {
+   "bytes": 12528,
+   "sha256": "46472d13dad8090b631d16048c63e0b207b92b4e812a98720fc8afc5b7016172"
+  },
+  "audio/palabra-027.mp3": {
+   "bytes": 10944,
+   "sha256": "d243f49cb39c389f686122eacc4543ce696e44cb1b7813ca5687a06749ed96e7"
+  },
+  "audio/palabra-028.mp3": {
+   "bytes": 12528,
+   "sha256": "c15ffdd85b535dcf50bc84a4260553d8fbdc2f284aa1a7254f99a537093cd343"
+  },
+  "audio/palabra-029.mp3": {
+   "bytes": 12528,
+   "sha256": "47379a584d6f63d9417630e309f0bda9810aeb720ac8b552fc0264d82e554c82"
+  },
+  "audio/palabra-030.mp3": {
+   "bytes": 12528,
+   "sha256": "49e7cd8256ea517f9b24ea0e98c20e4e85fc87e86055176d9ccc6a5233866ecb"
+  },
+  "audio/palabra-031.mp3": {
+   "bytes": 12528,
+   "sha256": "1af9d3fe0514df357b810c9c601520f33f13b7f5e5aad2e383dcba556ef0a7b1"
+  },
+  "audio/palabra-032.mp3": {
+   "bytes": 12528,
+   "sha256": "74902b88f236f9fad77fbbd591d983213b6e9532162264845c67a2dc8d7e480e"
+  },
+  "audio/palabra-033.mp3": {
+   "bytes": 12528,
+   "sha256": "8c265de82bdd053641d997647766558d9f6d962ec2145cb02a0e52371b5297d7"
+  },
+  "audio/palabra-034.mp3": {
+   "bytes": 12528,
+   "sha256": "589fbe2c53bdc08df410d718cb26c5edf3dae6b7dbc7d65c9fb1635ac0241e6d"
+  },
+  "audio/palabra-035.mp3": {
+   "bytes": 10944,
+   "sha256": "80cce9d7876de31212857653a6fa95d1933cc9c58fe006b72c963e9d72be139a"
+  },
+  "audio/palabra-036.mp3": {
+   "bytes": 12528,
+   "sha256": "e4fe0c5ea2407b236ca427a1e84591f4ec4ba2abbe1a2a1d771f0970a1c13a92"
+  },
+  "audio/palabra-037.mp3": {
+   "bytes": 12528,
+   "sha256": "5c3b09863e478479a2ba30b613181a63277649dbc0f66d70807244712326ba35"
+  },
+  "audio/palabra-038.mp3": {
+   "bytes": 12528,
+   "sha256": "ff19aca62f13e4170925a0345ef2c91428750c5b300582fceeef9af6877d4fe2"
+  },
+  "audio/palabra-039.mp3": {
+   "bytes": 12384,
+   "sha256": "89a15158dc2efd828b68e06b4a1aeae820f98627c26e73e354ee673cf293c755"
+  },
+  "audio/palabra-040.mp3": {
+   "bytes": 12528,
+   "sha256": "d5d9338ccde4e5b4f1a297b300835bf949e709507e10385521d8d8fd7161a972"
+  },
+  "audio/palabra-041.mp3": {
+   "bytes": 12528,
+   "sha256": "eed124b48bf687f77e60efcfaceed4b46db3590a450edb3772bd3f369e913e85"
+  },
+  "audio/palabra-042.mp3": {
+   "bytes": 12672,
+   "sha256": "b41818d65f244fdbdfa0b3b6caa623180ef7636622301f4a8c1298329a3ee735"
+  },
+  "audio/palabra-043.mp3": {
+   "bytes": 11088,
+   "sha256": "de815dd51e5a0bbce5f72c11eca9e0859f3367a487550a361bfbe091911e40a3"
+  },
+  "audio/palabra-044.mp3": {
+   "bytes": 12528,
+   "sha256": "271c59d6f36bebfd44e53cafe24ce8762c53dd44305f93bbb8393b8710717feb"
+  },
+  "audio/palabra-045.mp3": {
+   "bytes": 12528,
+   "sha256": "fc1d697d33fedb4dbfb8b62332914030f85239f28cf61e46e2c7c89e6bdbbc72"
+  },
+  "audio/palabra-046.mp3": {
+   "bytes": 12528,
+   "sha256": "3738d3071075a5347f69a03307a1cb04408477402f1d7bc780bb52fd07f0a3d2"
+  },
+  "audio/palabra-047.mp3": {
+   "bytes": 12528,
+   "sha256": "4ea93993461580d5f3b954a5c3a354a765ec7f64803868757e3e5eddbc2188cc"
+  },
+  "audio/palabra-048.mp3": {
+   "bytes": 12528,
+   "sha256": "9f51106c7de4c31fbc663f8e81e7b8a1398198300a0e69a09578e330e3cf6b49"
+  },
+  "audio/palabra-049.mp3": {
+   "bytes": 12528,
+   "sha256": "ad0268587550a5e123a95e2613761fbdbcae09da25529d362172237e9f35dc55"
+  },
+  "audio/palabra-050.mp3": {
+   "bytes": 12528,
+   "sha256": "af3e0772c34395822c86eaa99fcd69142e78a456cf7ee22ed2a14626585fd8ea"
+  },
+  "audio/palabra-051.mp3": {
+   "bytes": 10944,
+   "sha256": "5489304c17f80ce8bfe929ebb009de1c427520e04191ce2fa6bff714f377d5a3"
+  },
+  "audio/palabra-052.mp3": {
+   "bytes": 12384,
+   "sha256": "faa103ce8b0880524b7ad38ec0c3586a03ca4c4273e840c6c8802bc7270d5692"
+  },
+  "audio/palabra-053.mp3": {
+   "bytes": 12528,
+   "sha256": "33db04fb69f41fa31f9c36065566148376b78ce88b7eab06fd2ca0814f836035"
+  },
+  "audio/palabra-054.mp3": {
+   "bytes": 12096,
+   "sha256": "1a9a6d3fb3ef5c9d7d7b415db41e6f0ddc2f134f85becaa992a59498edeadaf3"
+  },
+  "audio/palabra-055.mp3": {
+   "bytes": 10944,
+   "sha256": "5489304c17f80ce8bfe929ebb009de1c427520e04191ce2fa6bff714f377d5a3"
+  },
+  "audio/palabra-056.mp3": {
+   "bytes": 12528,
+   "sha256": "41770b15d2cae1e8150b70e423a0e53d518dc7f43b40df4b0e83bfb95f95d333"
+  },
+  "audio/palabra-057.mp3": {
+   "bytes": 12528,
+   "sha256": "29c5d2b28ec6508eff4b63fe70b55a094c93873bccbcc2f4e0325a8fe0c32f70"
+  },
+  "audio/palabra-058.mp3": {
+   "bytes": 11232,
+   "sha256": "0820753dd477010933e1c6bcb85a57fe0feea21fb30e55bcc8a7f90da36bd3d7"
+  },
+  "audio/palabra-059.mp3": {
+   "bytes": 12528,
+   "sha256": "9f810a26962640d26eef527b9a41565139c9b3a20c1433dc73029a69b71a6b70"
+  },
+  "audio/palabra-060.mp3": {
+   "bytes": 12528,
+   "sha256": "26b7176086125eaf7bd4186ba9afb8c190684d2b5387474bd774cdb8840eb915"
+  },
+  "audio/palabra-061.mp3": {
+   "bytes": 12528,
+   "sha256": "c5014e8c100704059a6fa0e65e7bf53d32d6bc939bca414b3693911774b36f08"
+  },
+  "audio/palabra-062.mp3": {
+   "bytes": 10944,
+   "sha256": "2a2a9a76af0c3d713a2d25efd58a9f3e73ea9ad44eb31b69d23318f31fbd04c8"
+  },
+  "audio/palabra-063.mp3": {
+   "bytes": 12528,
+   "sha256": "0f3bae25e6516e9443aecce206ca5adf1449fedd6ea5af3486264934f0ce293d"
+  },
+  "audio/palabra-064.mp3": {
+   "bytes": 12528,
+   "sha256": "6f55c4e2919a39cc6e6eba7aabac3bf3954568afa3dcbbc602d3c85ca62cc161"
+  },
+  "audio/palabra-065.mp3": {
+   "bytes": 12528,
+   "sha256": "308f8c3361557a8aa14dd79e4a9be26524db8097940990addca7f5866946a68e"
+  },
+  "audio/palabra-066.mp3": {
+   "bytes": 12528,
+   "sha256": "6e944e14db542b6026c45db03f982f07a91d37fb017ddfe5a5b35d2abfe27712"
+  },
+  "audio/palabra-067.mp3": {
+   "bytes": 12528,
+   "sha256": "b9e6b6c5da794e326ca3244d6a9b3e2b06ea0e90773e83fed2756c9c31a76ee8"
+  },
+  "audio/palabra-068.mp3": {
+   "bytes": 12528,
+   "sha256": "563a45d69de90ba939a46b6ac8ecb04065387dd1458703eb8339a828937dda46"
+  },
+  "audio/palabra-069.mp3": {
+   "bytes": 12528,
+   "sha256": "912924858249c5efe54fd5ab4eda966d1f25edc19aa3789b33ad6072f2476618"
+  },
+  "audio/palabra-070.mp3": {
+   "bytes": 12528,
+   "sha256": "7c1056046462ac1bdfc85b871db9c820acf64fb8f0d06b29064c9f44b0f9179a"
+  },
+  "audio/palabra-071.mp3": {
+   "bytes": 12528,
+   "sha256": "6b87a032d2c7ea4a665ddd85bf5ab6e8bae8244f6d4cdd1b58ec371be6f4ba4e"
+  },
+  "audio/palabra-072.mp3": {
+   "bytes": 12528,
+   "sha256": "e07216200f2372c45c94b644a97fa71c1004c4331b55a8fa9f42ca288c1357f2"
+  },
+  "audio/palabra-073.mp3": {
+   "bytes": 12528,
+   "sha256": "b833cb1ff1115a69e238f667bbcf83e1d84864d9008f7d9d9005104739258c5d"
+  },
+  "audio/palabra-074.mp3": {
+   "bytes": 12528,
+   "sha256": "f577211d1d4928d8e13fc63127fb6d8476fa3691e7eaa6b4f58eecdbc4822ac6"
+  },
+  "audio/palabra-075.mp3": {
+   "bytes": 12528,
+   "sha256": "9f9f74741443cec01c27d3f5d7fd9063f993ed182f0faf3a739416c4b1cb0d41"
+  },
+  "audio/palabra-076.mp3": {
+   "bytes": 12528,
+   "sha256": "f577ce6f075e70440a707961effa46915b7e431cf4fe320d159ec57487d0401f"
+  },
+  "audio/palabra-077.mp3": {
+   "bytes": 12528,
+   "sha256": "1054f7fd82dd2c624db33245888a7329df7b230533aa273b9bfbc7a39f2115e7"
+  },
+  "audio/palabra-078.mp3": {
+   "bytes": 12528,
+   "sha256": "a7bb659637546b944abcf764969827246e4f2687c45cc620bb17e51acc8c2a66"
+  },
+  "audio/palabra-079.mp3": {
+   "bytes": 12528,
+   "sha256": "bc66cfd9539069c16ea31be58dcd3ed7698cf24091fbbf02952c482c93a05f00"
+  },
+  "audio/palabra-080.mp3": {
+   "bytes": 12528,
+   "sha256": "82c373c557746c54d80810cf0c341dcf51922fe387fadc8bf53cc18337899408"
+  },
+  "audio/palabra-081.mp3": {
+   "bytes": 12528,
+   "sha256": "73f8e939a4a9eddea8cd40094152a7d269e1e95fc008078a979aec4554ad3b14"
+  },
+  "audio/palabra-082.mp3": {
+   "bytes": 12528,
+   "sha256": "91bc380ce0510ea87b4bff13b622eb004f86b5ad022e2f32fde937cf29766bf7"
+  },
+  "audio/palabra-083.mp3": {
+   "bytes": 12528,
+   "sha256": "fab609d25606f7e1fb430c6abd735ed9cdf461ddc880a9ebb30ba0538a2cb248"
+  },
+  "audio/palabra-084.mp3": {
+   "bytes": 10800,
+   "sha256": "3550f0e1a35ef7da9031e60be0077a4ee03b95131e1c25fa10a56dbacc2640f9"
+  },
+  "audio/palabra-085.mp3": {
+   "bytes": 11088,
+   "sha256": "83e1d3a2a09c453d28e1311bfda8ca6bb27626fe606ce81f363a23382b812a0e"
+  },
+  "audio/palabra-086.mp3": {
+   "bytes": 12528,
+   "sha256": "de53d9c51f002dc9e4b65327bf9fcbcca3eb9e5f5a4bc11f96a915066af4e6f4"
+  },
+  "audio/palabra-087.mp3": {
+   "bytes": 12528,
+   "sha256": "8ec6c1054f0e079de4d4f151571fe62b7b92af6eb189339a01c94604ff3236b1"
+  },
+  "audio/palabra-088.mp3": {
+   "bytes": 12528,
+   "sha256": "b2b77f41c7067cf3da4a8de408a6eae53dc14edaf0eb9d8080095c5af31bd253"
+  },
+  "audio/palabra-089.mp3": {
+   "bytes": 12528,
+   "sha256": "bf2de98962a0ec0366ca6af48a87a91eb0c415d1548df58e48c0389aa83d8a88"
+  },
+  "audio/palabra-090.mp3": {
+   "bytes": 12528,
+   "sha256": "6874219246ff1043d15532b68ab8172d3282c186555aeb840120dbcf125bb822"
+  },
+  "audio/palabra-091.mp3": {
+   "bytes": 10800,
+   "sha256": "510a769e1969c3ba06afe4f50b7a3c58595da05bad6a6c34e2601fce7f7eb8bb"
+  },
+  "audio/palabra-092.mp3": {
+   "bytes": 12528,
+   "sha256": "8ed8b3c2cd9ada5d376dd3d9d1c1d0e3cc6d068dc64807db2a1b1797dccbc8b7"
+  },
+  "audio/palabra-093.mp3": {
+   "bytes": 12528,
+   "sha256": "7a70004aa5ab78f1020825632077d5e9f5ef8f389386bee6d1c6c022755b6411"
+  },
+  "audio/palabra-094.mp3": {
+   "bytes": 12528,
+   "sha256": "e02315630fe0acf999ced783680aa84413587c97dee01bb75611884fd6ede534"
+  },
+  "audio/palabra-095.mp3": {
+   "bytes": 11808,
+   "sha256": "4b0289852fabd6f9462e0f6daa6d35e5dbaf5383f0599b87098ecaf781e574e6"
+  },
+  "audio/palabra-096.mp3": {
+   "bytes": 12528,
+   "sha256": "3746879ef589b6a3344d290138077ec2c6b160e66e029f3d7d8c29c657df43e0"
+  },
+  "audio/palabra-097.mp3": {
+   "bytes": 11376,
+   "sha256": "b4572a9dbccb5d3ace6c1f6c9bfc8bc4f8cc242d761c3d2ea0b9d3339b6474ab"
+  },
+  "audio/palabra-098.mp3": {
+   "bytes": 12528,
+   "sha256": "d30b924b841707a9cb443e3e018aded26b1fe5a05bc48d7d6556a7972d897149"
+  },
+  "audio/palabra-099.mp3": {
+   "bytes": 12528,
+   "sha256": "e08032c4143934067bf5575408d9a91ad60b43cca166990c10f97c42b6cc7b19"
+  },
+  "audio/palabra-100.mp3": {
+   "bytes": 12240,
+   "sha256": "c76b2ad413d6b81516346b12b5675c9a7e2c42b00e70326affa3f4110514aff3"
+  },
+  "audio/verso-bereshit-1-1.mp3": {
+   "bytes": 24624,
+   "sha256": "586f708c493726d0d22f79a3d7a1976f0aa6c9d32178d3a08aef17c284e4b7f9"
+  },
+  "audio/verso-bereshit-1-10.mp3": {
+   "bytes": 36432,
+   "sha256": "8605b4129e2330e50121c4fb5edef8e76e4ed9844fd88b01fcc3839f9c811bab"
+  },
+  "audio/verso-bereshit-1-11.mp3": {
+   "bytes": 48816,
+   "sha256": "e60cb9ef9bcac4df22d4e2799fa772e70450c5ca06206b13736896b03c1b7ed2"
+  },
+  "audio/verso-bereshit-1-12.mp3": {
+   "bytes": 49104,
+   "sha256": "a047c32d1196ba2aa719a0b7ce92354393f5c4d7e3bb3e252182f2c42125b62b"
+  },
+  "audio/verso-bereshit-1-13.mp3": {
+   "bytes": 20304,
+   "sha256": "e5fe0d5186949fe7576903fa3b6cfd85234875ed4c23c09303c63e00ec1bf311"
+  },
+  "audio/verso-bereshit-1-14.mp3": {
+   "bytes": 54000,
+   "sha256": "3e973f6517e2ebee71e340b80054f57476b4fc68f9731b450a09eb01843b9536"
+  },
+  "audio/verso-bereshit-1-15.mp3": {
+   "bytes": 29376,
+   "sha256": "9c5d0932bfa50af210dfaf5d715dd0228b62375ef334329c0cb56875b610b563"
+  },
+  "audio/verso-bereshit-1-16.mp3": {
+   "bytes": 55728,
+   "sha256": "26b45a8e632e868076d7078a96d6fdde0dab2a92e2763c2b796f7c5cd199f25a"
+  },
+  "audio/verso-bereshit-1-17.mp3": {
+   "bytes": 29088,
+   "sha256": "987c920d906f7d1aeb29a963647bd49ee54aab0da8784ba84ba273fd02ef1581"
+  },
+  "audio/verso-bereshit-1-18.mp3": {
+   "bytes": 40320,
+   "sha256": "99698e3711541989091e07a1e8dc78309a99c558a3fe1a2c77fec3aec15bc7a4"
+  },
+  "audio/verso-bereshit-1-19.mp3": {
+   "bytes": 20736,
+   "sha256": "690b4d93e9038231aa66635415be908b2f2f0d8b1b5ec6430ccabc36e8425df0"
+  },
+  "audio/verso-bereshit-1-2.mp3": {
+   "bytes": 41760,
+   "sha256": "c31a209f87d9e59bc628e3883d59675f6e1948019be08161638f408928176b78"
+  },
+  "audio/verso-bereshit-1-20.mp3": {
+   "bytes": 43056,
+   "sha256": "6ecb32895a228b34f5217bc6eed289d1403a7cfb9a4ebdd79cd480b63a3f316e"
+  },
+  "audio/verso-bereshit-1-21.mp3": {
+   "bytes": 60768,
+   "sha256": "5ed787fb7466f2576b62a1612906f5966fd08a8e97404fd02b0bf79d55f752d5"
+  },
+  "audio/verso-bereshit-1-22.mp3": {
+   "bytes": 42624,
+   "sha256": "9b42cd0ea6ec6cbe8ceb2777fde811b58dac781b28a6ac516407fd98c412455f"
+  },
+  "audio/verso-bereshit-1-23.mp3": {
+   "bytes": 21024,
+   "sha256": "e7cde53086bf3b7d486d811f766bbc9f5671f3a626ff88db7400d4e9cf632d40"
+  },
+  "audio/verso-bereshit-1-24.mp3": {
+   "bytes": 41472,
+   "sha256": "463542c436e9c0b70d2ad910a413a251e82163b7a3462a0495853e385d00dfaa"
+  },
+  "audio/verso-bereshit-1-25.mp3": {
+   "bytes": 48096,
+   "sha256": "75c377fc7d96cfe262fcdf4d66191fe71d19a1f8d2c27b2280443fcbe8d3dc00"
+  },
+  "audio/verso-bereshit-1-26.mp3": {
+   "bytes": 61488,
+   "sha256": "30b218a694503ba98cf2399b5b6a8c696996cab1e3f4713f6e7ba1485650d3b8"
+  },
+  "audio/verso-bereshit-1-27.mp3": {
+   "bytes": 38448,
+   "sha256": "c03ac539347c4e96f78e7fef389f670b73511667d2da4f978557e26aa44c48ad"
+  },
+  "audio/verso-bereshit-1-28.mp3": {
+   "bytes": 62640,
+   "sha256": "e0a9f5ca879d1c03674335545a7c9d2a26506dc6f02d42a13cdaa5bcf4b1817d"
+  },
+  "audio/verso-bereshit-1-29.mp3": {
+   "bytes": 60336,
+   "sha256": "c562eb742948b7396d749dff74391e567751a2f195b1913b4405e936eea97829"
+  },
+  "audio/verso-bereshit-1-3.mp3": {
+   "bytes": 22320,
+   "sha256": "9350bbe273b04e02ab6c3ad8d36e2d7d0c05688b69c2e5d6eb71df5e5fdc7510"
+  },
+  "audio/verso-bereshit-1-30.mp3": {
+   "bytes": 48672,
+   "sha256": "337366775c1bbf67a63115adfb93bb605ef59c1305ca3408e781c8a6322b544f"
+  },
+  "audio/verso-bereshit-1-31.mp3": {
+   "bytes": 36720,
+   "sha256": "b945b6684ba90897f0f9167a3a2877ecb804b17d4655fffb21ebcb23aada0c04"
+  },
+  "audio/verso-bereshit-1-4.mp3": {
+   "bytes": 34560,
+   "sha256": "fcfce6b31efb6992d788b9742e890743296ddc8eccefee390311ea4bbfa9d831"
+  },
+  "audio/verso-bereshit-1-5.mp3": {
+   "bytes": 36720,
+   "sha256": "8ece247e078421556fc3de5eb7f7a97508d4f6d960a7b222ca5fd7aae6293f8a"
+  },
+  "audio/verso-bereshit-1-6.mp3": {
+   "bytes": 32976,
+   "sha256": "722a3b9c369c92cdeeb10d5f144e5cf8524ca4a121faac8be9ee367a48d8b36e"
+  },
+  "audio/verso-bereshit-1-7.mp3": {
+   "bytes": 45504,
+   "sha256": "a57926883a045b9399d88c10b8b6207fe0c5da32c4d20b1b3566f553a80c7b66"
+  },
+  "audio/verso-bereshit-1-8.mp3": {
+   "bytes": 30672,
+   "sha256": "56b69705c678b03b26a75f7930b1dc4dc2651ccea76cd222ce48c856d8d9a0bc"
+  },
+  "audio/verso-bereshit-1-9.mp3": {
+   "bytes": 41616,
+   "sha256": "9b328baaa8945e8f06e9613cac957179cced295871f0a24242794b9027cef2e7"
+  },
+  "audio/verso-bereshit-12-1.mp3": {
+   "bytes": 42768,
+   "sha256": "71dfc8f739fabd30dde66bf7f5e3019f7e8cda48a16e554105fa8e14565ed977"
+  },
+  "audio/verso-bereshit-12-10.mp3": {
+   "bytes": 37584,
+   "sha256": "e99b850f879a3bbbdf53bbf9ad44585fdcdd695c83ea83954431a858c5021458"
+  },
+  "audio/verso-bereshit-12-11.mp3": {
+   "bytes": 48816,
+   "sha256": "00759b82749ce9311480cc6fc5ff48bf7ed720f69a6cf978ea9d771879b756dc"
+  },
+  "audio/verso-bereshit-12-12.mp3": {
+   "bytes": 39600,
+   "sha256": "cc1b81cf62be106b6653f11a338bb88d2dc707333053d424a5491d5ad95f9bc1"
+  },
+  "audio/verso-bereshit-12-13.mp3": {
+   "bytes": 33264,
+   "sha256": "311fd37f61c51290f6a463e06c17d2619d603e1ef4a1b52178fcd4403c66e742"
+  },
+  "audio/verso-bereshit-12-14.mp3": {
+   "bytes": 35280,
+   "sha256": "05329925c57ef8ecbabacbd9930e534883149edbb6ba2c458f82bcb0eebbe67c"
+  },
+  "audio/verso-bereshit-12-15.mp3": {
+   "bytes": 36288,
+   "sha256": "c8d483bef516099c20067c68690b1afbbb093ea267f2fa0992f583182da3f963"
+  },
+  "audio/verso-bereshit-12-16.mp3": {
+   "bytes": 42768,
+   "sha256": "bf9a1d807b587286398f23847c31ff23380c9663470d8f3f4baef2818f99e8d0"
+  },
+  "audio/verso-bereshit-12-17.mp3": {
+   "bytes": 39024,
+   "sha256": "c8cb4448bf9b36a55030dbf6d7eda8776d9af17a4b41ded1b6c050c1b255a320"
+  },
+  "audio/verso-bereshit-12-18.mp3": {
+   "bytes": 37296,
+   "sha256": "95a1eae4b2af97ec1b76865779a1580e1d4310fc4244b941c090a645fbd7e2d2"
+  },
+  "audio/verso-bereshit-12-19.mp3": {
+   "bytes": 37152,
+   "sha256": "17be705801bff3eea1af5f020bb161faf332ce64dc2ca8f1d2c532cacecbbcd0"
+  },
+  "audio/verso-bereshit-12-2.mp3": {
+   "bytes": 32400,
+   "sha256": "240dbd0dfe75ae67879feb737e8978822b060c218ec2f18588b77babe65fc814"
+  },
+  "audio/verso-bereshit-12-20.mp3": {
+   "bytes": 37152,
+   "sha256": "9e1cbdca91ead3772e4b8cd842df5c8fd3b27e69a205f0124b4848f8b33fda81"
+  },
+  "audio/verso-bereshit-12-3.mp3": {
+   "bytes": 37440,
+   "sha256": "1362c318539d2dcdefa2b2c47d437496b1f8200814c717896d256e3327922f35"
+  },
+  "audio/verso-bereshit-12-4.mp3": {
+   "bytes": 47232,
+   "sha256": "dafeb5b0ca70a218b171c27bdfd8a047f15c1498977f44e913a8ae888cf9b3d2"
+  },
+  "audio/verso-bereshit-12-5.mp3": {
+   "bytes": 70416,
+   "sha256": "5e4fb410d661c3018baac9b1829d4b052446e5b0c416ac3fccc640eb26a8cd54"
+  },
+  "audio/verso-bereshit-12-6.mp3": {
+   "bytes": 38304,
+   "sha256": "763403bc8c4e97316b03207eb58de08859dcde6d58e1f9e01d51142133178d86"
+  },
+  "audio/verso-bereshit-12-7.mp3": {
+   "bytes": 44928,
+   "sha256": "8d3296a3ac2181ece024fdddb49eba5d8ed2f53a7c0c7e77ea736948dd739480"
+  },
+  "audio/verso-bereshit-12-8.mp3": {
+   "bytes": 52128,
+   "sha256": "e9de51676605d375d9e72190e9e5574e608711495567ba66e72b0746395c90f3"
+  },
+  "audio/verso-bereshit-12-9.mp3": {
+   "bytes": 21888,
+   "sha256": "1f5db12c03f4ac98a786a1b805c9aba01084c976d03894a33a84711ba2a1f695"
+  },
+  "audio/verso-devarim-6-1.mp3": {
+   "bytes": 51552,
+   "sha256": "440bc185988f477c0216b60d24bb8f07f337c48d22237ac8d1492285f4d5d3be"
+  },
+  "audio/verso-devarim-6-10.mp3": {
+   "bytes": 56304,
+   "sha256": "f4fa90de8717a1650361502c21c7c4b2d03f291edafafcba7dd0af0d9c751161"
+  },
+  "audio/verso-devarim-6-11.mp3": {
+   "bytes": 54864,
+   "sha256": "6aff38a609133055512c26869cd038f440380235d59fd459bd8ea5129f4ac07e"
+  },
+  "audio/verso-devarim-6-12.mp3": {
+   "bytes": 35424,
+   "sha256": "4ead6313f80fa858f33578375a4395b7a72c6a0dbb7feca20c56546a6e8ae8bb"
+  },
+  "audio/verso-devarim-6-13.mp3": {
+   "bytes": 29232,
+   "sha256": "4427853572ad68a94b77dbf6ab2fc6b67713ebedae11e1e92087d468ef0249ee"
+  },
+  "audio/verso-devarim-6-14.mp3": {
+   "bytes": 31968,
+   "sha256": "49776b721617edff914990fb028a93ed2ef98c2d5da9fb357afa765fc2daad65"
+  },
+  "audio/verso-devarim-6-15.mp3": {
+   "bytes": 44640,
+   "sha256": "e29f825d1f9f0088a65bb38961818798d54868325223c39855ecdace81d9371f"
+  },
+  "audio/verso-devarim-6-16.mp3": {
+   "bytes": 26784,
+   "sha256": "ce00b02ce0091439fb3a6813a09c1d8c91f5f6b2ff84c622c8f264daf54ea374"
+  },
+  "audio/verso-devarim-6-17.mp3": {
+   "bytes": 34560,
+   "sha256": "c4c347a7ba886b590e11d1efbb575ff8ef57d9363690ce299b3989d3c890b989"
+  },
+  "audio/verso-devarim-6-18.mp3": {
+   "bytes": 50256,
+   "sha256": "bb737ea038d7ef135fe594603891cfd9815104d640ba87298d113718e2a134b0"
+  },
+  "audio/verso-devarim-6-19.mp3": {
+   "bytes": 27360,
+   "sha256": "9950f53b36947bb37aec349ec80b7f0a1fd8b403c6097f7308defacc9afbbc6d"
+  },
+  "audio/verso-devarim-6-2.mp3": {
+   "bytes": 62208,
+   "sha256": "2eb67e4da29578b446e4ca8b09ae0dec73850f5fde92edf4204993d2c22ed474"
+  },
+  "audio/verso-devarim-6-20.mp3": {
+   "bytes": 43056,
+   "sha256": "9ef4f01494418f3ae9c65381de9a1a5752671c1e3247e223b8ab20029c4b6044"
+  },
+  "audio/verso-devarim-6-21.mp3": {
+   "bytes": 41328,
+   "sha256": "e0f56bf94ddd92569bc743362d4db749422c643ce29a594eb9dd9bd66421faf7"
+  },
+  "audio/verso-devarim-6-22.mp3": {
+   "bytes": 38880,
+   "sha256": "9aaad29a64720d1fbed6f9e68d3d6ba0bbc32a76bf0f4ef0dba59487be7cf3b5"
+  },
+  "audio/verso-devarim-6-23.mp3": {
+   "bytes": 35136,
+   "sha256": "c3be080397e412c8cc5651d2f093895e1e29d31b71e05bb3b7646cb757b7f078"
+  },
+  "audio/verso-devarim-6-24.mp3": {
+   "bytes": 47808,
+   "sha256": "6b5bab71129af5f3ceebad9d6ac7a0b47122320128e1ddd3629b60a5b7aba3ef"
+  },
+  "audio/verso-devarim-6-25.mp3": {
+   "bytes": 41472,
+   "sha256": "4a5eb7d9d33ccb76d6c28c8a09926b8b49f055ad3806867e2caf30a255024ac9"
+  },
+  "audio/verso-devarim-6-3.mp3": {
+   "bytes": 58608,
+   "sha256": "7f4ff966ac566c8e7332b58a3c4a73799e898eb04c23bc52f5318ac1e94ad146"
+  },
+  "audio/verso-devarim-6-4.mp3": {
+   "bytes": 23616,
+   "sha256": "0afd92aac63559c33d2a5fe459535a3cb54846c9fb53bb5d749b18e870b4b8de"
+  },
+  "audio/verso-devarim-6-5.mp3": {
+   "bytes": 34416,
+   "sha256": "9cee164a5f95b216ba374fa3e77d9d4bf156b564b236e3d3fcf996c1ceb675ea"
+  },
+  "audio/verso-devarim-6-6.mp3": {
+   "bytes": 31104,
+   "sha256": "e8e26296635a17ebc71353ab67b899446c9d771c62698633801903bc6e29f576"
+  },
+  "audio/verso-devarim-6-7.mp3": {
+   "bytes": 45504,
+   "sha256": "8e6134807cdd50548d8bb72b85b8719cb7c94b87d0a3b1b2990168173580ed07"
+  },
+  "audio/verso-devarim-6-8.mp3": {
+   "bytes": 29520,
+   "sha256": "e02b066f00fc7d8e3dce8a954b407591ef0a22dc0c7ab056ce5bfb0d8adc8b51"
+  },
+  "audio/verso-devarim-6-9.mp3": {
+   "bytes": 24480,
+   "sha256": "e3de43952fe7f392b40bcfa25e3fa242a51491a3e6dce6e588059d706c846aab"
+  },
+  "audio/verso-shemot-20-1.mp3": {
+   "bytes": 23904,
+   "sha256": "63266ec3a6b56e141590b467673545d28f9c1f0545729d960ac1f25ae31a577d"
+  },
+  "audio/verso-shemot-20-10.mp3": {
+   "bytes": 55152,
+   "sha256": "451edb8b1b5269f6ab55989e897ff6404525e84eeb6a295c7f2dded5e36f6185"
+  },
+  "audio/verso-shemot-20-11.mp3": {
+   "bytes": 54432,
+   "sha256": "77ba247b59b4ad35bc7673be9d8045cafc3cf64fc9959f408edfbaedd121c3ee"
+  },
+  "audio/verso-shemot-20-12.mp3": {
+   "bytes": 39744,
+   "sha256": "d5ee039a8e9f32e92feefe8ee8af1e0942353dd92ebafed4fe020c277fe8c74f"
+  },
+  "audio/verso-shemot-20-13.mp3": {
+   "bytes": 13248,
+   "sha256": "763eba5332a1591f0a75ba6b39ba33833170a4c261476cf5c65aa9434f4159c7"
+  },
+  "audio/verso-shemot-20-14.mp3": {
+   "bytes": 12816,
+   "sha256": "4a029f333faa8cda79ff7e1c660cdb8d0da88b95dbd88f5e4bb0f3a0800f70dc"
+  },
+  "audio/verso-shemot-20-15.mp3": {
+   "bytes": 12528,
+   "sha256": "845a2d538edaf0da291346603fe09f3409d98b721d28a82a3e05f17fcc3c2df8"
+  },
+  "audio/verso-shemot-20-16.mp3": {
+   "bytes": 18144,
+   "sha256": "5eecae458a3414da2391b0e9d3359aae06eab31905c5251694b16ca9d4423ceb"
+  },
+  "audio/verso-shemot-20-17.mp3": {
+   "bytes": 46224,
+   "sha256": "6716e141d83dd8542afca9f7a3aeefe890b5d17eb07953da4a0fa5b56117e7eb"
+  },
+  "audio/verso-shemot-20-18.mp3": {
+   "bytes": 51264,
+   "sha256": "67e2c1c6d8392363b526165cc81edac7c8360e775c78cf02bc319ab7b1f17c8b"
+  },
+  "audio/verso-shemot-20-19.mp3": {
+   "bytes": 39744,
+   "sha256": "7aba42c631337bfe9da86dbd55d1821374576d3948a90064add65761c5879d33"
+  },
+  "audio/verso-shemot-20-2.mp3": {
+   "bytes": 32256,
+   "sha256": "04ea9bb11767e2268f3ed880dfe1af07e92761bf0c4e1d393fb076d618c9fde9"
+  },
+  "audio/verso-shemot-20-20.mp3": {
+   "bytes": 50112,
+   "sha256": "c3612721fe3de3227861d77fc161c417c93f98239db54950e68985d063c751c4"
+  },
+  "audio/verso-shemot-20-21.mp3": {
+   "bytes": 32544,
+   "sha256": "60630632da20c7ef7a5d45fd0af035a8e4e8094d8f7cb1c203522d4826e3c5e8"
+  },
+  "audio/verso-shemot-20-22.mp3": {
+   "bytes": 42048,
+   "sha256": "389d20f649bc9c03ad9da7e451c7f27ef15038a5e4f9b46b67a62e0ff019a029"
+  },
+  "audio/verso-shemot-20-23.mp3": {
+   "bytes": 29376,
+   "sha256": "7b333e2d293dc534dcff02658c843528e178489f7a3bf0e93c56e27d19797b5c"
+  },
+  "audio/verso-shemot-20-24.mp3": {
+   "bytes": 60768,
+   "sha256": "7c558596f13639264a50bd5e45e054ee4877c70439c21f295bd5494bb4de934e"
+  },
+  "audio/verso-shemot-20-25.mp3": {
+   "bytes": 39168,
+   "sha256": "913ec948e828e5ec40bdd8b89f832c0c9722bd4f7c5056bcad77dd951b9a51f0"
+  },
+  "audio/verso-shemot-20-26.mp3": {
+   "bytes": 29376,
+   "sha256": "c515d2c562108e7f890491ba30d80c2accca9fa4e234bf750f18bfb40fe8e59e"
+  },
+  "audio/verso-shemot-20-3.mp3": {
+   "bytes": 20880,
+   "sha256": "de0537b8405aa7310ce24f1c073ef1a44a4c56e1a249e057ce4432de4d6e476f"
+  },
+  "audio/verso-shemot-20-4.mp3": {
+   "bytes": 47088,
+   "sha256": "377bb828e65f4e7b88d91df3fd57d4678afdebe82f0bb48b2cf8fc36940b824b"
+  },
+  "audio/verso-shemot-20-5.mp3": {
+   "bytes": 51840,
+   "sha256": "aa9b47b042318b9701dac93b670d91cee043c188d3100e3d7f38f26eade1bf8f"
+  },
+  "audio/verso-shemot-20-6.mp3": {
+   "bytes": 25920,
+   "sha256": "e8009937e40245d5d63eb28b9a69dcf09a662790d9065a30afb4c98a042d0145"
+  },
+  "audio/verso-shemot-20-7.mp3": {
+   "bytes": 37440,
+   "sha256": "5457c3835c634c42dbf69ce80ea71ffa8a4c7c21ca9ef601cedebfb2640da19d"
+  },
+  "audio/verso-shemot-20-8.mp3": {
+   "bytes": 18288,
+   "sha256": "2a66c091c437621b971b9b17a98d83c9d82b6d37ff96d9ec714ff0b439138c2d"
+  },
+  "audio/verso-shemot-20-9.mp3": {
+   "bytes": 26496,
+   "sha256": "a188e557dc73aa6d50cc187bc6afe1b0c4accb57d798006a8f30a6a29a398d7c"
+  },
+  "audio/verso-tehilim-23-1.mp3": {
+   "bytes": 21744,
+   "sha256": "a81f0b20819e52d7f280feafee21f8d528d572c22d080c6240cab49320012edb"
+  },
+  "audio/verso-tehilim-23-2.mp3": {
+   "bytes": 27072,
+   "sha256": "0785c54dfcc8b4c95dc10c11d0b1c05214551abbf6bdd44d651edbb8d5972d0e"
+  },
+  "audio/verso-tehilim-23-3.mp3": {
+   "bytes": 25488,
+   "sha256": "08583b27b93426e82a56fa80b073459ce0b2bb85be0513381cd3a82bcc1bbd32"
+  },
+  "audio/verso-tehilim-23-4.mp3": {
+   "bytes": 43056,
+   "sha256": "c1855c5057657a5069524e00836cfeabda4c6bbf0eec2bc88295af2e9750fbbd"
+  },
+  "audio/verso-tehilim-23-5.mp3": {
+   "bytes": 35136,
+   "sha256": "08e06246e39d36c9434b12a48ddd5ba98a4ee21cf4faf07a09b4c1a8d8f8d385"
+  },
+  "audio/verso-tehilim-23-6.mp3": {
+   "bytes": 35424,
+   "sha256": "a5bcfe7994e59f2804af0925e88e8808da1fe183e2125ed0ec379c22feb3c607"
+  },
+  "vocab/index.json": {
+   "bytes": 398,
+   "sha256": "6b85759b115a7049e87cb690a479627a5c3ea1812d5259340bb5e608e5109a4b"
+  },
+  "vocab/top100.json": {
+   "bytes": 22453,
+   "sha256": "ea616273b5d60ea6083bc0b110b6a6d87f11977d5a5398c1f0c590013c9dc629"
+  },
+  "vocab/top1000.json": {
+   "bytes": 218970,
+   "sha256": "5626844b81f7083e6c2f44066e02e0e949f0a41ed9fb7a8f78ee62a384a2abea"
+  },
+  "vocab/top300.json": {
+   "bytes": 68629,
+   "sha256": "c72895bfbb2aec485b196df732044f5cf2da69c13e06f72e5a081af9249a4f14"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "strong": "H4994",
+ "he": "נא",
+ "xlit": "nâʼ",
+ "pron": "naw",
+ "def_en": [
+  "1) I (we) pray, now, please",
+  "1a) used in entreaty or exhortation"
+ ],
+ "kjv": "I beseech (pray) thee (you), go to, now, oh.",
+ "expl": "'I pray', 'now', or 'then'; added mostly to verbs (in the Imperative or Future), or to interjections, occasionally to an adverb or conjunction",
+ "etim": "a primitive particle of incitement and entreaty, which may usually be rendered;",
+ "raices": [],
+ "ocurrencias": 403,
+ "formas": [
+  {
+   "forma": "נא",
+   "forma_he": "נָ֣א",
+   "n": 403,
+   "ref": "bereshit/12/11"
+  }
+ ],
+ "morph": [
+  "HTe",
+  "HTj"
+ ],
+ "glosa_es": "por favor; te ruego"
+}

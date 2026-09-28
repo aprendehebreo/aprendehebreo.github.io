@@ -1,0 +1,56 @@
+{
+ "strong": "H6370",
+ "he": "פילגש",
+ "xlit": "pîylegesh",
+ "pron": "pee-leh'-ghesh",
+ "def_en": [
+  "1) concubine, paramour",
+  "1a) concubine",
+  "1b) paramour"
+ ],
+ "kjv": "concubine, paramour.",
+ "expl": "a concubine; also (masculine) a paramour",
+ "etim": "or ; of uncertain derivation;",
+ "raices": [],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "פילגש",
+   "forma_he": "פִּילֶ֣גֶשׁ",
+   "n": 6,
+   "ref": "bereshit/35/22"
+  },
+  {
+   "forma": "ופילגשו",
+   "forma_he": "וּפִֽילַגְשׁ֖וֹ",
+   "n": 4,
+   "ref": "bereshit/22/24"
+  },
+  {
+   "forma": "פילגשו",
+   "forma_he": "פִּֽילַגְשׁ֔וֹ",
+   "n": 3,
+   "ref": "shoftim/19/2"
+  },
+  {
+   "forma": "פלגש",
+   "forma_he": "פִּלֶ֔גֶשׁ",
+   "n": 3,
+   "ref": "shmuel_b/3/7"
+  },
+  {
+   "forma": "פלגשים",
+   "forma_he": "פִּֽלַגְשִׁ֤ים",
+   "n": 3,
+   "ref": "shmuel_b/5/13"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HC/Ncfsc/Sp3ms",
+  "HNcfpa",
+  "HNcfsa",
+  "HNcfsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

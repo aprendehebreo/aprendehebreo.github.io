@@ -1,0 +1,70 @@
+{
+ "strong": "H1431",
+ "he": "גדל",
+ "xlit": "gâdal",
+ "pron": "gaw-dal'",
+ "def_en": [
+  "1) to grow, become great or important, promote, make powerful, praise, magnify, do great things",
+  "1a) (Qal)",
+  "1a1) to grow up",
+  "1a2) to become great",
+  "1a3) to be magnified",
+  "1b) (Piel)",
+  "1b1) to cause to grow",
+  "1b2) to make great, powerful",
+  "1b3) to magnify",
+  "1c) (Pual) to be brought up",
+  "1d) (Hiphil)",
+  "1d1) to make great",
+  "1d2) to magnify",
+  "1d3) to do great things",
+  "1e) (Hithpael) to magnify oneself"
+ ],
+ "kjv": "advance, boast, bring up, exceed, excellent, be(-come, do, give, make, wax), great(-er, come to... estate, [phrase] things), grow(up), increase, lift up, magnify(-ifical), be much set by, nourish (up), pass, promote, proudly (spoken), tower.",
+ "expl": "to be (causatively make) large (in various senses, as in body, mind, estate or honor, also in pride)",
+ "etim": "a primitive root; properly, to twist (compare ), i.e.",
+ "raices": [
+  "H1434"
+ ],
+ "ocurrencias": 116,
+ "formas": [
+  {
+   "forma": "ויגדל",
+   "forma_he": "וַיִּגְדַּ֥ל",
+   "n": 18,
+   "ref": "bereshit/21/8"
+  },
+  {
+   "forma": "הגדיל",
+   "forma_he": "הִגְדִּֽיל",
+   "n": 13,
+   "ref": "shmuel_a/20/41"
+  },
+  {
+   "forma": "יגדל",
+   "forma_he": "יִגְדַּל֙",
+   "n": 11,
+   "ref": "bereshit/38/11"
+  },
+  {
+   "forma": "גדלו",
+   "forma_he": "גָּדְל֔וֹ",
+   "n": 9,
+   "ref": "devarim/5/24"
+  },
+  {
+   "forma": "גדל",
+   "forma_he": "גָדַ֖ל",
+   "n": 7,
+   "ref": "bereshit/26/13"
+  }
+ ],
+ "morph": [
+  "HVhp3ms",
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HVqp3cp",
+  "HVqp3fs"
+ ],
+ "glosa_es": ""
+}

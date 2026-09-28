@@ -1,0 +1,61 @@
+{
+ "strong": "H3669",
+ "he": "כנעני",
+ "xlit": "Kᵉnaʻanîy",
+ "pron": "ken-ah-an-ee'",
+ "def_en": [
+  "Canaanite = see Cana \"zealous\"",
+  "adj",
+  "1) descendant of inhabitant of Canaan",
+  "n",
+  "2) descendant or inhabitant of Canaan",
+  "3) a merchant, trader"
+ ],
+ "kjv": "Canaanite, merchant, trafficker.",
+ "expl": "a Kenaanite or inhabitant of Kenaan; by implication, a pedlar (the Canaanites standing for their neighbors the Ishmaelites, who conducted mercantile caravans)",
+ "etim": "patrial from ;",
+ "raices": [
+  "H3667"
+ ],
+ "ocurrencias": 73,
+ "formas": [
+  {
+   "forma": "הכנעני",
+   "forma_he": "הַֽכְּנַעֲנִֽי",
+   "n": 47,
+   "ref": "bereshit/10/18"
+  },
+  {
+   "forma": "והכנעני",
+   "forma_he": "וְהַֽכְּנַעֲנִ֖י",
+   "n": 12,
+   "ref": "bereshit/12/6"
+  },
+  {
+   "forma": "בכנעני",
+   "forma_he": "בַּֽכְּנַעֲנִ֖י",
+   "n": 3,
+   "ref": "bereshit/34/30"
+  },
+  {
+   "forma": "הכנענית",
+   "forma_he": "הַֽכְּנַעֲנִֽית",
+   "n": 3,
+   "ref": "bereshit/46/10"
+  },
+  {
+   "forma": "לכנעני",
+   "forma_he": "לַֽכְּנַעֲנִ֖י",
+   "n": 3,
+   "ref": "yehoshua/13/3"
+  }
+ ],
+ "morph": [
+  "HTd/Ngmsa",
+  "HC/Td/Ngmsa",
+  "HRd/Ngmsa",
+  "HTd/Ngfsa",
+  "HNgmsa"
+ ],
+ "glosa_es": ""
+}

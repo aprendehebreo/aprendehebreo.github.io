@@ -1,0 +1,62 @@
+{
+ "strong": "H2403",
+ "he": "חטאה",
+ "xlit": "chaṭṭâʼâh",
+ "pron": "khat-taw-aw'",
+ "def_en": [
+  "1) sin, sinful",
+  "2) sin, sin offering",
+  "2a) sin",
+  "2b) condition of sin, guilt of sin",
+  "2c) punishment for sin",
+  "2d) sin-offering",
+  "2e) purification from sins of ceremonial uncleanness"
+ ],
+ "kjv": "punishment (of sin), purifying(-fication for sin), sin(-ner, offering).",
+ "expl": "an offence (sometimes habitual sinfulness), and its penalty, occasion, sacrifice, or expiation; also (concretely) an offender",
+ "etim": "or ; from ;",
+ "raices": [
+  "H2398"
+ ],
+ "ocurrencias": 299,
+ "formas": [
+  {
+   "forma": "חטאת",
+   "forma_he": "חַטָּ֣את",
+   "n": 56,
+   "ref": "bereshit/4/7"
+  },
+  {
+   "forma": "לחטאת",
+   "forma_he": "לְחַטָּֽאת",
+   "n": 44,
+   "ref": "vayikra/4/3"
+  },
+  {
+   "forma": "החטאת",
+   "forma_he": "הַֽחַטָּ֖את",
+   "n": 36,
+   "ref": "vayikra/4/8"
+  },
+  {
+   "forma": "חטאתו",
+   "forma_he": "חַטָּאתוֹ֩",
+   "n": 20,
+   "ref": "vayikra/4/3"
+  },
+  {
+   "forma": "חטאות",
+   "forma_he": "חַטֹּ֤אות",
+   "n": 13,
+   "ref": "mlakhim_a/14/16"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HTd/Ncfsa",
+  "HNcfsc/Sp3ms",
+  "HNcfpc"
+ ],
+ "glosa_es": "pecado; ofrenda por el pecado"
+}

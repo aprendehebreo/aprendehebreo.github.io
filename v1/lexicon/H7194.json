@@ -1,0 +1,65 @@
+{
+ "strong": "H7194",
+ "he": "קשר",
+ "xlit": "qâshar",
+ "pron": "kaw-shar'",
+ "def_en": [
+  "1) to bind, tie, bind together, league together, conspire",
+  "1a) (Qal)",
+  "1a1) to bind, confine",
+  "1a2) to league together, conspire",
+  "1b) (Niphal) to be bound, be bound up",
+  "1c) (Piel)",
+  "1c1) to bind on",
+  "1c2) to bind fast",
+  "1c3) to bind, tie",
+  "1c4) to bind to oneself",
+  "1d) (Pual) robust, vigorous (participle)",
+  "1e) (Hithpael) to conspire"
+ ],
+ "kjv": "bind (up), (make a) conspire(-acy, -ator), join together, knit, stronger, work (treason).",
+ "expl": "to tie, physically (gird, confine, compact) or mentally (in love, league)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "ויקשרו",
+   "forma_he": "וַיִּקְשְׁרֽוּ",
+   "n": 7,
+   "ref": "mlakhim_b/12/21"
+  },
+  {
+   "forma": "ויקשר",
+   "forma_he": "וַיִּקְשֹׁ֨ר",
+   "n": 5,
+   "ref": "mlakhim_a/15/27"
+  },
+  {
+   "forma": "קשר",
+   "forma_he": "קָשַׁ֣ר",
+   "n": 4,
+   "ref": "mlakhim_a/16/16"
+  },
+  {
+   "forma": "ותקשר",
+   "forma_he": "וַתִּקְשֹׁ֨ר",
+   "n": 3,
+   "ref": "bereshit/38/28"
+  },
+  {
+   "forma": "קשרם",
+   "forma_he": "קָשְׁרֵ֥ם",
+   "n": 3,
+   "ref": "mishlei/3/3"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3mp",
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HVqv2ms/Sp3mp",
+  "HC/Vqw3fs"
+ ],
+ "glosa_es": ""
+}

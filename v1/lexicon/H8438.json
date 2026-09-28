@@ -1,0 +1,65 @@
+{
+ "strong": "H8438",
+ "he": "תולע",
+ "xlit": "tôwlâʻ",
+ "pron": "to-law'",
+ "def_en": [
+  "1) worm, scarlet stuff, crimson",
+  "1a) worm-the female 'coccus ilicis'",
+  "1b) scarlet stuff, crimson, scarlet",
+  "1b1) the dye made from the dried body of the female of the worm \"coccus ilicis\"",
+  "2) worm, maggot",
+  "2a) worm, grub",
+  "2b) the worm \"coccus ilicis\"",
+  "++++",
+  "When the female of the scarlet worm species was ready to give birth to her young, she would attach her body to the trunk of a tree, fixing herself so firmly and permanently that she would never leave again. The eggs deposited beneath her body were thus protected until the larvae were hatched and able to enter their own life cycle. As the mother died, the crimson fluid stained her body and the surrounding wood. From the dead bodies of such female scarlet worms, the commercial scarlet dyes of antiquity were extracted. What a picture this gives of Christ, dying on the tree, shedding His precious blood that He might \"bring many sons unto glory\" (Heb 2:10)! He died for us, that we might live through him! Ps 22:6 describes such a worm and gives us this picture of Christ. (cf. Isa 1:18) (from page 73, \"Biblical Basis for Modern Science\", 1985, Baker Book House, by Henry Morris)"
+ ],
+ "kjv": "crimson, scarlet, worm.",
+ "expl": "the crimson-grub, but used only (in this connection) of the colorfrom it, and cloths dyed therewith",
+ "etim": "and (feminine) ; or ; or ; from ; a maggot (as voracious); specifically (often with ellipsis of )",
+ "raices": [
+  "H3216",
+  "H8144"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "ותולעת",
+   "forma_he": "וְתוֹלַ֥עַת",
+   "n": 19,
+   "ref": "shemot/25/4"
+  },
+  {
+   "forma": "תולעת",
+   "forma_he": "תּוֹלַ֥עַת",
+   "n": 11,
+   "ref": "shemot/28/5"
+  },
+  {
+   "forma": "התולעת",
+   "forma_he": "הַתּוֹלַ֖עַת",
+   "n": 3,
+   "ref": "vayikra/14/6"
+  },
+  {
+   "forma": "תולעה",
+   "forma_he": "תּוֹלֵעָֽה",
+   "n": 2,
+   "ref": "yeshayahu/14/11"
+  },
+  {
+   "forma": "תולעים",
+   "forma_he": "תּוֹלָעִ֖ים",
+   "n": 1,
+   "ref": "shemot/16/20"
+  }
+ ],
+ "morph": [
+  "HC/Ncfsc",
+  "HNcfsa",
+  "HNcfsc",
+  "HTd/Ncfsa",
+  "HNcbpa"
+ ],
+ "glosa_es": ""
+}

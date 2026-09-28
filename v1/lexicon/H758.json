@@ -1,0 +1,62 @@
+{
+ "strong": "H758",
+ "he": "ארם",
+ "xlit": "ʼĂrâm",
+ "pron": "arawm'",
+ "def_en": [
+  "Aram or Arameans = \"exalted\"",
+  "n pr m",
+  "1) Aram or Syriathe nation",
+  "2) the Syrian or Aramean people",
+  "Aram = \"exalted\"",
+  "n m",
+  "3) fifth son of Shem",
+  "4) a grandson of Nahor",
+  "5) a descendant of Asher"
+ ],
+ "kjv": "Aram, Mesopotamia, Syria, Syrians.",
+ "expl": "Aram or Syria, and its inhabitants; also the name of the son of Shem, a grandson of Nahor, and of an Israelite",
+ "etim": "from the same as ; the highland;",
+ "raices": [
+  "H759"
+ ],
+ "ocurrencias": 133,
+ "formas": [
+  {
+   "forma": "ארם",
+   "forma_he": "אֲרָ֑ם",
+   "n": 110,
+   "ref": "bereshit/10/23"
+  },
+  {
+   "forma": "וארם",
+   "forma_he": "וַֽאֲרָֽם",
+   "n": 9,
+   "ref": "bereshit/10/22"
+  },
+  {
+   "forma": "בארם",
+   "forma_he": "בַּֽאֲרָ֔ם",
+   "n": 8,
+   "ref": "shmuel_b/8/5"
+  },
+  {
+   "forma": "מארם",
+   "forma_he": "מֵאֲרָ֤ם",
+   "n": 4,
+   "ref": "shmuel_b/8/12"
+  },
+  {
+   "forma": "לארם",
+   "forma_he": "לַאֲרָ֑ם",
+   "n": 2,
+   "ref": "mlakhim_b/5/1"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

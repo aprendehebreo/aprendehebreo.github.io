@@ -1,0 +1,58 @@
+{
+ "strong": "H6235",
+ "he": "עשר",
+ "xlit": "ʻeser",
+ "pron": "eh'ser",
+ "def_en": [
+  "1) ten",
+  "1a) ten",
+  "1b) with other numbers"
+ ],
+ "kjv": "ten, (fif-, seven-) teen.",
+ "expl": "ten (as an accumulation to the extent of the digits)",
+ "etim": "masculine of term ; from ;",
+ "raices": [
+  "H6237"
+ ],
+ "ocurrencias": 177,
+ "formas": [
+  {
+   "forma": "עשרה",
+   "forma_he": "עֶשְׂרֵה֙",
+   "n": 56,
+   "ref": "bereshit/5/8"
+  },
+  {
+   "forma": "עשר",
+   "forma_he": "עֶ֣שֶׂר",
+   "n": 46,
+   "ref": "bereshit/5/14"
+  },
+  {
+   "forma": "עשרת",
+   "forma_he": "עֲשֶׂ֣רֶת",
+   "n": 39,
+   "ref": "bereshit/31/7"
+  },
+  {
+   "forma": "ועשרת",
+   "forma_he": "וַעֲשֶׂ֧רֶת",
+   "n": 11,
+   "ref": "shoftim/4/14"
+  },
+  {
+   "forma": "ועשרה",
+   "forma_he": "וַעֲשָׂרָ֤ה",
+   "n": 9,
+   "ref": "yehoshua/22/14"
+  }
+ ],
+ "morph": [
+  "HAcmsa",
+  "HAcfsa",
+  "HAcmsc",
+  "HC/Acmsc",
+  "HC/Acmsa"
+ ],
+ "glosa_es": "diez (en números compuestos)"
+}

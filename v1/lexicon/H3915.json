@@ -1,0 +1,58 @@
+{
+ "strong": "H3915",
+ "he": "ליל",
+ "xlit": "layil",
+ "pron": "lah'-yil",
+ "def_en": [
+  "1) night",
+  "1a) night (as opposed to day)",
+  "1b) of gloom, protective shadow (fig.)"
+ ],
+ "kjv": "(mid-)night (season).",
+ "expl": "properly, a twist (away of the light), i.e. night; figuratively, adversity",
+ "etim": "or (Isaiah 21:11) ; also ; from the same as ;",
+ "raices": [
+  "H3883"
+ ],
+ "ocurrencias": 235,
+ "formas": [
+  {
+   "forma": "לילה",
+   "forma_he": "לָ֑יְלָה",
+   "n": 83,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "הלילה",
+   "forma_he": "הַלָּ֑יְלָה",
+   "n": 57,
+   "ref": "bereshit/1/14"
+  },
+  {
+   "forma": "בלילה",
+   "forma_he": "בַּלַּ֣יְלָה",
+   "n": 42,
+   "ref": "bereshit/19/33"
+  },
+  {
+   "forma": "ולילה",
+   "forma_he": "וָלַ֖יְלָה",
+   "n": 26,
+   "ref": "bereshit/8/22"
+  },
+  {
+   "forma": "ובלילה",
+   "forma_he": "וּבַלַּ֔יְלָה",
+   "n": 5,
+   "ref": "bereshit/1/18"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HC/Ncmsa",
+  "HC/Rd/Ncmsa"
+ ],
+ "glosa_es": "noche"
+}

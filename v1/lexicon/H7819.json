@@ -1,0 +1,65 @@
+{
+ "strong": "H7819",
+ "he": "שחט",
+ "xlit": "shâchaṭ",
+ "pron": "shaw-khat'",
+ "def_en": [
+  "v",
+  "1) to kill, slaughter, beat",
+  "1a) (Qal)",
+  "1a1) to slaughter",
+  "1a1a) beast for food",
+  "1a1b) sacrifice",
+  "1a1c) person in human sacrifice",
+  "1a1d) beaten, hammered (of shekels)",
+  "1b) (Niphal) to be slaughtered, be slain (of food or sacrifice)",
+  "n f",
+  "2) (BDB) slaughtering",
+  "2a) word doubtful"
+ ],
+ "kjv": "kill, offer, shoot out, slay, slaughter.",
+ "expl": "to slaughter (in sacrifice or massacre)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "ושחט",
+   "forma_he": "וְשָׁחַ֛ט",
+   "n": 17,
+   "ref": "vayikra/1/5"
+  },
+  {
+   "forma": "וישחטו",
+   "forma_he": "וַֽיִּשְׁחֲטוּ֙",
+   "n": 12,
+   "ref": "bereshit/37/31"
+  },
+  {
+   "forma": "וישחט",
+   "forma_he": "וַיִּשְׁחָ֗ט",
+   "n": 8,
+   "ref": "vayikra/8/15"
+  },
+  {
+   "forma": "ישחט",
+   "forma_he": "יִשְׁחַ֥ט",
+   "n": 7,
+   "ref": "vayikra/4/24"
+  },
+  {
+   "forma": "ישחטו",
+   "forma_he": "יִשְׁחֲטוּ֙",
+   "n": 5,
+   "ref": "vayikra/7/2"
+  }
+ ],
+ "morph": [
+  "HC/Vqq3ms",
+  "HC/Vqw3mp",
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HVqi3mp"
+ ],
+ "glosa_es": ""
+}

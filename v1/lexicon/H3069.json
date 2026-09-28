@@ -1,0 +1,40 @@
+{
+ "strong": "H3069",
+ "he": "יהוה",
+ "xlit": "Yᵉhôvih",
+ "pron": "yeh-ho-vee'",
+ "def_en": [
+  "1) Jehovah-used primarily in the combination 'Lord Jehovah'",
+  "1a) equal to H03068 but pointed with the vowels of H0430"
+ ],
+ "kjv": "God.",
+ "expl": "{YHWH}",
+ "etim": "a variation of (used after , and pronounced by Jews as , in order to prevent the repetition of the same sound, since they elsewhere pronounce as )",
+ "raices": [
+  "H3068",
+  "H136",
+  "H430",
+  "H3068",
+  "H136"
+ ],
+ "ocurrencias": 306,
+ "formas": [
+  {
+   "forma": "יהוה",
+   "forma_he": "יְהוָ֥ה",
+   "n": 305,
+   "ref": "bereshit/2/4"
+  },
+  {
+   "forma": "וליהוה",
+   "forma_he": "וְלַֽיהוָ֖ה",
+   "n": 1,
+   "ref": "yehoshua/22/24"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/R/Np"
+ ],
+ "glosa_es": "YHVH; el Señor (leído Adonai)"
+}

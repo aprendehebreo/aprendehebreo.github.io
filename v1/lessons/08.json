@@ -1,0 +1,185 @@
+{
+ "id": 8,
+ "titulo": "100 palabras = la mitad del Tanaj",
+ "objetivos": [
+  "Entender por qué la frecuencia de uso decide qué vocabulario estudiar.",
+  "Memorizar los diez lemas más frecuentes del Tanaj.",
+  "Usar un plan de repaso espaciado para no olvidar lo aprendido.",
+  "Leer los datos de cobertura de la lista del curso."
+ ],
+ "items": [
+  {
+   "id": "cuenta",
+   "tipo": "gramatica",
+   "es": "Cuántas palabras tiene el Tanaj",
+   "he": "תנך",
+   "nota": "El Tanaj completo tiene 306 785 palabras y 8 640 lemas distintos. La mayoría de esos lemas aparecen una o dos veces; el trabajo está en los que se repiten."
+  },
+  {
+   "id": "cobertura",
+   "tipo": "gramatica",
+   "es": "Cobertura por rangos de frecuencia",
+   "he": "תנך",
+   "nota": "Los 100 lemas más frecuentes cubren el 50.49 % del texto; los 300, el 67.81 %; los 1 000, el 83.53 %. Con 100 palabras lees la mitad de cualquier página del Tanaj."
+  },
+  {
+   "id": "memorizar",
+   "tipo": "gramatica",
+   "es": "Cómo memorizar con repaso espaciado",
+   "he": "תנך",
+   "nota": "Aprende diez palabras nuevas y repásalas al día siguiente, a los 3 días, a la semana, a las dos semanas y al mes. Antes de agregar palabras nuevas, repasa las viejas: el repaso vale más que la novedad."
+  },
+  {
+   "id": "et",
+   "tipo": "palabra",
+   "he": "אֵת",
+   "es": "marca del objeto directo",
+   "xlit": "et",
+   "ref": "bereshit/1/1",
+   "nota": "Rango 1 · Strong H853 · 10 979 veces · cobertura acumulada 3.58 %."
+  },
+  {
+   "id": "yhwh",
+   "tipo": "palabra",
+   "he": "יְהוָה",
+   "es": "el Nombre (YHWH)",
+   "xlit": "YHWH",
+   "ref": "bereshit/2/4",
+   "nota": "Rango 2 · Strong H3068 · 6 521 veces · cobertura acumulada 5.70 %."
+  },
+  {
+   "id": "al",
+   "tipo": "palabra",
+   "he": "עַל",
+   "es": "sobre",
+   "xlit": "al",
+   "ref": "bereshit/1/2",
+   "nota": "Rango 3 · Strong H5921 · 5 781 veces · cobertura acumulada 7.59 %."
+  },
+  {
+   "id": "el",
+   "tipo": "palabra",
+   "he": "אֶל",
+   "es": "a, hacia",
+   "xlit": "el",
+   "ref": "bereshit/1/9",
+   "nota": "Rango 4 · Strong H413 · 5 516 veces · cobertura acumulada 9.39 %."
+  },
+  {
+   "id": "asher",
+   "tipo": "palabra",
+   "he": "אֲשֶׁר",
+   "es": "que",
+   "xlit": "asher",
+   "ref": "bereshit/1/7",
+   "nota": "Rango 5 · Strong H834 · 5 503 veces · cobertura acumulada 11.18 %."
+  },
+  {
+   "id": "kol",
+   "tipo": "palabra",
+   "he": "כָּל",
+   "es": "todo",
+   "xlit": "kol",
+   "ref": "bereshit/1/21",
+   "nota": "Rango 6 · Strong H3605 · 5 417 veces · cobertura acumulada 12.95 %."
+  },
+  {
+   "id": "vayomer",
+   "tipo": "palabra",
+   "he": "וַיֹּאמֶר",
+   "es": "y dijo",
+   "xlit": "vayómer",
+   "ref": "bereshit/1/3",
+   "nota": "Rango 7 · Strong H559 · 5 318 veces con sus formas · cobertura acumulada 14.68 %."
+  },
+  {
+   "id": "lo",
+   "tipo": "palabra",
+   "he": "לֹא",
+   "es": "no",
+   "xlit": "lo",
+   "ref": "bereshit/2/5",
+   "nota": "Rango 8 · Strong H3808 · 5 191 veces · cobertura acumulada 16.37 %."
+  },
+  {
+   "id": "ben",
+   "tipo": "palabra",
+   "he": "בֵּן",
+   "es": "hijo",
+   "xlit": "ben",
+   "ref": "bereshit/4/25",
+   "nota": "Rango 9 · Strong H1121 · 4 942 veces con sus formas. La forma más frecuente del códice es el plural constructo בְנֵי."
+  },
+  {
+   "id": "ki",
+   "tipo": "palabra",
+   "he": "כִּי",
+   "es": "porque, que",
+   "xlit": "ki",
+   "ref": "bereshit/1/4",
+   "nota": "Rango 10 · Strong H3588 · 4 488 veces · cobertura acumulada 19.45 %."
+  }
+ ],
+ "ejercicios": [
+  {
+   "id": "e8-1",
+   "tipo": "opcion",
+   "pregunta": "¿Qué porcentaje del Tanaj cubren los 100 lemas más frecuentes?",
+   "opciones": [
+    "Cerca del 25 %",
+    "Cerca del 50 %",
+    "Cerca del 83 %"
+   ],
+   "correcta": 1,
+   "explica": "Los 100 primeros lemas cubren el 50.49 % del texto."
+  },
+  {
+   "id": "e8-2",
+   "tipo": "opcion",
+   "pregunta": "¿Cuál es la palabra más frecuente del Tanaj?",
+   "opciones": [
+    "כִּי (porque)",
+    "אֵת (marca de objeto directo)",
+    "יְהוָה"
+   ],
+   "correcta": 1,
+   "explica": "אֵת aparece 10 979 veces, el 3.58 % del texto."
+  },
+  {
+   "id": "e8-3",
+   "tipo": "opcion",
+   "pregunta": "¿Cuántos lemas distintos hay en el Tanaj?",
+   "opciones": [
+    "1 000",
+    "8 640",
+    "306 785"
+   ],
+   "correcta": 1,
+   "explica": "Hay 8 640 lemas distintos repartidos en 306 785 palabras."
+  },
+  {
+   "id": "e8-4",
+   "tipo": "audio",
+   "pregunta": "Escucha כָּל. ¿Qué significa?",
+   "opciones": [
+    "todo",
+    "no",
+    "hijo"
+   ],
+   "correcta": 0,
+   "explica": "כָּל (kol) es 'todo'. Es el sexto lema más frecuente."
+  },
+  {
+   "id": "e8-5",
+   "tipo": "escribir",
+   "pregunta": "Escribe la palabra que significa 'no'.",
+   "respuesta": "לֹא",
+   "explica": "לֹא (lo) es la negación simple. Strong H3808, rango 8."
+  }
+ ],
+ "pasaje": "bereshit/1",
+ "html": "<h2>La aritmética del vocabulario</h2>\n<table><tbody>\n<tr><th>Rango</th><th>Cobertura del texto</th></tr>\n<tr><td>100 lemas</td><td>50.49 %</td></tr>\n<tr><td>300 lemas</td><td>67.81 %</td></tr>\n<tr><td>1 000 lemas</td><td>83.53 %</td></tr>\n<tr><td>total</td><td>306 785 palabras · 8 640 lemas</td></tr>\n</tbody></table>\n<p>La consecuencia práctica: si dominas 100 palabras, cada dos palabras que leas una será conocida. Eso no alcanza para traducir, pero sí para orientarte en el texto y para no abandonar.</p>\n<h2>Los diez primeros</h2>\n<table><tbody>\n<tr><th>#</th><th>Hebreo</th><th>Transliteración</th><th>Español</th></tr>\n<tr><td>1</td><td>אֵת</td><td>et</td><td>marca de objeto directo</td></tr>\n<tr><td>2</td><td>יְהוָה</td><td>YHWH</td><td>el Nombre</td></tr>\n<tr><td>3</td><td>עַל</td><td>al</td><td>sobre</td></tr>\n<tr><td>4</td><td>אֶל</td><td>el</td><td>a, hacia</td></tr>\n<tr><td>5</td><td>אֲשֶׁר</td><td>asher</td><td>que</td></tr>\n<tr><td>6</td><td>כָּל</td><td>kol</td><td>todo</td></tr>\n<tr><td>7</td><td>וַיֹּאמֶר</td><td>vayómer</td><td>y dijo</td></tr>\n<tr><td>8</td><td>לֹא</td><td>lo</td><td>no</td></tr>\n<tr><td>9</td><td>בֵּן</td><td>ben</td><td>hijo</td></tr>\n<tr><td>10</td><td>כִּי</td><td>ki</td><td>porque, que</td></tr>\n</tbody></table>\n<p>Fíjate en el tipo de palabras: casi todas son partículas (preposiciones, conjunciones, la marca de objeto directo) y no sustantivos con significado pesado. Eso es normal: el texto se sostiene con palabras gramaticales.</p>\n<h2>Plan de repaso</h2>\n<table><tbody>\n<tr><th>Momento</th><th>Qué repasas</th></tr>\n<tr><td>día 0</td><td>10 palabras nuevas</td></tr>\n<tr><td>día 1</td><td>las 10 de ayer</td></tr>\n<tr><td>día 3</td><td>las 10 del día 0 + 10 nuevas</td></tr>\n<tr><td>día 7</td><td>todo lo de la semana</td></tr>\n<tr><td>día 14</td><td>todo lo de las dos semanas</td></tr>\n<tr><td>día 30</td><td>todo lo del mes</td></tr>\n</tbody></table>\n<p>Anota cada palabra en una tarjeta con el hebreo de un lado y el español del otro. Escribe también el rango y el Strong: así sabes cuánto vale esa palabra.</p>\n<h2>Consejo de estudio</h2>\n<p>No estudies palabras raras de los profetas menores todavía. Con las 100 primeras cubres la mitad del texto y eso hace que la lectura deje de ser una sopa de letras.</p>",
+ "archivo": "08.md",
+ "items_total": 13,
+ "ejercicios_total": 5
+}

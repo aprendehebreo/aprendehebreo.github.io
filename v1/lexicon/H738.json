@@ -1,0 +1,57 @@
+{
+ "strong": "H738",
+ "he": "ארי",
+ "xlit": "ʼărîy",
+ "pron": "ar-ee'",
+ "def_en": [
+  "1) lion",
+  "1a) pictures or images of lions"
+ ],
+ "kjv": "(young) lion, [phrase] pierce (from the margin).",
+ "expl": "a lion",
+ "etim": "or (prolonged) []; from (in the sense of violence);",
+ "raices": [
+  "H717"
+ ],
+ "ocurrencias": 81,
+ "formas": [
+  {
+   "forma": "אריה",
+   "forma_he": "אַרְיֵה֙",
+   "n": 21,
+   "ref": "bereshit/49/9"
+  },
+  {
+   "forma": "אריות",
+   "forma_he": "אֲרָי֔וֹת",
+   "n": 13,
+   "ref": "shoftim/14/5"
+  },
+  {
+   "forma": "האריה",
+   "forma_he": "הָאַרְיֵ֑ה",
+   "n": 11,
+   "ref": "shoftim/14/8"
+  },
+  {
+   "forma": "כאריה",
+   "forma_he": "כְּאַרְיֵ֛ה",
+   "n": 10,
+   "ref": "bereshit/49/9"
+  },
+  {
+   "forma": "הארי",
+   "forma_he": "הָֽאֲרִי֙",
+   "n": 7,
+   "ref": "shmuel_a/17/34"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmpa",
+  "HR/Ncmsa",
+  "HR/Ncmpa"
+ ],
+ "glosa_es": ""
+}

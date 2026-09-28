@@ -1,0 +1,57 @@
+{
+ "strong": "H639",
+ "he": "אף",
+ "xlit": "ʼaph",
+ "pron": "af",
+ "def_en": [
+  "1) nostril, nose, face",
+  "2) anger"
+ ],
+ "kjv": "anger(-gry), [phrase] before, countenance, face, [phrase] forebearing, forehead, [phrase] (long-) suffering, nose, nostril, snout, [idiom] worthy, wrath.",
+ "expl": "properly, the nose or nostril; hence, the face, and occasionally a person; also (from the rapid breathing in passion) ire",
+ "etim": "from ;",
+ "raices": [
+  "H599"
+ ],
+ "ocurrencias": 276,
+ "formas": [
+  {
+   "forma": "אף",
+   "forma_he": "אַ֚ף",
+   "n": 72,
+   "ref": "bereshit/3/1"
+  },
+  {
+   "forma": "אפו",
+   "forma_he": "אַפּֽוֹ",
+   "n": 50,
+   "ref": "bereshit/39/19"
+  },
+  {
+   "forma": "אפים",
+   "forma_he": "אַפַּ֖יִם",
+   "n": 27,
+   "ref": "bereshit/19/1"
+  },
+  {
+   "forma": "אפך",
+   "forma_he": "אַפְּךָ֖",
+   "n": 23,
+   "ref": "bereshit/44/18"
+  },
+  {
+   "forma": "אפי",
+   "forma_he": "אַפִּ֔י",
+   "n": 20,
+   "ref": "shemot/22/23"
+  }
+ ],
+ "morph": [
+  "HTa",
+  "HNcmsc/Sp3ms",
+  "HNcmda",
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": "ira; nariz"
+}

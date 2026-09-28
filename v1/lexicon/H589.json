@@ -1,0 +1,49 @@
+{
+ "strong": "H589",
+ "he": "אני",
+ "xlit": "ʼănîy",
+ "pron": "an-ee'",
+ "def_en": [
+  "1) I (first pers. sing. -usually used for emphasis)"
+ ],
+ "kjv": "I, (as for) me, mine, myself, we, [idiom] which, [idiom] who.",
+ "expl": "I",
+ "etim": "contracted from ;",
+ "raices": [
+  "H595"
+ ],
+ "ocurrencias": 874,
+ "formas": [
+  {
+   "forma": "אני",
+   "forma_he": "אֲנִ֣י",
+   "n": 693,
+   "ref": "bereshit/9/12"
+  },
+  {
+   "forma": "ואני",
+   "forma_he": "וַאֲנִ֗י",
+   "n": 178,
+   "ref": "bereshit/6/17"
+  },
+  {
+   "forma": "שאני",
+   "forma_he": "שֶׁאֲנִ֣י",
+   "n": 2,
+   "ref": "shir_hashirim/1/6"
+  },
+  {
+   "forma": "האני",
+   "forma_he": "הַאֲנִ֥י",
+   "n": 1,
+   "ref": "yeshayahu/66/9"
+  }
+ ],
+ "morph": [
+  "HPp1cs",
+  "HC/Pp1cs",
+  "HTr/Pp1cs",
+  "HTi/Pp1cs"
+ ],
+ "glosa_es": "yo"
+}

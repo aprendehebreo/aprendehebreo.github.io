@@ -1,0 +1,63 @@
+{
+ "strong": "H1288",
+ "he": "ברך",
+ "xlit": "bârak",
+ "pron": "baw-rak'",
+ "def_en": [
+  "1) to bless, kneel",
+  "1a) (Qal)",
+  "1a1) to kneel",
+  "1a2) to bless",
+  "1b) (Niphal) to be blessed, bless oneself",
+  "1c) (Piel) to bless",
+  "1d) (Pual) to be blessed, be adored",
+  "1e) (Hiphil) to cause to kneel",
+  "1f) (Hithpael) to bless oneself",
+  "2) (TWOT) to praise, salute, curse"
+ ],
+ "kjv": "[idiom] abundantly, [idiom] altogether, [idiom] at all, blaspheme, bless, congratulate, curse, [idiom] greatly, [idiom] indeed, kneel (down), praise, salute, [idiom] still, thank.",
+ "expl": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 330,
+ "formas": [
+  {
+   "forma": "ברוך",
+   "forma_he": "בָּר֥וּךְ",
+   "n": 59,
+   "ref": "bereshit/9/26"
+  },
+  {
+   "forma": "ויברך",
+   "forma_he": "וַיְבָ֧רֶךְ",
+   "n": 33,
+   "ref": "bereshit/1/22"
+  },
+  {
+   "forma": "ברך",
+   "forma_he": "בָרֵ֣ךְ",
+   "n": 23,
+   "ref": "bereshit/22/17"
+  },
+  {
+   "forma": "ברכו",
+   "forma_he": "בֵּרֲכ֖וֹ",
+   "n": 21,
+   "ref": "bereshit/27/27"
+  },
+  {
+   "forma": "יברכך",
+   "forma_he": "יְבָרֶכְךָ֖",
+   "n": 17,
+   "ref": "bereshit/27/10"
+  }
+ ],
+ "morph": [
+  "HVqsmsa",
+  "HC/Vpw3ms",
+  "HVpi3ms/Sp2ms",
+  "HVpv2mp",
+  "HVpp3ms"
+ ],
+ "glosa_es": "bendecir; bendito"
+}

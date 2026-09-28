@@ -1,0 +1,62 @@
+{
+ "strong": "H1058",
+ "he": "בכה",
+ "xlit": "bâkâh",
+ "pron": "baw-kaw'",
+ "def_en": [
+  "1) to weep, bewail, cry, shed tears",
+  "1a) (Qal)",
+  "1a1) to weep (in grief, humiliation, or joy)",
+  "1a2) to weep bitterly (with cognate acc.)",
+  "1a3) to weep upon (embrace and weep)",
+  "1a4) to bewail",
+  "1b) (Piel) participle",
+  "1b1) lamenting",
+  "1b2) bewailing"
+ ],
+ "kjv": "[idiom] at all, bewail, complain, make lamentation, [idiom] more, mourn, [idiom] sore, [idiom] with tears, weep.",
+ "expl": "to weep; generally to bemoan",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 116,
+ "formas": [
+  {
+   "forma": "ויבך",
+   "forma_he": "וַיֵּֽבְךְּ",
+   "n": 17,
+   "ref": "bereshit/27/38"
+  },
+  {
+   "forma": "ויבכו",
+   "forma_he": "וַיִּבְכּֽוּ",
+   "n": 17,
+   "ref": "bereshit/33/4"
+  },
+  {
+   "forma": "ותבך",
+   "forma_he": "וַתֵּֽבְךְּ",
+   "n": 7,
+   "ref": "bereshit/21/16"
+  },
+  {
+   "forma": "בכה",
+   "forma_he": "בָּכָ֖ה",
+   "n": 7,
+   "ref": "bereshit/45/14"
+  },
+  {
+   "forma": "בכו",
+   "forma_he": "בָּכ֕וּ",
+   "n": 7,
+   "ref": "shmuel_b/13/36"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HC/Vqw3fs",
+  "HVqrmsa",
+  "HVqrmpa"
+ ],
+ "glosa_es": ""
+}

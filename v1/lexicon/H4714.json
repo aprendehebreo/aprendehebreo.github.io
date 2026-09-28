@@ -1,0 +1,61 @@
+{
+ "strong": "H4714",
+ "he": "מצרים",
+ "xlit": "Mitsrayim",
+ "pron": "mits-rah'-yim",
+ "def_en": [
+  "Egypt = \"land of the Copts\"",
+  "n pr loc",
+  "1) a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows",
+  "Egyptians = \"double straits\"",
+  "adj",
+  "2) the inhabitants or natives of Egypt"
+ ],
+ "kjv": "Egypt, Egyptians, Mizraim.",
+ "expl": "Mitsrajim, i.e. Upper and Lower Egypt",
+ "etim": "dual of ;",
+ "raices": [
+  "H4693"
+ ],
+ "ocurrencias": 635,
+ "formas": [
+  {
+   "forma": "מצרים",
+   "forma_he": "מִצְרַ֔יִם",
+   "n": 439,
+   "ref": "bereshit/13/10"
+  },
+  {
+   "forma": "ממצרים",
+   "forma_he": "מִמִּצְרַ֜יִם",
+   "n": 91,
+   "ref": "bereshit/13/1"
+  },
+  {
+   "forma": "במצרים",
+   "forma_he": "בְּמִצְרָ֑יִם",
+   "n": 55,
+   "ref": "bereshit/42/1"
+  },
+  {
+   "forma": "מצרימה",
+   "forma_he": "מִצְרַ֨יְמָה֙",
+   "n": 28,
+   "ref": "bereshit/12/10"
+  },
+  {
+   "forma": "ומצרים",
+   "forma_he": "וּמִצְרַ֖יִם",
+   "n": 10,
+   "ref": "bereshit/10/6"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Egipto"
+}

@@ -1,0 +1,75 @@
+{
+ "strong": "H3651",
+ "he": "כן",
+ "xlit": "kên",
+ "pron": "kane",
+ "def_en": [
+  "adv",
+  "1) so, therefore, thus",
+  "1a) thus, so",
+  "1b) just so",
+  "1c) therefore",
+  "1d) so...as (paired with adv)",
+  "1e) then",
+  "1f) forasmuch as (in phrase)",
+  "1g) (with prep)",
+  "1g1) therefore, this being so (specific)",
+  "1g2) hitherto",
+  "1g3) therefore, on this ground (general)",
+  "1g4) afterwards",
+  "1g5) in such case",
+  "adj",
+  "2) right, just, honest, true, veritable",
+  "2a) right, just, honest",
+  "2b) correct",
+  "2c) true, veritable",
+  "2d) true!, right!, correct! (in assent)"
+ ],
+ "kjv": "[phrase] after that (this, -ward, -wards), as... as, [phrase] (for-) asmuch as yet, [phrase] be (for which) cause, [phrase] following, howbeit, in (the) like (manner, -wise), [idiom] the more, right, (even) so, state, straightway, such (thing), surely, [phrase] there (where) -fore, this, thus, true, well, [idiom] you.",
+ "expl": "properly, set upright; hence (figuratively as adjective) just; but usually (as adverb or conjunction) rightly or so (in various applications to manner, time and relation; often with other particles)",
+ "etim": "from ;",
+ "raices": [
+  "H3559"
+ ],
+ "ocurrencias": 771,
+ "formas": [
+  {
+   "forma": "כן",
+   "forma_he": "כֵֽן",
+   "n": 530,
+   "ref": "bereshit/1/7"
+  },
+  {
+   "forma": "לכן",
+   "forma_he": "לָכֵן֙",
+   "n": 195,
+   "ref": "bereshit/4/15"
+  },
+  {
+   "forma": "וכן",
+   "forma_he": "וְכֵ֖ן",
+   "n": 34,
+   "ref": "bereshit/34/7"
+  },
+  {
+   "forma": "כנים",
+   "forma_he": "כֵּנִ֣ים",
+   "n": 5,
+   "ref": "bereshit/42/11"
+  },
+  {
+   "forma": "ולכן",
+   "forma_he": "וְלָכֵ֥ן",
+   "n": 5,
+   "ref": "shmuel_a/3/14"
+  }
+ ],
+ "morph": [
+  "HTm",
+  "HR/D",
+  "HD",
+  "HC/Tm",
+  "HAamsa"
+ ],
+ "glosa_es": "así; recto; correcto"
+}

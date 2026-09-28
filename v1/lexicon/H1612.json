@@ -1,0 +1,57 @@
+{
+ "strong": "H1612",
+ "he": "גפן",
+ "xlit": "gephen",
+ "pron": "gheh'-fen",
+ "def_en": [
+  "1) vine, vine tree",
+  "1a) of Israel (fig.)",
+  "1b) of stars fading at Jehovah's judgment (metaph.)",
+  "1c) of prosperity"
+ ],
+ "kjv": "vine, tree.",
+ "expl": "a vine (as twining), especially the grape",
+ "etim": "from an unused root meaning to bend;",
+ "raices": [],
+ "ocurrencias": 55,
+ "formas": [
+  {
+   "forma": "הגפן",
+   "forma_he": "הַגֶּ֔פֶן",
+   "n": 13,
+   "ref": "shoftim/9/13"
+  },
+  {
+   "forma": "גפן",
+   "forma_he": "גֶ֖פֶן",
+   "n": 11,
+   "ref": "bereshit/40/9"
+  },
+  {
+   "forma": "לגפן",
+   "forma_he": "לַגֶּ֨פֶן֙",
+   "n": 5,
+   "ref": "bereshit/49/11"
+  },
+  {
+   "forma": "כגפן",
+   "forma_he": "כַגֶּ֖פֶן",
+   "n": 5,
+   "ref": "yirmiyahu/6/9"
+  },
+  {
+   "forma": "מגפן",
+   "forma_he": "מִגֶּ֣פֶן",
+   "n": 4,
+   "ref": "bamidbar/6/4"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HNcbsa",
+  "HRd/Ncbsa",
+  "HR/Ncbsc",
+  "HNcbsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

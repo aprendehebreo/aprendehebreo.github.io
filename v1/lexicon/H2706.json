@@ -1,0 +1,69 @@
+{
+ "strong": "H2706",
+ "he": "חק",
+ "xlit": "chôq",
+ "pron": "khoke",
+ "def_en": [
+  "1) statute, ordinance, limit, something prescribed, due",
+  "1a) prescribed task",
+  "1b) prescribed portion",
+  "1c) action prescribed (for oneself), resolve",
+  "1d) prescribed due",
+  "1e) prescribed limit, boundary",
+  "1f) enactment, decree, ordinance",
+  "1f1) specific decree",
+  "1f2) law in general",
+  "1g) enactments, statutes",
+  "1g1) conditions",
+  "1g2) enactments",
+  "1g3) decrees",
+  "1g4) civil enactments prescribed by God"
+ ],
+ "kjv": "appointed, bound, commandment, convenient, custom, decree(-d), due, law, measure, [idiom] necessary, ordinance(-nary), portion, set time, statute, task.",
+ "expl": "an enactment; hence, an appointment (of time, space, quantity, labor or usage)",
+ "etim": "from ;",
+ "raices": [
+  "H2710"
+ ],
+ "ocurrencias": 128,
+ "formas": [
+  {
+   "forma": "חק",
+   "forma_he": "חֹ֨ק",
+   "n": 21,
+   "ref": "bereshit/47/22"
+  },
+  {
+   "forma": "החקים",
+   "forma_he": "הַחֻקִּ֖ים",
+   "n": 19,
+   "ref": "shemot/18/20"
+  },
+  {
+   "forma": "חקיך",
+   "forma_he": "חֻקֶּֽיךָ",
+   "n": 15,
+   "ref": "tehilim/119/5"
+  },
+  {
+   "forma": "לחק",
+   "forma_he": "לְחֹק֩",
+   "n": 12,
+   "ref": "bereshit/47/26"
+  },
+  {
+   "forma": "חקיו",
+   "forma_he": "חֻקָּ֑יו",
+   "n": 8,
+   "ref": "shemot/15/26"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmpa",
+  "HNcmsa",
+  "HNcmpc/Sp2ms",
+  "HNcmpc/Sp3ms",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

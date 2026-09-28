@@ -1,0 +1,57 @@
+{
+ "strong": "H1523",
+ "he": "גיל",
+ "xlit": "gîyl",
+ "pron": "gheel",
+ "def_en": [
+  "1) to rejoice, exult, be glad",
+  "1a) (Qal)",
+  "1a1) to rejoice",
+  "1a2) to tremble (from fear)"
+ ],
+ "kjv": "be glad, joy, be joyful, rejoice.",
+ "expl": "properly, to spin round (under the influence of any violent emotion), i.e. usually rejoice, or (as cringing) fear",
+ "etim": "or (by permutation) ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "יגילו",
+   "forma_he": "יָגִ֖ילוּ",
+   "n": 6,
+   "ref": "yeshayahu/9/2"
+  },
+  {
+   "forma": "יגל",
+   "forma_he": "יָגֵ֥ל",
+   "n": 6,
+   "ref": "zecharia/10/7"
+  },
+  {
+   "forma": "ותגל",
+   "forma_he": "וְתָגֵ֧ל",
+   "n": 5,
+   "ref": "yeshayahu/35/1"
+  },
+  {
+   "forma": "וגילו",
+   "forma_he": "וְגִ֨ילוּ֙",
+   "n": 4,
+   "ref": "yeshayahu/65/18"
+  },
+  {
+   "forma": "נגילה",
+   "forma_he": "נָגִ֥ילָה",
+   "n": 3,
+   "ref": "yeshayahu/25/9"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVqi3mp",
+  "HC/Vqv2mp",
+  "HVqh1cp",
+  "HC/Vqi3fs"
+ ],
+ "glosa_es": ""
+}

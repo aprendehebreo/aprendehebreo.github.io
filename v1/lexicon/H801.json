@@ -1,0 +1,56 @@
+{
+ "strong": "H801",
+ "he": "אשה",
+ "xlit": "ʼishshâh",
+ "pron": "ish-shaw'",
+ "def_en": [
+  "1) burnt-offering, offering made by fire, fire offering"
+ ],
+ "kjv": "(offering, sacrifice), (made) by fire.",
+ "expl": "properly, a burnt-offering; but occasionally of any sacrifice",
+ "etim": "the same as , but used in a liturgical sense;",
+ "raices": [
+  "H800"
+ ],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "אשה",
+   "forma_he": "אִשָּׁ֔ה",
+   "n": 45,
+   "ref": "bereshit/2/23"
+  },
+  {
+   "forma": "אשי",
+   "forma_he": "אִשֵּׁ֣י",
+   "n": 9,
+   "ref": "vayikra/4/35"
+  },
+  {
+   "forma": "מאשי",
+   "forma_he": "מֵאִשֵּׁ֥י",
+   "n": 8,
+   "ref": "vayikra/2/3"
+  },
+  {
+   "forma": "ואשה",
+   "forma_he": "וְאִשָּׁה֙",
+   "n": 1,
+   "ref": "shemot/11/2"
+  },
+  {
+   "forma": "לאשי",
+   "forma_he": "לְאִשַּׁ֗י",
+   "n": 1,
+   "ref": "bamidbar/28/2"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HNcmpc",
+  "HR/Ncmpc",
+  "HR/Ncmpc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

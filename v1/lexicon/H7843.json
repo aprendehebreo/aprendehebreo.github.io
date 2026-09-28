@@ -1,0 +1,63 @@
+{
+ "strong": "H7843",
+ "he": "שחת",
+ "xlit": "shâchath",
+ "pron": "shaw-khath'",
+ "def_en": [
+  "1) to destroy, corrupt, go to ruin, decay",
+  "1a) (Niphal) to be marred, be spoiled, be corrupted, be corrupt, be injured, be ruined, be rotted",
+  "1b) (Piel)",
+  "1b1) to spoil, ruin",
+  "1b2) to pervert, corrupt, deal corruptly (morally)",
+  "1c) (Hiphil)",
+  "1c1) to spoil, ruin, destroy",
+  "1c2) to pervert, corrupt (morally)",
+  "1c3) destroyer (participle)",
+  "1d) (Hophal) spoiled, ruined (participle)"
+ ],
+ "kjv": "batter, cast off, corrupt(-er, thing), destroy(-er, -uction), lose, mar, perish, spill, spoiler, [idiom] utterly, waste(-r).",
+ "expl": "to decay, i.e. (causatively) ruin (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 147,
+ "formas": [
+  {
+   "forma": "לשחת",
+   "forma_he": "לְשַׁחֵ֣ת",
+   "n": 10,
+   "ref": "bereshit/6/17"
+  },
+  {
+   "forma": "שחת",
+   "forma_he": "שַׁחֵ֣ת",
+   "n": 9,
+   "ref": "bereshit/13/10"
+  },
+  {
+   "forma": "משחית",
+   "forma_he": "מַשְׁחִ֥ית",
+   "n": 8,
+   "ref": "bereshit/19/14"
+  },
+  {
+   "forma": "להשחית",
+   "forma_he": "לְהַשְׁחִ֖ית",
+   "n": 8,
+   "ref": "shmuel_a/26/15"
+  },
+  {
+   "forma": "אשחית",
+   "forma_he": "אַשְׁחִ֔ית",
+   "n": 6,
+   "ref": "bereshit/18/28"
+  }
+ ],
+ "morph": [
+  "HR/Vpc",
+  "HR/Vhc",
+  "HVhrmpa",
+  "HVhrmsa",
+  "HVhi1cs"
+ ],
+ "glosa_es": ""
+}

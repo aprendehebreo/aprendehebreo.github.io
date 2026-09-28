@@ -1,0 +1,79 @@
+{
+ "strong": "H776",
+ "he": "ארץ",
+ "xlit": "ʼerets",
+ "pron": "eh'-rets",
+ "def_en": [
+  "1) land, earth",
+  "1a) earth",
+  "1a1) whole earth (as opposed to a part)",
+  "1a2) earth (as opposed to heaven)",
+  "1a3) earth (inhabitants)",
+  "1b) land",
+  "1b1) country, territory",
+  "1b2) district, region",
+  "1b3) tribal territory",
+  "1b4) piece of ground",
+  "1b5) land of Canaan, Israel",
+  "1b6) inhabitants of land",
+  "1b7) Sheol, land without return, (under) world",
+  "1b8) city (-state)",
+  "1c) ground, surface of the earth",
+  "1c1) ground",
+  "1c2) soil",
+  "1d) (in phrases)",
+  "1d1) people of the land",
+  "1d2) space or distance of country (in measurements of distance)",
+  "1d3) level or plain country",
+  "1d4) land of the living",
+  "1d5) end(s) of the earth",
+  "1e) (almost wholly late in usage)",
+  "1e1) lands, countries",
+  "1e1a) often in contrast to Canaan"
+ ],
+ "kjv": "[idiom] common, country, earth, field, ground, land, [idiom] natins, way, [phrase] wilderness, world.",
+ "expl": "the earth (at large, or partitively a land)",
+ "etim": "from an unused root probably meaning to be firm;",
+ "raices": [],
+ "ocurrencias": 2505,
+ "formas": [
+  {
+   "forma": "הארץ",
+   "forma_he": "הָאָֽרֶץ",
+   "n": 935,
+   "ref": "bereshit/1/1"
+  },
+  {
+   "forma": "ארץ",
+   "forma_he": "אֶ֔רֶץ",
+   "n": 490,
+   "ref": "bereshit/1/10"
+  },
+  {
+   "forma": "בארץ",
+   "forma_he": "בָּאָֽרֶץ",
+   "n": 422,
+   "ref": "bereshit/1/22"
+  },
+  {
+   "forma": "מארץ",
+   "forma_he": "מֵאֶ֥רֶץ",
+   "n": 160,
+   "ref": "bereshit/21/21"
+  },
+  {
+   "forma": "ארצה",
+   "forma_he": "אַ֣רְצָה",
+   "n": 93,
+   "ref": "bereshit/11/31"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HR/Ncbsc",
+  "HNcbsa",
+  "HNcbsc",
+  "HRd/Ncbsa"
+ ],
+ "glosa_es": "tierra; país"
+}

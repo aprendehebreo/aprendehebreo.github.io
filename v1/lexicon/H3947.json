@@ -1,0 +1,80 @@
+{
+ "strong": "H3947",
+ "he": "לקח",
+ "xlit": "lâqach",
+ "pron": "law-kakh'",
+ "def_en": [
+  "1) to take, get, fetch, lay hold of, seize, receive, acquire, buy, bring, marry, take a wife, snatch, take away",
+  "1a) (Qal)",
+  "1a1) to take, take in the hand",
+  "1a2) to take and carry along",
+  "1a3) to take from, take out of, take, carry away, take away",
+  "1a4) to take to or for a person, procure, get, take possession of, select, choose, take in marriage, receive, accept",
+  "1a5) to take up or upon, put upon",
+  "1a6) to fetch",
+  "1a7) to take, lead, conduct",
+  "1a8) to take, capture, seize",
+  "1a9) to take, carry off 1a10) to take (vengeance)",
+  "1b) (Niphal)",
+  "1b1) to be captured",
+  "1b2) to be taken away, be removed",
+  "1b3) to be taken, brought unto",
+  "1c) (Pual)",
+  "1c1) to be taken from or out of",
+  "1c2) to be stolen from",
+  "1c3) to be taken captive",
+  "1c4) to be taken away, be removed",
+  "1d) (Hophal)",
+  "1d1) to be taken unto, be brought unto",
+  "1d2) to be taken out of",
+  "1d3) to be taken away",
+  "1e) (Hithpael)",
+  "1e1) to take hold of oneself",
+  "1e2) to flash about (of lightning)"
+ ],
+ "kjv": "accept, bring, buy, carry away, drawn, fetch, get, infold, [idiom] many, mingle, place, receive(-ing), reserve, seize, send for, take (away, -ing, up), use, win.",
+ "expl": "to take (in the widest variety of applications)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 967,
+ "formas": [
+  {
+   "forma": "ויקח",
+   "forma_he": "וַיִּקַּ֛ח",
+   "n": 205,
+   "ref": "bereshit/2/15"
+  },
+  {
+   "forma": "לקח",
+   "forma_he": "לָקַ֥ח",
+   "n": 71,
+   "ref": "bereshit/2/22"
+  },
+  {
+   "forma": "קח",
+   "forma_he": "קַח",
+   "n": 66,
+   "ref": "bereshit/6/21"
+  },
+  {
+   "forma": "ויקחו",
+   "forma_he": "וַיִּקְח֤וּ",
+   "n": 60,
+   "ref": "bereshit/6/2"
+  },
+  {
+   "forma": "יקח",
+   "forma_he": "יֻקַּֽח",
+   "n": 48,
+   "ref": "bereshit/18/4"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqv2ms",
+  "HVqp3ms",
+  "HC/Vqw3mp",
+  "HVqi3ms"
+ ],
+ "glosa_es": "tomar; recibir"
+}

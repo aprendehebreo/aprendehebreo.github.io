@@ -1,0 +1,56 @@
+{
+ "strong": "H560",
+ "he": "אמר",
+ "xlit": "ʼămar",
+ "pron": "am-ar'",
+ "def_en": [
+  "1) (P'al) to say, to speak, to command, to tell, to relate"
+ ],
+ "kjv": "command, declare, say, speak, tell.",
+ "expl": "{to say (used with great latitude)}",
+ "etim": "(Aramaic) corresponding to",
+ "raices": [
+  "H559"
+ ],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "ואמר",
+   "forma_he": "וָאֹמַ֣ר",
+   "n": 28,
+   "ref": "bereshit/20/13"
+  },
+  {
+   "forma": "אמר",
+   "forma_he": "אָמַ֣ר",
+   "n": 16,
+   "ref": "bereshit/3/1"
+  },
+  {
+   "forma": "ואמרין",
+   "forma_he": "וְאָמְרִ֑ין",
+   "n": 8,
+   "ref": "daniel/2/7"
+  },
+  {
+   "forma": "אמרין",
+   "forma_he": "אָֽמְרִין֙",
+   "n": 6,
+   "ref": "daniel/3/4"
+  },
+  {
+   "forma": "יאמר",
+   "forma_he": "יֵֽאָמַ֔ר",
+   "n": 2,
+   "ref": "bereshit/10/9"
+  }
+ ],
+ "morph": [
+  "AC/Vqrmsa",
+  "AVqp3ms",
+  "AC/Vqrmpa",
+  "AVqrmpa",
+  "AC/Vqp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H669",
+ "he": "אפרים",
+ "xlit": "ʼEphrayim",
+ "pron": "ef-rah'-yim",
+ "def_en": [
+  "Ephraim = \"double ash-heap: I shall be doubly fruitful\"",
+  "1) second son of Joseph, blessed by him and given preference over first son, Manasseh",
+  "2) the tribe, Ephraim",
+  "3) the mountain country of Ephraim",
+  "4) sometimes used name for the northern kingdom (Hosea or Isaiah)",
+  "5) a city near Baal-hazor",
+  "6) a chief gate of Jerusalem"
+ ],
+ "kjv": "Ephraim, Ephraimites.",
+ "expl": "Ephrajim, a son of Joseph; also the tribe descended from him, and its territory",
+ "etim": "dual of masculine form of ; double fruit;",
+ "raices": [
+  "H672"
+ ],
+ "ocurrencias": 180,
+ "formas": [
+  {
+   "forma": "אפרים",
+   "forma_he": "אֶפְרָ֑יִם",
+   "n": 149,
+   "ref": "bereshit/41/52"
+  },
+  {
+   "forma": "ואפרים",
+   "forma_he": "וְאֶפְרָֽיִם",
+   "n": 13,
+   "ref": "bamidbar/26/28"
+  },
+  {
+   "forma": "לאפרים",
+   "forma_he": "לְאֶפְרַ֔יִם",
+   "n": 10,
+   "ref": "bereshit/50/23"
+  },
+  {
+   "forma": "מאפרים",
+   "forma_he": "מֵֽאֶפְרַ֔יִם",
+   "n": 6,
+   "ref": "shoftim/12/6"
+  },
+  {
+   "forma": "כאפרים",
+   "forma_he": "כְּאֶפְרַ֖יִם",
+   "n": 1,
+   "ref": "bereshit/48/20"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Efraín"
+}

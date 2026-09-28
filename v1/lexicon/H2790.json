@@ -1,0 +1,69 @@
+{
+ "strong": "H2790",
+ "he": "חרש",
+ "xlit": "chârash",
+ "pron": "khaw-rash'",
+ "def_en": [
+  "1) to cut in, plough, engrave, devise",
+  "1a) (Qal)",
+  "1a1) to cut in, engrave",
+  "1a2) to plough",
+  "1a3) to devise",
+  "1b) (Niphal) to be ploughed",
+  "1c) (Hiphil) to plot evil",
+  "2) to be silent, be dumb, be speechless, be deaf",
+  "2a) (Qal)",
+  "2a1) to be silent",
+  "2a2) to be deaf",
+  "2b) (Hiphil)",
+  "2b1) to be silent, keep quiet",
+  "2b2) to make silent",
+  "2b3) to be deaf, show deafness",
+  "2c) (Hithpael) to remain silent"
+ ],
+ "kjv": "[idiom] altogether, cease, conceal, be deaf, devise, ear, graven, imagine, leave off speaking, hold peace, plow(-er, man), be quiet, rest, practise secretly, keep silence, be silent, speak not a word, be still, hold tongue, worker.",
+ "expl": "to scratch, i.e. (by implication) to engrave, plough; hence (from the use of tools) to fabricate (of any material); figuratively, to devise (in a bad sense); hence (from the idea of secrecy) to be silent, to let alone; hence (by implication) to be deaf (as an accompaniment of dumbness)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "תחרש",
+   "forma_he": "תַחֲרֹ֥שׁ",
+   "n": 10,
+   "ref": "devarim/22/10"
+  },
+  {
+   "forma": "החרש",
+   "forma_he": "הַחֲרֵשׁ֩",
+   "n": 8,
+   "ref": "bamidbar/30/15"
+  },
+  {
+   "forma": "אחריש",
+   "forma_he": "אַחֲרִ֖ישׁ",
+   "n": 5,
+   "ref": "yeshayahu/42/14"
+  },
+  {
+   "forma": "חרשי",
+   "forma_he": "חַרְשֵׂ֣י",
+   "n": 4,
+   "ref": "yeshayahu/45/9"
+  },
+  {
+   "forma": "מחריש",
+   "forma_he": "מַחֲרִ֕ישׁ",
+   "n": 3,
+   "ref": "bereshit/24/21"
+  }
+ ],
+ "morph": [
+  "HVqj2ms",
+  "HVhi1cs",
+  "HVqrmsa",
+  "HVqi3ms",
+  "HVqrmpc"
+ ],
+ "glosa_es": ""
+}

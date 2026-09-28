@@ -1,0 +1,35 @@
+{
+ "strong": "H1876",
+ "he": "דשא",
+ "xlit": "dâshâʼ",
+ "pron": "daw-shaw'",
+ "def_en": [
+  "1) to sprout, shoot, grow green",
+  "1a) (Qal) to sprout, grow green",
+  "1b) (Hiphil) to cause to sprout, cause to shoot forth"
+ ],
+ "kjv": "bring forth, spring.",
+ "expl": "to sprout",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 2,
+ "formas": [
+  {
+   "forma": "תדשא",
+   "forma_he": "תַּֽדְשֵׁ֤א",
+   "n": 1,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "דשאו",
+   "forma_he": "דָשְׁא֖וּ",
+   "n": 1,
+   "ref": "yoel/2/22"
+  }
+ ],
+ "morph": [
+  "HVhj3fs",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

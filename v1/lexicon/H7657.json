@@ -1,0 +1,49 @@
+{
+ "strong": "H7657",
+ "he": "שבעים",
+ "xlit": "shibʻîym",
+ "pron": "shib-eem'",
+ "def_en": [
+  "1) seventy"
+ ],
+ "kjv": "seventy, threescore and ten ([phrase] -teen).",
+ "expl": "seventy",
+ "etim": "multiple of ;",
+ "raices": [
+  "H7651"
+ ],
+ "ocurrencias": 91,
+ "formas": [
+  {
+   "forma": "שבעים",
+   "forma_he": "שִׁבְעִ֥ים",
+   "n": 66,
+   "ref": "bereshit/4/24"
+  },
+  {
+   "forma": "ושבעים",
+   "forma_he": "וְשִׁבְעִים֙",
+   "n": 23,
+   "ref": "bereshit/5/31"
+  },
+  {
+   "forma": "והשבעים",
+   "forma_he": "וְהַשִּׁבְעִ֖ים",
+   "n": 1,
+   "ref": "bamidbar/3/46"
+  },
+  {
+   "forma": "בשבעים",
+   "forma_he": "בְּשִׁבְעִ֣ים",
+   "n": 1,
+   "ref": "devarim/10/22"
+  }
+ ],
+ "morph": [
+  "HAcbpa",
+  "HC/Acbpa",
+  "HC/Td/Acbpa",
+  "HR/Acbpa"
+ ],
+ "glosa_es": ""
+}

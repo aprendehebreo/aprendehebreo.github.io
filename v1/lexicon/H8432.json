@@ -1,0 +1,59 @@
+{
+ "strong": "H8432",
+ "he": "תוך",
+ "xlit": "tâvek",
+ "pron": "taw'-vek",
+ "def_en": [
+  "1) midst, middle",
+  "1a) midst, middle",
+  "1b) into, through (after verbs of motion)",
+  "1c) among (of a number of persons)",
+  "1d) between (of things arranged by twos)",
+  "1e) from among (as to take or separate etc)"
+ ],
+ "kjv": "among(-st), [idiom] between, half, [idiom] (there-, where-), in(-to), middle, mid(-night), midst (among), [idiom] out (of), [idiom] through, [idiom] with(-in).",
+ "expl": "a bisection, i.e. (by implication) the centre",
+ "etim": "from an unused root meaning to sever;",
+ "raices": [],
+ "ocurrencias": 420,
+ "formas": [
+  {
+   "forma": "בתוך",
+   "forma_he": "בְּת֣וֹךְ",
+   "n": 189,
+   "ref": "bereshit/1/6"
+  },
+  {
+   "forma": "מתוך",
+   "forma_he": "מִתּ֣וֹךְ",
+   "n": 56,
+   "ref": "bereshit/19/29"
+  },
+  {
+   "forma": "בתוכם",
+   "forma_he": "בְּתוֹכָֽם",
+   "n": 40,
+   "ref": "shemot/25/8"
+  },
+  {
+   "forma": "בתוכה",
+   "forma_he": "בְּתוֹכָֽהּ",
+   "n": 32,
+   "ref": "bereshit/41/48"
+  },
+  {
+   "forma": "תוך",
+   "forma_he": "תּ֖וֹךְ",
+   "n": 25,
+   "ref": "shemot/14/23"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HR/Ncmsc/Sp3mp",
+  "HR/Ncmsc/Sp3fs",
+  "HNcmsc",
+  "HR/Ncmsc/Sp2mp"
+ ],
+ "glosa_es": "medio; en medio de"
+}

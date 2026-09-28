@@ -1,0 +1,60 @@
+{
+ "strong": "H8034",
+ "he": "שם",
+ "xlit": "shêm",
+ "pron": "shame",
+ "def_en": [
+  "1) name",
+  "1a) name",
+  "1b) reputation, fame, glory",
+  "1c) the Name (as designation of God)",
+  "1d) memorial, monument"
+ ],
+ "kjv": "[phrase] base, (in-) fame(-ous), named(-d), renown, report.",
+ "expl": "an appellation, as amark or memorial of individuality; by implication honor, authority, character",
+ "etim": "a primitive word (perhaps rather from through the idea of definite and conspicuous position; compare );",
+ "raices": [
+  "H8064"
+ ],
+ "ocurrencias": 864,
+ "formas": [
+  {
+   "forma": "שם",
+   "forma_he": "שָׁ֔ם",
+   "n": 148,
+   "ref": "bereshit/2/8"
+  },
+  {
+   "forma": "שמו",
+   "forma_he": "שְׁמֽוֹ",
+   "n": 146,
+   "ref": "bereshit/2/19"
+  },
+  {
+   "forma": "ושם",
+   "forma_he": "וְשֵֽׁם",
+   "n": 90,
+   "ref": "bereshit/2/13"
+  },
+  {
+   "forma": "שמך",
+   "forma_he": "שְׁמֶ֑ךָ",
+   "n": 82,
+   "ref": "bereshit/12/2"
+  },
+  {
+   "forma": "בשם",
+   "forma_he": "בְּשֵׁ֥ם",
+   "n": 68,
+   "ref": "bereshit/4/26"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HC/Ncmsc",
+  "HR/Ncmsc",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": "nombre"
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H1245",
+ "he": "בקש",
+ "xlit": "bâqash",
+ "pron": "baw-kash'",
+ "def_en": [
+  "1) to seek, require, desire, exact, request",
+  "1a) (Piel)",
+  "1a1) to seek to find",
+  "1a2) to seek to secure",
+  "1a3) to seek the face",
+  "1a4) to desire, demand",
+  "1a5) to require, exact",
+  "1a6) to ask, request",
+  "1b) (Pual) to be sought"
+ ],
+ "kjv": "ask, beg, beseech, desire, enquire, get, make inquisition, procure, (make) request, require, seek (for).",
+ "expl": "to search out (by any method, specifically in worship or prayer); by implication, to strive after",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 225,
+ "formas": [
+  {
+   "forma": "לבקש",
+   "forma_he": "לְבַקֵּ֔שׁ",
+   "n": 24,
+   "ref": "shmuel_a/10/2"
+  },
+  {
+   "forma": "מבקש",
+   "forma_he": "מְבַקֵּ֑שׁ",
+   "n": 22,
+   "ref": "bereshit/37/16"
+  },
+  {
+   "forma": "מבקשי",
+   "forma_he": "מְבַקְשֵׁ֣י",
+   "n": 19,
+   "ref": "yeshayahu/51/1"
+  },
+  {
+   "forma": "בקשו",
+   "forma_he": "בַּקְּשׁוּ",
+   "n": 16,
+   "ref": "shmuel_a/28/7"
+  },
+  {
+   "forma": "ויבקש",
+   "forma_he": "וַיְבַקֵּ֖שׁ",
+   "n": 13,
+   "ref": "bereshit/43/30"
+  }
+ ],
+ "morph": [
+  "HR/Vpc",
+  "HVprmsa",
+  "HVprmpc",
+  "HC/Vpw3ms",
+  "HVpi3ms"
+ ],
+ "glosa_es": "buscar; requerir"
+}

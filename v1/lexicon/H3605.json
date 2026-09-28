@@ -1,0 +1,59 @@
+{
+ "strong": "H3605",
+ "he": "כל",
+ "xlit": "kôl",
+ "pron": "kole",
+ "def_en": [
+  "1) all, the whole",
+  "1a) all, the whole of",
+  "1b) any, each, every, anything",
+  "1c) totality, everything"
+ ],
+ "kjv": "(in) all (manner, (ye)), altogether, any (manner), enough, every (one, place, thing), howsoever, as many as, (no-) thing, ought, whatsoever, (the) whole, whoso(-ever).",
+ "expl": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
+ "etim": "or (Jeremiah 33:8) ; from ;",
+ "raices": [
+  "H3634"
+ ],
+ "ocurrencias": 5417,
+ "formas": [
+  {
+   "forma": "כל",
+   "forma_he": "כָּל",
+   "n": 3080,
+   "ref": "bereshit/1/21"
+  },
+  {
+   "forma": "וכל",
+   "forma_he": "וְכָל",
+   "n": 742,
+   "ref": "bereshit/2/1"
+  },
+  {
+   "forma": "בכל",
+   "forma_he": "בְּכֹל֩",
+   "n": 452,
+   "ref": "bereshit/9/2"
+  },
+  {
+   "forma": "לכל",
+   "forma_he": "לְכָל",
+   "n": 317,
+   "ref": "bereshit/2/20"
+  },
+  {
+   "forma": "מכל",
+   "forma_he": "מִכָּל",
+   "n": 229,
+   "ref": "bereshit/2/2"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HC/Ncmsc",
+  "HC/R/Ncmsc",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": "todo; cada; entero"
+}

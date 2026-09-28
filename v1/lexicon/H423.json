@@ -1,0 +1,61 @@
+{
+ "strong": "H423",
+ "he": "אלה",
+ "xlit": "ʼâlâh",
+ "pron": "aw-law'",
+ "def_en": [
+  "1) oath",
+  "2) oath of covenant",
+  "3) curse",
+  "3a) from God",
+  "3b) from men",
+  "4) execration"
+ ],
+ "kjv": "curse, cursing, execration, oath, swearing.",
+ "expl": "an imprecation",
+ "etim": "from ;",
+ "raices": [
+  "H422"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "אלה",
+   "forma_he": "אֵ֣לֶּה",
+   "n": 11,
+   "ref": "bereshit/2/4"
+  },
+  {
+   "forma": "האלה",
+   "forma_he": "הָאֵ֗לֶּה",
+   "n": 6,
+   "ref": "bereshit/15/1"
+  },
+  {
+   "forma": "לאלה",
+   "forma_he": "לָאֵ֨לֶּה֙",
+   "n": 5,
+   "ref": "bereshit/31/43"
+  },
+  {
+   "forma": "באלה",
+   "forma_he": "בְּאֵ֑לֶּה",
+   "n": 3,
+   "ref": "vayikra/25/54"
+  },
+  {
+   "forma": "מאלתי",
+   "forma_he": "מֵאָ֣לָתִ֔י",
+   "n": 2,
+   "ref": "bereshit/24/41"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HTd/Ncfsa",
+  "HTd/Ncfpa",
+  "HR/Ncfsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

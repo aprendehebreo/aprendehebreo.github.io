@@ -1,0 +1,61 @@
+{
+ "strong": "H5782",
+ "he": "עור",
+ "xlit": "ʻûwr",
+ "pron": "oor",
+ "def_en": [
+  "1) to rouse oneself, awake, awaken, incite",
+  "1a) (Qal) to rouse oneself, awake",
+  "1b) (Niphal) to be roused",
+  "1c) (Polel) to stir up, rouse, incite",
+  "1d) (Hithpolel) to be excited, be triumphant",
+  "1e) (Hiphil)",
+  "1e1) to rouse, stir up",
+  "1e2) to act in an aroused manner, awake"
+ ],
+ "kjv": "(a-) wake(-n, up), lift up (self), [idiom] master, raise (up), stir up (self).",
+ "expl": "to wake (literally or figuratively)",
+ "etim": "a primitive root (rather identical with through the idea of opening the eyes);",
+ "raices": [],
+ "ocurrencias": 80,
+ "formas": [
+  {
+   "forma": "עורי",
+   "forma_he": "עוּרִ֤י",
+   "n": 12,
+   "ref": "shoftim/5/12"
+  },
+  {
+   "forma": "יעיר",
+   "forma_he": "יָעִ֣יר",
+   "n": 7,
+   "ref": "devarim/32/11"
+  },
+  {
+   "forma": "מעיר",
+   "forma_he": "מֵעִֽיר",
+   "n": 5,
+   "ref": "bamidbar/24/19"
+  },
+  {
+   "forma": "העיר",
+   "forma_he": "הָעִ֔יר",
+   "n": 5,
+   "ref": "bereshit/4/17"
+  },
+  {
+   "forma": "עורה",
+   "forma_he": "ע֤וּרָה",
+   "n": 5,
+   "ref": "tehilim/44/24"
+  }
+ ],
+ "morph": [
+  "HVqv2fs",
+  "HVhi3ms",
+  "HVhrmsa",
+  "HVhp3ms",
+  "HVqv2ms/Sh"
+ ],
+ "glosa_es": ""
+}

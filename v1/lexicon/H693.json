@@ -1,0 +1,59 @@
+{
+ "strong": "H693",
+ "he": "ארב",
+ "xlit": "ʼârab",
+ "pron": "aw-rab'",
+ "def_en": [
+  "1) to lie in wait, ambush, lurk",
+  "1a) (Qal)",
+  "1a1) to lie in wait",
+  "1a2) ambush (participle as subst)",
+  "1b) (Piel) ambushers, liers-in-wait (pl. participle)",
+  "1c) (Hiphil) to lay an ambush"
+ ],
+ "kjv": "(lie in) ambush(-ment), lay (lie in) wait.",
+ "expl": "to lurk",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "ארב",
+   "forma_he": "אֹרֵ֛ב",
+   "n": 5,
+   "ref": "yehoshua/8/2"
+  },
+  {
+   "forma": "הארב",
+   "forma_he": "הָֽאֹרֵב֙",
+   "n": 4,
+   "ref": "yehoshua/8/21"
+  },
+  {
+   "forma": "וארב",
+   "forma_he": "וְאָ֤רַב",
+   "n": 3,
+   "ref": "devarim/19/11"
+  },
+  {
+   "forma": "והארב",
+   "forma_he": "וְהָאֹרֵ֗ב",
+   "n": 3,
+   "ref": "shoftim/16/9"
+  },
+  {
+   "forma": "תארב",
+   "forma_he": "תֶאֱרֹֽב",
+   "n": 3,
+   "ref": "mishlei/7/12"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HC/Td/Vqrmsa",
+  "HTd/Vqrmsa",
+  "HVqrmpa",
+  "HVprmpa"
+ ],
+ "glosa_es": ""
+}

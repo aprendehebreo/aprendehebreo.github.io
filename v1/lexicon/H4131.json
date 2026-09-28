@@ -1,0 +1,58 @@
+{
+ "strong": "H4131",
+ "he": "מוט",
+ "xlit": "môwṭ",
+ "pron": "mote",
+ "def_en": [
+  "1) to totter, shake, slip",
+  "1a) (Qal) to totter, shake, slip",
+  "1b) (Niphal) to be shaken, be moved, be overthrown",
+  "1c) (Hiphil) to dislodge, let fall, drop",
+  "1d) (Hithpael) to be greatly shaken"
+ ],
+ "kjv": "be carried, cast, be out of course, be fallen in decay, [idiom] exceedingly, fall(-ing down), be (re-) moved, be ready, shake, slide, slip.",
+ "expl": "to waver; by implication, to slip, shake, fall",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "ימוט",
+   "forma_he": "יִמּֽוֹט",
+   "n": 9,
+   "ref": "yeshayahu/40/20"
+  },
+  {
+   "forma": "תמוט",
+   "forma_he": "תָּמ֣וּט",
+   "n": 7,
+   "ref": "devarim/32/35"
+  },
+  {
+   "forma": "אמוט",
+   "forma_he": "אֶמּ֑וֹט",
+   "n": 6,
+   "ref": "tehilim/10/6"
+  },
+  {
+   "forma": "מוט",
+   "forma_he": "מ֥וֹט",
+   "n": 2,
+   "ref": "yeshayahu/24/19"
+  },
+  {
+   "forma": "ימיטו",
+   "forma_he": "יָמִ֥יטוּ",
+   "n": 2,
+   "ref": "tehilim/55/4"
+  }
+ ],
+ "morph": [
+  "HVNi3ms",
+  "HVNi1cs",
+  "HVNi3fs",
+  "HVqi3fs",
+  "HVqp3fs"
+ ],
+ "glosa_es": ""
+}

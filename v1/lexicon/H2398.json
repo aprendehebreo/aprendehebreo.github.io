@@ -1,0 +1,70 @@
+{
+ "strong": "H2398",
+ "he": "חטא",
+ "xlit": "châṭâʼ",
+ "pron": "khaw-taw'",
+ "def_en": [
+  "1) to sin, miss, miss the way, go wrong, incur guilt, forfeit, purify from uncleanness",
+  "1a) (Qal)",
+  "1a1) to miss",
+  "1a2) to sin, miss the goal or path of right and duty",
+  "1a3) to incur guilt, incur penalty by sin, forfeit",
+  "1b) (Piel)",
+  "1b1) to bear loss",
+  "1b2) to make a sin-offering",
+  "1b3) to purify from sin",
+  "1b4) to purify from uncleanness",
+  "1c) (Hiphil)",
+  "1c1) to miss the mark",
+  "1c2) to induce to sin, cause to sin",
+  "1c3) to bring into guilt or condemnation or punishment",
+  "1d) (Hithpael)",
+  "1d1) to miss oneself, lose oneself, wander from the way",
+  "1d2) to purify oneself from uncleanness"
+ ],
+ "kjv": "bear the blame, cleanse, commit (sin), by fault, harm he hath done, loss, miss, (make) offend(-er), offer for sin, purge, purify (self), make reconciliation, (cause, make) sin(-ful, -ness), trespass.",
+ "expl": "properly, to miss; hence (figuratively and generally) to sin; by inference, to forfeit, lack, expiate, repent, (causatively) lead astray, condemn",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 240,
+ "formas": [
+  {
+   "forma": "חטא",
+   "forma_he": "חָטָ֞א",
+   "n": 33,
+   "ref": "shemot/32/31"
+  },
+  {
+   "forma": "חטאתי",
+   "forma_he": "חָטָ֣אתִי",
+   "n": 26,
+   "ref": "bereshit/20/9"
+  },
+  {
+   "forma": "חטאנו",
+   "forma_he": "חָטָֽאנוּ",
+   "n": 24,
+   "ref": "bamidbar/12/11"
+  },
+  {
+   "forma": "חטאו",
+   "forma_he": "חָֽטְא֛וּ",
+   "n": 20,
+   "ref": "bereshit/40/1"
+  },
+  {
+   "forma": "החטיא",
+   "forma_he": "הֶחֱטִ֖יא",
+   "n": 20,
+   "ref": "mlakhim_a/14/16"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqp1cs",
+  "HVqp1cp",
+  "HVhp3ms",
+  "HVqp3cp"
+ ],
+ "glosa_es": "pecar"
+}

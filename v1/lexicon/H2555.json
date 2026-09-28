@@ -1,0 +1,56 @@
+{
+ "strong": "H2555",
+ "he": "חמס",
+ "xlit": "châmâç",
+ "pron": "khaw-mawce'",
+ "def_en": [
+  "1) violence, wrong, cruelty, injustice"
+ ],
+ "kjv": "cruel(-ty), damage, false, injustice, [idiom] oppressor, unrighteous, violence (against, done), violent (dealing), wrong.",
+ "expl": "violence; by implication, wrong; by meton. unjust gain",
+ "etim": "from ;",
+ "raices": [
+  "H2554"
+ ],
+ "ocurrencias": 60,
+ "formas": [
+  {
+   "forma": "חמס",
+   "forma_he": "חָמָֽס",
+   "n": 41,
+   "ref": "bereshit/6/11"
+  },
+  {
+   "forma": "מחמס",
+   "forma_he": "מֵחָמָ֖ס",
+   "n": 4,
+   "ref": "shmuel_b/22/3"
+  },
+  {
+   "forma": "חמסים",
+   "forma_he": "חֲמָסִ֖ים",
+   "n": 4,
+   "ref": "shmuel_b/22/49"
+  },
+  {
+   "forma": "וחמס",
+   "forma_he": "וְחָמָ֣ס",
+   "n": 4,
+   "ref": "yirmiyahu/51/46"
+  },
+  {
+   "forma": "חמסי",
+   "forma_he": "חֲמָסִ֣י",
+   "n": 2,
+   "ref": "bereshit/16/5"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpa",
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

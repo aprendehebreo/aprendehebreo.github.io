@@ -1,0 +1,56 @@
+{
+ "strong": "H4820",
+ "he": "מרמה",
+ "xlit": "mirmâh",
+ "pron": "meer-maw'",
+ "def_en": [
+  "1) deceit, treachery"
+ ],
+ "kjv": "craft, deceit(-ful, -fully), false, feigned, guile, subtilly, treachery.",
+ "expl": "fraud",
+ "etim": "from in the sense of deceiving;",
+ "raices": [
+  "H7411"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "מרמה",
+   "forma_he": "מִרְמָ֥ה",
+   "n": 26,
+   "ref": "mlakhim_b/9/23"
+  },
+  {
+   "forma": "ומרמה",
+   "forma_he": "וּמִרְמָֽה",
+   "n": 5,
+   "ref": "tzefania/1/9"
+  },
+  {
+   "forma": "במרמה",
+   "forma_he": "בְּמִרְמָ֑ה",
+   "n": 3,
+   "ref": "bereshit/27/35"
+  },
+  {
+   "forma": "ומרמות",
+   "forma_he": "וּמִרְמ֣וֹת",
+   "n": 2,
+   "ref": "tehilim/10/7"
+  },
+  {
+   "forma": "ובמרמה",
+   "forma_he": "וּבְמִרְמָ֖ה",
+   "n": 1,
+   "ref": "hoshea/12/1"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HR/Ncfsa",
+  "HC/Ncfpa",
+  "HC/R/Ncfsa"
+ ],
+ "glosa_es": ""
+}

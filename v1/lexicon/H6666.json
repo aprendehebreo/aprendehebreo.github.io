@@ -1,0 +1,68 @@
+{
+ "strong": "H6666",
+ "he": "צדקה",
+ "xlit": "tsᵉdâqâh",
+ "pron": "tsed-aw-kaw'",
+ "def_en": [
+  "1) justice, righteousness",
+  "1a) righteousness (in government)",
+  "1a1) of judge, ruler, king",
+  "1a2) of law",
+  "1a3) of Davidic king Messiah",
+  "1b) righteousness (of God's attribute)",
+  "1c) righteousness (in a case or cause)",
+  "1d) righteousness, truthfulness",
+  "1e) righteousness (as ethically right)",
+  "1f) righteousness (as vindicated), justification, salvation",
+  "1f1) of God",
+  "1f2) prosperity (of people)",
+  "1g) righteous acts"
+ ],
+ "kjv": "justice, moderately, right(-eous) (act, -ly, -ness).",
+ "expl": "rightness (abstractly), subjectively (rectitude), objectively (justice), morally (virtue) or figuratively (prosperity)",
+ "etim": "from ;",
+ "raices": [
+  "H6663"
+ ],
+ "ocurrencias": 159,
+ "formas": [
+  {
+   "forma": "וצדקה",
+   "forma_he": "וּצְדָקָ֖ה",
+   "n": 31,
+   "ref": "devarim/6/25"
+  },
+  {
+   "forma": "צדקה",
+   "forma_he": "צְדָקָֽה",
+   "n": 30,
+   "ref": "bereshit/15/6"
+  },
+  {
+   "forma": "צדקתך",
+   "forma_he": "צִדְקָתֵ֑ךְ",
+   "n": 10,
+   "ref": "yeshayahu/57/12"
+  },
+  {
+   "forma": "בצדקתך",
+   "forma_he": "בְצִדְקָתְךָ֗",
+   "n": 9,
+   "ref": "devarim/9/5"
+  },
+  {
+   "forma": "צדקתו",
+   "forma_he": "צִדְקָת֖וֹ",
+   "n": 9,
+   "ref": "shmuel_a/26/23"
+  }
+ ],
+ "morph": [
+  "HC/Ncfsa",
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HR/Ncfsc/Sp2ms",
+  "HNcfsc/Sp3ms"
+ ],
+ "glosa_es": "justicia; rectitud"
+}

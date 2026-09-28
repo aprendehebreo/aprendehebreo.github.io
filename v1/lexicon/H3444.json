@@ -1,0 +1,60 @@
+{
+ "strong": "H3444",
+ "he": "ישועה",
+ "xlit": "yᵉshûwʻâh",
+ "pron": "yesh-oo'-aw",
+ "def_en": [
+  "1) salvation, deliverance",
+  "1a) welfare, prosperity",
+  "1b) deliverance",
+  "1c) salvation (by God)",
+  "1d) victory"
+ ],
+ "kjv": "deliverance, health, help(-ing), salvation, save, saving (health), welfare.",
+ "expl": "something saved, i.e. (abstractly) deliverance; hence, aid, victory, prosperity",
+ "etim": "feminine passive participle of ;",
+ "raices": [
+  "H3467"
+ ],
+ "ocurrencias": 77,
+ "formas": [
+  {
+   "forma": "ישועת",
+   "forma_he": "יְשׁוּעַ֣ת",
+   "n": 9,
+   "ref": "shemot/14/13"
+  },
+  {
+   "forma": "ישועות",
+   "forma_he": "יְשׁוּע֣וֹת",
+   "n": 7,
+   "ref": "shmuel_b/22/51"
+  },
+  {
+   "forma": "ישועתי",
+   "forma_he": "יְשׁוּעָתִ֛י",
+   "n": 7,
+   "ref": "yeshayahu/12/2"
+  },
+  {
+   "forma": "ישועה",
+   "forma_he": "יְשׁוּעָ֥ה",
+   "n": 7,
+   "ref": "yeshayahu/26/1"
+  },
+  {
+   "forma": "לישועה",
+   "forma_he": "לִֽישׁוּעָ֑ה",
+   "n": 6,
+   "ref": "shemot/15/2"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsc/Sp2ms",
+  "HNcfpc",
+  "HNcfsc/Sp1cs",
+  "HR/Ncfsa",
+  "HNcfsa"
+ ],
+ "glosa_es": ""
+}

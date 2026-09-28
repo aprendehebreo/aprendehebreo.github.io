@@ -1,0 +1,59 @@
+{
+ "strong": "H7925",
+ "he": "שכם",
+ "xlit": "shâkam",
+ "pron": "shaw-kam'",
+ "def_en": [
+  "1) to rise or start early",
+  "1a) (Hiphil)",
+  "1a1) to rise early, make an early start",
+  "1a2) early (as adverb)"
+ ],
+ "kjv": "(arise, be up, get (oneself) up, rise up) early (betimes), morning.",
+ "expl": "literally, to load up (on the back of man or beast), i.e. to start early in the morning",
+ "etim": "a primitive root; properly, to incline (the shoulder to a burden); but used only as denominative from ;",
+ "raices": [
+  "H7926"
+ ],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "וישכם",
+   "forma_he": "וַיַּשְׁכֵּ֥ם",
+   "n": 20,
+   "ref": "bereshit/19/27"
+  },
+  {
+   "forma": "השכם",
+   "forma_he": "הַשְׁכֵּ֤ם",
+   "n": 12,
+   "ref": "shemot/8/16"
+  },
+  {
+   "forma": "וישכימו",
+   "forma_he": "וַיַּשְׁכִּ֣ימוּ",
+   "n": 10,
+   "ref": "bereshit/26/31"
+  },
+  {
+   "forma": "וישכמו",
+   "forma_he": "וַיַּשְׁכִּ֣מוּ",
+   "n": 6,
+   "ref": "bamidbar/14/40"
+  },
+  {
+   "forma": "והשכמתם",
+   "forma_he": "וְהִשְׁכַּמְתֶּ֖ם",
+   "n": 3,
+   "ref": "bereshit/19/2"
+  }
+ ],
+ "morph": [
+  "HC/Vhw3ms",
+  "HC/Vhw3mp",
+  "HVha",
+  "HVhv2ms",
+  "HC/Vhq2mp"
+ ],
+ "glosa_es": ""
+}

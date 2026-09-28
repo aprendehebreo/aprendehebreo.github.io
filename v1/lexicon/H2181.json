@@ -1,0 +1,64 @@
+{
+ "strong": "H2181",
+ "he": "זנה",
+ "xlit": "zânâh",
+ "pron": "zaw-naw'",
+ "def_en": [
+  "1) to commit fornication, be a harlot, play the harlot",
+  "1a) (Qal)",
+  "1a1) to be a harlot, act as a harlot, commit fornication",
+  "1a2) to commit adultery",
+  "1a3) to be a cult prostitute",
+  "1a4) to be unfaithful (to God) (fig.)",
+  "1b) (Pual) to play the harlot",
+  "1c) (Hiphil)",
+  "1c1) to cause to commit adultery",
+  "1c2) to force into prostitution",
+  "1c3) to commit fornication"
+ ],
+ "kjv": "(cause to) commit fornication, [idiom] continually, [idiom] great, (be an, play the) harlot, (cause to be, play the) whore, (commit, fall to) whoredom, (cause to) go a-whoring, whorish.",
+ "expl": "to commit adultery (usually of the female, and less often of simple fornication, rarely of involuntary ravishment); figuratively, to commit idolatry (the Jewish people being regarded as the spouse of Jehovah)",
+ "etim": "a primitive root (highly-fed and therefore wanton);",
+ "raices": [],
+ "ocurrencias": 93,
+ "formas": [
+  {
+   "forma": "זונה",
+   "forma_he": "זוֹנָ֜ה",
+   "n": 18,
+   "ref": "devarim/23/19"
+  },
+  {
+   "forma": "ותזני",
+   "forma_he": "וַתִּזְנִי",
+   "n": 6,
+   "ref": "yirmiyahu/3/6"
+  },
+  {
+   "forma": "לזנות",
+   "forma_he": "לִזְנ֛וֹת",
+   "n": 5,
+   "ref": "vayikra/20/5"
+  },
+  {
+   "forma": "זנה",
+   "forma_he": "זֹנָ֤ה",
+   "n": 5,
+   "ref": "vayikra/21/7"
+  },
+  {
+   "forma": "הזונה",
+   "forma_he": "הַזּוֹנָ֜ה",
+   "n": 5,
+   "ref": "yehoshua/6/17"
+  }
+ ],
+ "morph": [
+  "HVqrfsa",
+  "HC/Vqw2fs",
+  "HR/Vqc",
+  "HC/Vqw3mp",
+  "HTd/Vqrfsa"
+ ],
+ "glosa_es": ""
+}

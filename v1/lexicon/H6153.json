@@ -1,0 +1,58 @@
+{
+ "strong": "H6153",
+ "he": "ערב",
+ "xlit": "ʻereb",
+ "pron": "eh'-reb",
+ "def_en": [
+  "1) evening, night, sunset",
+  "1a) evening, sunset",
+  "1b) night"
+ ],
+ "kjv": "[phrase] day, even(-ing, tide), night.",
+ "expl": "dusk",
+ "etim": "from ;",
+ "raices": [
+  "H6150"
+ ],
+ "ocurrencias": 134,
+ "formas": [
+  {
+   "forma": "הערב",
+   "forma_he": "הָֽעֹרֵ֑ב",
+   "n": 51,
+   "ref": "bereshit/8/7"
+  },
+  {
+   "forma": "בערב",
+   "forma_he": "בָּעֶ֔רֶב",
+   "n": 27,
+   "ref": "bereshit/19/1"
+  },
+  {
+   "forma": "ערב",
+   "forma_he": "עֶ֥רֶב",
+   "n": 25,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "הערבים",
+   "forma_he": "הָעַרְבָּֽיִם",
+   "n": 11,
+   "ref": "shemot/12/6"
+  },
+  {
+   "forma": "ולערב",
+   "forma_he": "וְלָעֶ֖רֶב",
+   "n": 5,
+   "ref": "bereshit/49/27"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HNcmsa",
+  "HTd/Ncmda",
+  "HC/Rd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

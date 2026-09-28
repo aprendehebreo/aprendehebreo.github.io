@@ -1,0 +1,79 @@
+{
+ "strong": "H7451",
+ "he": "רע",
+ "xlit": "raʻ",
+ "pron": "rah",
+ "def_en": [
+  "adj",
+  "1) bad, evil",
+  "1a) bad, disagreeable, malignant",
+  "1b) bad, unpleasant, evil (giving pain, unhappiness, misery)",
+  "1c) evil, displeasing",
+  "1d) bad (of its kind-land, water, etc)",
+  "1e) bad (of value)",
+  "1f) worse than, worst (comparison)",
+  "1g) sad, unhappy",
+  "1h) evil (hurtful)",
+  "1i) bad, unkind (vicious in disposition)",
+  "1j) bad, evil, wicked (ethically)",
+  "1j1) in general, of persons, of thoughts",
+  "1j2) deeds, actions",
+  "n m",
+  "2) evil, distress, misery, injury, calamity",
+  "2a) evil, distress, adversity",
+  "2b) evil, injury, wrong",
+  "2c) evil (ethical)",
+  "n f",
+  "3) evil, misery, distress, injury",
+  "3a) evil, misery, distress",
+  "3b) evil, injury, wrong",
+  "3c) evil (ethical)"
+ ],
+ "kjv": "adversity, affliction, bad, calamity, [phrase] displease(-ure), distress, evil((-favouredness), man, thing), [phrase] exceedingly, [idiom] great, grief(-vous), harm, heavy, hurt(-ful), ill (favoured), [phrase] mark, mischief(-vous), misery, naught(-ty), noisome, [phrase] not please, sad(-ly), sore, sorrow, trouble, vex, wicked(-ly, -ness, one), worse(-st), wretchedness, wrong. (Incl. feminine raaah; as adjective or noun.).",
+ "expl": "bad or (as noun) evil (natural or moral)",
+ "etim": "from ;",
+ "raices": [
+  "H7489"
+ ],
+ "ocurrencias": 666,
+ "formas": [
+  {
+   "forma": "רעה",
+   "forma_he": "רֹ֣עֵה",
+   "n": 129,
+   "ref": "bereshit/4/2"
+  },
+  {
+   "forma": "רע",
+   "forma_he": "רַ֖ע",
+   "n": 123,
+   "ref": "bereshit/6/5"
+  },
+  {
+   "forma": "הרע",
+   "forma_he": "הֵרַ֖ע",
+   "n": 94,
+   "ref": "shemot/5/23"
+  },
+  {
+   "forma": "הרעה",
+   "forma_he": "הָרָעָ֖ה",
+   "n": 90,
+   "ref": "bereshit/19/19"
+  },
+  {
+   "forma": "רעים",
+   "forma_he": "רָעִ֖ים",
+   "n": 18,
+   "ref": "bereshit/13/13"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HNcfsa",
+  "HTd/Aamsa",
+  "HTd/Ncfsa",
+  "HR/Ncfsa"
+ ],
+ "glosa_es": "mal; malo; calamidad"
+}

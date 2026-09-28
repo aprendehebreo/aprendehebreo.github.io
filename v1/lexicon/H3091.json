@@ -1,0 +1,62 @@
+{
+ "strong": "H3091",
+ "he": "יהושוע",
+ "xlit": "Yᵉhôwshûwaʻ",
+ "pron": "yeh-ho-shoo'-ah",
+ "def_en": [
+  "Joshua or Jehoshua = \"Jehovah is salvation\"",
+  "n pr m",
+  "1) son of Nun of the tribe of Ephraim and successor to Moses as the leader of the children of Israel; led the conquest of Canaan",
+  "2) a resident of Beth-shemesh on whose land the Ark of the Covenant came to a stop after the Philistines returned it",
+  "3) son of Jehozadak and high priest after the restoration",
+  "4) governor of Jerusalem under king Josiah who gave his name to a gate of the city of Jerusalem"
+ ],
+ "kjv": "Jehoshua, Jehoshuah, Joshua. Compare , .",
+ "expl": "Jehoshua (i.e. Joshua), the Jewish leader",
+ "etim": "or ; from and ; Jehovah-saved;",
+ "raices": [
+  "H3068",
+  "H3467",
+  "H1954",
+  "H3442"
+ ],
+ "ocurrencias": 218,
+ "formas": [
+  {
+   "forma": "יהושע",
+   "forma_he": "יְהוֹשֻׁ֨עַ֙",
+   "n": 194,
+   "ref": "shemot/17/9"
+  },
+  {
+   "forma": "ויהושע",
+   "forma_he": "וִיהוֹשֻׁ֖עַ",
+   "n": 17,
+   "ref": "shemot/24/13"
+  },
+  {
+   "forma": "ליהושע",
+   "forma_he": "לִֽיהוֹשֻׁ֗עַ",
+   "n": 4,
+   "ref": "devarim/31/7"
+  },
+  {
+   "forma": "יהושוע",
+   "forma_he": "יְהוֹשׁ֣וּעַ",
+   "n": 2,
+   "ref": "devarim/3/21"
+  },
+  {
+   "forma": "ביהושע",
+   "forma_he": "בִּיהוֹשֻׁ֖עַ",
+   "n": 1,
+   "ref": "zecharia/3/6"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": "Josué"
+}

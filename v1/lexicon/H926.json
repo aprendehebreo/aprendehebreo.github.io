@@ -1,0 +1,66 @@
+{
+ "strong": "H926",
+ "he": "בהל",
+ "xlit": "bâhal",
+ "pron": "baw-hal'",
+ "def_en": [
+  "1) to disturb, alarm, terrify, hurry, be disturbed, be anxious, be afraid, be hurried, be nervous",
+  "1a) (Niphal)",
+  "1a1) to be disturbed, dismayed, terrified, anxious",
+  "1a2) to be in haste, be hasty",
+  "1b) (Piel)",
+  "1b1) to make haste, act hastily, be hurried, be hastened",
+  "1b2) to dismay, terrify",
+  "1c) (Pual)",
+  "1c1) to hasten",
+  "1c2) hastened, hastily gained (part.)",
+  "1d) (Hiphil)",
+  "1d1) to hasten, hurry, make haste",
+  "1d2) to dismay, terrify"
+ ],
+ "kjv": "be (make) affrighted (afraid, amazed, dismayed, rash), (be, get, make) haste(-n, -y, -ily), (give) speedy(-ily), thrust out, trouble, vex.",
+ "expl": "to tremble inwardly (or palpitate), i.e. (figuratively) be (causative, make) (suddenly) alarmed or agitated; by implication to hasten anxiously",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "נבהלו",
+   "forma_he": "נִבְהֲל֖וּ",
+   "n": 6,
+   "ref": "bereshit/45/3"
+  },
+  {
+   "forma": "נבהל",
+   "forma_he": "נִבְהַ֣ל",
+   "n": 3,
+   "ref": "shmuel_a/28/21"
+  },
+  {
+   "forma": "ויבהלו",
+   "forma_he": "וְיִבָּהֲל֣וּ",
+   "n": 3,
+   "ref": "tehilim/6/11"
+  },
+  {
+   "forma": "תבהל",
+   "forma_he": "תְּבַהֵ֨ל",
+   "n": 3,
+   "ref": "kohelet/5/1"
+  },
+  {
+   "forma": "ויבהל",
+   "forma_he": "וַיִּבָּהֵ֖ל",
+   "n": 2,
+   "ref": "shoftim/20/41"
+  }
+ ],
+ "morph": [
+  "HVNp3cp",
+  "HC/VNq3cp",
+  "HC/VNi3mp",
+  "HVNrmsa",
+  "HVpj2ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H7378",
+ "he": "ריב",
+ "xlit": "rîyb",
+ "pron": "reeb",
+ "def_en": [
+  "1) to strive, contend",
+  "1a) (Qal)",
+  "1a1) to strive",
+  "1a1a) physically",
+  "1a1b) with words",
+  "1a2) to conduct a case or suit (legal), sue",
+  "1a3) to make complaint",
+  "1a4) to quarrel",
+  "1b) (Hiphil) to contend against"
+ ],
+ "kjv": "adversary, chide, complain, contend, debate, [idiom] ever, [idiom] lay wait, plead, rebuke, strive, [idiom] thoroughly.",
+ "expl": "properly, to toss, i.e. grapple; mostly figuratively, to wrangle, i.e. hold a controversy; (by implication) to defend",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 70,
+ "formas": [
+  {
+   "forma": "יריב",
+   "forma_he": "יָרִ֥יב",
+   "n": 10,
+   "ref": "shoftim/6/31"
+  },
+  {
+   "forma": "וירב",
+   "forma_he": "וַיָּ֣רֶב",
+   "n": 5,
+   "ref": "bereshit/31/36"
+  },
+  {
+   "forma": "אריב",
+   "forma_he": "אָרִ֔יב",
+   "n": 5,
+   "ref": "yeshayahu/49/25"
+  },
+  {
+   "forma": "רב",
+   "forma_he": "רָ֔ב",
+   "n": 4,
+   "ref": "bereshit/13/6"
+  },
+  {
+   "forma": "תריבון",
+   "forma_he": "תְּרִיבוּן֙",
+   "n": 3,
+   "ref": "shemot/17/2"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HR/Vqc",
+  "HVqi1cs",
+  "HC/Vqw3ms",
+  "HVqi2mp/Sn"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,31 @@
+# Alef-bet: 27 formas (22 letras + 5 finales). Curado en español.
+# columnas: he<TAB>nombre_es<TAB>translit_es<TAB>translit_acad<TAB>sonido<TAB>nota<TAB>nombre_he
+# La gematria, la forma base y el ejemplo del Tanaj los deduce build/alefbet.py.
+# El orden es el del alef-bet (no el alfabético).
+א	alef	—	ʼ	se lee según la vocal que lleve: a/e/i/o/u	Letra silenciosa; el niqqud va debajo o dentro (אָ = a). Gematria 1.	אָלֶף
+ב	bet	b	v	bet = b (con dagesh) / vet = v	Con punto (dagesh) suena b; sin punto suena v (begadkefat). Gematria 2.	בֵּית
+ג	guímel	g	g	gu, como en «guerra»	Siempre g dura, nunca como j. Gematria 3.	גִּימֶל
+ד	dalet	d	d	d	Sin variación de sonido. Gematria 4.	דָּלֶת
+ה	he	h	h	como la h aspirada del inglés	Al final de palabra no se pronuncia: solo sostiene la vocal. Gematria 5.	הֵא
+ו	vav	v	w, v	Consonante v; también puede ser vocal o/u (jolam/shuruk) o la conjunción וְ (y).	Gematria 6.	וָו
+ז	zayin	z	z	como la z de «zapato»	Gematria 7.	זַיִן
+ח	jet	j	ḥ	como la j de «jamón»	Una de las guturales. Gematria 8.	חֵית
+ט	tet	t	ṭ	como la t de «tapa», fuerte	Gematria 9.	טֵית
+י	yod	y	y	como la y de «yate»	La letra más pequeña; suele ser consonante o vocal i. Gematria 10.	יוֹד
+כ	kaf	k	k	con dagesh = k; sin dagesh = j suave (jaf)	Begadkefat. Gematria 20.	כָּף
+ך	kaf final	k	k	igual que כ	Forma final (sof kaf). Gematria 500.	כָּף סוֹפִית
+ל	lámed	l	l	l	La letra más alta. Gematria 30.	לָמֶד
+מ	mem	m	m	m	Gematria 40.	מֵם
+ם	mem final	m	m	m	Forma final, cuadro cerrado. Gematria 600.	מֵם סוֹפִית
+נ	nun	n	n	n	Gematria 50.	נוּן
+ן	nun final	n	n	n	Forma final, se alarga hacia abajo. Gematria 700.	נוּן סוֹפִית
+ס	sámej	s	s	s, siempre sorda	Gematria 60.	סָמֶךְ
+ע	áyin	—	ʿ	como una j muy suave, gutural	Gutural; a veces casi muda. Gematria 70.	עַיִן
+פ	pe	p	p	con dagesh = p; sin dagesh = f (fe)	Begadkefat. Gematria 80.	פֵּא
+ף	pe final	p	p	igual que פ	Forma final. Gematria 800.	פֵּא סוֹפִית
+צ	tsadi	ts	ṣ	como «ts» de «tsunami»	Gematria 90.	צָדִי
+ץ	tsadi final	ts	ṣ	igual que צ	Forma final, baja bajo la línea. Gematria 900.	צָדִי סוֹפִית
+ק	qof	q	q	como la c de «casa» (k gutural)	Gematria 100.	קוֹף
+ר	resh	r	r	como la r suave de «pera»	No es la rr fuerte. Gematria 200.	רֵישׁ
+ש	shin	sh (o s)	š, ś	con punto a la derecha (ׁ) = sh; a la izquierda (ׂ) = s	Una letra con dos lecturas. Gematria 300.	שִׁין
+ת	tav	t	t	t	Con dagesh t; sin dagesh, t (tradición sefardí). Gematria 400.	תָּו

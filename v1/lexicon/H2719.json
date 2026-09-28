@@ -1,0 +1,59 @@
+{
+ "strong": "H2719",
+ "he": "חרב",
+ "xlit": "chereb",
+ "pron": "kheh'-reb",
+ "def_en": [
+  "1) sword, knife",
+  "1a) sword",
+  "1b) knife",
+  "1c) tools for cutting stone"
+ ],
+ "kjv": "axe, dagger, knife, mattock, sword, tool.",
+ "expl": "drought; also a cutting instrument (from its destructive effect), as a knife, sword, or other sharp implement",
+ "etim": "from ;",
+ "raices": [
+  "H2717"
+ ],
+ "ocurrencias": 413,
+ "formas": [
+  {
+   "forma": "חרב",
+   "forma_he": "חָֽרֶב",
+   "n": 166,
+   "ref": "bereshit/31/26"
+  },
+  {
+   "forma": "בחרב",
+   "forma_he": "בֶחָֽרֶב",
+   "n": 99,
+   "ref": "shemot/5/3"
+  },
+  {
+   "forma": "החרב",
+   "forma_he": "הַחֶ֨רֶב֙",
+   "n": 28,
+   "ref": "bereshit/3/24"
+  },
+  {
+   "forma": "חרבו",
+   "forma_he": "חָֽרְב֥וּ",
+   "n": 18,
+   "ref": "bereshit/8/13"
+  },
+  {
+   "forma": "וחרב",
+   "forma_he": "וְחֶ֖רֶב",
+   "n": 17,
+   "ref": "vayikra/26/6"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HRd/Ncfsa",
+  "HTd/Ncfsa",
+  "HNcfsc/Sp3ms",
+  "HNcfsc"
+ ],
+ "glosa_es": "espada"
+}

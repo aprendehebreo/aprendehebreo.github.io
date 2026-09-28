@@ -1,0 +1,43 @@
+{
+ "strong": "H477",
+ "he": "אלישע",
+ "xlit": "ʼĔlîyshâʻ",
+ "pron": "el-ee-shaw'",
+ "def_en": [
+  "Elisha = \"God is salvation\"",
+  "1) the great prophet who succeeded Elijah"
+ ],
+ "kjv": "Elisha.",
+ "expl": "Elisha, the famous prophet",
+ "etim": "contracted for .;",
+ "raices": [
+  "H474"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "אלישע",
+   "forma_he": "אֱלִישָׁ֤ע",
+   "n": 50,
+   "ref": "mlakhim_a/19/16"
+  },
+  {
+   "forma": "ואלישע",
+   "forma_he": "וֶאֱלִישָׁ֖ע",
+   "n": 7,
+   "ref": "mlakhim_b/2/1"
+  },
+  {
+   "forma": "לאלישע",
+   "forma_he": "לֶאֱלִישָֽׁע",
+   "n": 1,
+   "ref": "mlakhim_b/5/9"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

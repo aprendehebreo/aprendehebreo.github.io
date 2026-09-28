@@ -1,0 +1,61 @@
+{
+ "strong": "H8354",
+ "he": "שתה",
+ "xlit": "shâthâh",
+ "pron": "shaw-thaw'",
+ "def_en": [
+  "1) to drink",
+  "1a) (Qal)",
+  "1a1) to drink",
+  "1a1a) of drinking cup of God's wrath, of slaughter, of wicked deeds (fig)",
+  "1a2) to feast",
+  "1b) (Niphal) to be drunk"
+ ],
+ "kjv": "[idiom] assuredly, banquet, [idiom] certainly, drink(-er, -ing), drunk ([idiom] -ard), surely. (Prop. intensive of .)",
+ "expl": "to imbibe (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [
+  "H8248"
+ ],
+ "ocurrencias": 217,
+ "formas": [
+  {
+   "forma": "שתה",
+   "forma_he": "שְׁתֵ֔ה",
+   "n": 20,
+   "ref": "bereshit/24/14"
+  },
+  {
+   "forma": "לשתות",
+   "forma_he": "לִשְׁתּ֔וֹת",
+   "n": 19,
+   "ref": "bereshit/24/22"
+  },
+  {
+   "forma": "ישתו",
+   "forma_he": "יִשְׁתּ֖וּ",
+   "n": 15,
+   "ref": "devarim/32/38"
+  },
+  {
+   "forma": "וישתו",
+   "forma_he": "וַיִּשְׁתּ֗וּ",
+   "n": 13,
+   "ref": "bereshit/24/54"
+  },
+  {
+   "forma": "ישתה",
+   "forma_he": "יִשְׁתֶּ֤ה",
+   "n": 13,
+   "ref": "bereshit/44/5"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HVqi3mp",
+  "HC/Vqw3mp",
+  "HVqi3ms",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": "beber"
+}

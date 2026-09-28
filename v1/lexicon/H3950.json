@@ -1,0 +1,63 @@
+{
+ "strong": "H3950",
+ "he": "לקט",
+ "xlit": "lâqaṭ",
+ "pron": "law-kat'",
+ "def_en": [
+  "1) to pick up, gather, glean, gather up",
+  "1a) (Qal)",
+  "1a1) to pick up, gather",
+  "1a2) to glean",
+  "1b) (Piel)",
+  "1b1) to gather, gather up",
+  "1b2) to collect (money)",
+  "1b3) to glean",
+  "1c) (Pual) to be picked up",
+  "1d) (Hithpael) to collect oneself"
+ ],
+ "kjv": "gather (up), glean.",
+ "expl": "properly, to pick up, i.e. (generally) to gather; specifically, to glean",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "ללקט",
+   "forma_he": "לִלְקֹ֑ט",
+   "n": 5,
+   "ref": "shemot/16/27"
+  },
+  {
+   "forma": "לקטו",
+   "forma_he": "לִקְט֣וּ",
+   "n": 4,
+   "ref": "bereshit/31/46"
+  },
+  {
+   "forma": "תלקט",
+   "forma_he": "תְלַקֵּֽט",
+   "n": 4,
+   "ref": "vayikra/19/9"
+  },
+  {
+   "forma": "וילקט",
+   "forma_he": "וַיְלַקֵּ֣ט",
+   "n": 3,
+   "ref": "bereshit/47/14"
+  },
+  {
+   "forma": "ולקטו",
+   "forma_he": "וְלָֽקְטוּ֙",
+   "n": 2,
+   "ref": "shemot/16/4"
+  }
+ ],
+ "morph": [
+  "HC/Vpw3ms",
+  "HVpi2ms",
+  "HR/Vpc",
+  "HVqv2mp",
+  "HC/Vqq3cp"
+ ],
+ "glosa_es": ""
+}

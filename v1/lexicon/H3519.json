@@ -1,0 +1,62 @@
+{
+ "strong": "H3519",
+ "he": "כבוד",
+ "xlit": "kâbôwd",
+ "pron": "kaw-bode'",
+ "def_en": [
+  "1) glory, honour, glorious, abundance",
+  "1a) abundance, riches",
+  "1b) honour, splendour, glory",
+  "1c) honour, dignity",
+  "1d) honour, reputation",
+  "1e) honour, reverence, glory",
+  "1f) glory"
+ ],
+ "kjv": "glorious(-ly), glory, honour(-able).",
+ "expl": "properly, weight, but only figuratively in a good sense, splendor or copiousness",
+ "etim": "rarely ; from ;",
+ "raices": [
+  "H3513"
+ ],
+ "ocurrencias": 200,
+ "formas": [
+  {
+   "forma": "כבוד",
+   "forma_he": "כְּב֣וֹד",
+   "n": 85,
+   "ref": "shemot/16/7"
+  },
+  {
+   "forma": "וכבוד",
+   "forma_he": "וּכְב֣וֹד",
+   "n": 26,
+   "ref": "shemot/40/34"
+  },
+  {
+   "forma": "כבודו",
+   "forma_he": "כְבוֹדֽוֹ",
+   "n": 14,
+   "ref": "yeshayahu/3/8"
+  },
+  {
+   "forma": "כבודי",
+   "forma_he": "כְּבוֹדִי֙",
+   "n": 13,
+   "ref": "bereshit/45/13"
+  },
+  {
+   "forma": "כבודך",
+   "forma_he": "כְּבוֹדֶ֔ךָ",
+   "n": 10,
+   "ref": "yeshayahu/22/18"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HNcbsa",
+  "HNcbsc/Sp1cs",
+  "HNcbsc/Sp3ms",
+  "HC/Ncbsa"
+ ],
+ "glosa_es": "gloria; honra; esplendor"
+}

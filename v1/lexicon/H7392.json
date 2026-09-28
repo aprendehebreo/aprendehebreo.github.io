@@ -1,0 +1,62 @@
+{
+ "strong": "H7392",
+ "he": "רכב",
+ "xlit": "râkab",
+ "pron": "raw-kab'",
+ "def_en": [
+  "1) to mount and ride, ride",
+  "1a) (Qal)",
+  "1a1) to mount, mount and sit or ride",
+  "1a2) to ride, be riding",
+  "1a3) rider (subst)",
+  "1b) (Hiphil)",
+  "1b1) to cause to ride, cause to (mount and) ride",
+  "1b2) to cause to draw (plough, etc)",
+  "1b3) to cause to ride upon (fig)"
+ ],
+ "kjv": "bring (on (horse-) back), carry, get (oneself) up, on (horse-) back, put, (cause to, make to) ride (in a chariot, on, -r), set.",
+ "expl": "to ride (on an animal or in a vehicle); causatively, to place upon (for riding or generally), to despatch",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 78,
+ "formas": [
+  {
+   "forma": "רכב",
+   "forma_he": "רֶ֖כֶב",
+   "n": 10,
+   "ref": "bereshit/50/9"
+  },
+  {
+   "forma": "רכבי",
+   "forma_he": "רֹכְבֵי֩",
+   "n": 8,
+   "ref": "shoftim/5/10"
+  },
+  {
+   "forma": "וירכב",
+   "forma_he": "וַיַּרְכֵּ֣ב",
+   "n": 7,
+   "ref": "bereshit/41/43"
+  },
+  {
+   "forma": "רכבים",
+   "forma_he": "רֹֽכְבִים֙",
+   "n": 7,
+   "ref": "shoftim/10/4"
+  },
+  {
+   "forma": "וירכבו",
+   "forma_he": "וַיַּרְכִּ֜בוּ",
+   "n": 6,
+   "ref": "shmuel_b/6/3"
+  }
+ ],
+ "morph": [
+  "HVqrmpc",
+  "HVqrmpa",
+  "HVqrmsa",
+  "HC/Vhw3mp",
+  "HC/Vqrmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

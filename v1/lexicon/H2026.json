@@ -1,0 +1,59 @@
+{
+ "strong": "H2026",
+ "he": "הרג",
+ "xlit": "hârag",
+ "pron": "haw-rag'",
+ "def_en": [
+  "1) to kill, slay, murder, destroy, murderer, slayer, out of hand",
+  "1a) (Qal)",
+  "1a1) to kill, slay",
+  "1a2) to destroy, ruin",
+  "1b) (Niphal) to be killed",
+  "1c) (Pual) to be killed, be slain"
+ ],
+ "kjv": "destroy, out of hand, kill, murder(-er), put to (death), make (slaughter), slay(-er), [idiom] surely.",
+ "expl": "to smite with deadly intent",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 167,
+ "formas": [
+  {
+   "forma": "הרגו",
+   "forma_he": "הֲרָג֖וֹ",
+   "n": 22,
+   "ref": "bereshit/4/25"
+  },
+  {
+   "forma": "הרג",
+   "forma_he": "הֹרֵ֣ג",
+   "n": 17,
+   "ref": "bereshit/4/15"
+  },
+  {
+   "forma": "ויהרג",
+   "forma_he": "וַיַּהֲרֹ֨ג",
+   "n": 15,
+   "ref": "shemot/13/15"
+  },
+  {
+   "forma": "להרג",
+   "forma_he": "לַהֲרֹ֣ג",
+   "n": 9,
+   "ref": "shemot/2/15"
+  },
+  {
+   "forma": "יהרג",
+   "forma_he": "יַהֲרֹֽג",
+   "n": 7,
+   "ref": "yeshayahu/14/30"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HC/Vqw3ms",
+  "HR/Vqc",
+  "HVqp3ms",
+  "HVqp2ms"
+ ],
+ "glosa_es": "matar; asesinar"
+}

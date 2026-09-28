@@ -1,0 +1,62 @@
+{
+ "strong": "H834",
+ "he": "אשר",
+ "xlit": "ʼăsher",
+ "pron": "ash-er'",
+ "def_en": [
+  "1) (relative part.)",
+  "1a) which, who",
+  "1b) that which",
+  "2) (conj)",
+  "2a) that (in obj clause)",
+  "2b) when",
+  "2c) since",
+  "2d) as",
+  "2e) conditional if"
+ ],
+ "kjv": "[idiom] after, [idiom] alike, as (soon as), because, [idiom] every, for, [phrase] forasmuch, [phrase] from whence, [phrase] how(-soever), [idiom] if, (so) that ((thing) which, wherein), [idiom] though, [phrase] until, [phrase] whatsoever, when, where ([phrase] -as, -in, -of, -on, -soever, -with), which, whilst, [phrase] whither(-soever), who(-m, -soever, -se). As it is indeclinable, it is often accompanied by the personal pronoun expletively, used to show the connection.",
+ "expl": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc.",
+ "etim": "a primitive relative pronoun (of every gender and number);",
+ "raices": [],
+ "ocurrencias": 5503,
+ "formas": [
+  {
+   "forma": "אשר",
+   "forma_he": "אֲשֶׁר֙",
+   "n": 4809,
+   "ref": "bereshit/1/7"
+  },
+  {
+   "forma": "כאשר",
+   "forma_he": "כַּֽאֲשֶׁ֛ר",
+   "n": 496,
+   "ref": "bereshit/7/9"
+  },
+  {
+   "forma": "ואשר",
+   "forma_he": "וַֽאֲשֶׁ֥ר",
+   "n": 108,
+   "ref": "bereshit/7/23"
+  },
+  {
+   "forma": "לאשר",
+   "forma_he": "לַאֲשֶׁ֥ר",
+   "n": 23,
+   "ref": "bereshit/27/8"
+  },
+  {
+   "forma": "באשר",
+   "forma_he": "בַּאֲשֶׁ֥ר",
+   "n": 15,
+   "ref": "bereshit/21/17"
+  }
+ ],
+ "morph": [
+  "HTr",
+  "HR/Tr",
+  "HC/Tr",
+  "HC/R/Tr",
+  "HTi/Tr"
+ ],
+ "glosa_es": "que; el cual; quien"
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H5271",
+ "he": "נעור",
+ "xlit": "nâʻûwr",
+ "pron": "naw-oor'",
+ "def_en": [
+  "1) youth, early life"
+ ],
+ "kjv": "childhood, youth.",
+ "expl": "(only in plural collectively or emphatic form) youth, the state (juvenility) or the persons (young people)",
+ "etim": "or ; and (feminine) ; properly, passive participle from as denominative;",
+ "raices": [
+  "H5288"
+ ],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "נעוריך",
+   "forma_he": "נְעוּרַ֔יִךְ",
+   "n": 8,
+   "ref": "yirmiyahu/2/2"
+  },
+  {
+   "forma": "מנעורי",
+   "forma_he": "מִנְּעוּרַ֣י",
+   "n": 7,
+   "ref": "yechezkel/4/14"
+  },
+  {
+   "forma": "נעוריה",
+   "forma_he": "נְעוּרֶ֔יהָ",
+   "n": 4,
+   "ref": "yechezkel/23/19"
+  },
+  {
+   "forma": "מנעורינו",
+   "forma_he": "מִנְּעוּרֵ֣ינוּ",
+   "n": 3,
+   "ref": "bereshit/46/34"
+  },
+  {
+   "forma": "מנעוריך",
+   "forma_he": "מִנְּעוּרָ֑יִךְ",
+   "n": 3,
+   "ref": "yeshayahu/47/12"
+  }
+ ],
+ "morph": [
+  "HR/Ncbpc/Sp1cs",
+  "HNcbpc/Sp2fs",
+  "HR/Ncbpc/Sp3ms",
+  "HR/Ncbpc/Sp3fs",
+  "HNcbpc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

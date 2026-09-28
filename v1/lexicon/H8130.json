@@ -1,0 +1,61 @@
+{
+ "strong": "H8130",
+ "he": "שנא",
+ "xlit": "sânêʼ",
+ "pron": "saw-nay'",
+ "def_en": [
+  "1) to hate, be hateful",
+  "1a) (Qal) to hate",
+  "1a1) of man",
+  "1a2) of God",
+  "1a3) hater, one hating, enemy (participle) (subst)",
+  "1b) (Niphal) to be hated",
+  "1c) (Piel) hater (participle)",
+  "1c1) of persons, nations, God, wisdom"
+ ],
+ "kjv": "enemy, foe, (be) hate(-ful, -r), odious, [idiom] utterly.",
+ "expl": "to hate (personally)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 148,
+ "formas": [
+  {
+   "forma": "שנא",
+   "forma_he": "שְׂנֹ֥א",
+   "n": 15,
+   "ref": "bereshit/37/5"
+  },
+  {
+   "forma": "שנאתי",
+   "forma_he": "שָׂנֵֽאתִי",
+   "n": 14,
+   "ref": "yirmiyahu/44/4"
+  },
+  {
+   "forma": "שנאי",
+   "forma_he": "שֹׂ֣נְאֵי",
+   "n": 10,
+   "ref": "shemot/18/21"
+  },
+  {
+   "forma": "משנאי",
+   "forma_he": "מִשֹּׂ֣נְאַ֔י",
+   "n": 8,
+   "ref": "shmuel_b/22/18"
+  },
+  {
+   "forma": "שונא",
+   "forma_he": "שׂוֹנֵ֑א",
+   "n": 8,
+   "ref": "tehilim/106/10"
+  }
+ ],
+ "morph": [
+  "HVqp1cs",
+  "HVqrmsa",
+  "HR/Vqrmpc/Sp1cs",
+  "HVqrmpc/Sp2ms",
+  "HVqp3ms"
+ ],
+ "glosa_es": ""
+}

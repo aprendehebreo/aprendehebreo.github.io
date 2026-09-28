@@ -1,0 +1,62 @@
+{
+ "strong": "H4557",
+ "he": "מספר",
+ "xlit": "miçpâr",
+ "pron": "mis-pawr'",
+ "def_en": [
+  "1) number, tale",
+  "1a) number",
+  "1a1) number",
+  "1a2) innumerable (with negative)",
+  "1a3) few, numerable (alone)",
+  "1a4) by count, in number, according to number (with prep)",
+  "1b) recounting, relation"
+ ],
+ "kjv": "[phrase] abundance, account, [idiom] all, [idiom] few, (in-) finite, (certain) number(-ed), tale, telling, [phrase] time.",
+ "expl": "a number, definite (arithmetical) or indefinite (large, innumerable; small, a few); also (abstractly) narration",
+ "etim": "from ;",
+ "raices": [
+  "H5608"
+ ],
+ "ocurrencias": 134,
+ "formas": [
+  {
+   "forma": "מספר",
+   "forma_he": "מִסְפָּ֔ר",
+   "n": 65,
+   "ref": "bereshit/34/30"
+  },
+  {
+   "forma": "במספר",
+   "forma_he": "בְּמִסְפַּ֤ר",
+   "n": 35,
+   "ref": "vayikra/25/15"
+  },
+  {
+   "forma": "מספרם",
+   "forma_he": "מִסְפָּרָ֑ם",
+   "n": 8,
+   "ref": "ezra/1/9"
+  },
+  {
+   "forma": "במספרם",
+   "forma_he": "בְּמִסְפָּרָ֖ם",
+   "n": 7,
+   "ref": "bamidbar/29/18"
+  },
+  {
+   "forma": "ומספר",
+   "forma_he": "וּמִסְפָּ֖ר",
+   "n": 5,
+   "ref": "bamidbar/23/10"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsa",
+  "HR/Ncmsc/Sp3mp",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H2451",
+ "he": "חכמה",
+ "xlit": "chokmâh",
+ "pron": "khok-maw'",
+ "def_en": [
+  "1) wisdom",
+  "1a) skill (in war)",
+  "1b) wisdom (in administration)",
+  "1c) shrewdness, wisdom",
+  "1d) wisdom, prudence (in religious affairs)",
+  "1e) wisdom (ethical and religious)"
+ ],
+ "kjv": "skilful, wisdom, wisely, wit.",
+ "expl": "wisdom (in a good sense)",
+ "etim": "from ;",
+ "raices": [
+  "H2449"
+ ],
+ "ocurrencias": 149,
+ "formas": [
+  {
+   "forma": "חכמה",
+   "forma_he": "חָכְמָ֑ה",
+   "n": 74,
+   "ref": "shemot/28/3"
+  },
+  {
+   "forma": "בחכמה",
+   "forma_he": "בְּחָכְמָ֛ה",
+   "n": 15,
+   "ref": "shemot/31/3"
+  },
+  {
+   "forma": "חכמת",
+   "forma_he": "חַכְמַת",
+   "n": 12,
+   "ref": "shemot/35/25"
+  },
+  {
+   "forma": "חכמתך",
+   "forma_he": "חָכְמָתֶֽךָ",
+   "n": 9,
+   "ref": "mlakhim_a/10/6"
+  },
+  {
+   "forma": "החכמה",
+   "forma_he": "הַחָכְמָ֤ה",
+   "n": 5,
+   "ref": "mlakhim_a/7/14"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HNcfsc",
+  "HNcfsc/Sp2ms",
+  "HRd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

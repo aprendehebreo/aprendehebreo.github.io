@@ -1,0 +1,58 @@
+{
+ "strong": "H4908",
+ "he": "משכן",
+ "xlit": "mishkân",
+ "pron": "mish-kawn'",
+ "def_en": [
+  "1) dwelling place, tabernacle",
+  "1a) dwelling-place",
+  "1b) dwellings"
+ ],
+ "kjv": "dwelleth, dwelling (place), habitation, tabernacle, tent.",
+ "expl": "a residence (including a shepherd's hut, the lair of animals, figuratively, the grave; also the Temple); specifically, the Tabernacle (properly, its wooden walls)",
+ "etim": "from ;",
+ "raices": [
+  "H7931"
+ ],
+ "ocurrencias": 139,
+ "formas": [
+  {
+   "forma": "המשכן",
+   "forma_he": "הַמִּשְׁכָּ֔ן",
+   "n": 76,
+   "ref": "shemot/25/9"
+  },
+  {
+   "forma": "משכן",
+   "forma_he": "מִשְׁכַּ֣ן",
+   "n": 24,
+   "ref": "shemot/38/21"
+  },
+  {
+   "forma": "למשכן",
+   "forma_he": "לַמִּשְׁכָּ֑ן",
+   "n": 11,
+   "ref": "shemot/26/15"
+  },
+  {
+   "forma": "משכנות",
+   "forma_he": "מִשְׁכָּנ֥וֹת",
+   "n": 6,
+   "ref": "chavakuk/1/6"
+  },
+  {
+   "forma": "משכני",
+   "forma_he": "מִשְׁכָּנִ֖י",
+   "n": 4,
+   "ref": "vayikra/15/31"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HRd/Ncmsa",
+  "HNcmpc",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "H1878",
+ "he": "דשן",
+ "xlit": "dâshên",
+ "pron": "daw-shane'",
+ "def_en": [
+  "1) to be fat, grow fat, become fat, become prosperous, anoint",
+  "1a) (Qal) of prosperity (fig.)",
+  "1b) (Piel)",
+  "1b1) to make fat, anoint",
+  "1b2) to find fat (of offering-acceptable)",
+  "1b3) to take away ashes (from altar)",
+  "1c) (Pual) to be made fat",
+  "1d) (Hothpael) to fatten oneself (of Jehovah's sword)"
+ ],
+ "kjv": "accept, anoint, take away the (receive) ashes (from), make (wax) fat.",
+ "expl": "to be fat; transitively, to fatten (or regard as fat); specifically to anoint; figuratively, to satisfy; to remove (fat) ashes (of sacrifices)",
+ "etim": "a primitive root; also denominatively (from )",
+ "raices": [
+  "H1880"
+ ],
+ "ocurrencias": 11,
+ "formas": [
+  {
+   "forma": "תדשן",
+   "forma_he": "תְדֻשָּׁ֑ן",
+   "n": 3,
+   "ref": "mishlei/11/25"
+  },
+  {
+   "forma": "ידשן",
+   "forma_he": "יְדֻשָּֽׁן",
+   "n": 2,
+   "ref": "yeshayahu/34/7"
+  },
+  {
+   "forma": "לדשנו",
+   "forma_he": "לְדַשְּׁנ֔וֹ",
+   "n": 1,
+   "ref": "shemot/27/3"
+  },
+  {
+   "forma": "ודשנו",
+   "forma_he": "וְדִשְּׁנ֖וּ",
+   "n": 1,
+   "ref": "bamidbar/4/13"
+  },
+  {
+   "forma": "ודשן",
+   "forma_he": "וְדָשֵׁ֑ן",
+   "n": 1,
+   "ref": "devarim/31/20"
+  }
+ ],
+ "morph": [
+  "HVPi3ms",
+  "HVPi3fs",
+  "HR/Vpc/Sp3ms",
+  "HC/Vpq3cp",
+  "HC/Vqq3ms"
+ ],
+ "glosa_es": ""
+}

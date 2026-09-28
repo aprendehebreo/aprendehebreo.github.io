@@ -1,0 +1,84 @@
+{
+ "strong": "H2388",
+ "he": "חזק",
+ "xlit": "châzaq",
+ "pron": "khaw-zak'",
+ "def_en": [
+  "1) to strengthen, prevail, harden, be strong, become strong, be courageous, be firm, grow firm, be resolute, be sore",
+  "1a) (Qal)",
+  "1a1) to be strong, grow strong",
+  "1a1a) to prevail, prevail upon",
+  "1a1b) to be firm, be caught fast, be secure",
+  "1a1c) to press, be urgent",
+  "1a1d) to grow stout, grow rigid, grow hard (bad sense)",
+  "1a1e) to be severe, be grievous",
+  "1a2) to strengthen",
+  "1b) (Piel)",
+  "1b1) to make strong",
+  "1b2) to restore to strength, give strength",
+  "1b3) to strengthen, sustain, encourage",
+  "1b4) to make strong, make bold, encourage",
+  "1b5) to make firm",
+  "1b6) to make rigid, make hard",
+  "1c) (Hiphil)",
+  "1c1) to make strong, strengthen",
+  "1c2) to make firm",
+  "1c3) to display strength",
+  "1c4) to make severe",
+  "1c5) to support",
+  "1c6) to repair",
+  "1c7) to prevail, prevail upon",
+  "1c8) to have or take or keep hold of, retain, hold up, sustain, support",
+  "1c9) to hold, contain",
+  "1d) (Hithpael)",
+  "1d1) to strengthen oneself",
+  "1d2) to put forth strength, use one's strength",
+  "1d3) to withstand",
+  "1d4) to hold strongly with"
+ ],
+ "kjv": "aid, amend, [idiom] calker, catch, cleave, confirm, be constant, constrain, continue, be of good (take) courage(-ous, -ly), encourage (self), be established, fasten, force, fortify, make hard, harden, help, (lay) hold (fast), lean, maintain, play the man, mend, become (wax) mighty, prevail, be recovered, repair, retain, seize, be (wax) sore, strengthen (self), be stout, be (make, shew, wax) strong(-er), be sure, take (hold), be urgent, behave self valiantly, withstand.",
+ "expl": "to fasten upon; hence, to seize, be strong (figuratively, courageous, causatively strengthen, cure, help, repair, fortify), obstinate; to bind, restrain, conquer",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 290,
+ "formas": [
+  {
+   "forma": "ויחזק",
+   "forma_he": "וַיֶּחֱזַ֥ק",
+   "n": 38,
+   "ref": "bereshit/41/56"
+  },
+  {
+   "forma": "חזק",
+   "forma_he": "חָזַ֥ק",
+   "n": 29,
+   "ref": "bereshit/41/57"
+  },
+  {
+   "forma": "החזיק",
+   "forma_he": "הֶֽחֱזִ֑יק",
+   "n": 29,
+   "ref": "shoftim/7/8"
+  },
+  {
+   "forma": "חזקו",
+   "forma_he": "חִזְק֣וּ",
+   "n": 17,
+   "ref": "devarim/31/6"
+  },
+  {
+   "forma": "החזיקו",
+   "forma_he": "הֶחֱזִ֨יקוּ֙",
+   "n": 11,
+   "ref": "yirmiyahu/8/5"
+  }
+ ],
+ "morph": [
+  "HVhp3ms",
+  "HVqv2ms",
+  "HC/Vqw3ms",
+  "HC/Vpw3ms",
+  "HC/Vtw3ms"
+ ],
+ "glosa_es": "esforzarse; fortalecerse; asir"
+}

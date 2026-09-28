@@ -1,0 +1,59 @@
+{
+ "strong": "H205",
+ "he": "און",
+ "xlit": "ʼâven",
+ "pron": "aw-ven'",
+ "def_en": [
+  "1) trouble, wickedness, sorrow",
+  "1a) trouble, sorrow",
+  "1b) idolatry",
+  "1c) trouble of iniquity, wickedness"
+ ],
+ "kjv": "affliction, evil, false, idol, iniquity, mischief, mourners(-ing), naught, sorrow, unjust, unrighteous, vain, vanity, wicked(-ness). Compare .",
+ "expl": "strictly nothingness; also trouble. vanity, wickedness; specifically an idol",
+ "etim": "from an unused root perhaps meaning properly, to pant (hence, to exert oneself, usually in vain; to come to naught);",
+ "raices": [
+  "H369"
+ ],
+ "ocurrencias": 79,
+ "formas": [
+  {
+   "forma": "און",
+   "forma_he": "אֽוֹן",
+   "n": 66,
+   "ref": "bereshit/41/50"
+  },
+  {
+   "forma": "ואון",
+   "forma_he": "וְא֥וֹן",
+   "n": 4,
+   "ref": "bamidbar/16/1"
+  },
+  {
+   "forma": "אונים",
+   "forma_he": "אוֹנִים֙",
+   "n": 2,
+   "ref": "yeshayahu/40/26"
+  },
+  {
+   "forma": "באני",
+   "forma_he": "בְאֹנִ֜י",
+   "n": 1,
+   "ref": "devarim/26/14"
+  },
+  {
+   "forma": "אונך",
+   "forma_he": "אוֹנֵֽךְ",
+   "n": 1,
+   "ref": "yirmiyahu/4/14"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Ncmsa",
+  "HR/Ncmsa",
+  "HNcmpa",
+  "HNcmsc/Sp2fs"
+ ],
+ "glosa_es": ""
+}

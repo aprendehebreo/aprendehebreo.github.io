@@ -1,0 +1,56 @@
+{
+ "strong": "H5923",
+ "he": "על",
+ "xlit": "ʻôl",
+ "pron": "ole",
+ "def_en": [
+  "1) yoke"
+ ],
+ "kjv": "yoke.",
+ "expl": "a yoke (as imposed on the neck), literally or figuratively",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5953"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "על",
+   "forma_he": "עַל",
+   "n": 15,
+   "ref": "bereshit/1/2"
+  },
+  {
+   "forma": "עלכם",
+   "forma_he": "עֲלֵכֶ֑ם",
+   "n": 6,
+   "ref": "shemot/12/13"
+  },
+  {
+   "forma": "בעל",
+   "forma_he": "בָּֽעַל",
+   "n": 4,
+   "ref": "bereshit/20/3"
+  },
+  {
+   "forma": "עלנו",
+   "forma_he": "עֻלֵּ֑נוּ",
+   "n": 4,
+   "ref": "mlakhim_a/12/4"
+  },
+  {
+   "forma": "עלו",
+   "forma_he": "עֻלּ֖וֹ",
+   "n": 3,
+   "ref": "bereshit/27/40"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HNcmsc/Sp2mp",
+  "HNcmsc/Sp1cp",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

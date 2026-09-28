@@ -1,0 +1,59 @@
+{
+ "strong": "H7458",
+ "he": "רעב",
+ "xlit": "râʻâb",
+ "pron": "raw-awb'",
+ "def_en": [
+  "1) famine, hunger",
+  "1a) famine (in land, nation)",
+  "1a1) of Jehovah's word (fig)",
+  "1b) hunger (of individuals)"
+ ],
+ "kjv": "dearth, famine, [phrase] famished, hunger.",
+ "expl": "hunger (more or less extensive)",
+ "etim": "from ;",
+ "raices": [
+  "H7456"
+ ],
+ "ocurrencias": 101,
+ "formas": [
+  {
+   "forma": "רעב",
+   "forma_he": "רָעָ֖ב",
+   "n": 27,
+   "ref": "bereshit/12/10"
+  },
+  {
+   "forma": "הרעב",
+   "forma_he": "הָרָעָ֖ב",
+   "n": 24,
+   "ref": "bereshit/12/10"
+  },
+  {
+   "forma": "ברעב",
+   "forma_he": "בָּרָעָֽב",
+   "n": 19,
+   "ref": "bereshit/41/36"
+  },
+  {
+   "forma": "וברעב",
+   "forma_he": "וּבָרָעָ֣ב",
+   "n": 10,
+   "ref": "yirmiyahu/14/12"
+  },
+  {
+   "forma": "והרעב",
+   "forma_he": "וְהָרָעָ֣ב",
+   "n": 9,
+   "ref": "bereshit/41/56"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HC/Rd/Ncmsa",
+  "HC/Td/Ncmsa"
+ ],
+ "glosa_es": ""
+}

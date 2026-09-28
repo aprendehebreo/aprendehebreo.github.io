@@ -1,0 +1,63 @@
+{
+ "strong": "H5750",
+ "he": "עוד",
+ "xlit": "ʻôwd",
+ "pron": "ode",
+ "def_en": [
+  "subst",
+  "1) a going round, continuance",
+  "adv",
+  "2) still, yet, again, besides",
+  "2a) still, yet (of continuance or persistence)",
+  "2b) still, yet, more (of addition or repetition)",
+  "2c) again",
+  "2d) still, moreover, besides"
+ ],
+ "kjv": "again, [idiom] all life long, at all, besides, but, else, further(-more), henceforth, (any) longer, (any) more(-over), [idiom] once, since, (be) still, when, (good, the) while (having being), (as, because, whether, while) yet (within).",
+ "expl": "properly, iteration or continuance; used only adverbially (with or without preposition), again, repeatedly, still, more",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5749"
+ ],
+ "ocurrencias": 489,
+ "formas": [
+  {
+   "forma": "עוד",
+   "forma_he": "עוֹד֙",
+   "n": 394,
+   "ref": "bereshit/4/25"
+  },
+  {
+   "forma": "ועוד",
+   "forma_he": "וְעוֹד֙",
+   "n": 23,
+   "ref": "bereshit/45/6"
+  },
+  {
+   "forma": "עודנו",
+   "forma_he": "עוֹדֶ֥נּוּ",
+   "n": 15,
+   "ref": "bereshit/18/22"
+  },
+  {
+   "forma": "עד",
+   "forma_he": "עַ֤ד",
+   "n": 12,
+   "ref": "bereshit/3/19"
+  },
+  {
+   "forma": "בעוד",
+   "forma_he": "בְּע֣וֹד",
+   "n": 12,
+   "ref": "bereshit/40/13"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HC/D",
+  "HD/Sp3ms",
+  "HR/D",
+  "HTi/D"
+ ],
+ "glosa_es": "aún; todavía"
+}

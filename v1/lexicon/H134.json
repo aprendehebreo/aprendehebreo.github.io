@@ -1,0 +1,59 @@
+{
+ "strong": "H134",
+ "he": "אדן",
+ "xlit": "ʼeden",
+ "pron": "eh'-den",
+ "def_en": [
+  "1) base, pedestal, socket (strong, firm)",
+  "1a) pedestals of gold on which marble pillars were set",
+  "1b) pedestals of the earth, foundation of the earth",
+  "1c) pedestals, bases, or sockets on which tabernacle stood"
+ ],
+ "kjv": "foundation, socket.",
+ "expl": "a basis (of a building, a column, etc.)",
+ "etim": "from the same as (in the sense of strength);",
+ "raices": [
+  "H113"
+ ],
+ "ocurrencias": 57,
+ "formas": [
+  {
+   "forma": "ואדניהם",
+   "forma_he": "וְאַדְנֵיהֶ֣ם",
+   "n": 19,
+   "ref": "shemot/26/25"
+  },
+  {
+   "forma": "אדנים",
+   "forma_he": "אֲדָנִ֜ים",
+   "n": 15,
+   "ref": "shemot/26/19"
+  },
+  {
+   "forma": "אדני",
+   "forma_he": "אֲדֹנָ֤י",
+   "n": 11,
+   "ref": "bereshit/15/2"
+  },
+  {
+   "forma": "אדניה",
+   "forma_he": "אֲדֹנֶ֛יהָ",
+   "n": 3,
+   "ref": "shemot/21/8"
+  },
+  {
+   "forma": "ואדניו",
+   "forma_he": "וַאֲדָנָֽיו",
+   "n": 3,
+   "ref": "shemot/39/33"
+  }
+ ],
+ "morph": [
+  "HC/Ncmpc/Sp3mp",
+  "HNcmpa",
+  "HNcmpc",
+  "HNcmpc/Sp3fs",
+  "HC/Ncmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

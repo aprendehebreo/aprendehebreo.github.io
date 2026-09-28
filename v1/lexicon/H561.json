@@ -1,0 +1,56 @@
+{
+ "strong": "H561",
+ "he": "אמר",
+ "xlit": "ʼêmer",
+ "pron": "ay'-mer",
+ "def_en": [
+  "1) utterance, speech, word, saying, promise, command"
+ ],
+ "kjv": "answer, [idiom] appointed unto him, saying, speech, word.",
+ "expl": "something said",
+ "etim": "from ;",
+ "raices": [
+  "H559"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "אמרי",
+   "forma_he": "אִמְרִי",
+   "n": 24,
+   "ref": "bereshit/12/13"
+  },
+  {
+   "forma": "לאמרי",
+   "forma_he": "לָֽאֱמֹרִֽי",
+   "n": 5,
+   "ref": "bamidbar/22/2"
+  },
+  {
+   "forma": "אמריה",
+   "forma_he": "אֲמָרֶ֖יהָ",
+   "n": 4,
+   "ref": "shoftim/5/29"
+  },
+  {
+   "forma": "באמרי",
+   "forma_he": "בְּאִמְרֵי",
+   "n": 4,
+   "ref": "yeshayahu/32/7"
+  },
+  {
+   "forma": "אמריו",
+   "forma_he": "אֲ֭מָרָיו",
+   "n": 4,
+   "ref": "mishlei/17/27"
+  }
+ ],
+ "morph": [
+  "HNcmpc",
+  "HR/Ncmpc",
+  "HNcmpc/Sp1cs",
+  "HNcmpc/Sp3fs",
+  "HNcmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,45 @@
+{
+ "strong": "H4532",
+ "he": "מסה",
+ "xlit": "Maççâh",
+ "pron": "mas-saw'",
+ "def_en": [
+  "Massah = \"temptation\"",
+  "1) the place in the wilderness where the Israelites tested Jehovah",
+  "1a) also 'Meribah'"
+ ],
+ "kjv": "Massah.",
+ "expl": "Massah, a place in the Desert",
+ "etim": "the same as ;",
+ "raices": [
+  "H4531"
+ ],
+ "ocurrencias": 4,
+ "formas": [
+  {
+   "forma": "במסה",
+   "forma_he": "בַּמַּסָּֽה",
+   "n": 2,
+   "ref": "devarim/6/16"
+  },
+  {
+   "forma": "מסה",
+   "forma_he": "מַסָּ֖ה",
+   "n": 1,
+   "ref": "shemot/17/7"
+  },
+  {
+   "forma": "ובמסה",
+   "forma_he": "וּבְמַסָּ֔ה",
+   "n": 1,
+   "ref": "devarim/9/22"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HRd/Np",
+  "HC/R/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

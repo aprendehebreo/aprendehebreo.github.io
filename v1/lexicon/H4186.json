@@ -1,0 +1,61 @@
+{
+ "strong": "H4186",
+ "he": "מושב",
+ "xlit": "môwshâb",
+ "pron": "mo-shawb'",
+ "def_en": [
+  "1) seat, assembly, dwelling-place, dwelling, dwellers",
+  "1a) seat, sitting, those sitting, sitting company or assembly",
+  "1b) dwelling place, dwelling",
+  "1c) situation, location",
+  "1d) time of dwelling",
+  "1e) those dwelling, dweller"
+ ],
+ "kjv": "assembly, dwell in, dwelling(-place), wherein (that) dwelt (in), inhabited place, seat, sitting, situation, sojourning.",
+ "expl": "a seat; figuratively, a site; abstractly, a session; by extension an abode (the place or the time); by implication, population",
+ "etim": "or ; from ;",
+ "raices": [
+  "H3427"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "מושב",
+   "forma_he": "מוֹשַׁב֙",
+   "n": 9,
+   "ref": "vayikra/25/29"
+  },
+  {
+   "forma": "מושבתיכם",
+   "forma_he": "מוֹשְׁבֹ֣תֵיכֶ֔ם",
+   "n": 7,
+   "ref": "shemot/12/20"
+  },
+  {
+   "forma": "מושבך",
+   "forma_he": "מֽוֹשָׁבֶ֔ךָ",
+   "n": 3,
+   "ref": "bereshit/27/39"
+  },
+  {
+   "forma": "ומושב",
+   "forma_he": "וּמוֹשַׁב֙",
+   "n": 3,
+   "ref": "shemot/12/40"
+  },
+  {
+   "forma": "משבתיכם",
+   "forma_he": "מֹשְׁבֹֽתֵיכֶ֑ם",
+   "n": 3,
+   "ref": "shemot/35/3"
+  }
+ ],
+ "morph": [
+  "HNcmpc/Sp2mp",
+  "HNcmsc",
+  "HNcmpc/Sp3mp",
+  "HNcmsc/Sp2ms",
+  "HR/Ncmpc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

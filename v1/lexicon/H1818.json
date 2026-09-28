@@ -1,0 +1,58 @@
+{
+ "strong": "H1818",
+ "he": "דם",
+ "xlit": "dâm",
+ "pron": "dawm",
+ "def_en": [
+  "1) blood",
+  "1a) of wine (fig.)"
+ ],
+ "kjv": "blood(-y, -guiltiness, (-thirsty), [phrase] innocent.",
+ "expl": "blood (as that which when shed causes death) of man or an animal; by analogy, the juice of the grape; figuratively (especially in the plural) bloodshed (i.e. drops of blood)",
+ "etim": "from (compare );",
+ "raices": [
+  "H1826",
+  "H119"
+ ],
+ "ocurrencias": 361,
+ "formas": [
+  {
+   "forma": "דם",
+   "forma_he": "דַּ֣ם",
+   "n": 76,
+   "ref": "bereshit/9/6"
+  },
+  {
+   "forma": "הדם",
+   "forma_he": "הַדָּ֖ם",
+   "n": 66,
+   "ref": "shemot/7/21"
+  },
+  {
+   "forma": "דמו",
+   "forma_he": "דָמ֖וֹ",
+   "n": 24,
+   "ref": "bereshit/9/4"
+  },
+  {
+   "forma": "בדם",
+   "forma_he": "בַּדָּֽם",
+   "n": 21,
+   "ref": "bereshit/37/31"
+  },
+  {
+   "forma": "דמים",
+   "forma_he": "דָּמִ֛ים",
+   "n": 20,
+   "ref": "shemot/4/25"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": "sangre"
+}

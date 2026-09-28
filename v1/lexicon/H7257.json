@@ -1,0 +1,57 @@
+{
+ "strong": "H7257",
+ "he": "רבץ",
+ "xlit": "râbats",
+ "pron": "raw-bats'",
+ "def_en": [
+  "1) to stretch oneself out, lie down, lie stretched out",
+  "1a) (Qal) to lie down, lie",
+  "1b)(Hiphil) to cause to lie down",
+  "1b1) laying (stones)"
+ ],
+ "kjv": "crouch (down), fall down, make a fold, lay, (cause to, make to) lie (down), make to rest, sit.",
+ "expl": "to crouch (on all four legs folded, like a recumbent animal); be implication, to recline, repose, brood, lurk, imbed",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 30,
+ "formas": [
+  {
+   "forma": "רבץ",
+   "forma_he": "רֹבֵ֑ץ",
+   "n": 4,
+   "ref": "bereshit/4/7"
+  },
+  {
+   "forma": "ורבצו",
+   "forma_he": "וְרָבְצוּ",
+   "n": 4,
+   "ref": "yeshayahu/13/21"
+  },
+  {
+   "forma": "רבצת",
+   "forma_he": "רֹבֶ֣צֶת",
+   "n": 3,
+   "ref": "bereshit/49/25"
+  },
+  {
+   "forma": "ירבצו",
+   "forma_he": "יִרְבְּצ֣וּ",
+   "n": 3,
+   "ref": "yeshayahu/11/7"
+  },
+  {
+   "forma": "ירבץ",
+   "forma_he": "יִרְבָּ֑ץ",
+   "n": 2,
+   "ref": "yeshayahu/11/6"
+  }
+ ],
+ "morph": [
+  "HC/Vqq3cp",
+  "HVqrmsa",
+  "HVqrfsa",
+  "HVqi3ms",
+  "HVqi3mp"
+ ],
+ "glosa_es": ""
+}

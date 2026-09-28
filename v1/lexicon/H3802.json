@@ -1,0 +1,58 @@
+{
+ "strong": "H3802",
+ "he": "כתף",
+ "xlit": "kâthêph",
+ "pron": "kaw-thafe'",
+ "def_en": [
+  "1) shoulder, shoulder-blade, side, slope",
+  "1a) shoulder, shoulder-blade (of man)",
+  "1b) shoulder, shoulder-pieces (of animals)",
+  "1c) side, slope (of mountain)",
+  "1d) supports (of laver)"
+ ],
+ "kjv": "arm, corner, shoulder(-piece), side, undersetter.",
+ "expl": "the shoulder (proper, i.e. upper end of the arm; as being the spot where the garments hang); figuratively, side-piece or lateral projection of anything",
+ "etim": "from an unused root meaning to clothe;",
+ "raices": [],
+ "ocurrencias": 67,
+ "formas": [
+  {
+   "forma": "כתף",
+   "forma_he": "כֶּ֥תֶף",
+   "n": 29,
+   "ref": "bamidbar/34/11"
+  },
+  {
+   "forma": "כתפת",
+   "forma_he": "כְתֵפֹ֣ת",
+   "n": 7,
+   "ref": "shemot/28/7"
+  },
+  {
+   "forma": "מכתף",
+   "forma_he": "מִכֶּ֨תֶף",
+   "n": 5,
+   "ref": "mlakhim_a/7/39"
+  },
+  {
+   "forma": "כתפות",
+   "forma_he": "כִּתְפ֥וֹת",
+   "n": 4,
+   "ref": "shemot/28/25"
+  },
+  {
+   "forma": "הכתף",
+   "forma_he": "הַכָּתֵ֑ף",
+   "n": 4,
+   "ref": "shemot/38/14"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsa",
+  "HNcfpc",
+  "HR/Ncfsc",
+  "HNcfpa"
+ ],
+ "glosa_es": ""
+}

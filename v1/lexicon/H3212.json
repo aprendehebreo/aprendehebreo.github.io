@@ -1,0 +1,60 @@
+{
+ "strong": "H3212",
+ "he": "ילך",
+ "xlit": "yâlak",
+ "pron": "yaw-lak'",
+ "def_en": [
+  "1) to go, walk, come",
+  "1a) (Qal)",
+  "1a1) to go, walk, come, depart, proceed, move, go away",
+  "1a2) to die, live, manner of life (fig.)",
+  "1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+ ],
+ "kjv": "[idiom] again, away, bear, bring, carry (away), come (away), depart, flow, [phrase] follow(-ing), get (away, hence, him), (cause to, made) go (away, -ing, -ne, one's way, out), grow, lead (forth), let down, march, prosper, [phrase] pursue, cause to run, spread, take away (-journey), vanish, (cause to) walk(-ing), wax, [idiom] be weak.",
+ "expl": "to walk (literally or figuratively); causatively, to carry (in various senses)",
+ "etim": "a primitive root (compare );",
+ "raices": [
+  "H1980"
+ ],
+ "ocurrencias": 1044,
+ "formas": [
+  {
+   "forma": "וילך",
+   "forma_he": "וַיֵּ֣לֶךְ",
+   "n": 223,
+   "ref": "bereshit/12/4"
+  },
+  {
+   "forma": "וילכו",
+   "forma_he": "וַיֵּֽלְכוּ֙",
+   "n": 105,
+   "ref": "bereshit/9/23"
+  },
+  {
+   "forma": "לך",
+   "forma_he": "לְךָ֔",
+   "n": 92,
+   "ref": "bereshit/12/1"
+  },
+  {
+   "forma": "ללכת",
+   "forma_he": "לָלֶ֨כֶת֙",
+   "n": 84,
+   "ref": "bereshit/11/31"
+  },
+  {
+   "forma": "לכו",
+   "forma_he": "לְכ֣וּ",
+   "n": 68,
+   "ref": "bereshit/37/20"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HVqv2ms",
+  "HR/Vqc",
+  "HVqv2mp"
+ ],
+ "glosa_es": "ir; caminar"
+}

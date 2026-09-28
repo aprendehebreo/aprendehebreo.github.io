@@ -1,0 +1,63 @@
+{
+ "strong": "H4605",
+ "he": "מעל",
+ "xlit": "maʻal",
+ "pron": "mah'al",
+ "def_en": [
+  "subst",
+  "1) higher part, upper part",
+  "adv",
+  "1a) above",
+  "prep",
+  "1b) on the top of, above, on higher ground than",
+  "with locative",
+  "1c) upwards, higher, above"
+ ],
+ "kjv": "above, exceeding(-ly), forward, on ([idiom] very) high, over, up(-on, -ward), very.",
+ "expl": "properly, the upper part, used only adverbially with prefix upward, above, overhead, from the top, etc.",
+ "etim": "from ;",
+ "raices": [
+  "H5927"
+ ],
+ "ocurrencias": 140,
+ "formas": [
+  {
+   "forma": "ומעלה",
+   "forma_he": "וָמָ֑עְלָה",
+   "n": 51,
+   "ref": "shemot/30/14"
+  },
+  {
+   "forma": "למעלה",
+   "forma_he": "לְמַ֗עְלָה",
+   "n": 28,
+   "ref": "shemot/25/20"
+  },
+  {
+   "forma": "ממעל",
+   "forma_he": "מִמַּ֖עַל",
+   "n": 27,
+   "ref": "bereshit/22/9"
+  },
+  {
+   "forma": "מלמעלה",
+   "forma_he": "מִלְמַ֔עְלָה",
+   "n": 23,
+   "ref": "bereshit/6/16"
+  },
+  {
+   "forma": "ולמעלה",
+   "forma_he": "וּלְמָ֑עְלָה",
+   "n": 6,
+   "ref": "yechezkel/1/27"
+  }
+ ],
+ "morph": [
+  "HC/D/Sd",
+  "HR/D/Sd",
+  "HR/D",
+  "HR/R/D/Sd",
+  "HC/R/D/Sd"
+ ],
+ "glosa_es": ""
+}

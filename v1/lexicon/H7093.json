@@ -1,0 +1,58 @@
+{
+ "strong": "H7093",
+ "he": "קץ",
+ "xlit": "qêts",
+ "pron": "kates",
+ "def_en": [
+  "1) end",
+  "1a) end, at the end of (of time)",
+  "1b) end (of space)"
+ ],
+ "kjv": "[phrase] after, (utmost) border, end, (in-) finite, [idiom] process.",
+ "expl": "an extremity; adverbially (with prepositional prefix) after",
+ "etim": "contracted from ;",
+ "raices": [
+  "H7112"
+ ],
+ "ocurrencias": 67,
+ "formas": [
+  {
+   "forma": "מקץ",
+   "forma_he": "מִקֵּ֣ץ",
+   "n": 23,
+   "ref": "bereshit/4/3"
+  },
+  {
+   "forma": "קץ",
+   "forma_he": "קֵ֤ץ",
+   "n": 22,
+   "ref": "bereshit/6/13"
+  },
+  {
+   "forma": "הקץ",
+   "forma_he": "הַקֵּ֔ץ",
+   "n": 6,
+   "ref": "yechezkel/7/2"
+  },
+  {
+   "forma": "לקץ",
+   "forma_he": "לַקֵּ֖ץ",
+   "n": 4,
+   "ref": "chavakuk/2/3"
+  },
+  {
+   "forma": "ולקץ",
+   "forma_he": "וּלְקֵ֤ץ",
+   "n": 3,
+   "ref": "daniel/11/6"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp3ms",
+  "HC/R/Ncmsc"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H7323",
+ "he": "רוץ",
+ "xlit": "rûwts",
+ "pron": "roots",
+ "def_en": [
+  "1) to run",
+  "1a) (Qal)",
+  "1a1) to run",
+  "1a2) runners (participle as subst)",
+  "1b) (Polel) to run swiftly, dart",
+  "1c) (Hiphil)",
+  "1c1) to bring or move quickly, hurry",
+  "1c2) to drive away from, cause to run away"
+ ],
+ "kjv": "break down, divide speedily, footman, guard, bring hastily, (make) run (away, through), post.",
+ "expl": "to run (for whatever reason, especially to rush)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 104,
+ "formas": [
+  {
+   "forma": "וירץ",
+   "forma_he": "וַיָּ֤רָץ",
+   "n": 19,
+   "ref": "bereshit/18/2"
+  },
+  {
+   "forma": "הרצים",
+   "forma_he": "הָרָצִ֔ים",
+   "n": 18,
+   "ref": "mlakhim_a/14/27"
+  },
+  {
+   "forma": "רץ",
+   "forma_he": "רָ֣ץ",
+   "n": 12,
+   "ref": "bereshit/18/7"
+  },
+  {
+   "forma": "ירוץ",
+   "forma_he": "יָר֔וּץ",
+   "n": 5,
+   "ref": "yeshayahu/42/4"
+  },
+  {
+   "forma": "ותרץ",
+   "forma_he": "וַתָּ֥רָץ",
+   "n": 4,
+   "ref": "bereshit/24/20"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HTd/Vqrmpa",
+  "HVqrmsa",
+  "HVqi3ms",
+  "HC/Vqw3fs"
+ ],
+ "glosa_es": ""
+}

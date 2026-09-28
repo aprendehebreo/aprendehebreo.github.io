@@ -1,0 +1,58 @@
+{
+ "strong": "H3606",
+ "he": "כל",
+ "xlit": "kôl",
+ "pron": "kole",
+ "def_en": [
+  "1) all, whole, the whole",
+  "1a) the whole of, all",
+  "1b) every, any, none"
+ ],
+ "kjv": "all, any, + (forasmuch) as, + be-(for this) cause, every, + no (manner, -ne), + there (where) -fore, + though, what (where, who) -soever, (the) whole.",
+ "expl": "{properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)}",
+ "etim": "(Aramaic) corresponding to",
+ "raices": [
+  "H3605"
+ ],
+ "ocurrencias": 103,
+ "formas": [
+  {
+   "forma": "כל",
+   "forma_he": "כָּל",
+   "n": 61,
+   "ref": "bereshit/1/21"
+  },
+  {
+   "forma": "וכל",
+   "forma_he": "וְכָל",
+   "n": 18,
+   "ref": "bereshit/2/1"
+  },
+  {
+   "forma": "לכל",
+   "forma_he": "לְכָל",
+   "n": 10,
+   "ref": "bereshit/2/20"
+  },
+  {
+   "forma": "בכל",
+   "forma_he": "בְּכֹל֩",
+   "n": 7,
+   "ref": "bereshit/9/2"
+  },
+  {
+   "forma": "כלא",
+   "forma_he": "כֶּֽלֶא",
+   "n": 3,
+   "ref": "mlakhim_b/17/4"
+  }
+ ],
+ "morph": [
+  "ANcmsc",
+  "AC/C",
+  "AC/Ncmsc",
+  "AR/Ncmsc",
+  "ATo/Ncmsc"
+ ],
+ "glosa_es": ""
+}

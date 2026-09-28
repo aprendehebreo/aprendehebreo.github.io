@@ -1,0 +1,61 @@
+{
+ "strong": "H7272",
+ "he": "רגל",
+ "xlit": "regel",
+ "pron": "reh'-gel",
+ "def_en": [
+  "1) foot",
+  "1a) foot, leg",
+  "1b) of God (anthropomorphic)",
+  "1c) of seraphim, cherubim, idols, animals, table",
+  "1d) according to the pace of (with prep)",
+  "1e) three times (feet, paces)"
+ ],
+ "kjv": "[idiom] be able to endure, [idiom] according as, [idiom] after, [idiom] coming, [idiom] follow, (broken-)foot(-ed, -stool), [idiom] great toe, [idiom] haunt, [idiom] journey, leg, [phrase] piss, [phrase] possession, time.",
+ "expl": "a foot (as used in walking); by implication, a step; by euphemistically the pudenda",
+ "etim": "from ;",
+ "raices": [
+  "H7270"
+ ],
+ "ocurrencias": 251,
+ "formas": [
+  {
+   "forma": "רגלי",
+   "forma_he": "רַגְלִ֛י",
+   "n": 40,
+   "ref": "shemot/12/37"
+  },
+  {
+   "forma": "רגליו",
+   "forma_he": "רַגְלָ֔יו",
+   "n": 34,
+   "ref": "bereshit/24/32"
+  },
+  {
+   "forma": "רגל",
+   "forma_he": "רֶ֖גֶל",
+   "n": 19,
+   "ref": "shemot/21/24"
+  },
+  {
+   "forma": "רגלך",
+   "forma_he": "רַגְלְךָ֖",
+   "n": 17,
+   "ref": "devarim/28/35"
+  },
+  {
+   "forma": "רגליהם",
+   "forma_he": "רַגְלֵיהֶ֔ם",
+   "n": 15,
+   "ref": "bereshit/43/24"
+  }
+ ],
+ "morph": [
+  "HNcfdc/Sp3ms",
+  "HNcfdc/Sp1cs",
+  "HR/Ncfdc/Sp3ms",
+  "HNcfdc/Sp3mp",
+  "HNcfsc/Sp2ms"
+ ],
+ "glosa_es": "pie"
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H7723",
+ "he": "שוא",
+ "xlit": "shâvᵉʼ",
+ "pron": "shawv",
+ "def_en": [
+  "1) emptiness, vanity, falsehood",
+  "1a) emptiness, nothingness, vanity",
+  "1b) emptiness of speech, lying",
+  "1c) worthlessness (of conduct)"
+ ],
+ "kjv": "false(-ly), lie, lying, vain, vanity.",
+ "expl": "evil (as destructive), literally (ruin) or morally (especially guile); figuratively idolatry (as false, subjective), uselessness (as deceptive, objective; also adverbially, in vain)",
+ "etim": "or ; from the same as in the sense of desolating;",
+ "raices": [
+  "H7722"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "שוא",
+   "forma_he": "שָׁ֑וְא",
+   "n": 37,
+   "ref": "shemot/23/1"
+  },
+  {
+   "forma": "לשוא",
+   "forma_he": "לַשָּׁ֑וְא",
+   "n": 11,
+   "ref": "shemot/20/7"
+  },
+  {
+   "forma": "השוא",
+   "forma_he": "הַשָּׁ֑וְא",
+   "n": 2,
+   "ref": "yeshayahu/5/18"
+  },
+  {
+   "forma": "ושוא",
+   "forma_he": "וּשְׁוָ֖א",
+   "n": 2,
+   "ref": "shmuel_b/20/25"
+  },
+  {
+   "forma": "בשו",
+   "forma_he": "בֹּ֥שׁוּ",
+   "n": 1,
+   "ref": "yirmiyahu/14/3"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HTd/Ncmsa",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

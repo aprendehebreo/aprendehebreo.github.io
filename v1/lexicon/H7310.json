@@ -1,0 +1,35 @@
+{
+ "strong": "H7310",
+ "he": "רויה",
+ "xlit": "rᵉvâyâh",
+ "pron": "rev-aw-yaw'",
+ "def_en": [
+  "1) saturation"
+ ],
+ "kjv": "runneth over, wealthy.",
+ "expl": "satisfaction",
+ "etim": "from ;",
+ "raices": [
+  "H7301"
+ ],
+ "ocurrencias": 2,
+ "formas": [
+  {
+   "forma": "רויה",
+   "forma_he": "רְוָיָֽה",
+   "n": 1,
+   "ref": "tehilim/23/5"
+  },
+  {
+   "forma": "לרויה",
+   "forma_he": "לָֽרְוָיָֽה",
+   "n": 1,
+   "ref": "tehilim/66/12"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HRd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

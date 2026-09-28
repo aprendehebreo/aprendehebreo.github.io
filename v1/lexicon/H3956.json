@@ -1,0 +1,63 @@
+{
+ "strong": "H3956",
+ "he": "לשון",
+ "xlit": "lâshôwn",
+ "pron": "law-shone'",
+ "def_en": [
+  "1) tongue",
+  "1a) tongue (of men)",
+  "1a1) tongue (literal)",
+  "1a2) tongue (organ of speech)",
+  "1b) language",
+  "1c) tongue (of animals)",
+  "1d) tongue (of fire)",
+  "1e) wedge, bay of sea (tongue-shaped)"
+ ],
+ "kjv": "[phrase] babbler, bay, [phrase] evil speaker, language, talker, tongue, wedge.",
+ "expl": "the tongue (of man or animals), used literally (as the instrument of licking, eating, or speech), and figuratively (speech, an ingot, a fork of flame, a cove of water)",
+ "etim": "or ; also (in plural) feminine ; from ;",
+ "raices": [
+  "H3960"
+ ],
+ "ocurrencias": 117,
+ "formas": [
+  {
+   "forma": "לשון",
+   "forma_he": "לָשׁ֖וֹן",
+   "n": 37,
+   "ref": "shemot/4/10"
+  },
+  {
+   "forma": "לשונם",
+   "forma_he": "לְשׁוֹנָ֤ם",
+   "n": 12,
+   "ref": "yeshayahu/3/8"
+  },
+  {
+   "forma": "לשוני",
+   "forma_he": "לְשׁוּנִ֕י",
+   "n": 8,
+   "ref": "bamidbar/26/15"
+  },
+  {
+   "forma": "לשנו",
+   "forma_he": "לְשֹׁנ֔וֹ",
+   "n": 6,
+   "ref": "shemot/11/7"
+  },
+  {
+   "forma": "ולשון",
+   "forma_he": "וּלְשׁ֨וֹן",
+   "n": 6,
+   "ref": "yehoshua/7/21"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HNcbsa",
+  "HNcbsc/Sp3mp",
+  "HNcbsc/Sp3ms",
+  "HNcbsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

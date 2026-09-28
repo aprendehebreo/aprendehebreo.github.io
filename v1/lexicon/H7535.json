@@ -1,0 +1,48 @@
+{
+ "strong": "H7535",
+ "he": "רק",
+ "xlit": "raq",
+ "pron": "rak",
+ "def_en": [
+  "1) only, altogether, surely",
+  "1a) only",
+  "1b) only, nought but, altogether (in limitation)",
+  "1c) save, except (after a negative)",
+  "1d) only, altogether, surely (with an affirmative)",
+  "1e) if only, provided only (prefixed for emphasis)",
+  "1f) only, exclusively (for emphasis)"
+ ],
+ "kjv": "but, even, except, howbeit howsoever, at the least, nevertheless, nothing but, notwithstanding, only, save, so (that), surely, yet (so), in any wise.",
+ "expl": "properly, leanness, i.e. (figuratively) limitation; only adverbial, merely, or conjunctional, although",
+ "etim": "the same as as a noun;",
+ "raices": [
+  "H7534"
+ ],
+ "ocurrencias": 109,
+ "formas": [
+  {
+   "forma": "רק",
+   "forma_he": "רַ֥ק",
+   "n": 106,
+   "ref": "bereshit/6/5"
+  },
+  {
+   "forma": "ורק",
+   "forma_he": "וְרַק",
+   "n": 2,
+   "ref": "yehoshua/6/18"
+  },
+  {
+   "forma": "הרק",
+   "forma_he": "הֲרַ֤ק",
+   "n": 1,
+   "ref": "bamidbar/12/2"
+  }
+ ],
+ "morph": [
+  "HTa",
+  "HC/Ta",
+  "HTi/D"
+ ],
+ "glosa_es": ""
+}

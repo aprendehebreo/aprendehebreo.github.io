@@ -1,0 +1,56 @@
+{
+ "strong": "H2945",
+ "he": "טף",
+ "xlit": "ṭaph",
+ "pron": "taf",
+ "def_en": [
+  "1) children, little children, little ones"
+ ],
+ "kjv": "(little) children (ones), families.",
+ "expl": "a family (mostly used collectively in the singular)",
+ "etim": "from (perhaps referring to the tripping gait of children);",
+ "raices": [
+  "H2952"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "טפם",
+   "forma_he": "טַפָּם֙",
+   "n": 6,
+   "ref": "bereshit/34/29"
+  },
+  {
+   "forma": "והטף",
+   "forma_he": "וְהַטָּ֑ף",
+   "n": 6,
+   "ref": "devarim/2/34"
+  },
+  {
+   "forma": "הטף",
+   "forma_he": "הַטָּֽף",
+   "n": 5,
+   "ref": "bereshit/47/12"
+  },
+  {
+   "forma": "טפכם",
+   "forma_he": "טַפְּכֶ֑ם",
+   "n": 5,
+   "ref": "bereshit/50/21"
+  },
+  {
+   "forma": "טפנו",
+   "forma_he": "טַפֵּֽנוּ",
+   "n": 3,
+   "ref": "bereshit/43/8"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3mp",
+  "HC/Td/Ncmsa",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp2mp",
+  "HNcmsc/Sp1cp"
+ ],
+ "glosa_es": ""
+}

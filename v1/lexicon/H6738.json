@@ -1,0 +1,59 @@
+{
+ "strong": "H6738",
+ "he": "צל",
+ "xlit": "tsêl",
+ "pron": "tsale",
+ "def_en": [
+  "1) shadow, shade",
+  "1a) shadow (on dial)",
+  "1b) shadow, shade (as protection)",
+  "1c) shadow (symbolic of transitoriness of life)"
+ ],
+ "kjv": "defence, shade(-ow).",
+ "expl": "shade, whether literal or figurative",
+ "etim": "from ;",
+ "raices": [
+  "H6751"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "בצל",
+   "forma_he": "בְּצֵ֥ל",
+   "n": 13,
+   "ref": "bereshit/19/8"
+  },
+  {
+   "forma": "כצל",
+   "forma_he": "כְּצֵ֥ל",
+   "n": 9,
+   "ref": "yeshayahu/32/2"
+  },
+  {
+   "forma": "צל",
+   "forma_he": "צֵ֧ל",
+   "n": 6,
+   "ref": "shoftim/9/36"
+  },
+  {
+   "forma": "בצלו",
+   "forma_he": "בְצִלּ֖וֹ",
+   "n": 4,
+   "ref": "yechezkel/31/17"
+  },
+  {
+   "forma": "הצל",
+   "forma_he": "הַצֵּ֥ל",
+   "n": 3,
+   "ref": "mlakhim_b/18/30"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HRd/Ncmsa",
+  "HR/Ncmsa",
+  "HR/Ncmsc/Sp3ms",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

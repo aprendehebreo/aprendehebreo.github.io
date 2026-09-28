@@ -1,0 +1,56 @@
+{
+ "strong": "H4421",
+ "he": "מלחמה",
+ "xlit": "milchâmâh",
+ "pron": "mil-khaw-maw'",
+ "def_en": [
+  "1) battle, war"
+ ],
+ "kjv": "battle, fight(-ing), war(-rior).",
+ "expl": "a battle (i.e. the engagement); generally, war (i.e. warfare)",
+ "etim": "from (in the sense of fighting);",
+ "raices": [
+  "H3898"
+ ],
+ "ocurrencias": 319,
+ "formas": [
+  {
+   "forma": "מלחמה",
+   "forma_he": "מִלְחָמָ֗ה",
+   "n": 92,
+   "ref": "bereshit/14/2"
+  },
+  {
+   "forma": "למלחמה",
+   "forma_he": "לַמִּלְחָמָ֖ה",
+   "n": 71,
+   "ref": "bamidbar/21/33"
+  },
+  {
+   "forma": "המלחמה",
+   "forma_he": "הַמִּלְחָמָֽה",
+   "n": 69,
+   "ref": "bamidbar/31/14"
+  },
+  {
+   "forma": "במלחמה",
+   "forma_he": "בַּמִּלְחָמָ֔ה",
+   "n": 38,
+   "ref": "devarim/20/5"
+  },
+  {
+   "forma": "מלחמות",
+   "forma_he": "מִלְחֲמ֥וֹת",
+   "n": 11,
+   "ref": "shoftim/3/1"
+  }
+ ],
+ "morph": [
+  "HRd/Ncfsa",
+  "HNcfsa",
+  "HTd/Ncfsa",
+  "HC/Ncfsa",
+  "HNcfpc"
+ ],
+ "glosa_es": "guerra; batalla"
+}

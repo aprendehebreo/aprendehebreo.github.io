@@ -1,0 +1,64 @@
+{
+ "strong": "H6381",
+ "he": "פלא",
+ "xlit": "pâlâʼ",
+ "pron": "paw-law'",
+ "def_en": [
+  "1) to be marvellous, be wonderful, be surpassing, be extraordinary, separate by distinguishing action",
+  "1a) (Niphal)",
+  "1a1) to be beyond one's power, be difficult to do",
+  "1a2) to be difficult to understand",
+  "1a3) to be wonderful, be extraordinary",
+  "1a3a) marvellous (participle)",
+  "1b) (Piel) to separate (an offering)",
+  "1c) (Hiphil)",
+  "1c1) to do extraordinary or hard or difficult thing",
+  "1c2) to make wonderful, do wondrously",
+  "1d) (Hithpael) to show oneself wonderful or marvellous"
+ ],
+ "kjv": "accomplish, (arise...too, be too) hard, hidden, things too high, (be, do, do a, shew) marvelous(-ly, -els, things, work), miracles, perform, separate, make singular, (be, great, make) wonderful(-ers, -ly, things, works), wondrous (things, works, -ly).",
+ "expl": "properly, perhaps to separate, i.e. distinguish (literally or figuratively); by implication, to be (causatively, make) great, difficult, wonderful",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "נפלאות",
+   "forma_he": "נִפְלָאֽוֹת",
+   "n": 13,
+   "ref": "yehoshua/3/5"
+  },
+  {
+   "forma": "יפלא",
+   "forma_he": "יַפְלִ֖א",
+   "n": 7,
+   "ref": "vayikra/27/2"
+  },
+  {
+   "forma": "ונפלאותיו",
+   "forma_he": "וְ֝נִפְלְאוֹתָ֗יו",
+   "n": 7,
+   "ref": "tehilim/78/4"
+  },
+  {
+   "forma": "נפלאותיך",
+   "forma_he": "נִפְלְאוֹתֶֽיךָ",
+   "n": 6,
+   "ref": "tehilim/9/2"
+  },
+  {
+   "forma": "נפלאתיו",
+   "forma_he": "נִפְלְאֹתָ֡יו",
+   "n": 5,
+   "ref": "shoftim/6/13"
+  }
+ ],
+ "morph": [
+  "HVNrfpa",
+  "HVNrfpc/Sp3ms",
+  "HVNrfpc/Sp2ms",
+  "HC/VNrfpc/Sp3ms",
+  "HVNi3ms"
+ ],
+ "glosa_es": ""
+}

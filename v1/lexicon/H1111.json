@@ -1,0 +1,49 @@
+{
+ "strong": "H1111",
+ "he": "בלק",
+ "xlit": "Bâlâq",
+ "pron": "baw-lawk'",
+ "def_en": [
+  "Balak = \"devastator\"",
+  "1) a king of Moab who hired Balaam to curse Israel"
+ ],
+ "kjv": "Balak.",
+ "expl": "Balak, a Moabitish king",
+ "etim": "from ; waster;",
+ "raices": [
+  "H1110"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "בלק",
+   "forma_he": "בָּלָ֖ק",
+   "n": 40,
+   "ref": "bamidbar/22/2"
+  },
+  {
+   "forma": "ובלק",
+   "forma_he": "וּבָלָ֧ק",
+   "n": 1,
+   "ref": "bamidbar/22/4"
+  },
+  {
+   "forma": "לבלק",
+   "forma_he": "לְבָלָ֗ק",
+   "n": 1,
+   "ref": "bamidbar/23/3"
+  },
+  {
+   "forma": "מבלק",
+   "forma_he": "מִבָּלָ֥ק",
+   "n": 1,
+   "ref": "shoftim/11/25"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

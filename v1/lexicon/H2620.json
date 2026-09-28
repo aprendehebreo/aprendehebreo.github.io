@@ -1,0 +1,57 @@
+{
+ "strong": "H2620",
+ "he": "חסה",
+ "xlit": "châçâh",
+ "pron": "khaw-saw'",
+ "def_en": [
+  "1) (Qal) to seek refuge, flee for protection",
+  "1a) to put trust in (God), confide or hope in (God) (fig.)"
+ ],
+ "kjv": "have hope, make refuge, (put) trust.",
+ "expl": "to flee for protection; figuratively, to confide in",
+ "etim": "a primitive root; (compare )",
+ "raices": [
+  "H982"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "חסיתי",
+   "forma_he": "חָסִ֑יתִי",
+   "n": 8,
+   "ref": "tehilim/7/2"
+  },
+  {
+   "forma": "אחסה",
+   "forma_he": "אֶחֱסֶה",
+   "n": 4,
+   "ref": "shmuel_b/22/3"
+  },
+  {
+   "forma": "החסים",
+   "forma_he": "הַחֹסִ֥ים",
+   "n": 3,
+   "ref": "shmuel_b/22/31"
+  },
+  {
+   "forma": "לחסות",
+   "forma_he": "לַחֲס֥וֹת",
+   "n": 3,
+   "ref": "tehilim/118/8"
+  },
+  {
+   "forma": "חסו",
+   "forma_he": "חֲס֣וּ",
+   "n": 2,
+   "ref": "shoftim/9/15"
+  }
+ ],
+ "morph": [
+  "HVqp1cs",
+  "HVqi1cs",
+  "HTd/Vqrmpa",
+  "HVqrmpc",
+  "HR/Vqc"
+ ],
+ "glosa_es": ""
+}

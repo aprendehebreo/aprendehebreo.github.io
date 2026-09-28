@@ -1,0 +1,52 @@
+{
+ "strong": "H7205",
+ "he": "ראובן",
+ "xlit": "Rᵉʼûwbên",
+ "pron": "reh-oo-bane'",
+ "def_en": [
+  "Reuben = \"behold a son\"",
+  "1) the eldest son of Jacob by Leah",
+  "2) the tribe descended from Reuben",
+  "3) the territory inhabited by the tribe of Reuben"
+ ],
+ "kjv": "Reuben.",
+ "expl": "Reuben, a son of Jacob",
+ "etim": "from the imperative of and ; see ye a son;",
+ "raices": [
+  "H7200",
+  "H1121"
+ ],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "ראובן",
+   "forma_he": "רְאוּבֵ֑ן",
+   "n": 69,
+   "ref": "bereshit/29/32"
+  },
+  {
+   "forma": "כראובן",
+   "forma_he": "כִּרְאוּבֵ֥ן",
+   "n": 1,
+   "ref": "bereshit/48/5"
+  },
+  {
+   "forma": "לראובן",
+   "forma_he": "לִרְאוּבֵ֕ן",
+   "n": 1,
+   "ref": "bamidbar/1/5"
+  },
+  {
+   "forma": "וראובן",
+   "forma_he": "וּרְאוּבֵ֡ן",
+   "n": 1,
+   "ref": "yehoshua/18/7"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

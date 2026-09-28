@@ -1,0 +1,56 @@
+{
+ "strong": "H5795",
+ "he": "עז",
+ "xlit": "ʻêz",
+ "pron": "aze",
+ "def_en": [
+  "1) female goat, she-goat, goat, kid"
+ ],
+ "kjv": "(she) goat, kid.",
+ "expl": "a she-goat (as strong), but masculine in plural (which also is used elliptically for goat's hair)",
+ "etim": "from ;",
+ "raices": [
+  "H5810"
+ ],
+ "ocurrencias": 74,
+ "formas": [
+  {
+   "forma": "עזים",
+   "forma_he": "עִזִּ֖ים",
+   "n": 46,
+   "ref": "bereshit/27/9"
+  },
+  {
+   "forma": "העזים",
+   "forma_he": "הָֽעִזִּ֔ים",
+   "n": 13,
+   "ref": "bereshit/27/16"
+  },
+  {
+   "forma": "עז",
+   "forma_he": "עָֽז",
+   "n": 5,
+   "ref": "bereshit/49/3"
+  },
+  {
+   "forma": "בעזים",
+   "forma_he": "בָּעִזִּ֑ים",
+   "n": 3,
+   "ref": "bereshit/30/32"
+  },
+  {
+   "forma": "ועזים",
+   "forma_he": "וְעִזִּֽים",
+   "n": 3,
+   "ref": "shemot/25/4"
+  }
+ ],
+ "morph": [
+  "HNcfpa",
+  "HTd/Ncfpa",
+  "HNcfsa",
+  "HRd/Ncfpa",
+  "HC/Ncfpa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H7138",
+ "he": "קרוב",
+ "xlit": "qârôwb",
+ "pron": "kaw-robe'",
+ "def_en": [
+  "1) near",
+  "1a) of place",
+  "1b) of time",
+  "1c) of personal relationship",
+  "1c1) kinship"
+ ],
+ "kjv": "allied, approach, at hand, [phrase] any of kin, kinsfold(-sman), (that is) near (of kin), neighbour, (that is) next, (them that come) nigh (at hand), more ready, short(-ly).",
+ "expl": "near (in place, kindred or time)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7126"
+ ],
+ "ocurrencias": 78,
+ "formas": [
+  {
+   "forma": "קרוב",
+   "forma_he": "קָרוֹב֙",
+   "n": 32,
+   "ref": "bereshit/45/10"
+  },
+  {
+   "forma": "הקרבים",
+   "forma_he": "הַקְּרֹבִ֣ים",
+   "n": 5,
+   "ref": "devarim/13/8"
+  },
+  {
+   "forma": "הקרב",
+   "forma_he": "הַקָּרֹ֥ב",
+   "n": 4,
+   "ref": "shemot/12/4"
+  },
+  {
+   "forma": "קרבים",
+   "forma_he": "קְרֹבִ֣ים",
+   "n": 4,
+   "ref": "devarim/4/7"
+  },
+  {
+   "forma": "קרובה",
+   "forma_he": "קְרוֹבָֽה",
+   "n": 4,
+   "ref": "mlakhim_a/8/46"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HTd/Aampa",
+  "HAafsa",
+  "HR/Aamsa"
+ ],
+ "glosa_es": ""
+}

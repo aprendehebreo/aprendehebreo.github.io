@@ -1,0 +1,56 @@
+{
+ "strong": "H530",
+ "he": "אמונה",
+ "xlit": "ʼĕmûwnâh",
+ "pron": "em-oo-naw'",
+ "def_en": [
+  "1) firmness, fidelity, steadfastness, steadiness"
+ ],
+ "kjv": "faith(-ful, -ly, -ness, (man)), set office, stability, steady, truly, truth, verily.",
+ "expl": "literally firmness; figuratively security; morally fidelity",
+ "etim": "or (shortened) ; feminine of ;",
+ "raices": [
+  "H529"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "באמונה",
+   "forma_he": "בֶאֱמוּנָ֖ה",
+   "n": 10,
+   "ref": "mlakhim_b/22/7"
+  },
+  {
+   "forma": "אמונה",
+   "forma_he": "אֱמוּנָ֖ה",
+   "n": 9,
+   "ref": "shemot/17/12"
+  },
+  {
+   "forma": "אמונתך",
+   "forma_he": "אֱ֝מֽוּנָתְךָ֗",
+   "n": 8,
+   "ref": "tehilim/36/6"
+  },
+  {
+   "forma": "לאמונה",
+   "forma_he": "לֶאֱמוּנָה֒",
+   "n": 2,
+   "ref": "yirmiyahu/5/3"
+  },
+  {
+   "forma": "באמונתו",
+   "forma_he": "בֶּאֱמוּנָת֥וֹ",
+   "n": 2,
+   "ref": "chavakuk/2/4"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsa",
+  "HNcfsa",
+  "HNcfsc/Sp2ms",
+  "HNcfsc/Sp3ms",
+  "HR/Ncfsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

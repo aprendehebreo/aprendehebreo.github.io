@@ -1,0 +1,59 @@
+{
+ "strong": "H4603",
+ "he": "מעל",
+ "xlit": "mâʻal",
+ "pron": "maw-al'",
+ "def_en": [
+  "1) to act unfaithfully, act treacherously, transgress, commit a trespass",
+  "1a) (Qal) to act unfaithfully or treacherously",
+  "1a1) against man",
+  "1a2) against God",
+  "1a3) against devoted thing",
+  "1a4) against husband"
+ ],
+ "kjv": "transgress, (commit, do a) trespass(-ing).",
+ "expl": "properly, to cover up; used only figuratively, to act covertly, i.e. treacherously",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "מעלו",
+   "forma_he": "מָֽעֲלוּ",
+   "n": 8,
+   "ref": "vayikra/26/40"
+  },
+  {
+   "forma": "מעל",
+   "forma_he": "מֵעַ֣ל",
+   "n": 6,
+   "ref": "bereshit/1/7"
+  },
+  {
+   "forma": "מעלתם",
+   "forma_he": "מְעַלְתֶּ֜ם",
+   "n": 4,
+   "ref": "devarim/32/51"
+  },
+  {
+   "forma": "למעל",
+   "forma_he": "לִמְעֹ֥ל",
+   "n": 3,
+   "ref": "bamidbar/5/6"
+  },
+  {
+   "forma": "ומעלה",
+   "forma_he": "וָמָ֑עְלָה",
+   "n": 2,
+   "ref": "shemot/30/14"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HR/Vqc",
+  "HVqp3ms",
+  "HVqp2mp",
+  "HC/Vqq3fs"
+ ],
+ "glosa_es": ""
+}

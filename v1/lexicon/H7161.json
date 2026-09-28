@@ -1,0 +1,66 @@
+{
+ "strong": "H7161",
+ "he": "קרן",
+ "xlit": "qeren",
+ "pron": "keh'-ren",
+ "def_en": [
+  "n f",
+  "1) horn",
+  "1a) horn",
+  "1b) of strength (fig)",
+  "1c) flask (container for oil)",
+  "1d) horn (as musical instrument)",
+  "1e) horn (of horn-like projections on the altar)",
+  "1f) of rays of light",
+  "1g) hill",
+  "n pr loc",
+  "2) (BDB) a place conquered by Israel probably in Bashan"
+ ],
+ "kjv": "[idiom] hill, horn.",
+ "expl": "a horn (as projecting); by implication, a flask, cornet; by resemblance. an elephant's tooth (i.e. ivory), a corner (of the altar), a peak (of a mountain), a ray (of light); figuratively, power",
+ "etim": "from ;",
+ "raices": [
+  "H7160"
+ ],
+ "ocurrencias": 76,
+ "formas": [
+  {
+   "forma": "קרן",
+   "forma_he": "קָרַ֛ן",
+   "n": 14,
+   "ref": "shemot/34/29"
+  },
+  {
+   "forma": "קרנתיו",
+   "forma_he": "קַרְנֹתָ֗יו",
+   "n": 10,
+   "ref": "shemot/27/2"
+  },
+  {
+   "forma": "קרנות",
+   "forma_he": "קַ֠רְנוֹת",
+   "n": 10,
+   "ref": "vayikra/4/7"
+  },
+  {
+   "forma": "קרני",
+   "forma_he": "קַרְנִ֖י",
+   "n": 6,
+   "ref": "shmuel_a/2/1"
+  },
+  {
+   "forma": "קרנת",
+   "forma_he": "קַרְנֹ֥ת",
+   "n": 5,
+   "ref": "shemot/29/12"
+  }
+ ],
+ "morph": [
+  "HNcbpc",
+  "HNcbpc/Sp3ms",
+  "HNcbsc",
+  "HNcbsa",
+  "HNcbsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

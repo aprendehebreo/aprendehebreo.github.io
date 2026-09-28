@@ -1,0 +1,59 @@
+{
+ "strong": "H5971",
+ "he": "עם",
+ "xlit": "ʻam",
+ "pron": "am",
+ "def_en": [
+  "1) nation, people",
+  "1a) people, nation",
+  "1b) persons, members of one's people, compatriots, country-men",
+  "2) kinsman, kindred"
+ ],
+ "kjv": "folk, men, nation, people.",
+ "expl": "a people (as a congregated unit); specifically, a tribe (as those of Israel); hence (collectively) troops or attendants; figuratively, a flock",
+ "etim": "from ;",
+ "raices": [
+  "H6004"
+ ],
+ "ocurrencias": 1870,
+ "formas": [
+  {
+   "forma": "העם",
+   "forma_he": "הָעָֽם",
+   "n": 744,
+   "ref": "bereshit/14/16"
+  },
+  {
+   "forma": "עם",
+   "forma_he": "עַ֤ם",
+   "n": 211,
+   "ref": "bereshit/11/6"
+  },
+  {
+   "forma": "עמי",
+   "forma_he": "עַמִּ֑י",
+   "n": 194,
+   "ref": "bereshit/19/38"
+  },
+  {
+   "forma": "עמו",
+   "forma_he": "עִמּ֖וֹ",
+   "n": 99,
+   "ref": "bereshit/13/1"
+  },
+  {
+   "forma": "לעם",
+   "forma_he": "לְעַם",
+   "n": 92,
+   "ref": "bereshit/23/7"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsc/Sp1cs",
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HNcmsc"
+ ],
+ "glosa_es": "pueblo; nación"
+}

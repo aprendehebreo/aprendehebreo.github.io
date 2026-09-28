@@ -1,0 +1,237 @@
+{
+ "id": 11,
+ "titulo": "Leer el Tanaj: tres pasajes",
+ "objetivos": [
+  "Leer de corrido Bereshit 1, Devarim 6 y Tehilim 23 con ayuda.",
+  "Reconocer las palabras ya estudiadas dentro de un versículo completo.",
+  "Usar la API para escuchar, comparar he y he_plain y verificar un versículo.",
+  "Perder el miedo al texto seguido."
+ ],
+ "items": [
+  {
+   "id": "estrategia",
+   "tipo": "gramatica",
+   "es": "Estrategia de lectura acompañada",
+   "he": "בְּרֵאשִׁית",
+   "nota": "Lee el versículo completo sin detenerte; después vuelve a las palabras que ya conoces y marca las que no. Con las 100 palabras de la lección 8 reconocerás la mitad de cualquier versículo.",
+   "ejemplo": {
+    "he": "בְּרֵאשִׁית",
+    "xlit": "en el principio",
+    "es": "bereshít",
+    "ref": "bereshit/1/1"
+   }
+  },
+  {
+   "id": "pasaje_bereshit",
+   "tipo": "gramatica",
+   "es": "Bereshit 1: la creación",
+   "he": "בָּרָא",
+   "nota": "El primer capítulo del Tanaj. Estructura repetitiva: וַיֹּאמֶר אֱלֹהִים ('y dijo Dios'), וַיְהִי ('y fue'), וַיַּרְא אֱלֹהִים כִּי־טוֹב ('y vio Dios que era bueno'). Cuando reconoces la fórmula, el capítulo entero se vuelve legible.",
+   "ejemplo": {
+    "he": "בָּרָא",
+    "xlit": "creó",
+    "es": "bará",
+    "ref": "bereshit/1/1"
+   }
+  },
+  {
+   "id": "pasaje_shema",
+   "tipo": "gramatica",
+   "es": "Devarim 6: el Shemá",
+   "he": "שְׁמַע",
+   "nota": "שְׁמַע יִשְׂרָאֵל ('oye, Israel') es la declaración central del judaísmo. Devarim 6:4-5 trae dos versículos cortos y muy repetidos en la liturgia.",
+   "ejemplo": {
+    "he": "שְׁמַע",
+    "xlit": "oye",
+    "es": "shemá",
+    "ref": "devarim/6/4"
+   }
+  },
+  {
+   "id": "pasaje_tehilim",
+   "tipo": "gramatica",
+   "es": "Tehilim 23: el pastor",
+   "he": "רֹעִי",
+   "nota": "יְהוָה רֹעִי לֹא אֶחְסָר ('YHWH es mi pastor, no me faltará'). Vocabulario cotidiano y frases cortas: el mejor pasaje para practicar en voz alta.",
+   "ejemplo": {
+    "he": "רֹעִי",
+    "xlit": "mi pastor",
+    "es": "roí",
+    "ref": "tehilim/23/1"
+   }
+  },
+  {
+   "id": "bereshit",
+   "tipo": "palabra",
+   "he": "בְּרֵאשִׁית",
+   "es": "en el principio",
+   "xlit": "bereshít",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H7225. Primera palabra del Tanaj: 'en el principio'."
+  },
+  {
+   "id": "bará",
+   "tipo": "palabra",
+   "he": "בָּרָא",
+   "es": "creó",
+   "xlit": "bará",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H1254. Perfecto qal 3ª masc. sing.: 'creó'."
+  },
+  {
+   "id": "elohim",
+   "tipo": "palabra",
+   "he": "אֱלֹהִים",
+   "es": "Dios",
+   "xlit": "elohim",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H430. Sujeto de la primera oración del Tanaj."
+  },
+  {
+   "id": "hasham",
+   "tipo": "palabra",
+   "he": "הַשָּׁמַיִם",
+   "es": "los cielos",
+   "xlit": "hashamáyim",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H8064. 'Los cielos', con el artículo."
+  },
+  {
+   "id": "haaretz",
+   "tipo": "palabra",
+   "he": "הָאָרֶץ",
+   "es": "la tierra",
+   "xlit": "haáretz",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H776. 'La tierra', con el artículo."
+  },
+  {
+   "id": "shema",
+   "tipo": "palabra",
+   "he": "שְׁמַע",
+   "es": "oye",
+   "xlit": "shemá",
+   "ref": "devarim/6/4",
+   "nota": "Strong H8085. Imperativo qal 2ª masc. sing.: 'oye'."
+  },
+  {
+   "id": "eloheinu",
+   "tipo": "palabra",
+   "he": "אֱלֹהֵינוּ",
+   "es": "nuestro Dios",
+   "xlit": "eloheinu",
+   "ref": "devarim/6/4",
+   "nota": "Strong H430 con sufijo de 1ª persona plural: 'nuestro Dios'."
+  },
+  {
+   "id": "ejad",
+   "tipo": "palabra",
+   "he": "אֶחָד",
+   "es": "uno",
+   "xlit": "ejad",
+   "ref": "devarim/6/4",
+   "nota": "Strong H259. 'Uno'. Cierra el Shemá: יְהוָה אֶחָד."
+  },
+  {
+   "id": "veahavta",
+   "tipo": "palabra",
+   "he": "וְאָהַבְתָּ",
+   "es": "y amarás",
+   "xlit": "veahavtá",
+   "ref": "devarim/6/5",
+   "nota": "Strong H157. Perfecto con ו consecutiva ('weqatal'): 'y amarás'."
+  },
+  {
+   "id": "roi",
+   "tipo": "palabra",
+   "he": "רֹעִי",
+   "es": "mi pastor",
+   "xlit": "roí",
+   "ref": "tehilim/23/1",
+   "nota": "Strong H7462 con sufijo de 1ª persona: 'mi pastor'."
+  },
+  {
+   "id": "ejsar",
+   "tipo": "palabra",
+   "he": "אֶחְסָר",
+   "es": "faltará",
+   "xlit": "ejsar",
+   "ref": "tehilim/23/1",
+   "nota": "Strong H2637. Imperfecto qal 1ª persona: 'faltará (a mí)'."
+  }
+ ],
+ "ejercicios": [
+  {
+   "id": "e11-1",
+   "tipo": "leer",
+   "pregunta": "Bereshit 1:1 empieza con בְּרֵאשִׁית בָּרָא. ¿Qué significa?",
+   "opciones": [
+    "En el principio creó",
+    "Y dijo Dios",
+    "La tierra estaba"
+   ],
+   "correcta": 0,
+   "explica": "בְּרֵאשִׁית = 'en el principio'; בָּרָא = 'creó'."
+  },
+  {
+   "id": "e11-2",
+   "tipo": "leer",
+   "pregunta": "¿Qué significa שְׁמַע יִשְׂרָאֵל?",
+   "opciones": [
+    "Oye, Israel",
+    "Israel escuchó",
+    "Santo es Israel"
+   ],
+   "correcta": 0,
+   "explica": "שְׁמַע es imperativo: 'oye'. Devarim/6/4."
+  },
+  {
+   "id": "e11-3",
+   "tipo": "opcion",
+   "pregunta": "En Tehilim 23:1, ¿qué significa רֹעִי?",
+   "opciones": [
+    "mi pastor",
+    "mi casa",
+    "mi voz"
+   ],
+   "correcta": 0,
+   "explica": "רֹעִי lleva el sufijo de 1ª persona singular: 'mi pastor'."
+  },
+  {
+   "id": "e11-4",
+   "tipo": "opcion",
+   "pregunta": "¿Qué forma verbal aparece una y otra vez en Bereshit 1?",
+   "opciones": [
+    "וַיֹּאמֶר",
+    "שְׁמַע",
+    "אֶחְסָר"
+   ],
+   "correcta": 0,
+   "explica": "וַיֹּאמֶר ('y dijo') es el wayyiqtol que hace avanzar la narración de la creación."
+  },
+  {
+   "id": "e11-5",
+   "tipo": "escribir",
+   "pregunta": "Escribe la palabra que significa 'uno' (ejad), la última de Devarim 6:4.",
+   "respuesta": "אֶחָד",
+   "explica": "אֶחָד: alef con segol, jet con kamats, daled final."
+  },
+  {
+   "id": "e11-6",
+   "tipo": "audio",
+   "pregunta": "Escucha אֱלֹהִים. ¿Dónde aparece en Bereshit 1?",
+   "opciones": [
+    "En bereshit/1/1, como sujeto de בָּרָא",
+    "No aparece en Bereshit 1",
+    "Solo en el capítulo 2"
+   ],
+   "correcta": 0,
+   "explica": "אֱלֹהִים aparece en bereshit/1/1: בְּרֵאשִׁית בָּרָא אֱלֹהִים."
+  }
+ ],
+ "pasaje": "bereshit/1",
+ "html": "<h2>Bereshit 1:1-5</h2>\n<table><tbody>\n<tr><th>Versículo</th><th>Texto</th><th>Traducción de apoyo</th></tr>\n<tr><td>1</td><td>בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ</td><td>En el principio creó Dios los cielos y la tierra</td></tr>\n<tr><td>2</td><td>וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ ...</td><td>Y la tierra estaba vacía y desierta ...</td></tr>\n<tr><td>3</td><td>וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי אוֹר</td><td>Y dijo Dios: haya luz, y hubo luz</td></tr>\n<tr><td>4</td><td>וַיַּרְא אֱלֹהִים אֶת־הָאוֹר כִּי־טוֹב</td><td>Y vio Dios la luz, que era buena</td></tr>\n<tr><td>5</td><td>וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם</td><td>Y llamó Dios a la luz día</td></tr>\n</tbody></table>\n<p>Palabras que ya conoces: בְּרֵאשִׁית, בָּרָא, אֱלֹהִים, אֵת, הַשָּׁמַיִם, הָאָרֶץ, וַיֹּאמֶר, אוֹר, טוֹב, יוֹם.</p>\n<h2>Devarim 6:4-5</h2>\n<p>שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ</p>\n<p>Oye, Israel: YHWH nuestro Dios, YHWH es uno. Y amarás a YHWH tu Dios con todo tu corazón, con todo tu ser y con toda tu fuerza.</p>\n<p>Este es el pasaje que se recita todos los días. Memorízalo: te da gratis nueve palabras de la lista.</p>\n<h2>Tehilim 23:1-2</h2>\n<p>יְהוָה רֹעִי לֹא אֶחְסָר בִּנְאוֹת דֶּשֶׁא יַרְבִּיצֵנִי עַל־מֵי מְנֻחוֹת יְנַהֲלֵנִי</p>\n<p>YHWH es mi pastor, no me faltará. En verdes pastos me hará descansar, junto a aguas de reposo me conducirá.</p>\n<h2>Cómo usar la API</h2>\n<ol>\n<li>Abre el capítulo: <code>v1/he/bereshit/1.json</code>.</li>\n<li>Cada versículo trae el número (<code>n</code>), el texto con niqqud (<code>he</code>) y el texto sin marcas (<code>he_plain</code>).</li>\n<li>Compara ambos campos, marca las palabras que reconoces y anota cuántas quedan desconocidas.</li>\n</ol>\n<h2>Consejo de estudio</h2>\n<p>Lee un capítulo corto por semana. No busques entender todo: busca que al terminar hayas reconocido más palabras que la semana anterior. Ese es el único progreso que se puede medir.</p>",
+ "archivo": "11.md",
+ "items_total": 15,
+ "ejercicios_total": 6
+}

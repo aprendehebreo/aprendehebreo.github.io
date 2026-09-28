@@ -1,0 +1,60 @@
+{
+ "strong": "H959",
+ "he": "בזה",
+ "xlit": "bâzâh",
+ "pron": "baw-zaw'",
+ "def_en": [
+  "1) to despise, hold in contempt, disdain",
+  "1a) (Qal) to despise, regard with contempt",
+  "1b) (Niphal)",
+  "1b1) to be despised",
+  "1b2) to be despicable",
+  "1b3) to be vile, worthless",
+  "1c) (Hiphil) to cause to despise"
+ ],
+ "kjv": "despise, disdain, contemn(-ptible), [phrase] think to scorn, vile person.",
+ "expl": "to disesteem",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "בזה",
+   "forma_he": "בָזֶ֖ה",
+   "n": 8,
+   "ref": "bereshit/38/21"
+  },
+  {
+   "forma": "נבזה",
+   "forma_he": "נִבְזֶה֙",
+   "n": 7,
+   "ref": "yeshayahu/53/3"
+  },
+  {
+   "forma": "בזית",
+   "forma_he": "בָּזִ֣יתָ",
+   "n": 3,
+   "ref": "shmuel_b/12/9"
+  },
+  {
+   "forma": "ויבז",
+   "forma_he": "וַיִּ֥בֶז",
+   "n": 2,
+   "ref": "bereshit/25/34"
+  },
+  {
+   "forma": "ויבזהו",
+   "forma_he": "וַיִּבְזֻ֕הוּ",
+   "n": 2,
+   "ref": "shmuel_a/10/27"
+  }
+ ],
+ "morph": [
+  "HVNrmsa",
+  "HVqp3ms",
+  "HC/Vqw3ms",
+  "HC/Vqw3fs",
+  "HVqp3fs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H7667",
+ "he": "שבר",
+ "xlit": "sheber",
+ "pron": "sheh'-ber",
+ "def_en": [
+  "1) breaking, fracture, crushing, breach, crash, ruin, shattering",
+  "1a) breaking, fracture, shattering, crushing",
+  "1b) crashing",
+  "1c) breaking (of a dream), interpretation",
+  "1d) quarries"
+ ],
+ "kjv": "affliction, breach, breaking, broken(-footed, -handed), bruise, crashing, destruction, hurt, interpretation, vexation.",
+ "expl": "a fracture, figuratively, ruin; specifically, a solution (of a dream)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7665"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "שבר",
+   "forma_he": "שֶׁ֖בֶר",
+   "n": 20,
+   "ref": "bereshit/42/1"
+  },
+  {
+   "forma": "ושבר",
+   "forma_he": "וְשַׁבֵּ֥ר",
+   "n": 9,
+   "ref": "shemot/23/24"
+  },
+  {
+   "forma": "שברך",
+   "forma_he": "שִׁבְרֵ֔ךְ",
+   "n": 3,
+   "ref": "yirmiyahu/30/15"
+  },
+  {
+   "forma": "והשבר",
+   "forma_he": "וְהַשֶּׁ֛בֶר",
+   "n": 2,
+   "ref": "yeshayahu/51/19"
+  },
+  {
+   "forma": "לשברך",
+   "forma_he": "לְשִׁבְרֵ֑ךְ",
+   "n": 2,
+   "ref": "yirmiyahu/30/12"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HC/Ncmsa",
+  "HR/Ncmsc",
+  "HC/Td/Ncmsa"
+ ],
+ "glosa_es": ""
+}

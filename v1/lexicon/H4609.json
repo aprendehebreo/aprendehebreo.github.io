@@ -1,0 +1,63 @@
+{
+ "strong": "H4609",
+ "he": "מעלה",
+ "xlit": "maʻălâh",
+ "pron": "mah-al-aw'",
+ "def_en": [
+  "1) what comes up, thoughts",
+  "2) step, stair",
+  "2a) step, stair",
+  "2b) steps (of sundial)",
+  "2c) stories (of heaven)",
+  "2d) ascent",
+  "2e) song of ascent",
+  "2e1) to the three great pilgrim feasts (Psalm titles)"
+ ],
+ "kjv": "things that come up, (high) degree, deal, go up, stair, step, story.",
+ "expl": "elevation, i.e. the act (literally, a journey to a higher place, figuratively, a thought arising), or (concretely) the condition (literally, a step or grademark, figuratively, a superiority of station); specifically a climactic progression (in certain Psalms)",
+ "etim": "feminine of ;",
+ "raices": [
+  "H4608"
+ ],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "המעלות",
+   "forma_he": "הַֽמַּעֲל֖וֹת",
+   "n": 19,
+   "ref": "mlakhim_a/10/20"
+  },
+  {
+   "forma": "מעלות",
+   "forma_he": "מַעֲל֣וֹת",
+   "n": 12,
+   "ref": "mlakhim_a/10/19"
+  },
+  {
+   "forma": "במעלות",
+   "forma_he": "בַּֽ֠מַּעֲלוֹת",
+   "n": 4,
+   "ref": "mlakhim_b/20/11"
+  },
+  {
+   "forma": "ומעלות",
+   "forma_he": "וּמַעֲל֥וֹת",
+   "n": 3,
+   "ref": "yechezkel/11/5"
+  },
+  {
+   "forma": "ובמעלות",
+   "forma_he": "וּבְמַעֲל֥וֹת",
+   "n": 2,
+   "ref": "yechezkel/40/22"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfpa",
+  "HNcfpa",
+  "HRd/Ncfpa",
+  "HR/Ncfpc",
+  "HR/Ncfpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

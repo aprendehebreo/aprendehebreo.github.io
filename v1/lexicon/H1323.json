@@ -1,0 +1,66 @@
+{
+ "strong": "H1323",
+ "he": "בת",
+ "xlit": "bath",
+ "pron": "bath",
+ "def_en": [
+  "n f",
+  "1) daughter",
+  "1a) daughter, girl, adopted daughter, daughter-in-law, sister, granddaughters, female child, cousin",
+  "1a1) as polite address",
+  "n pr f",
+  "1a2) as designation of women of a particular place",
+  "2) young women, women",
+  "1a3) as personification",
+  "1a4) daughter-villages",
+  "1a5) description of character"
+ ],
+ "kjv": "apple (of the eye), branch, company, daughter, [idiom] first, [idiom] old, [phrase] owl, town, village.",
+ "expl": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)",
+ "etim": "from (as feminine of );",
+ "raices": [
+  "H1129",
+  "H1121"
+ ],
+ "ocurrencias": 590,
+ "formas": [
+  {
+   "forma": "בת",
+   "forma_he": "בַּת",
+   "n": 204,
+   "ref": "bereshit/11/29"
+  },
+  {
+   "forma": "בנות",
+   "forma_he": "בְּנ֣וֹת",
+   "n": 69,
+   "ref": "bereshit/6/2"
+  },
+  {
+   "forma": "ובנות",
+   "forma_he": "וּבָנֽוֹת",
+   "n": 36,
+   "ref": "bereshit/5/4"
+  },
+  {
+   "forma": "בתו",
+   "forma_he": "בִּתּ֔וֹ",
+   "n": 20,
+   "ref": "bereshit/29/6"
+  },
+  {
+   "forma": "ובנותיה",
+   "forma_he": "וּ֠בְנוֹתֶיהָ",
+   "n": 20,
+   "ref": "yehoshua/17/11"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfpc",
+  "HC/Ncfpc/Sp3fs",
+  "HC/Ncfpa",
+  "HNcfpa"
+ ],
+ "glosa_es": "hija"
+}

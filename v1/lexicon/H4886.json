@@ -1,0 +1,59 @@
+{
+ "strong": "H4886",
+ "he": "משח",
+ "xlit": "mâshach",
+ "pron": "maw-shakh'",
+ "def_en": [
+  "1) to smear, anoint, spread a liquid",
+  "1a) (Qal)",
+  "1a1) to smear",
+  "1a2) to anoint (as consecration)",
+  "1a3) to anoint, consecrate",
+  "1b) (Niphal) to be anointed"
+ ],
+ "kjv": "anoint, paint.",
+ "expl": "to rub with oil, i.e. to anoint; by implication, to consecrate; also to paint",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 69,
+ "formas": [
+  {
+   "forma": "ומשחת",
+   "forma_he": "וּמָשַׁחְתָּ֨",
+   "n": 11,
+   "ref": "shemot/28/41"
+  },
+  {
+   "forma": "משחו",
+   "forma_he": "מָשְׁח֣וֹ",
+   "n": 6,
+   "ref": "vayikra/7/36"
+  },
+  {
+   "forma": "וימשח",
+   "forma_he": "וַיִּמְשַׁ֥ח",
+   "n": 6,
+   "ref": "vayikra/8/10"
+  },
+  {
+   "forma": "וימשחו",
+   "forma_he": "וַיִּמְשְׁחוּ",
+   "n": 6,
+   "ref": "shmuel_b/2/4"
+  },
+  {
+   "forma": "משחים",
+   "forma_he": "מְשֻׁחִ֣ים",
+   "n": 5,
+   "ref": "shemot/29/2"
+  }
+ ],
+ "morph": [
+  "HC/Vqq2ms",
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HVqsmpa",
+  "HVNc"
+ ],
+ "glosa_es": ""
+}

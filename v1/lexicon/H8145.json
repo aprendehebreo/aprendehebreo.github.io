@@ -1,0 +1,59 @@
+{
+ "strong": "H8145",
+ "he": "שני",
+ "xlit": "shênîy",
+ "pron": "shay-nee'",
+ "def_en": [
+  "1) second",
+  "1a) second (the ordinal number)",
+  "1b) again (a second time)",
+  "1c) another, other (something as distinct from something else)"
+ ],
+ "kjv": "again, either (of them), (an-) other, second (time).",
+ "expl": "properly, double, i.e. second; also adverbially, again",
+ "etim": "from ;",
+ "raices": [
+  "H8138"
+ ],
+ "ocurrencias": 157,
+ "formas": [
+  {
+   "forma": "השני",
+   "forma_he": "הַשֵּׁנִ֖י",
+   "n": 72,
+   "ref": "bereshit/2/13"
+  },
+  {
+   "forma": "השנית",
+   "forma_he": "הַשֵּׁנִ֖ית",
+   "n": 39,
+   "ref": "bereshit/4/19"
+  },
+  {
+   "forma": "שנית",
+   "forma_he": "שֵׁנִ֖ית",
+   "n": 31,
+   "ref": "bereshit/22/15"
+  },
+  {
+   "forma": "שני",
+   "forma_he": "שֵׁנִֽי",
+   "n": 10,
+   "ref": "bereshit/1/8"
+  },
+  {
+   "forma": "שנים",
+   "forma_he": "שָׁנִ֖ים",
+   "n": 1,
+   "ref": "bereshit/5/6"
+  }
+ ],
+ "morph": [
+  "HTd/Aomsa",
+  "HTd/Aofsa",
+  "HAofsa",
+  "HAomsa",
+  "HTd/Aafsa"
+ ],
+ "glosa_es": "segundo"
+}

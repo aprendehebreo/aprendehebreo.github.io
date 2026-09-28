@@ -1,0 +1,59 @@
+{
+ "strong": "H6529",
+ "he": "פרי",
+ "xlit": "pᵉrîy",
+ "pron": "per-ee'",
+ "def_en": [
+  "1) fruit",
+  "1a) fruit, produce (of the ground)",
+  "1b) fruit, offspring, children, progeny (of the womb)",
+  "1c) fruit (of actions) (fig.)"
+ ],
+ "kjv": "bough, (first-)fruit(-ful), reward.",
+ "expl": "fruit (literally or figuratively)",
+ "etim": "from ;",
+ "raices": [
+  "H6509"
+ ],
+ "ocurrencias": 119,
+ "formas": [
+  {
+   "forma": "פרי",
+   "forma_he": "פְּרִ֞י",
+   "n": 45,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "מפרי",
+   "forma_he": "מִפְּרִ֥י",
+   "n": 14,
+   "ref": "bereshit/3/2"
+  },
+  {
+   "forma": "פריו",
+   "forma_he": "פִּרְי֑וֹ",
+   "n": 13,
+   "ref": "vayikra/19/23"
+  },
+  {
+   "forma": "פריה",
+   "forma_he": "פִּרְיָ֔הּ",
+   "n": 10,
+   "ref": "vayikra/25/19"
+  },
+  {
+   "forma": "ופרי",
+   "forma_he": "וּפְרִֽי",
+   "n": 10,
+   "ref": "devarim/7/13"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

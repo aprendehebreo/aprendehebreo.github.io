@@ -1,0 +1,59 @@
+{
+ "strong": "H7453",
+ "he": "רע",
+ "xlit": "rêaʻ",
+ "pron": "ray'-ah",
+ "def_en": [
+  "1) friend, companion, fellow, another person",
+  "1a) friend, intimate",
+  "1b) fellow, fellow-citizen, another person (weaker sense)",
+  "1c) other, another (reciprocal phrase)"
+ ],
+ "kjv": "brother, companion, fellow, friend, husband, lover, neighbour, [idiom] (an-) other.",
+ "expl": "an associate (more or less close)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7462"
+ ],
+ "ocurrencias": 189,
+ "formas": [
+  {
+   "forma": "רעהו",
+   "forma_he": "רֵעֵ֗הוּ",
+   "n": 83,
+   "ref": "bereshit/11/3"
+  },
+  {
+   "forma": "רעך",
+   "forma_he": "רֵעֶֽךָ",
+   "n": 21,
+   "ref": "shemot/2/13"
+  },
+  {
+   "forma": "לרעהו",
+   "forma_he": "לְרֵעֵ֖הוּ",
+   "n": 20,
+   "ref": "shemot/18/7"
+  },
+  {
+   "forma": "ברעהו",
+   "forma_he": "בְּרֵעֵ֑הוּ",
+   "n": 10,
+   "ref": "devarim/15/2"
+  },
+  {
+   "forma": "לרעך",
+   "forma_he": "לְרֵעֶֽךָ",
+   "n": 7,
+   "ref": "shemot/20/17"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsc/Sp3ms",
+  "HNcmsc/Sp2ms",
+  "HR/Ncmsc/Sp2ms",
+  "HNcmpa"
+ ],
+ "glosa_es": "prójimo; amigo; compañero"
+}

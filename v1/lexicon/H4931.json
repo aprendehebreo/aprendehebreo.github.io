@@ -1,0 +1,60 @@
+{
+ "strong": "H4931",
+ "he": "משמרת",
+ "xlit": "mishmereth",
+ "pron": "mish-mer'-reth",
+ "def_en": [
+  "1) guard, charge, function, obligation, service, watch",
+  "1a) guard, watch, house of detention or confinement",
+  "1b) keeping, preserving",
+  "1c) charge, injunction",
+  "1d) office, function (ceremonial)"
+ ],
+ "kjv": "charge, keep, or to be kept, office, ordinace, safeguard, ward, watch.",
+ "expl": "watch, i.e. the act (custody), or (concretely) the sentry, the post; objectively preservation, or (concretely) safe; figuratively observance, i.e. (abstractly) duty or (objectively) a usage or party",
+ "etim": "feminine of ;",
+ "raices": [
+  "H4929"
+ ],
+ "ocurrencias": 78,
+ "formas": [
+  {
+   "forma": "משמרת",
+   "forma_he": "מִשְׁמֶ֥רֶת",
+   "n": 39,
+   "ref": "vayikra/8/35"
+  },
+  {
+   "forma": "משמרתי",
+   "forma_he": "מִשְׁמַרְתִּ֔י",
+   "n": 9,
+   "ref": "bereshit/26/5"
+  },
+  {
+   "forma": "למשמרת",
+   "forma_he": "לְמִשְׁמֶ֔רֶת",
+   "n": 8,
+   "ref": "shemot/12/6"
+  },
+  {
+   "forma": "ומשמרת",
+   "forma_he": "וּמִשְׁמֶ֤רֶת",
+   "n": 4,
+   "ref": "bamidbar/3/25"
+  },
+  {
+   "forma": "משמרתו",
+   "forma_he": "מִשְׁמַרְתּ֗וֹ",
+   "n": 3,
+   "ref": "bamidbar/3/7"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsc/Sp1cs",
+  "HR/Ncfsa",
+  "HNcfsa",
+  "HC/Ncfsc"
+ ],
+ "glosa_es": ""
+}

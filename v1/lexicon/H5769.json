@@ -1,0 +1,63 @@
+{
+ "strong": "H5769",
+ "he": "עולם",
+ "xlit": "ʻôwlâm",
+ "pron": "o-lawm'",
+ "def_en": [
+  "1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world",
+  "1a) ancient time, long time (of past)",
+  "1b) (of future)",
+  "1b1) for ever, always",
+  "1b2) continuous existence, perpetual",
+  "1b3) everlasting, indefinite or unending future, eternity"
+ ],
+ "kjv": "alway(-s), ancient (time), any more, continuance, eternal, (for, (n-)) ever(-lasting, -more, of old), lasting, long (time), (of) old (time), perpetual, at any time, (beginning of the) world ([phrase] without end). Compare , .",
+ "expl": "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity; frequentatively, adverbial (especially with prepositional prefix) always",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5956",
+  "H5331",
+  "H5703"
+ ],
+ "ocurrencias": 438,
+ "formas": [
+  {
+   "forma": "עולם",
+   "forma_he": "עוֹלָֽם",
+   "n": 212,
+   "ref": "bereshit/9/12"
+  },
+  {
+   "forma": "לעולם",
+   "forma_he": "לְעוֹלָ֑ם",
+   "n": 157,
+   "ref": "shemot/19/9"
+  },
+  {
+   "forma": "לעלם",
+   "forma_he": "לְעֹלָֽם",
+   "n": 19,
+   "ref": "bereshit/3/22"
+  },
+  {
+   "forma": "מעולם",
+   "forma_he": "מֵעוֹלָ֖ם",
+   "n": 16,
+   "ref": "bereshit/6/4"
+  },
+  {
+   "forma": "העולם",
+   "forma_he": "הָֽעוֹלָ֑ם",
+   "n": 12,
+   "ref": "yirmiyahu/28/8"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HTd/Ncmsa",
+  "HNcmpa",
+  "HC/R/Ncmsa"
+ ],
+ "glosa_es": "eternidad; para siempre"
+}

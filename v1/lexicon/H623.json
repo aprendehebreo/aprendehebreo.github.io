@@ -1,0 +1,45 @@
+{
+ "strong": "H623",
+ "he": "אסף",
+ "xlit": "ʼÂçâph",
+ "pron": "aw-sawf'",
+ "def_en": [
+  "Asaph = \"gatherer\"",
+  "1) the father of Hezekiah's secretary",
+  "2) a son of Berechiah, chief Levite musician under David",
+  "3) a Persian officer over the royal forest"
+ ],
+ "kjv": "Asaph.",
+ "expl": "Asaph, the name of three Israelites, and of the family of the first",
+ "etim": "from ; collector;",
+ "raices": [
+  "H622"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "אסף",
+   "forma_he": "אֹ֠סִף",
+   "n": 27,
+   "ref": "bereshit/8/21"
+  },
+  {
+   "forma": "לאסף",
+   "forma_he": "לֶאֱסֹ֥ף",
+   "n": 15,
+   "ref": "mlakhim_b/5/7"
+  },
+  {
+   "forma": "ואסף",
+   "forma_he": "וְאָסַ֣ף",
+   "n": 4,
+   "ref": "bamidbar/19/9"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

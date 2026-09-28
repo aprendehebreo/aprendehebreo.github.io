@@ -1,0 +1,56 @@
+{
+ "strong": "H5553",
+ "he": "סלע",
+ "xlit": "çelaʻ",
+ "pron": "seh'-lah",
+ "def_en": [
+  "1) crag, cliff, rock",
+  "1a) crag, cliff",
+  "1b) as stronghold of Jehovah, of security (fig.)"
+ ],
+ "kjv": "(ragged) rock, stone(-ny), strong hold.",
+ "expl": "a craggy rock, literally or figuratively (a fortress)",
+ "etim": "from an unused root meaning to be lofty;",
+ "raices": [],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "הסלע",
+   "forma_he": "הַסֶּ֛לַע",
+   "n": 16,
+   "ref": "bamidbar/20/8"
+  },
+  {
+   "forma": "סלע",
+   "forma_he": "סֶ֥לַע",
+   "n": 16,
+   "ref": "shoftim/15/8"
+  },
+  {
+   "forma": "בסלע",
+   "forma_he": "בַּסֶּ֖לַע",
+   "n": 7,
+   "ref": "bamidbar/24/21"
+  },
+  {
+   "forma": "סלעי",
+   "forma_he": "סַֽלְעִ֥י",
+   "n": 5,
+   "ref": "shmuel_b/22/2"
+  },
+  {
+   "forma": "הסלעים",
+   "forma_he": "הַסְּלָעִ֑ים",
+   "n": 5,
+   "ref": "yeshayahu/2/21"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HNcmsc/Sp1cs",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": ""
+}

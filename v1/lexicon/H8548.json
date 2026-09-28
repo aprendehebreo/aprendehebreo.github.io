@@ -1,0 +1,42 @@
+{
+ "strong": "H8548",
+ "he": "תמיד",
+ "xlit": "tâmîyd",
+ "pron": "taw-meed'",
+ "def_en": [
+  "1) continuity, perpetuity, to stretch",
+  "1a) continually, continuously (as adverb)",
+  "1b) continuity (subst)"
+ ],
+ "kjv": "alway(-s), continual (employment, -ly), daily, (n-)ever(-more), perpetual.",
+ "expl": "properly, continuance (as indefinite extension); but used only (attributively as adjective) constant (or adverbially, constantly); ellipt. the regular (daily) sacrifice",
+ "etim": "from an unused root meaning to stretch;",
+ "raices": [],
+ "ocurrencias": 104,
+ "formas": [
+  {
+   "forma": "תמיד",
+   "forma_he": "תָּמִֽיד",
+   "n": 78,
+   "ref": "shemot/25/30"
+  },
+  {
+   "forma": "התמיד",
+   "forma_he": "הַתָּמִ֖יד",
+   "n": 24,
+   "ref": "bamidbar/4/7"
+  },
+  {
+   "forma": "ותמיד",
+   "forma_he": "וְתָמִ֥יד",
+   "n": 2,
+   "ref": "yeshayahu/52/5"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

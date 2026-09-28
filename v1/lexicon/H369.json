@@ -1,0 +1,61 @@
+{
+ "strong": "H369",
+ "he": "אין",
+ "xlit": "ʼayin",
+ "pron": "ah'-yin",
+ "def_en": [
+  "1) nothing, not, nought n",
+  "1a) nothing, nought neg",
+  "1b) not",
+  "1c) to have not (of possession) adv",
+  "1d) without w/prep",
+  "1e) for lack of"
+ ],
+ "kjv": "else, except, fail, (father-) less, be gone, in(-curable), neither, never, no (where), none, nor, (any, thing), not, nothing, to nought, past, un(-searchable), well-nigh, without. Compare .",
+ "expl": "a non-entity; generally used as a negative particle",
+ "etim": "as if from a primitive root meaning to be nothing or not exist;",
+ "raices": [
+  "H370"
+ ],
+ "ocurrencias": 790,
+ "formas": [
+  {
+   "forma": "אין",
+   "forma_he": "אַ֔יִן",
+   "n": 383,
+   "ref": "bereshit/2/5"
+  },
+  {
+   "forma": "ואין",
+   "forma_he": "וְאֵ֨ין",
+   "n": 239,
+   "ref": "bereshit/39/11"
+  },
+  {
+   "forma": "איננו",
+   "forma_he": "אֵינֶנּוּ֩",
+   "n": 36,
+   "ref": "bereshit/30/33"
+  },
+  {
+   "forma": "מאין",
+   "forma_he": "מֵאַ֣יִן",
+   "n": 28,
+   "ref": "bereshit/29/4"
+  },
+  {
+   "forma": "ואיננו",
+   "forma_he": "וְאֵינֶ֕נּוּ",
+   "n": 12,
+   "ref": "bereshit/5/24"
+  }
+ ],
+ "morph": [
+  "HTn",
+  "HC/Tn",
+  "HR/Tn",
+  "HTn/Sp3ms",
+  "HC/Tn/Sp3ms"
+ ],
+ "glosa_es": "no hay; sin"
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H7969",
+ "he": "שלוש",
+ "xlit": "shâlôwsh",
+ "pron": "shaw-loshe'",
+ "def_en": [
+  "1) three, triad",
+  "1a) 3, 300, third"
+ ],
+ "kjv": "[phrase] fork, [phrase] often(-times), third, thir(-teen, -teenth), three, [phrase] thrice. Compare .",
+ "expl": "three; occasionally (ordinal) third, or (multiple) thrice",
+ "etim": "or ; masculine ; or ; a primitive number;",
+ "raices": [
+  "H7991"
+ ],
+ "ocurrencias": 431,
+ "formas": [
+  {
+   "forma": "שלש",
+   "forma_he": "שְׁלֹ֥שׁ",
+   "n": 109,
+   "ref": "bereshit/5/22"
+  },
+  {
+   "forma": "שלשה",
+   "forma_he": "שְׁלֹשָׁ֣ה",
+   "n": 94,
+   "ref": "bereshit/6/10"
+  },
+  {
+   "forma": "שלשת",
+   "forma_he": "שְׁלֹ֣שֶׁת",
+   "n": 71,
+   "ref": "bereshit/30/36"
+  },
+  {
+   "forma": "ושלשה",
+   "forma_he": "וּשְׁלֹשָׁה֙",
+   "n": 32,
+   "ref": "shemot/25/32"
+  },
+  {
+   "forma": "שלוש",
+   "forma_he": "שָׁל֣וֹשׁ",
+   "n": 25,
+   "ref": "bamidbar/22/32"
+  }
+ ],
+ "morph": [
+  "HAcfsa",
+  "HAcmsa",
+  "HAcmsc",
+  "HC/Acmsa",
+  "HC/Acfsa"
+ ],
+ "glosa_es": "tres"
+}

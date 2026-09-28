@@ -1,0 +1,59 @@
+{
+ "strong": "H1060",
+ "he": "בכור",
+ "xlit": "bᵉkôwr",
+ "pron": "bek-ore'",
+ "def_en": [
+  "1) firstborn, firstling",
+  "1a) of men and women",
+  "1b) of animals",
+  "1c) noun of relation (fig.)"
+ ],
+ "kjv": "eldest (son), firstborn(-ling).",
+ "expl": "firstborn; hence, chief",
+ "etim": "from ;",
+ "raices": [
+  "H1069"
+ ],
+ "ocurrencias": 118,
+ "formas": [
+  {
+   "forma": "בכור",
+   "forma_he": "בְּכ֥וֹר",
+   "n": 54,
+   "ref": "bereshit/35/23"
+  },
+  {
+   "forma": "הבכור",
+   "forma_he": "הַבְּכ֖וֹר",
+   "n": 23,
+   "ref": "bereshit/41/51"
+  },
+  {
+   "forma": "בכרו",
+   "forma_he": "בְּכֹר֖וֹ",
+   "n": 8,
+   "ref": "bereshit/10/15"
+  },
+  {
+   "forma": "בכר",
+   "forma_he": "בְּכֹ֤ר",
+   "n": 7,
+   "ref": "bereshit/25/13"
+  },
+  {
+   "forma": "הבכר",
+   "forma_he": "הַבְּכֹר֙",
+   "n": 5,
+   "ref": "bereshit/43/33"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": ""
+}

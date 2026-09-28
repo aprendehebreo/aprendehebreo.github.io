@@ -1,0 +1,60 @@
+{
+ "strong": "H8242",
+ "he": "שק",
+ "xlit": "saq",
+ "pron": "sak",
+ "def_en": [
+  "1) mesh, sackcloth, sack, sacking",
+  "1a) sack (for grain)",
+  "1b) sackcloth",
+  "1b1) worn in mourning or humiliation",
+  "1b2) same material spread out to lie on"
+ ],
+ "kjv": "sack(-cloth, -clothes).",
+ "expl": "properly, a mesh (as allowing a liquid to run through), i.e. coarse loose cloth or sacking (used in mourning and for bagging); hence, a bag (for grain, etc.)",
+ "etim": "from ;",
+ "raices": [
+  "H8264"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "שק",
+   "forma_he": "שַׂ֖ק",
+   "n": 17,
+   "ref": "bereshit/37/34"
+  },
+  {
+   "forma": "שקים",
+   "forma_he": "שַׂקִּ֤ים",
+   "n": 11,
+   "ref": "yehoshua/9/4"
+  },
+  {
+   "forma": "בשקים",
+   "forma_he": "בַּשַּׂקִּ֑ים",
+   "n": 4,
+   "ref": "mlakhim_b/19/2"
+  },
+  {
+   "forma": "שקו",
+   "forma_he": "שַׂקּ֔וֹ",
+   "n": 3,
+   "ref": "bereshit/42/25"
+  },
+  {
+   "forma": "השק",
+   "forma_he": "הַשַּׂ֜ק",
+   "n": 3,
+   "ref": "shmuel_b/21/10"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpa",
+  "HRd/Ncmpa",
+  "HNcmsc/Sp3ms",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

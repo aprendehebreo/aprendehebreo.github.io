@@ -1,0 +1,66 @@
+{
+ "strong": "H3820",
+ "he": "לב",
+ "xlit": "lêb",
+ "pron": "labe",
+ "def_en": [
+  "1) inner man, mind, will, heart, understanding",
+  "1a) inner part, midst",
+  "1a1) midst (of things)",
+  "1a2) heart (of man)",
+  "1a3) soul, heart (of man)",
+  "1a4) mind, knowledge, thinking, reflection, memory",
+  "1a5) inclination, resolution, determination (of will)",
+  "1a6) conscience",
+  "1a7) heart (of moral character)",
+  "1a8) as seat of appetites",
+  "1a9) as seat of emotions and passions 1a10) as seat of courage"
+ ],
+ "kjv": "[phrase] care for, comfortably, consent, [idiom] considered, courag(-eous), friend(-ly), ((broken-), (hard-), (merry-), (stiff-), (stout-), double) heart(-ed), [idiom] heed, [idiom] I, kindly, midst, mind(-ed), [idiom] regard(-ed), [idiom] themselves, [idiom] unawares, understanding, [idiom] well, willingly, wisdom.",
+ "expl": "the heart; also used (figuratively) very widely for the feelings, the will and even the intellect; likewise for the centre of anything",
+ "etim": "a form of ;",
+ "raices": [
+  "H3824"
+ ],
+ "ocurrencias": 596,
+ "formas": [
+  {
+   "forma": "לב",
+   "forma_he": "לֵ֧ב",
+   "n": 202,
+   "ref": "bereshit/8/21"
+  },
+  {
+   "forma": "לבי",
+   "forma_he": "לִבִּ֗י",
+   "n": 78,
+   "ref": "bereshit/24/45"
+  },
+  {
+   "forma": "לבו",
+   "forma_he": "לִבּ֔וֹ",
+   "n": 70,
+   "ref": "bereshit/6/5"
+  },
+  {
+   "forma": "לבך",
+   "forma_he": "לִבְּךָ֔",
+   "n": 53,
+   "ref": "shemot/9/14"
+  },
+  {
+   "forma": "לבם",
+   "forma_he": "לִבָּ֗ם",
+   "n": 44,
+   "ref": "bereshit/42/28"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": "corazón"
+}

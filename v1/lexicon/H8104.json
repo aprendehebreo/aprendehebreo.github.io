@@ -1,0 +1,71 @@
+{
+ "strong": "H8104",
+ "he": "שמר",
+ "xlit": "shâmar",
+ "pron": "shaw-mar'",
+ "def_en": [
+  "1) to keep, guard, observe, give heed",
+  "1a) (Qal)",
+  "1a1) to keep, have charge of",
+  "1a2) to keep, guard, keep watch and ward, protect, save life",
+  "1a2a) watch, watchman (participle)",
+  "1a3) to watch for, wait for",
+  "1a4) to watch, observe",
+  "1a5) to keep, retain, treasure up (in memory)",
+  "1a6) to keep (within bounds), restrain",
+  "1a7) to observe, celebrate, keep (sabbath or covenant or commands), perform (vow)",
+  "1a8) to keep, preserve, protect",
+  "1a9) to keep, reserve",
+  "1b) (Niphal)",
+  "1b1) to be on one's guard, take heed, take care, beware",
+  "1b2) to keep oneself, refrain, abstain",
+  "1b3) to be kept, be guarded",
+  "1c) (Piel) to keep, pay heed",
+  "1d) (Hithpael) to keep oneself from"
+ ],
+ "kjv": "beward, be circumspect, take heed (to self), keep(-er, self), mark, look narrowly, observe, preserve, regard, reserve, save (self), sure, (that lay) wait (for), watch(-man).",
+ "expl": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc.",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 469,
+ "formas": [
+  {
+   "forma": "שמר",
+   "forma_he": "שָׁמַ֥ר",
+   "n": 62,
+   "ref": "bereshit/37/11"
+  },
+  {
+   "forma": "לשמר",
+   "forma_he": "לִשְׁמֹ֕ר",
+   "n": 35,
+   "ref": "bereshit/3/24"
+  },
+  {
+   "forma": "ושמרתם",
+   "forma_he": "וּשְׁמַרְתֶּם֮",
+   "n": 25,
+   "ref": "shemot/12/17"
+  },
+  {
+   "forma": "שמרו",
+   "forma_he": "שָׁמָ֔רוּ",
+   "n": 22,
+   "ref": "bamidbar/9/23"
+  },
+  {
+   "forma": "השמר",
+   "forma_he": "הֲשֹׁמֵ֥ר",
+   "n": 20,
+   "ref": "bereshit/4/9"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HVqrmsa",
+  "HC/Vqq2mp",
+  "HVqi2ms",
+  "HVqrmpc"
+ ],
+ "glosa_es": "guardar; cuidar; observar"
+}

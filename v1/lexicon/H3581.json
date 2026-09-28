@@ -1,0 +1,61 @@
+{
+ "strong": "H3581",
+ "he": "כח",
+ "xlit": "kôach",
+ "pron": "ko'-akh",
+ "def_en": [
+  "1) strength, power, might",
+  "1a) human strength",
+  "1b) strength (of angels)",
+  "1c) power (of God)",
+  "1d) strength (of animals)",
+  "1e) strength, produce, wealth (of soil)",
+  "2) a small reptile, probably a kind of lizard, which is unclean",
+  "2a) perhaps an extinct animal, exact meaning is unknown"
+ ],
+ "kjv": "ability, able, chameleon, force, fruits, might, power(-ful), strength, substance, wealth.",
+ "expl": "vigor, literally (force, in a good or a bad sense) or figuratively (capacity, means, produce); also (from its hardiness) a large lizard",
+ "etim": "or (Daniel 11:6) ; from an unused root meaning to be firm;",
+ "raices": [],
+ "ocurrencias": 127,
+ "formas": [
+  {
+   "forma": "כח",
+   "forma_he": "כֹּ֣חַ",
+   "n": 49,
+   "ref": "bamidbar/14/17"
+  },
+  {
+   "forma": "כחי",
+   "forma_he": "כֹּחִ֔י",
+   "n": 15,
+   "ref": "bereshit/31/6"
+  },
+  {
+   "forma": "בכח",
+   "forma_he": "בַּכֹּ֑חַ",
+   "n": 14,
+   "ref": "shemot/15/6"
+  },
+  {
+   "forma": "כחו",
+   "forma_he": "כֹּח֣וֹ",
+   "n": 14,
+   "ref": "shoftim/16/5"
+  },
+  {
+   "forma": "בכחו",
+   "forma_he": "בְּכֹח֥וֹ",
+   "n": 9,
+   "ref": "devarim/4/37"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsc/Sp3ms",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

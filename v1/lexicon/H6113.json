@@ -1,0 +1,58 @@
+{
+ "strong": "H6113",
+ "he": "עצר",
+ "xlit": "ʻâtsâr",
+ "pron": "aw-tsar'",
+ "def_en": [
+  "1) to restrain, retain, close up, shut, withhold, refrain, stay, detain",
+  "1a) (Qal)",
+  "1a1) to restrain, halt, stop",
+  "1a2) to retain",
+  "1b) (Niphal) to be restrained, be stayed, be under restraint"
+ ],
+ "kjv": "[idiom] be able, close up, detain, fast, keep (self close, still), prevail, recover, refrain, [idiom] reign, restrain, retain, shut (up), slack, stay, stop, withhold (self).",
+ "expl": "to inclose; by analogy, to hold back; also to maintain, rule, assemble",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "עצור",
+   "forma_he": "עָצ֥וּר",
+   "n": 8,
+   "ref": "devarim/32/36"
+  },
+  {
+   "forma": "ותעצר",
+   "forma_he": "וַתֵּעָצַ֖ר",
+   "n": 6,
+   "ref": "bamidbar/17/13"
+  },
+  {
+   "forma": "עצר",
+   "forma_he": "עָצֹ֤ר",
+   "n": 4,
+   "ref": "bereshit/20/18"
+  },
+  {
+   "forma": "יעצר",
+   "forma_he": "יַעְצֹ֥ר",
+   "n": 4,
+   "ref": "shmuel_a/9/17"
+  },
+  {
+   "forma": "נעצרה",
+   "forma_he": "נֶעֱצָֽרָה",
+   "n": 2,
+   "ref": "bamidbar/17/15"
+  }
+ ],
+ "morph": [
+  "HVqsmsa",
+  "HC/VNw3fs",
+  "HVqi3ms",
+  "HVqp3ms",
+  "HR/VNc"
+ ],
+ "glosa_es": ""
+}

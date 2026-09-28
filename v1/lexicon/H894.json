@@ -1,0 +1,57 @@
+{
+ "strong": "H894",
+ "he": "בבל",
+ "xlit": "Bâbel",
+ "pron": "baw-bel'",
+ "def_en": [
+  "Babel or Babylon = \"confusion (by mixing)\"",
+  "1) Babel or Babylon, the ancient site and/or capital of Babylonia (modern Hillah) situated on the Euphrates"
+ ],
+ "kjv": "Babel, Babylon.",
+ "expl": "Babel (i.e. Babylon), including Babylonia and the Babylonian empire",
+ "etim": "from ; confusion;",
+ "raices": [
+  "H1101"
+ ],
+ "ocurrencias": 262,
+ "formas": [
+  {
+   "forma": "בבל",
+   "forma_he": "בָּבֶ֔ל",
+   "n": 203,
+   "ref": "bereshit/10/10"
+  },
+  {
+   "forma": "בבלה",
+   "forma_he": "בָּבֶ֑לָה",
+   "n": 28,
+   "ref": "mlakhim_b/20/17"
+  },
+  {
+   "forma": "מבבל",
+   "forma_he": "מִבָּבֶ֡ל",
+   "n": 12,
+   "ref": "mlakhim_b/17/24"
+  },
+  {
+   "forma": "לבבל",
+   "forma_he": "לְבָבֶ֜ל",
+   "n": 8,
+   "ref": "yeshayahu/14/22"
+  },
+  {
+   "forma": "בבבל",
+   "forma_he": "בְּבָבֶֽל",
+   "n": 6,
+   "ref": "mlakhim_b/25/28"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HNp/Sd",
+  "HR/Np",
+  "HC/Np",
+  "HR/Np/Sd"
+ ],
+ "glosa_es": "Babilonia"
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H5857",
+ "he": "עי",
+ "xlit": "ʻAy",
+ "pron": "ah'ee",
+ "def_en": [
+  "Ai or Aija or Aiath or Hai = \"heap of ruins\"",
+  "1) a city lying east of Bethel and beside Bethaven near Jericho and the second city taken on the invasion of Canaan",
+  "2) a city of the Ammonites on the east of the Jordan and apparently attached to Heshbon"
+ ],
+ "kjv": "Ai, Aija, Aijath, Hai.",
+ "expl": "Ai, Aja or Ajath, a place in Palestine",
+ "etim": "or (feminine) ; (Nehemiah 11:31), or ; (Isaiah 10:28), for ;",
+ "raices": [
+  "H5856"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "העי",
+   "forma_he": "הָעָֽי",
+   "n": 27,
+   "ref": "bereshit/13/3"
+  },
+  {
+   "forma": "לעי",
+   "forma_he": "לָעַ֜י",
+   "n": 4,
+   "ref": "yehoshua/8/2"
+  },
+  {
+   "forma": "והעי",
+   "forma_he": "וְהָעַ֣י",
+   "n": 3,
+   "ref": "bereshit/12/8"
+  },
+  {
+   "forma": "בעי",
+   "forma_he": "בָּעַ֔י",
+   "n": 2,
+   "ref": "yehoshua/8/16"
+  },
+  {
+   "forma": "ולעי",
+   "forma_he": "וְלָעָֽי",
+   "n": 1,
+   "ref": "yehoshua/9/3"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HRd/Np",
+  "HC/Td/Np",
+  "HNp",
+  "HC/Rd/Np"
+ ],
+ "glosa_es": ""
+}

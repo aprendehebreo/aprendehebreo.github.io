@@ -1,0 +1,59 @@
+{
+ "strong": "H4475",
+ "he": "ממשלה",
+ "xlit": "memshâlâh",
+ "pron": "mem-shaw-law'",
+ "def_en": [
+  "1) rule, dominion, realm",
+  "1a) rule, dominion, realm, domain",
+  "1b) rule",
+  "1c) rule, dominion (of God)"
+ ],
+ "kjv": "dominion, government, power, to rule.",
+ "expl": "rule; also (concretely in plural) a realm or a ruler",
+ "etim": "feminine of ;",
+ "raices": [
+  "H4474"
+ ],
+ "ocurrencias": 15,
+ "formas": [
+  {
+   "forma": "ממשלתו",
+   "forma_he": "מֶמְשַׁלְתּֽוֹ",
+   "n": 6,
+   "ref": "mlakhim_a/9/19"
+  },
+  {
+   "forma": "לממשלת",
+   "forma_he": "לְמֶמְשֶׁ֣לֶת",
+   "n": 3,
+   "ref": "bereshit/1/16"
+  },
+  {
+   "forma": "וממשלתך",
+   "forma_he": "וּמֶֽמְשֶׁלְתְּךָ֖",
+   "n": 2,
+   "ref": "yeshayahu/22/21"
+  },
+  {
+   "forma": "ממשלת",
+   "forma_he": "מֶמְשֶׁ֨לֶת",
+   "n": 1,
+   "ref": "yirmiyahu/34/1"
+  },
+  {
+   "forma": "הממשלה",
+   "forma_he": "הַמֶּמְשָׁלָה֙",
+   "n": 1,
+   "ref": "mikha/4/8"
+  }
+ ],
+ "morph": [
+  "HNcbsc/Sp3ms",
+  "HR/Ncbsc",
+  "HC/Ncbsc/Sp2ms",
+  "HNcbsc",
+  "HTd/Ncbsa"
+ ],
+ "glosa_es": ""
+}

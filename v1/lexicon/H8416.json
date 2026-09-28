@@ -1,0 +1,63 @@
+{
+ "strong": "H8416",
+ "he": "תהלה",
+ "xlit": "tᵉhillâh",
+ "pron": "teh-hil-law'",
+ "def_en": [
+  "1) praise, song or hymn of praise",
+  "1a) praise, adoration, thanksgiving (paid to God)",
+  "1b) act of general or public praise",
+  "1c) praise-song (as title)",
+  "1d) praise (demanded by qualities or deeds or attributes of God)",
+  "1e) renown, fame, glory",
+  "1e1) of Damascus, God",
+  "1e2) object of praise, possessor of renown (fig)"
+ ],
+ "kjv": "praise.",
+ "expl": "laudation; specifically (concretely) a hymn",
+ "etim": "from ;",
+ "raices": [
+  "H1984"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "תהלה",
+   "forma_he": "תְּהִלָּֽה",
+   "n": 12,
+   "ref": "yeshayahu/60/18"
+  },
+  {
+   "forma": "תהלתו",
+   "forma_he": "תְּהִלָּת֖וֹ",
+   "n": 8,
+   "ref": "yeshayahu/42/10"
+  },
+  {
+   "forma": "תהלתך",
+   "forma_he": "תְהִלָּתְךָ֖",
+   "n": 7,
+   "ref": "devarim/10/21"
+  },
+  {
+   "forma": "תהלת",
+   "forma_he": "תְהִלֹּ֖ת",
+   "n": 6,
+   "ref": "shemot/15/11"
+  },
+  {
+   "forma": "תהלתי",
+   "forma_he": "תְּהִלָּתִ֖י",
+   "n": 5,
+   "ref": "yeshayahu/43/21"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfsc/Sp3ms",
+  "HNcfsc/Sp2ms",
+  "HNcfsc/Sp1cs",
+  "HR/Ncfsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H7676",
+ "he": "שבת",
+ "xlit": "shabbâth",
+ "pron": "shab-bawth'",
+ "def_en": [
+  "1) Sabbath",
+  "1a) sabbath",
+  "1b) day of atonement",
+  "1c) sabbath year",
+  "1d) week",
+  "1e) produce (in sabbath year)"
+ ],
+ "kjv": "([phrase] every) sabbath.",
+ "expl": "intermission, i.e (specifically) the Sabbath",
+ "etim": "intensive from ;",
+ "raices": [
+  "H7673"
+ ],
+ "ocurrencias": 111,
+ "formas": [
+  {
+   "forma": "השבת",
+   "forma_he": "הַשַּׁבָּת֒",
+   "n": 44,
+   "ref": "shemot/16/29"
+  },
+  {
+   "forma": "שבת",
+   "forma_he": "שָׁבַת֙",
+   "n": 23,
+   "ref": "bereshit/2/3"
+  },
+  {
+   "forma": "שבתותי",
+   "forma_he": "שַׁבְּתוֹתַ֔י",
+   "n": 8,
+   "ref": "yeshayahu/56/4"
+  },
+  {
+   "forma": "שבתתי",
+   "forma_he": "שַׁבְּתֹתַ֖י",
+   "n": 6,
+   "ref": "shemot/31/13"
+  },
+  {
+   "forma": "בשבת",
+   "forma_he": "בְּשֶׁ֣בֶת",
+   "n": 4,
+   "ref": "shoftim/11/26"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HNcbpc/Sp1cs",
+  "HNcbsa",
+  "HNcbsc",
+  "HRd/Ncbsa"
+ ],
+ "glosa_es": ""
+}

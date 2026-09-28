@@ -1,0 +1,28 @@
+{
+ "strong": "H4210",
+ "he": "מזמור",
+ "xlit": "mizmôwr",
+ "pron": "miz-more'",
+ "def_en": [
+  "1) melody, psalm"
+ ],
+ "kjv": "psalm.",
+ "expl": "properly, instrumental music; by implication, a poem set to notes",
+ "etim": "from ;",
+ "raices": [
+  "H2167"
+ ],
+ "ocurrencias": 57,
+ "formas": [
+  {
+   "forma": "מזמור",
+   "forma_he": "מִזְמ֥וֹר",
+   "n": 57,
+   "ref": "tehilim/3/1"
+  }
+ ],
+ "morph": [
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

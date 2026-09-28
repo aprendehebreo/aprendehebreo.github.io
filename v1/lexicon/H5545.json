@@ -1,0 +1,56 @@
+{
+ "strong": "H5545",
+ "he": "סלח",
+ "xlit": "çâlach",
+ "pron": "saw-lakh'",
+ "def_en": [
+  "1) to forgive, pardon",
+  "1a) (Qal) to forgive, pardon",
+  "1b) (Niphal) to be forgiven"
+ ],
+ "kjv": "forgive, pardon, spare.",
+ "expl": "to forgive",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "ונסלח",
+   "forma_he": "וְנִסְלַ֥ח",
+   "n": 13,
+   "ref": "vayikra/4/20"
+  },
+  {
+   "forma": "וסלחת",
+   "forma_he": "וְסָלַחְתָּ֛",
+   "n": 12,
+   "ref": "shemot/34/9"
+  },
+  {
+   "forma": "יסלח",
+   "forma_he": "יִֽסְלַח",
+   "n": 5,
+   "ref": "bamidbar/30/6"
+  },
+  {
+   "forma": "סלח",
+   "forma_he": "סְלַֽח",
+   "n": 3,
+   "ref": "bamidbar/14/19"
+  },
+  {
+   "forma": "אסלח",
+   "forma_he": "אֶֽסְלַֽח",
+   "n": 3,
+   "ref": "yirmiyahu/5/7"
+  }
+ ],
+ "morph": [
+  "HC/VNq3ms",
+  "HC/Vqq2ms",
+  "HVqi3ms",
+  "HVqi1cs",
+  "HC/VNp3ms"
+ ],
+ "glosa_es": ""
+}

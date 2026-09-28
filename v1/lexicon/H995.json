@@ -1,0 +1,66 @@
+{
+ "strong": "H995",
+ "he": "בין",
+ "xlit": "bîyn",
+ "pron": "bene",
+ "def_en": [
+  "1) to discern, understand, consider",
+  "1a) (Qal)",
+  "1a1) to perceive, discern",
+  "1a2) to understand, know (with the mind)",
+  "1a3) to observe, mark, give heed to, distinguish, consider",
+  "1a4) to have discernment, insight, understanding",
+  "1b) (Niphal) to be discerning, intelligent, discreet, have understanding",
+  "1c) (Hiphil)",
+  "1c1) to understand",
+  "1c2) to cause to understand, give understanding, teach",
+  "1d) (Hithpolel) to show oneself discerning or attentive, consider diligently",
+  "1e) (Polel) to teach, instruct",
+  "2) (TWOT) prudent, regard"
+ ],
+ "kjv": "attend, consider, be cunning, diligently, direct, discern, eloquent, feel, inform, instruct, have intelligence, know, look well to, mark, perceive, be prudent, regard, (can) skill(-full), teach, think, (cause, make to, get, give, have) understand(-ing), view, (deal) wise(-ly, man).",
+ "expl": "to separate mentally (or distinguish), i.e.(generally) understand",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 171,
+ "formas": [
+  {
+   "forma": "יבין",
+   "forma_he": "יָבִ֣ין",
+   "n": 20,
+   "ref": "yehoshua/11/1"
+  },
+  {
+   "forma": "מבין",
+   "forma_he": "מִבֵּ֣ין",
+   "n": 15,
+   "ref": "bereshit/49/10"
+  },
+  {
+   "forma": "יבינו",
+   "forma_he": "יָבִ֖ינוּ",
+   "n": 11,
+   "ref": "devarim/32/29"
+  },
+  {
+   "forma": "נבון",
+   "forma_he": "נָב֣וֹן",
+   "n": 9,
+   "ref": "bereshit/41/33"
+  },
+  {
+   "forma": "הבין",
+   "forma_he": "הָבִ֖ין",
+   "n": 8,
+   "ref": "mlakhim_a/3/11"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVhrmsa",
+  "HVqi3mp",
+  "HVNrmsa",
+  "HVhv2ms/Sp1cs"
+ ],
+ "glosa_es": "entender; comprender; discernir"
+}

@@ -1,0 +1,36 @@
+{
+ "strong": "H1945",
+ "he": "הוי",
+ "xlit": "hôwy",
+ "pron": "hoh'ee",
+ "def_en": [
+  "1) ah!, alas!, ha!, ho!, O!, woe!"
+ ],
+ "kjv": "ah, alas, ho, O, woe.",
+ "expl": "oh!",
+ "etim": "a prolonged form of (akin to );",
+ "raices": [
+  "H1930",
+  "H188"
+ ],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "הוי",
+   "forma_he": "ה֥וֹי",
+   "n": 48,
+   "ref": "mlakhim_a/13/30"
+  },
+  {
+   "forma": "והוי",
+   "forma_he": "וְה֣וֹי",
+   "n": 3,
+   "ref": "yirmiyahu/22/18"
+  }
+ ],
+ "morph": [
+  "HTj",
+  "HC/Tj"
+ ],
+ "glosa_es": ""
+}

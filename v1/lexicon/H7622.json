@@ -1,0 +1,56 @@
+{
+ "strong": "H7622",
+ "he": "שבות",
+ "xlit": "shᵉbûwth",
+ "pron": "sheb-ooth'",
+ "def_en": [
+  "1) captivity, captives"
+ ],
+ "kjv": "captive(-ity).",
+ "expl": "exile, concretely, prisoners; figuratively, a former state of prosperity",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7617"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "שבות",
+   "forma_he": "שְׁב֨וּת",
+   "n": 19,
+   "ref": "yirmiyahu/30/3"
+  },
+  {
+   "forma": "שבית",
+   "forma_he": "שָׁבִ֛יתָ",
+   "n": 6,
+   "ref": "mlakhim_b/6/22"
+  },
+  {
+   "forma": "שבותם",
+   "forma_he": "שְׁבוּתָ֑ם",
+   "n": 4,
+   "ref": "yirmiyahu/31/23"
+  },
+  {
+   "forma": "שבותך",
+   "forma_he": "שְׁבוּתְךָ֖",
+   "n": 2,
+   "ref": "devarim/30/3"
+  },
+  {
+   "forma": "שביתכם",
+   "forma_he": "שביתכם",
+   "n": 1,
+   "ref": "yirmiyahu/29/14"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsc/Sp3mp",
+  "HNcfsc/Sp2mp",
+  "HC/Ncfsc",
+  "HNcfsc/Sp1cp"
+ ],
+ "glosa_es": ""
+}

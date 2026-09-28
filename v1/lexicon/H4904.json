@@ -1,0 +1,59 @@
+{
+ "strong": "H4904",
+ "he": "משכב",
+ "xlit": "mishkâb",
+ "pron": "mish-kawb'",
+ "def_en": [
+  "1) a lying down, couch, bier, act of lying",
+  "1a) couch, bed",
+  "1b) act of lying, lying down or sleeping room, bedroom",
+  "1c) lying down (for sexual contact)"
+ ],
+ "kjv": "bed(-chamber), couch, lieth (lying) with.",
+ "expl": "a bed (figuratively, a bier); abstractly, sleep; by euphemism, carnal intercourse",
+ "etim": "from ;",
+ "raices": [
+  "H7901"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "משכבך",
+   "forma_he": "מִשְׁכָּבְךָ֖",
+   "n": 7,
+   "ref": "shemot/7/28"
+  },
+  {
+   "forma": "משכב",
+   "forma_he": "מִשְׁכַּ֣ב",
+   "n": 7,
+   "ref": "bamidbar/31/18"
+  },
+  {
+   "forma": "משכבי",
+   "forma_he": "מִשְׁכְּבֵ֣י",
+   "n": 6,
+   "ref": "bereshit/49/4"
+  },
+  {
+   "forma": "משכבו",
+   "forma_he": "מִשְׁכָּב֔וֹ",
+   "n": 6,
+   "ref": "shmuel_b/4/7"
+  },
+  {
+   "forma": "המשכב",
+   "forma_he": "הַמִּשְׁכָּ֗ב",
+   "n": 5,
+   "ref": "vayikra/15/4"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp2ms",
+  "HTd/Ncmsa",
+  "HR/Ncmsc",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

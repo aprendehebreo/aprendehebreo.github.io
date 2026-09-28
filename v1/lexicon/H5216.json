@@ -1,0 +1,57 @@
+{
+ "strong": "H5216",
+ "he": "ניר",
+ "xlit": "nîyr",
+ "pron": "neer",
+ "def_en": [
+  "1) lamp"
+ ],
+ "kjv": "candle, lamp, light.",
+ "expl": "a lamp (i.e. the burner) or light (literally or figuratively)",
+ "etim": "or ; also ; or ; or (feminine) ; from a primitive root (see ; ) properly, meaning to glisten;",
+ "raices": [
+  "H5214",
+  "H5135"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "נר",
+   "forma_he": "נֵ֖ר",
+   "n": 10,
+   "ref": "shemot/27/20"
+  },
+  {
+   "forma": "נרתיה",
+   "forma_he": "נֵרֹתֶ֖יהָ",
+   "n": 9,
+   "ref": "shemot/25/37"
+  },
+  {
+   "forma": "הנרת",
+   "forma_he": "הַנֵּרֹ֖ת",
+   "n": 4,
+   "ref": "shemot/30/7"
+  },
+  {
+   "forma": "ניר",
+   "forma_he": "נִ֣יר",
+   "n": 4,
+   "ref": "mlakhim_a/11/36"
+  },
+  {
+   "forma": "הנרות",
+   "forma_he": "הַנֵּר֑וֹת",
+   "n": 3,
+   "ref": "vayikra/24/4"
+  }
+ ],
+ "morph": [
+  "HNcmpc/Sp3fs",
+  "HNcmsa",
+  "HTd/Ncmpa",
+  "HNcmsc",
+  "HC/Ncmpc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H3778",
+ "he": "כשדי",
+ "xlit": "Kasdîy",
+ "pron": "kas-dee'",
+ "def_en": [
+  "Chaldea or Chaldeans = \"clod-breakers\"",
+  "n pr loc",
+  "1) a territory in lower Mesopotamia bordering on the Persian Gulf",
+  "n pr m",
+  "2) the inhabitants of Chaldea, living on the lower Euphrates and Tigris",
+  "3) those persons considered the wisest in the land (by extension)"
+ ],
+ "kjv": "Chaldeans, Chaldees, inhabitants of Chaldea.",
+ "expl": "a Kasdite, or descendant of Kesed; by implication, a Chaldaean (as if so descended); also an astrologer (as if proverbial of that people",
+ "etim": "(occasionally with enclitic) ; towards the Kasdites into Chaldea), patronymically from (only in the plural);",
+ "raices": [
+  "H3777"
+ ],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "כשדים",
+   "forma_he": "כַּשְׂדִּֽים",
+   "n": 40,
+   "ref": "bereshit/11/28"
+  },
+  {
+   "forma": "הכשדים",
+   "forma_he": "הַכַּשְׂדִּ֑ים",
+   "n": 32,
+   "ref": "mlakhim_b/25/24"
+  },
+  {
+   "forma": "וכשדים",
+   "forma_he": "וְכַשְׂדִּ֥ים",
+   "n": 3,
+   "ref": "mlakhim_b/25/4"
+  },
+  {
+   "forma": "כשדימה",
+   "forma_he": "כַשְׂדִּ֨ימָה֙",
+   "n": 3,
+   "ref": "yechezkel/11/24"
+  },
+  {
+   "forma": "כשדיים",
+   "forma_he": "כשדיים",
+   "n": 2,
+   "ref": "yechezkel/23/14"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HTd/Np",
+  "HNgmpa",
+  "HC/Np",
+  "HNp/Sd"
+ ],
+ "glosa_es": ""
+}

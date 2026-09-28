@@ -1,0 +1,64 @@
+{
+ "strong": "H7523",
+ "he": "רצח",
+ "xlit": "râtsach",
+ "pron": "raw-tsakh'",
+ "def_en": [
+  "1) to murder, slay, kill",
+  "1a)(Qal) to murder, slay",
+  "1a1) premeditated",
+  "1a2) accidental",
+  "1a3) as avenger",
+  "1a4) slayer (intentional) (participle)",
+  "1b) (Niphal) to be slain",
+  "1c) (Piel)",
+  "1c1) to murder, assassinate",
+  "1c2) murderer, assassin (participle) (subst)",
+  "1d) (Pual) to be killed"
+ ],
+ "kjv": "put to death, kill, (man-) slay(-er), murder(-er).",
+ "expl": "properly, to dash in pieces, i.e. kill (a human being), especially to murder",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "הרצח",
+   "forma_he": "הָרֹצֵ֑חַ",
+   "n": 20,
+   "ref": "bamidbar/35/6"
+  },
+  {
+   "forma": "רצח",
+   "forma_he": "רֹצֵ֔חַ",
+   "n": 8,
+   "ref": "bamidbar/35/11"
+  },
+  {
+   "forma": "רוצח",
+   "forma_he": "רוֹצֵ֗חַ",
+   "n": 3,
+   "ref": "devarim/4/42"
+  },
+  {
+   "forma": "תרצח",
+   "forma_he": "תִּרְצָֽח",
+   "n": 2,
+   "ref": "shemot/20/13"
+  },
+  {
+   "forma": "ורצח",
+   "forma_he": "וְרָצַ֞ח",
+   "n": 2,
+   "ref": "bamidbar/35/27"
+  }
+ ],
+ "morph": [
+  "HTd/Vqrmsa",
+  "HVqrmsa",
+  "HVqi2ms",
+  "HVqi3ms",
+  "HVpi3mp"
+ ],
+ "glosa_es": ""
+}

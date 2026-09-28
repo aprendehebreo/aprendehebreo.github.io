@@ -1,0 +1,61 @@
+{
+ "strong": "H842",
+ "he": "אשרה",
+ "xlit": "ʼăshêrâh",
+ "pron": "ash-ay-raw'",
+ "def_en": [
+  "Ashera(h) = \"groves (for idol worship)\"",
+  "1) a Babylonian (Astarte)-Canaanite goddess (of fortune and happiness), the supposed consort of Baal, her images",
+  "1a) the goddess, goddesses",
+  "1b) her images",
+  "1c) sacred trees or poles set up near an altar"
+ ],
+ "kjv": "grove. Compare .",
+ "expl": "Asherah (or Astarte) a Phoenician goddess; also an image of the same",
+ "etim": "or ; from ; happy;",
+ "raices": [
+  "H833",
+  "H6253"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "האשרה",
+   "forma_he": "הָאֲשֵׁרָ֥ה",
+   "n": 9,
+   "ref": "shoftim/6/25"
+  },
+  {
+   "forma": "האשרים",
+   "forma_he": "הָאֲשֵׁרִ֑ים",
+   "n": 7,
+   "ref": "mlakhim_b/23/14"
+  },
+  {
+   "forma": "אשרה",
+   "forma_he": "אֲשֵׁרָ֖ה",
+   "n": 3,
+   "ref": "devarim/16/21"
+  },
+  {
+   "forma": "לאשרה",
+   "forma_he": "לָאֲשֵׁרָ֑ה",
+   "n": 3,
+   "ref": "mlakhim_a/15/13"
+  },
+  {
+   "forma": "והאשרים",
+   "forma_he": "וְהָאֲשֵׁרִ֖ים",
+   "n": 3,
+   "ref": "yeshayahu/17/8"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HNp",
+  "HC/Td/Np",
+  "HC/Np/Sp3mp",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

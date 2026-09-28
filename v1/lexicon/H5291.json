@@ -1,0 +1,59 @@
+{
+ "strong": "H5291",
+ "he": "נערה",
+ "xlit": "naʻărâh",
+ "pron": "nah-ar-aw'",
+ "def_en": [
+  "1) girl, damsel, female servant",
+  "1a) girl, damsel, little girl",
+  "1a1) of young woman, marriageable young woman, concubine, prostitute",
+  "1b) maid, female attendant, female servant"
+ ],
+ "kjv": "damsel, maid(-en), young (woman).",
+ "expl": "a girl (from infancy to adolescence)",
+ "etim": "feminine of ;",
+ "raices": [
+  "H5288"
+ ],
+ "ocurrencias": 76,
+ "formas": [
+  {
+   "forma": "הנערה",
+   "forma_he": "הַֽנַּעֲרָ֖ה",
+   "n": 21,
+   "ref": "devarim/22/15"
+  },
+  {
+   "forma": "הנער",
+   "forma_he": "הַנַּ֔עַר",
+   "n": 14,
+   "ref": "bereshit/18/7"
+  },
+  {
+   "forma": "נערה",
+   "forma_he": "נַעֲרָ֣ה",
+   "n": 9,
+   "ref": "devarim/22/23"
+  },
+  {
+   "forma": "נערות",
+   "forma_he": "נְעָר֔וֹת",
+   "n": 4,
+   "ref": "shmuel_a/9/11"
+  },
+  {
+   "forma": "לנער",
+   "forma_he": "לַֽנַּעֲרָ֑",
+   "n": 3,
+   "ref": "bereshit/24/57"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HRd/Ncfsa",
+  "HC/Td/Ncfsa",
+  "HNcfpa"
+ ],
+ "glosa_es": ""
+}

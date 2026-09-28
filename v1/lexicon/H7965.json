@@ -1,0 +1,65 @@
+{
+ "strong": "H7965",
+ "he": "שלום",
+ "xlit": "shâlôwm",
+ "pron": "shaw-lome'",
+ "def_en": [
+  "1) completeness, soundness, welfare, peace",
+  "1a) completeness (in number)",
+  "1b) safety, soundness (in body)",
+  "1c) welfare, health, prosperity",
+  "1d) peace, quiet, tranquillity, contentment",
+  "1e) peace, friendship",
+  "1e1) of human relationships",
+  "1e2) with God especially in covenant relationship",
+  "1f) peace (from war)",
+  "1g) peace (as adjective)"
+ ],
+ "kjv": "[idiom] do, familiar, [idiom] fare, favour, [phrase] friend, [idiom] great, (good) health, ([idiom] perfect, such as be at) peace(-able, -ably), prosper(-ity, -ous), rest, safe(-ty), salute, welfare, ([idiom] all is, be) well, [idiom] wholly.",
+ "expl": "safe, i.e. (figuratively) well, happy, friendly; also (abstractly) welfare, i.e. health, prosperity, peace",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7999"
+ ],
+ "ocurrencias": 237,
+ "formas": [
+  {
+   "forma": "שלום",
+   "forma_he": "שָׁל֔וֹם",
+   "n": 122,
+   "ref": "bereshit/29/6"
+  },
+  {
+   "forma": "בשלום",
+   "forma_he": "בְּשָׁל֑וֹם",
+   "n": 33,
+   "ref": "bereshit/15/15"
+  },
+  {
+   "forma": "לשלום",
+   "forma_he": "לְשָׁל֔וֹם",
+   "n": 28,
+   "ref": "bereshit/43/27"
+  },
+  {
+   "forma": "השלום",
+   "forma_he": "הֲשָׁל֣וֹם",
+   "n": 18,
+   "ref": "bereshit/29/6"
+  },
+  {
+   "forma": "ולשלום",
+   "forma_he": "וְלִשְׁל֣וֹם",
+   "n": 5,
+   "ref": "shmuel_b/11/7"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HTi/Ncmsa",
+  "HNcmsc",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": "paz; bienestar; integridad"
+}

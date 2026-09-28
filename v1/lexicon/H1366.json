@@ -1,0 +1,59 @@
+{
+ "strong": "H1366",
+ "he": "גבול",
+ "xlit": "gᵉbûwl",
+ "pron": "gheb-ool'",
+ "def_en": [
+  "1) border, territory",
+  "1a) border",
+  "1b) territory (enclosed within boundary)",
+  "1c) region, territory (of darkness) (fig.)"
+ ],
+ "kjv": "border, bound, coast, [idiom] great, landmark, limit, quarter, space.",
+ "expl": "properly, a cord (as twisted), i.e. (by implication) a boundary; by extension the territory inclosed",
+ "etim": "or ; (shortened) from ;",
+ "raices": [
+  "H1379"
+ ],
+ "ocurrencias": 241,
+ "formas": [
+  {
+   "forma": "גבול",
+   "forma_he": "גְּב֤וּל",
+   "n": 99,
+   "ref": "bereshit/10/19"
+  },
+  {
+   "forma": "הגבול",
+   "forma_he": "הַגְּבֽוּל",
+   "n": 45,
+   "ref": "bamidbar/22/36"
+  },
+  {
+   "forma": "וגבול",
+   "forma_he": "וּגְב֣וּל",
+   "n": 15,
+   "ref": "bamidbar/34/6"
+  },
+  {
+   "forma": "גבולם",
+   "forma_he": "גְבוּלָ֗ם",
+   "n": 15,
+   "ref": "yehoshua/13/30"
+  },
+  {
+   "forma": "גבולך",
+   "forma_he": "גְּבוּלְךָ֖",
+   "n": 8,
+   "ref": "shemot/7/27"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp3mp",
+  "HR/Ncmsc",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": "límite; frontera; territorio"
+}

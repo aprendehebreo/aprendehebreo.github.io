@@ -1,0 +1,54 @@
+{
+ "strong": "H3101",
+ "he": "יואש",
+ "xlit": "Yôwʼâsh",
+ "pron": "yo-awsh'",
+ "def_en": [
+  "Joash = \"given by the Lord\"",
+  "1) son of king Ahaziah and the 8th king of Judah",
+  "2) son of king Jehoahaz and the 12th king of the northern kingdom of Israel",
+  "3) father of Gideon",
+  "4) a son of king Ahab",
+  "5) a descendant of Shelah the son of Judah; either the son of Shelah or the son of Jokim",
+  "6) son of Shemaah of Gibeah who resorted to David at Ziklag"
+ ],
+ "kjv": "Joash.",
+ "expl": "Joash, the name of six Israelites",
+ "etim": "or ; (2 Chronicles 24:1), a form of ;",
+ "raices": [
+  "H3060"
+ ],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "יואש",
+   "forma_he": "יוֹאָ֔שׁ",
+   "n": 40,
+   "ref": "shoftim/6/29"
+  },
+  {
+   "forma": "ליואש",
+   "forma_he": "לְיוֹאָ֖שׁ",
+   "n": 4,
+   "ref": "shoftim/6/11"
+  },
+  {
+   "forma": "ויואש",
+   "forma_he": "וְיוֹאָ֧שׁ",
+   "n": 2,
+   "ref": "divrei_hayamim_a/4/22"
+  },
+  {
+   "forma": "יאש",
+   "forma_he": "יֹאָ֣שׁ",
+   "n": 1,
+   "ref": "divrei_hayamim_b/24/1"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

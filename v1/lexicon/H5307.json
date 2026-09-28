@@ -1,0 +1,74 @@
+{
+ "strong": "H5307",
+ "he": "נפל",
+ "xlit": "nâphal",
+ "pron": "naw-fal'",
+ "def_en": [
+  "1) to fall, lie, be cast down, fail",
+  "1a) (Qal)",
+  "1a1) to fall",
+  "1a2) to fall (of violent death)",
+  "1a3) to fall prostrate, prostrate oneself before",
+  "1a4) to fall upon, attack, desert, fall away to, go away to, fall into the hand of",
+  "1a5) to fall short, fail, fall out, turn out, result",
+  "1a6) to settle, waste away, be offered, be inferior to",
+  "1a7) to lie, lie prostrate",
+  "1b) (Hiphil)",
+  "1b1) to cause to fall, fell, throw down, knock out, lay prostrate",
+  "1b2) to overthrow",
+  "1b3) to make the lot fall, assign by lot, apportion by lot",
+  "1b4) to let drop, cause to fail (fig.)",
+  "1b5) to cause to fall",
+  "1c) (Hithpael)",
+  "1c1) to throw or prostrate oneself, throw oneself upon",
+  "1c2) to lie prostrate, prostrate oneself",
+  "1d) (Pilel) to fall"
+ ],
+ "kjv": "be accepted, cast (down, self, (lots), out), cease, die, divide (by lot), (let) fail, (cause to, let, make, ready to) fall (away, down, -en, -ing), fell(-ing), fugitive, have (inheritance), inferior, be judged (by mistake for ), lay (along), (cause to) lie down, light (down), be ([idiom] hast) lost, lying, overthrow, overwhelm, perish, present(-ed, -ing), (make to) rot, slay, smite out, [idiom] surely, throw down.",
+ "expl": "to fall, in a great variety of applications (intransitive or causative, literal or figurative)",
+ "etim": "a primitive root;",
+ "raices": [
+  "H6419"
+ ],
+ "ocurrencias": 435,
+ "formas": [
+  {
+   "forma": "ויפל",
+   "forma_he": "וַיַּפֵּל֩",
+   "n": 50,
+   "ref": "bereshit/2/21"
+  },
+  {
+   "forma": "נפל",
+   "forma_he": "נָפָֽל",
+   "n": 39,
+   "ref": "bereshit/25/18"
+  },
+  {
+   "forma": "יפלו",
+   "forma_he": "יִפְּל֔וּ",
+   "n": 34,
+   "ref": "bamidbar/6/12"
+  },
+  {
+   "forma": "נפלו",
+   "forma_he": "נָפְל֥וּ",
+   "n": 32,
+   "ref": "bereshit/4/6"
+  },
+  {
+   "forma": "ויפלו",
+   "forma_he": "וַֽיִּפְּל֖וּ",
+   "n": 29,
+   "ref": "bereshit/4/5"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HVqi3mp",
+  "HVqp3cp",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": "caer"
+}

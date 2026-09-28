@@ -1,0 +1,225 @@
+{
+ "id": 10,
+ "titulo": "Verbos I: raíz, qal y tiempos",
+ "objetivos": [
+  "Reconocer la raíz de tres consonantes detrás de cualquier forma verbal.",
+  "Distinguir el perfecto del imperfecto y del wayyiqtol.",
+  "Leer el código morfológico de la API, por ejemplo HVqp3ms.",
+  "Identificar verbos qal frecuentes en el texto del Tanaj."
+ ],
+ "items": [
+  {
+   "id": "raiz",
+   "tipo": "gramatica",
+   "es": "La raíz de tres letras",
+   "he": "ש־מ־ע",
+   "nota": "Casi todo verbo hebreo tiene una raíz de tres consonantes. De ש־מ־ע salen todas sus formas: שָׁמַע ('oyó') y שְׁמַע ('oye tú'). Si reconoces la raíz, reconoces el verbo.",
+   "ejemplo": {
+    "he": "שָׁמַע",
+    "xlit": "oyó",
+    "es": "shamá",
+    "ref": "bereshit/16/11"
+   }
+  },
+  {
+   "id": "binyanim",
+   "tipo": "gramatica",
+   "es": "Los siete binyanim",
+   "he": "קל",
+   "nota": "Qal es el patrón básico: acción simple y activa. Los otros seis son nif'al, pi'el, pu'al, hif'il, hof'al y hitpa'el, y cada uno cambia el sentido (pasivo, intensivo, causativo). En esta lección solo verás el qal."
+  },
+  {
+   "id": "perfecto",
+   "tipo": "gramatica",
+   "es": "Perfecto: acción terminada",
+   "he": "בָּרָא",
+   "nota": "Se forma con sufijos al final del verbo. La tercera persona masculino singular no lleva sufijo: בָּרָא ('creó'), código HVqp3ms.",
+   "ejemplo": {
+    "he": "בָּרָא",
+    "xlit": "creó",
+    "es": "bará",
+    "ref": "bereshit/1/1"
+   }
+  },
+  {
+   "id": "imperfecto",
+   "tipo": "gramatica",
+   "es": "Imperfecto: acción no terminada",
+   "he": "יִהְיֶה",
+   "nota": "Se forma con prefijos (א, י, ת, נ) al principio: יִהְיֶה ('será'), código HVqi3ms. Indica acción en curso, futura o repetida.",
+   "ejemplo": {
+    "he": "יִהְיֶה",
+    "xlit": "será",
+    "es": "yihyé",
+    "ref": "bereshit/1/29"
+   }
+  },
+  {
+   "id": "wayyiqtol",
+   "tipo": "gramatica",
+   "es": "Wayyiqtol: וַ + imperfecto",
+   "he": "וַיֹּאמֶר",
+   "nota": "Es la forma narrativa por excelencia: una ו con pataj y dagesh más el imperfecto. וַיֹּאמֶר ('y dijo'), código HC/Vqw3ms. Con ella avanza la historia en bereshit.",
+   "ejemplo": {
+    "he": "וַיֹּאמֶר",
+    "xlit": "y dijo",
+    "es": "vayómer",
+    "ref": "bereshit/1/3"
+   }
+  },
+  {
+   "id": "codigo",
+   "tipo": "gramatica",
+   "es": "Cómo leer el código morfológico",
+   "he": "HVqp3ms",
+   "nota": "H = hebreo, V = verbo, q = binyan qal, p = perfecto, 3 = tercera persona, m = masculino, s = singular. Así HVqp3ms = verbo qal perfecto 3ª masc. sing. Otras letras: w = wayyiqtol (HC/Vqw3ms), i = imperfecto (HVqi3ms), v = imperativo (HVqv2ms), c = infinitivo constructo (HVqc).",
+   "ejemplo": {
+    "he": "בָּרָא",
+    "xlit": "creó",
+    "es": "bará",
+    "ref": "bereshit/1/1"
+   }
+  },
+  {
+   "id": "imperativo",
+   "tipo": "gramatica",
+   "es": "Imperativo: orden directa",
+   "he": "קַח",
+   "nota": "La segunda persona del imperativo qal: קַח ('toma'), código HVqv2ms. Se ve también en שְׁמַע, 'oye'.",
+   "ejemplo": {
+    "he": "קַח",
+    "xlit": "toma",
+    "es": "qaj",
+    "ref": "bereshit/6/21"
+   }
+  },
+  {
+   "id": "vayomer",
+   "tipo": "palabra",
+   "he": "וַיֹּאמֶר",
+   "es": "y dijo",
+   "xlit": "vayómer",
+   "ref": "bereshit/1/3",
+   "nota": "Strong H559 · código HC/Vqw3ms (wayyiqtol) · es la forma verbal más frecuente del Tanaj: 5 318 veces con sus formas."
+  },
+  {
+   "id": "vayehi",
+   "tipo": "palabra",
+   "he": "וַיְהִי",
+   "es": "y fue, y hubo",
+   "xlit": "vayehi",
+   "ref": "bereshit/1/3",
+   "nota": "Strong H1961 · HC/Vqw3ms. Se traduce 'y fue', 'y sucedió'. Abre casi todas las escenas de bereshit."
+  },
+  {
+   "id": "bará",
+   "tipo": "palabra",
+   "he": "בָּרָא",
+   "es": "creó",
+   "xlit": "bará",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H1254 · HVqp3ms. Perfecto qal 3ª masc. sing.: 'creó'."
+  },
+  {
+   "id": "qará",
+   "tipo": "palabra",
+   "he": "קָרָא",
+   "es": "llamó",
+   "xlit": "qará",
+   "ref": "bereshit/1/5",
+   "nota": "Strong H7121 · HVqp3ms. Perfecto qal 3ª masc. sing.: 'llamó', 'proclamó'."
+  },
+  {
+   "id": "shama",
+   "tipo": "palabra",
+   "he": "שָׁמַע",
+   "es": "oyó",
+   "xlit": "shamá",
+   "ref": "bereshit/16/11",
+   "nota": "Strong H8085 · HVqp3ms. Perfecto qal 3ª masc. sing.: 'oyó'. De la misma raíz sale el imperativo שְׁמַע."
+  },
+  {
+   "id": "yihye",
+   "tipo": "palabra",
+   "he": "יִהְיֶה",
+   "es": "será",
+   "xlit": "yihyé",
+   "ref": "bereshit/1/29",
+   "nota": "Strong H1961 · HVqi3ms. Imperfecto qal 3ª masc. sing.: 'será'."
+  }
+ ],
+ "ejercicios": [
+  {
+   "id": "e10-1",
+   "tipo": "opcion",
+   "pregunta": "¿Cuál es la raíz de שָׁמַע?",
+   "opciones": [
+    "ש־מ",
+    "ש־מ־ע",
+    "מ־ע"
+   ],
+   "correcta": 1,
+   "explica": "ש־מ־ע: tres consonantes. De ahí salen שָׁמַע (oyó) y שְׁמַע (oye)."
+  },
+  {
+   "id": "e10-2",
+   "tipo": "opcion",
+   "pregunta": "En HVqp3ms, ¿qué significa la 'p'?",
+   "opciones": [
+    "persona",
+    "perfecto",
+    "plural"
+   ],
+   "correcta": 1,
+   "explica": "La p indica perfecto: acción terminada."
+  },
+  {
+   "id": "e10-3",
+   "tipo": "opcion",
+   "pregunta": "¿Qué tipo de forma es וַיֹּאמֶר?",
+   "opciones": [
+    "Imperativo",
+    "Wayyiqtol (narrativo)",
+    "Infinitivo"
+   ],
+   "correcta": 1,
+   "explica": "Es wayyiqtol: la forma que hace avanzar la narración. Código HC/Vqw3ms."
+  },
+  {
+   "id": "e10-4",
+   "tipo": "opcion",
+   "pregunta": "¿Cuál de estos verbos está en imperfecto?",
+   "opciones": [
+    "בָּרָא",
+    "קָרָא",
+    "יִהְיֶה"
+   ],
+   "correcta": 2,
+   "explica": "יִהְיֶה lleva prefijo י y es imperfecto (HVqi3ms). Los otros dos son perfectos."
+  },
+  {
+   "id": "e10-5",
+   "tipo": "leer",
+   "pregunta": "Lee וַיֹּאמֶר אֱלֹהִים. ¿Qué dice?",
+   "opciones": [
+    "y dijo Dios",
+    "Dios creó",
+    "oye, Dios"
+   ],
+   "correcta": 0,
+   "explica": "וַיֹּאמֶר = 'y dijo' (wayyiqtol de אמר) + אֱלֹהִים = 'Dios'. Bereshit/1/3."
+  },
+  {
+   "id": "e10-6",
+   "tipo": "escribir",
+   "pregunta": "Escribe el verbo 'creó' (bará, perfecto qal 3ª masc. sing.).",
+   "respuesta": "בָּרָא",
+   "explica": "בָּרָא: bet con dagesh y kamats, resh con kamats, alef con kamats. HVqp3ms."
+  }
+ ],
+ "pasaje": "bereshit/1/3",
+ "html": "<h2>La raíz</h2>\n<p>Casi todos los verbos tienen tres consonantes en la raíz. Todo lo demás (prefijos, sufijos, cambios de vocal) se agrega alrededor:</p>\n<table><tbody>\n<tr><th>Raíz</th><th>Forma</th><th>Código</th><th>Significado</th></tr>\n<tr><td>ש־מ־ע</td><td>שָׁמַע</td><td>HVqp3ms</td><td>oyó</td></tr>\n<tr><td>ש־מ־ע</td><td>שְׁמַע</td><td>HVqv2ms</td><td>oye (tú)</td></tr>\n<tr><td>ב־ר־א</td><td>בָּרָא</td><td>HVqp3ms</td><td>creó</td></tr>\n<tr><td>ק־ר־א</td><td>קָרָא</td><td>HVqp3ms</td><td>llamó</td></tr>\n<tr><td>ה־י־ה</td><td>יִהְיֶה</td><td>HVqi3ms</td><td>será</td></tr>\n<tr><td>א־מ־ר</td><td>וַיֹּאמֶר</td><td>HC/Vqw3ms</td><td>y dijo</td></tr>\n<tr><td>ל־ק־ח</td><td>קַח</td><td>HVqv2ms</td><td>toma</td></tr>\n</tbody></table>\n<h2>Perfecto e imperfecto</h2>\n<table><tbody>\n<tr><th>Aspecto</th><th>Cómo se ve</th><th>Ejemplo</th></tr>\n<tr><td>Perfecto</td><td>sufijos al final o forma simple en 3ª masc. sing.</td><td>בָּרָא (creó), קָרָא (llamó)</td></tr>\n<tr><td>Imperfecto</td><td>prefijos א / י / ת / נ al principio</td><td>יִהְיֶה (será), יִשְׁמְעוּ (oirán)</td></tr>\n<tr><td>Wayyiqtol</td><td>וַ + dagesh + imperfecto</td><td>וַיֹּאמֶר (y dijo), וַיְהִי (y fue)</td></tr>\n<tr><td>Imperativo</td><td>forma corta para la orden</td><td>קַח (toma), שְׁמַע (oye)</td></tr>\n<tr><td>Infinitivo constructo</td><td>terminación וֹת o forma con ל</td><td>לַעֲשׂוֹת (hacer), HVqc</td></tr>\n</tbody></table>\n<p>En hebreo bíblico el tiempo no funciona como en español: el perfecto presenta la acción como terminada y el imperfecto como no terminada. La traducción al español decide si eso es pasado, futuro o costumbre.</p>\n<h2>El código morfológico</h2>\n<p>La API trae un campo con un código por palabra. Se lee así:</p>\n<table><tbody>\n<tr><th>Posición</th><th>Valor</th><th>Significado</th></tr>\n<tr><td>1</td><td>H</td><td>hebreo</td></tr>\n<tr><td>2</td><td>V</td><td>verbo</td></tr>\n<tr><td>3</td><td>q / n / p / h</td><td>binyan: qal, nif&#x27;al, pi&#x27;el, hif&#x27;il</td></tr>\n<tr><td>4</td><td>p / i / w / v / c</td><td>perfecto, imperfecto, wayyiqtol, imperativo, inf. constructo</td></tr>\n<tr><td>5</td><td>1 / 2 / 3</td><td>persona</td></tr>\n<tr><td>6</td><td>m / f</td><td>masculino / femenino</td></tr>\n<tr><td>7</td><td>s / p</td><td>singular / plural</td></tr>\n</tbody></table>\n<p>Ejemplo completo: <strong>HVqp3ms</strong> = verbo, qal, perfecto, 3ª persona, masculino, singular → &#x27;creó&#x27; (בָּרָא).</p>\n<h2>Consejo de estudio</h2>\n<p>Antes de buscar el significado de una forma verbal, aísla la raíz. Con las tres consonantes y el código morfológico puedes saber quién hizo qué y si la acción está terminada, sin diccionario.</p>",
+ "archivo": "10.md",
+ "items_total": 13,
+ "ejercicios_total": 6
+}

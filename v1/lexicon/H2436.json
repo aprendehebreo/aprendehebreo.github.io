@@ -1,0 +1,54 @@
+{
+ "strong": "H2436",
+ "he": "חיק",
+ "xlit": "chêyq",
+ "pron": "khake",
+ "def_en": [
+  "1) bosom, hollow, bottom, midst"
+ ],
+ "kjv": "bosom, bottom, lap, midst, within.",
+ "expl": "the bosom (literally or figuratively)",
+ "etim": "or ; and ; from an unused root, apparently meaning to inclose;",
+ "raices": [],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "בחיקך",
+   "forma_he": "בְּחֵיקֶ֔ךָ",
+   "n": 5,
+   "ref": "bereshit/16/5"
+  },
+  {
+   "forma": "חיקך",
+   "forma_he": "חֵיקֶ֔ךָ",
+   "n": 4,
+   "ref": "shemot/4/7"
+  },
+  {
+   "forma": "חיק",
+   "forma_he": "חֵ֥יק",
+   "n": 3,
+   "ref": "mlakhim_a/22/35"
+  },
+  {
+   "forma": "חיקם",
+   "forma_he": "חֵיקָֽם",
+   "n": 3,
+   "ref": "yeshayahu/65/6"
+  },
+  {
+   "forma": "בחיקו",
+   "forma_he": "בְּחֵיק֑וֹ",
+   "n": 2,
+   "ref": "shemot/4/6"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc/Sp2ms",
+  "HNcmsc/Sp2ms",
+  "HNcmsc",
+  "HR/Ncmsc/Sp3ms",
+  "HR/Ncmsc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

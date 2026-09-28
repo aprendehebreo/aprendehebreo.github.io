@@ -1,0 +1,68 @@
+{
+ "strong": "H7971",
+ "he": "שלח",
+ "xlit": "shâlach",
+ "pron": "shaw-lakh'",
+ "def_en": [
+  "1) to send, send away, let go, stretch out",
+  "1a) (Qal)",
+  "1a1) to send",
+  "1a2) to stretch out, extend, direct",
+  "1a3) to send away",
+  "1a4) to let loose",
+  "1b) (Niphal) to be sent",
+  "1c) (Piel)",
+  "1c1) to send off or away or out or forth, dismiss, give over, cast out",
+  "1c2) to let go, set free",
+  "1c3) to shoot forth (of branches)",
+  "1c4) to let down",
+  "1c5) to shoot",
+  "1d) (Pual) to be sent off, be put away, be divorced, be impelled",
+  "1e) (Hiphil) to send"
+ ],
+ "kjv": "[idiom] any wise, appoint, bring (on the way), cast (away, out), conduct, [idiom] earnestly, forsake, give (up), grow long, lay, leave, let depart (down, go, loose), push away, put (away, forth, in, out), reach forth, send (away, forth, out), set, shoot (forth, out), sow, spread, stretch forth (out).",
+ "expl": "to send away, for, or out (in a great variety of applications)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 847,
+ "formas": [
+  {
+   "forma": "וישלח",
+   "forma_he": "וַיְשַׁלַּ֖ח",
+   "n": 215,
+   "ref": "bereshit/8/7"
+  },
+  {
+   "forma": "שלח",
+   "forma_he": "שַׁלַּ֥ח",
+   "n": 131,
+   "ref": "bereshit/8/10"
+  },
+  {
+   "forma": "וישלחו",
+   "forma_he": "וַֽיְשַׁלְּח֥וּ",
+   "n": 35,
+   "ref": "bereshit/12/20"
+  },
+  {
+   "forma": "שלחו",
+   "forma_he": "שִׁלְח֨וּ",
+   "n": 35,
+   "ref": "bereshit/42/16"
+  },
+  {
+   "forma": "שלחני",
+   "forma_he": "שַׁלְּחֻ֥נִי",
+   "n": 33,
+   "ref": "bereshit/24/54"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HVqp3ms/Sp1cs",
+  "HC/Vqw3mp",
+  "HC/Vpw3ms"
+ ],
+ "glosa_es": "enviar; extender"
+}

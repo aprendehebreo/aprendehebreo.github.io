@@ -1,0 +1,48 @@
+{
+ "strong": "H5511",
+ "he": "סיחון",
+ "xlit": "Çîychôwn",
+ "pron": "see-khone'",
+ "def_en": [
+  "Sihon = \"warrior\"",
+  "1) king of the Amorites at the time of the conquest and defeated by Moses in Transjordan"
+ ],
+ "kjv": "Sihon.",
+ "expl": "Sichon, an Amoritish king",
+ "etim": "or ; from the same as ; tempestuous;",
+ "raices": [
+  "H5477"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "סיחון",
+   "forma_he": "סִיחֽוֹן",
+   "n": 16,
+   "ref": "bamidbar/21/27"
+  },
+  {
+   "forma": "סיחן",
+   "forma_he": "סִיחֹ֥ן",
+   "n": 13,
+   "ref": "bamidbar/21/21"
+  },
+  {
+   "forma": "לסיחן",
+   "forma_he": "לְסִיחֹן֙",
+   "n": 4,
+   "ref": "bamidbar/21/34"
+  },
+  {
+   "forma": "לסיחון",
+   "forma_he": "לְסִיח֥וֹן",
+   "n": 4,
+   "ref": "devarim/31/4"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

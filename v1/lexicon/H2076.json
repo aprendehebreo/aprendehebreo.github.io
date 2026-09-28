@@ -1,0 +1,59 @@
+{
+ "strong": "H2076",
+ "he": "זבח",
+ "xlit": "zâbach",
+ "pron": "zaw-bakh'",
+ "def_en": [
+  "1) to slaughter, kill, sacrifice, slaughter for sacrifice",
+  "1a) (Qal)",
+  "1a1) to slaughter for sacrifice",
+  "1a2) to slaughter for eating",
+  "1a3) to slaughter in divine judgment",
+  "1b) (Piel) to sacrifice, offer sacrifice"
+ ],
+ "kjv": "kill, offer, (do) sacrifice, slay.",
+ "expl": "to slaughter an animal (usually in sacrifice)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 134,
+ "formas": [
+  {
+   "forma": "ויזבח",
+   "forma_he": "וַיִּזְבַּ֨ח",
+   "n": 17,
+   "ref": "bereshit/31/54"
+  },
+  {
+   "forma": "ויזבחו",
+   "forma_he": "וְיִזְבְּח֖וּ",
+   "n": 15,
+   "ref": "shemot/8/4"
+  },
+  {
+   "forma": "לזבח",
+   "forma_he": "לִזְבֹּ֖חַ",
+   "n": 14,
+   "ref": "shemot/8/25"
+  },
+  {
+   "forma": "זבח",
+   "forma_he": "זֶ֨בַח֙",
+   "n": 10,
+   "ref": "bereshit/31/54"
+  },
+  {
+   "forma": "מזבחים",
+   "forma_he": "מְזַבְּחִ֖ים",
+   "n": 9,
+   "ref": "mlakhim_a/3/2"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HR/Vqc",
+  "HC/Vqw3mp",
+  "HVprmpa",
+  "HVqrmsa"
+ ],
+ "glosa_es": ""
+}

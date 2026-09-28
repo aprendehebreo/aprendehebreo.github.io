@@ -1,0 +1,56 @@
+{
+ "strong": "H4201",
+ "he": "מזוזה",
+ "xlit": "mᵉzûwzâh",
+ "pron": "mez-oo-zaw'",
+ "def_en": [
+  "1) doorpost, gatepost"
+ ],
+ "kjv": "(door, side) post.",
+ "expl": "a door-post (as prominent)",
+ "etim": "or ; from the same as ;",
+ "raices": [
+  "H2123"
+ ],
+ "ocurrencias": 19,
+ "formas": [
+  {
+   "forma": "מזוזת",
+   "forma_he": "מְזוּזֹ֥ת",
+   "n": 7,
+   "ref": "devarim/6/9"
+  },
+  {
+   "forma": "המזוזת",
+   "forma_he": "הַמְּזוּזֹ֖ת",
+   "n": 3,
+   "ref": "shemot/12/7"
+  },
+  {
+   "forma": "מזוזות",
+   "forma_he": "מְזוּז֥וֹת",
+   "n": 3,
+   "ref": "devarim/11/20"
+  },
+  {
+   "forma": "המזוזה",
+   "forma_he": "הַמְּזוּזָ֑ה",
+   "n": 1,
+   "ref": "shemot/21/6"
+  },
+  {
+   "forma": "המזוזות",
+   "forma_he": "הַמְּזוּז֔וֹת",
+   "n": 1,
+   "ref": "shoftim/16/3"
+  }
+ ],
+ "morph": [
+  "HNcfpc",
+  "HNcfsc",
+  "HTd/Ncfpa",
+  "HTd/Ncfsa",
+  "HC/Td/Ncfpa"
+ ],
+ "glosa_es": ""
+}

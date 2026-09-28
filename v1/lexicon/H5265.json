@@ -1,0 +1,63 @@
+{
+ "strong": "H5265",
+ "he": "נסע",
+ "xlit": "nâçaʻ",
+ "pron": "naw-sah'",
+ "def_en": [
+  "1) to pull out, pull up, set out, journey, remove, set forward, depart",
+  "1a) (Qal)",
+  "1a1) to pull out or up",
+  "1a2) to set out, depart",
+  "1a3) to journey, march",
+  "1a4) to set forth (of wind)",
+  "1b) (Niphal) to be pulled up, be removed, be plucked up",
+  "1c) (Hiphil)",
+  "1c1) to cause to set out, lead out, cause to spring up",
+  "1c2) to remove, quarry"
+ ],
+ "kjv": "cause to blow, bring, get, (make to) go (away, forth, forward, onward, out), (take) journey, march, remove, set aside (forward), [idiom] still, be on his (go their) way.",
+ "expl": "properly, to pull up, especially the tent-pins, i.e. start on ajourney",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 146,
+ "formas": [
+  {
+   "forma": "ויסעו",
+   "forma_he": "וַיִּסָּ֑עוּ",
+   "n": 64,
+   "ref": "bereshit/35/5"
+  },
+  {
+   "forma": "ויסע",
+   "forma_he": "וַיִּסַּ֣ע",
+   "n": 14,
+   "ref": "bereshit/12/9"
+  },
+  {
+   "forma": "יסעו",
+   "forma_he": "יִסְע֖וּ",
+   "n": 14,
+   "ref": "shemot/40/36"
+  },
+  {
+   "forma": "נסע",
+   "forma_he": "נָסַ֣ע",
+   "n": 10,
+   "ref": "bereshit/33/17"
+  },
+  {
+   "forma": "נסעו",
+   "forma_he": "נָסְע֣וּ",
+   "n": 9,
+   "ref": "bereshit/37/17"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3mp",
+  "HVqi3mp",
+  "HC/Vqw3ms",
+  "HVqp3cp",
+  "HC/Vqq3cp"
+ ],
+ "glosa_es": ""
+}

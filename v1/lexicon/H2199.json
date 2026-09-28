@@ -1,0 +1,63 @@
+{
+ "strong": "H2199",
+ "he": "זעק",
+ "xlit": "zâʻaq",
+ "pron": "zaw-ak'",
+ "def_en": [
+  "1) to cry, cry out, call, call for help",
+  "1a) (Qal)",
+  "1a1) to call (to one's aid)",
+  "1a2) to cry, cry out (in need)",
+  "1b) (Niphal) to be assembled, be called together, be joined together",
+  "1c) (Hiphil)",
+  "1c1) to call, call out, call together, summon",
+  "1c2) to make a crying, proclaim",
+  "1c3) to have a proclamation made",
+  "1c4) to call out to, call out at"
+ ],
+ "kjv": "assemble, call (together), (make a) cry (out), come with such a company, gather (together), cause to be proclaimed.",
+ "expl": "to shriek (from anguish or danger); by analogy, (as a herald) to announce or convene publicly",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 73,
+ "formas": [
+  {
+   "forma": "ויזעקו",
+   "forma_he": "וַיִּזְעָ֑קוּ",
+   "n": 15,
+   "ref": "shemot/2/23"
+  },
+  {
+   "forma": "ויזעק",
+   "forma_he": "וַיַּזְעֵ֨ק",
+   "n": 13,
+   "ref": "shoftim/4/10"
+  },
+  {
+   "forma": "וזעקו",
+   "forma_he": "וְזַֽעֲקוּ֙",
+   "n": 7,
+   "ref": "shoftim/10/14"
+  },
+  {
+   "forma": "אזעק",
+   "forma_he": "אֶזְעָ֔ק",
+   "n": 5,
+   "ref": "yirmiyahu/20/8"
+  },
+  {
+   "forma": "זעקו",
+   "forma_he": "זָעֲק֥וּ",
+   "n": 4,
+   "ref": "shoftim/6/7"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3mp",
+  "HC/Vqw3ms",
+  "HVqi1cs",
+  "HC/Vhw3ms",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H3515",
+ "he": "כבד",
+ "xlit": "kâbêd",
+ "pron": "kaw-bade'",
+ "def_en": [
+  "1) heavy, great",
+  "1a) heavy",
+  "1b) massive, abundant, numerous",
+  "1c) heavy, dull",
+  "1d) hard, difficult, burdensome",
+  "1e) very oppressive, numerous, rich"
+ ],
+ "kjv": "(so) great, grievous, hard(-ened), (too) heavy(-ier), laden, much, slow, sore, thick.",
+ "expl": "heavy; figuratively in a good sense (numerous) or in a bad sense (severe, difficult, stupid)",
+ "etim": "from ;",
+ "raices": [
+  "H3513"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "כבד",
+   "forma_he": "כָבֵ֥ד",
+   "n": 30,
+   "ref": "bereshit/12/10"
+  },
+  {
+   "forma": "וכבד",
+   "forma_he": "וְכָבֵ֖ד",
+   "n": 3,
+   "ref": "bereshit/50/10"
+  },
+  {
+   "forma": "הכבד",
+   "forma_he": "הַכָּבֹ֖ד",
+   "n": 3,
+   "ref": "bereshit/31/1"
+  },
+  {
+   "forma": "וכבדי",
+   "forma_he": "וְכִבְדֵ֥י",
+   "n": 2,
+   "ref": "yechezkel/3/5"
+  },
+  {
+   "forma": "כבדים",
+   "forma_he": "כְּבֵדִ֔ים",
+   "n": 1,
+   "ref": "shemot/17/12"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HTd/Aamsa",
+  "HC/Aamsa",
+  "HAamsc",
+  "HC/Aampc"
+ ],
+ "glosa_es": ""
+}

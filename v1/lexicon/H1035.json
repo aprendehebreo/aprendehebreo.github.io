@@ -1,0 +1,31 @@
+{
+ "strong": "H1035",
+ "he": "בית לחם",
+ "xlit": "Bêyth Lechem",
+ "pron": "bayth leh'-khem",
+ "def_en": [
+  "Beth-lehem = \"house of bread (food)\"",
+  "1) a city in Judah, birthplace of David",
+  "2) a place in Zebulun"
+ ],
+ "kjv": "Bethlehem.",
+ "expl": "Beth-Lechem, a place in Palestine",
+ "etim": "from and ; house of bread;",
+ "raices": [
+  "H1004",
+  "H3899"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "לחם",
+   "forma_he": "לֶ֔חֶם",
+   "n": 41,
+   "ref": "bereshit/3/19"
+  }
+ ],
+ "morph": [
+  "HNp"
+ ],
+ "glosa_es": ""
+}

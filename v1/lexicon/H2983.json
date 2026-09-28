@@ -1,0 +1,56 @@
+{
+ "strong": "H2983",
+ "he": "יבוסי",
+ "xlit": "Yᵉbûwçîy",
+ "pron": "yeb-oo-see'",
+ "def_en": [
+  "Jebusite = \"descendants of Jebus\"",
+  "1) descendants of the 3rd son of Canaan who lived in or around the site of Jebus, the early name for Jerusalem"
+ ],
+ "kjv": "Jebusite(-s).",
+ "expl": "a Jebusite or inhabitant of Jebus",
+ "etim": "patrial from ;",
+ "raices": [
+  "H2982"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "והיבוסי",
+   "forma_he": "וְהַיְבוּסִֽי",
+   "n": 19,
+   "ref": "shemot/3/8"
+  },
+  {
+   "forma": "היבוסי",
+   "forma_he": "הַיְבוּסִי֙",
+   "n": 15,
+   "ref": "bereshit/10/16"
+  },
+  {
+   "forma": "היבסי",
+   "forma_he": "הַיְבֻסִ֖י",
+   "n": 4,
+   "ref": "shmuel_b/5/6"
+  },
+  {
+   "forma": "יבסי",
+   "forma_he": "יְבֻסִי֙",
+   "n": 1,
+   "ref": "shmuel_b/5/8"
+  },
+  {
+   "forma": "כיבוסי",
+   "forma_he": "כִּיבוּסִֽי",
+   "n": 1,
+   "ref": "zecharia/9/7"
+  }
+ ],
+ "morph": [
+  "HTd/Ngmsa",
+  "HC/Td/Ngmsa",
+  "HNgmsa",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

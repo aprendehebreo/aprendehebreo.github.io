@@ -1,0 +1,61 @@
+{
+ "strong": "H8163",
+ "he": "שעיר",
+ "xlit": "sâʻîyr",
+ "pron": "saw-eer'",
+ "def_en": [
+  "adj",
+  "1) hairy",
+  "n m",
+  "2) he-goat, buck",
+  "2a) as sacrificial animal",
+  "2b) satyr, may refer to a demon possessed goat like the swine of Gadara (Mt 8:30-32)"
+ ],
+ "kjv": "devil, goat, hairy, kid, rough, satyr.",
+ "expl": "shaggy; as noun, a he-goat; by analogy, a faun",
+ "etim": "or ; from ;",
+ "raices": [
+  "H8175"
+ ],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "שעיר",
+   "forma_he": "שֵׂעִ֑יר",
+   "n": 25,
+   "ref": "bereshit/14/6"
+  },
+  {
+   "forma": "ושעיר",
+   "forma_he": "וּשְׂעִיר",
+   "n": 13,
+   "ref": "bamidbar/15/24"
+  },
+  {
+   "forma": "השעיר",
+   "forma_he": "הַשָּׂעִ֔יר",
+   "n": 10,
+   "ref": "vayikra/4/24"
+  },
+  {
+   "forma": "שעירי",
+   "forma_he": "שְׂעִירֵ֥י",
+   "n": 2,
+   "ref": "vayikra/16/5"
+  },
+  {
+   "forma": "השעירם",
+   "forma_he": "הַשְּׂעִירִ֑ם",
+   "n": 2,
+   "ref": "vayikra/16/7"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HC/Ncmsc",
+  "HTd/Ncmsa",
+  "HNcmpc",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": ""
+}

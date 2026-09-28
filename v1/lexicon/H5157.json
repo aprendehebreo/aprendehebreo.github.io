@@ -1,0 +1,65 @@
+{
+ "strong": "H5157",
+ "he": "נחל",
+ "xlit": "nâchal",
+ "pron": "naw-khal'",
+ "def_en": [
+  "1) to get as a possession, acquire, inherit, possess",
+  "1a) (Qal)",
+  "1a1) to take possession, inherit",
+  "1a2) to have or get as a possession or property (fig.)",
+  "1a3) to divide the land for a possession",
+  "1a4) to acquire (testimonies) (fig.)",
+  "1b) (Piel) to divide for a possession",
+  "1c) (Hithpael) to possess oneself of",
+  "1d) (Hiphil)",
+  "1d1) to give as a possession",
+  "1d2) to cause to inherit, give as an inheritance",
+  "1e) (Hophal) to be allotted, be made to possess"
+ ],
+ "kjv": "divide, have (inheritance), take as a heritage, (cause to, give to, make to) inherit, (distribute for, divide (for, for an, by), give for, have, leave for, take (for)) inheritance, (have in, cause to, be made to) possess(-ion).",
+ "expl": "to inherit (as a (figurative) mode of descent), or (generally) to occupy; causatively, to bequeath, or (generally) distribute, instate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "ינחלו",
+   "forma_he": "יִנְחֲל֖וּ",
+   "n": 7,
+   "ref": "bamidbar/18/23"
+  },
+  {
+   "forma": "נחלו",
+   "forma_he": "נָחֲל֥וּ",
+   "n": 6,
+   "ref": "yehoshua/14/1"
+  },
+  {
+   "forma": "תנחל",
+   "forma_he": "תִנְחָ֔ל",
+   "n": 4,
+   "ref": "bamidbar/18/20"
+  },
+  {
+   "forma": "תתנחלו",
+   "forma_he": "תִּתְנֶחָֽלוּ",
+   "n": 3,
+   "ref": "bamidbar/33/54"
+  },
+  {
+   "forma": "לנחל",
+   "forma_he": "לִנְחֹ֥ל",
+   "n": 3,
+   "ref": "bamidbar/34/18"
+  }
+ ],
+ "morph": [
+  "HVqi3mp",
+  "HVqi2ms",
+  "HVqp3cp",
+  "HVti2mp",
+  "HVhi3ms"
+ ],
+ "glosa_es": ""
+}

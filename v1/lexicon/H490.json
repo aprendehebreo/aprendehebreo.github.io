@@ -1,0 +1,56 @@
+{
+ "strong": "H490",
+ "he": "אלמנה",
+ "xlit": "ʼalmânâh",
+ "pron": "al-maw-naw'",
+ "def_en": [
+  "1) widow"
+ ],
+ "kjv": "desolate house (palace), widow.",
+ "expl": "a widow; also a desolate place",
+ "etim": "feminine of ;",
+ "raices": [
+  "H488"
+ ],
+ "ocurrencias": 56,
+ "formas": [
+  {
+   "forma": "אלמנה",
+   "forma_he": "אַלְמָנָ֣ה",
+   "n": 22,
+   "ref": "bereshit/38/11"
+  },
+  {
+   "forma": "ואלמנה",
+   "forma_he": "וְאַלְמָנָ֑ה",
+   "n": 9,
+   "ref": "devarim/10/18"
+  },
+  {
+   "forma": "ולאלמנה",
+   "forma_he": "וְלָאַלְמָנָ֖ה",
+   "n": 5,
+   "ref": "devarim/24/19"
+  },
+  {
+   "forma": "אלמנות",
+   "forma_he": "אַלְמָנ֔וֹת",
+   "n": 4,
+   "ref": "shemot/22/23"
+  },
+  {
+   "forma": "והאלמנה",
+   "forma_he": "וְהָֽאַלְמָנָה֙",
+   "n": 4,
+   "ref": "devarim/14/29"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HC/Rd/Ncfsa",
+  "HNcfpa",
+  "HC/Td/Ncfsa"
+ ],
+ "glosa_es": ""
+}

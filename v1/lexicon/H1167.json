@@ -1,0 +1,62 @@
+{
+ "strong": "H1167",
+ "he": "בעל",
+ "xlit": "baʻal",
+ "pron": "bah'-al",
+ "def_en": [
+  "1) owner, husband, lord",
+  "1a) owner",
+  "1b) a husband",
+  "1c) citizens, inhabitants",
+  "1d) rulers, lords",
+  "1e) (noun of relationship used to characterise-ie, master of dreams)",
+  "1f) lord (used of foreign gods)"
+ ],
+ "kjv": "[phrase] archer, [phrase] babbler, [phrase] bird, captain, chief man, [phrase] confederate, [phrase] have to do, [phrase] dreamer, those to whom it is due, [phrase] furious, those that are given to it, great, [phrase] hairy, he that hath it, have, [phrase] horseman, husband, lord, man, [phrase] married, master, person, [phrase] sworn, they of.",
+ "expl": "a master; hence, a husband, or (figuratively) owner (often used with another noun in modifications of this latter sense)",
+ "etim": "from ;",
+ "raices": [
+  "H1166"
+ ],
+ "ocurrencias": 83,
+ "formas": [
+  {
+   "forma": "בעלי",
+   "forma_he": "בַּעֲלֵ֥י",
+   "n": 26,
+   "ref": "bereshit/14/13"
+  },
+  {
+   "forma": "בעל",
+   "forma_he": "בָּֽעַל",
+   "n": 23,
+   "ref": "bereshit/20/3"
+  },
+  {
+   "forma": "בעליו",
+   "forma_he": "בְּעָלָ֖יו",
+   "n": 10,
+   "ref": "shemot/21/29"
+  },
+  {
+   "forma": "בעלה",
+   "forma_he": "בַּעְלָ֣הּ",
+   "n": 6,
+   "ref": "devarim/24/4"
+  },
+  {
+   "forma": "ובעל",
+   "forma_he": "וּבַ֥עַל",
+   "n": 4,
+   "ref": "shemot/21/28"
+  }
+ ],
+ "morph": [
+  "HNcmpc",
+  "HNcmsc",
+  "HNcmpc/Sp3ms",
+  "HNcmsc/Sp3fs",
+  "HR/Ncmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

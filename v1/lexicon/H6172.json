@@ -1,0 +1,59 @@
+{
+ "strong": "H6172",
+ "he": "ערוה",
+ "xlit": "ʻervâh",
+ "pron": "er-vaw'",
+ "def_en": [
+  "1) nakedness, nudity, shame, pudenda",
+  "1a) pudenda (implying shameful exposure)",
+  "1b) nakedness of a thing, indecency, improper behaviour",
+  "1c) exposed, undefended (fig.)"
+ ],
+ "kjv": "nakedness, shame, unclean(-ness).",
+ "expl": "nudity, literally (especially the pudenda) or figuratively (disgrace, blemish)",
+ "etim": "from ;",
+ "raices": [
+  "H6168"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "ערות",
+   "forma_he": "עֶרְוַ֣ת",
+   "n": 27,
+   "ref": "bereshit/9/22"
+  },
+  {
+   "forma": "ערותה",
+   "forma_he": "עֶרְוָתָֽהּ",
+   "n": 12,
+   "ref": "vayikra/18/7"
+  },
+  {
+   "forma": "ערותך",
+   "forma_he": "עֶרְוָתְךָ֖",
+   "n": 7,
+   "ref": "shemot/20/26"
+  },
+  {
+   "forma": "וערות",
+   "forma_he": "וְעֶרְוַ֥ת",
+   "n": 3,
+   "ref": "bereshit/9/23"
+  },
+  {
+   "forma": "ערוה",
+   "forma_he": "עֶרְוָ֑ה",
+   "n": 2,
+   "ref": "shemot/28/42"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsc/Sp3fs",
+  "HNcfsc/Sp2fs",
+  "HC/Ncfsc",
+  "HNcfsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

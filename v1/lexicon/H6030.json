@@ -1,0 +1,67 @@
+{
+ "strong": "H6030",
+ "he": "ענה",
+ "xlit": "ʻânâh",
+ "pron": "aw-naw'",
+ "def_en": [
+  "1) to answer, respond, testify, speak, shout",
+  "1a) (Qal)",
+  "1a1) to answer, respond to",
+  "1a2) to testify, respond as a witness",
+  "1b) (Niphal)",
+  "1b1) to make answer",
+  "1b2) to be answered, receive answer",
+  "2) (Qal) to sing, utter tunefully",
+  "3) (Qal) to dwell"
+ ],
+ "kjv": "give account, afflict (by mistake for ), (cause to, give) answer, bring low (by mistake for ), cry, hear, Leannoth, lift up, say, [idiom] scholar, (give a) shout, sing (together by course), speak, testify, utter, (bear) witness. See also , .",
+ "expl": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce",
+ "etim": "a primitive root;",
+ "raices": [
+  "H6031",
+  "H6031",
+  "H1042",
+  "H1043"
+ ],
+ "ocurrencias": 329,
+ "formas": [
+  {
+   "forma": "ויען",
+   "forma_he": "וַיַּ֥עַן",
+   "n": 111,
+   "ref": "bereshit/18/27"
+  },
+  {
+   "forma": "יענה",
+   "forma_he": "יַעֲנֶ֖ה",
+   "n": 20,
+   "ref": "bereshit/41/16"
+  },
+  {
+   "forma": "ויענו",
+   "forma_he": "וַיַּעֲנ֧וּ",
+   "n": 17,
+   "ref": "bereshit/23/5"
+  },
+  {
+   "forma": "ענני",
+   "forma_he": "עָנָ֣נִי",
+   "n": 16,
+   "ref": "shmuel_a/28/15"
+  },
+  {
+   "forma": "ענו",
+   "forma_he": "ענו",
+   "n": 12,
+   "ref": "bamidbar/12/3"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HC/Vqw3mp",
+  "HVqv2ms/Sp1cs",
+  "HVqi1cs"
+ ],
+ "glosa_es": "responder; contestar"
+}

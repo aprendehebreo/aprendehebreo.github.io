@@ -1,0 +1,58 @@
+{
+ "strong": "H517",
+ "he": "אם",
+ "xlit": "ʼêm",
+ "pron": "ame",
+ "def_en": [
+  "1) mother",
+  "1a) of humans",
+  "1b) of Deborah's relationship to the people (fig.)",
+  "1c) of animals",
+  "2) point of departure or division"
+ ],
+ "kjv": "dam, mother, [idiom] parting.",
+ "expl": "a mother (as the bond of the family); in a wide sense (both literally and figuratively (like father))",
+ "etim": "a primitive word;",
+ "raices": [],
+ "ocurrencias": 220,
+ "formas": [
+  {
+   "forma": "אמו",
+   "forma_he": "אִמּ֑וֹ",
+   "n": 79,
+   "ref": "bereshit/2/24"
+  },
+  {
+   "forma": "אמך",
+   "forma_he": "אִמֶּ֑ךָ",
+   "n": 27,
+   "ref": "bereshit/27/29"
+  },
+  {
+   "forma": "אם",
+   "forma_he": "אֵ֥ם",
+   "n": 23,
+   "ref": "bereshit/3/20"
+  },
+  {
+   "forma": "אמי",
+   "forma_he": "אִמִּ֑י",
+   "n": 23,
+   "ref": "bereshit/20/12"
+  },
+  {
+   "forma": "ואמו",
+   "forma_he": "וְאִמּ֖וֹ",
+   "n": 14,
+   "ref": "shemot/21/15"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp3ms",
+  "HNcfsc/Sp2ms",
+  "HNcfsc/Sp1cs",
+  "HNcfsc",
+  "HC/Ncfsc/Sp3ms"
+ ],
+ "glosa_es": "madre"
+}

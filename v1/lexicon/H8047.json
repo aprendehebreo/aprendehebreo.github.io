@@ -1,0 +1,58 @@
+{
+ "strong": "H8047",
+ "he": "שמה",
+ "xlit": "shammâh",
+ "pron": "sham-maw'",
+ "def_en": [
+  "1) waste, horror, appalment",
+  "1a) a waste (of land, city, etc)",
+  "1b) appalment, horror"
+ ],
+ "kjv": "astonishment, desolate(-ion), waste, wonderful thing.",
+ "expl": "ruin; by implication, consternation",
+ "etim": "from ;",
+ "raices": [
+  "H8074"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "לשמה",
+   "forma_he": "לְשַׁמָּ֔ה",
+   "n": 30,
+   "ref": "devarim/28/37"
+  },
+  {
+   "forma": "שמה",
+   "forma_he": "שְׁמָהּ֙",
+   "n": 5,
+   "ref": "bereshit/11/9"
+  },
+  {
+   "forma": "ולשמה",
+   "forma_he": "וּלְשַׁמָּה֙",
+   "n": 3,
+   "ref": "yirmiyahu/29/18"
+  },
+  {
+   "forma": "נשמה",
+   "forma_he": "נְשָׁמָֽה",
+   "n": 1,
+   "ref": "devarim/20/16"
+  },
+  {
+   "forma": "שמות",
+   "forma_he": "שֵׁמ֗וֹת",
+   "n": 1,
+   "ref": "bereshit/2/20"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsa",
+  "HNcfsa",
+  "HC/R/Ncfsa",
+  "HVNp3fs",
+  "HNcfpa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H3878",
+ "he": "לוי",
+ "xlit": "Lêvîy",
+ "pron": "lay-vee'",
+ "def_en": [
+  "Levi = \"joined to\"",
+  "1) the 3rd son of Jacob by Leah and progenitor of tribe of Levites"
+ ],
+ "kjv": "Levi. See also , .",
+ "expl": "Levi, a son of Jacob",
+ "etim": "from ; attached;",
+ "raices": [
+  "H3867",
+  "H3879",
+  "H3881"
+ ],
+ "ocurrencias": 64,
+ "formas": [
+  {
+   "forma": "לוי",
+   "forma_he": "לֵוִֽי",
+   "n": 47,
+   "ref": "bereshit/29/34"
+  },
+  {
+   "forma": "הלוי",
+   "forma_he": "הַלֵּוִ֔י",
+   "n": 9,
+   "ref": "shemot/4/14"
+  },
+  {
+   "forma": "ולוי",
+   "forma_he": "וְלֵוִ֜י",
+   "n": 5,
+   "ref": "bereshit/34/25"
+  },
+  {
+   "forma": "ללוי",
+   "forma_he": "לְלֵוִ֖י",
+   "n": 2,
+   "ref": "bamidbar/26/59"
+  },
+  {
+   "forma": "וללוי",
+   "forma_he": "וּלְלֵוִ֣י",
+   "n": 1,
+   "ref": "devarim/33/8"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HTd/Ngmsa",
+  "HC/Np",
+  "HTd/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

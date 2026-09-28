@@ -1,0 +1,54 @@
+{
+ "strong": "H3658",
+ "he": "כנור",
+ "xlit": "kinnôwr",
+ "pron": "kin-nore'",
+ "def_en": [
+  "1) lyre, harp"
+ ],
+ "kjv": "harp.",
+ "expl": "a harp",
+ "etim": "from a unused root meaning to twang;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "בכנור",
+   "forma_he": "בַּכִּנּ֑וֹר",
+   "n": 10,
+   "ref": "shmuel_a/16/16"
+  },
+  {
+   "forma": "ובכנרות",
+   "forma_he": "וּבְכִנֹּר֤וֹת",
+   "n": 7,
+   "ref": "shmuel_b/6/5"
+  },
+  {
+   "forma": "וכנור",
+   "forma_he": "וְכִנּ֔וֹר",
+   "n": 6,
+   "ref": "shmuel_a/10/5"
+  },
+  {
+   "forma": "וכנרות",
+   "forma_he": "וְכִנֹּר֥וֹת",
+   "n": 6,
+   "ref": "mlakhim_a/10/12"
+  },
+  {
+   "forma": "כנור",
+   "forma_he": "כִּנּ֖וֹר",
+   "n": 5,
+   "ref": "bereshit/4/21"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsa",
+  "HC/R/Ncmpa",
+  "HC/Ncmsa",
+  "HC/Ncmpa",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H5254",
+ "he": "נסה",
+ "xlit": "nâçâh",
+ "pron": "naw-saw'",
+ "def_en": [
+  "1) to test, try, prove, tempt, assay, put to the proof or test",
+  "1a) (Piel)",
+  "1a1) to test, try",
+  "1a2) to attempt, assay, try",
+  "1a3) to test, try, prove, tempt"
+ ],
+ "kjv": "adventure, assay, prove, tempt, try.",
+ "expl": "to test; by implication, to attempt",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "וינסו",
+   "forma_he": "וַיָּנֻ֛סוּ",
+   "n": 5,
+   "ref": "bereshit/14/10"
+  },
+  {
+   "forma": "לנסות",
+   "forma_he": "לְנַסּ֥וֹת",
+   "n": 3,
+   "ref": "shoftim/3/1"
+  },
+  {
+   "forma": "נסה",
+   "forma_he": "נִסָּ֖ה",
+   "n": 2,
+   "ref": "bereshit/22/1"
+  },
+  {
+   "forma": "נסות",
+   "forma_he": "נַסּ֣וֹת",
+   "n": 2,
+   "ref": "shemot/20/20"
+  },
+  {
+   "forma": "הנסה",
+   "forma_he": "הֲנִסָּ֣ה",
+   "n": 2,
+   "ref": "devarim/4/34"
+  }
+ ],
+ "morph": [
+  "HC/Vpw3mp",
+  "HR/Vpc",
+  "HVpp3ms",
+  "HVpc",
+  "HVpp1cs"
+ ],
+ "glosa_es": ""
+}

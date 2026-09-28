@@ -1,0 +1,60 @@
+{
+ "strong": "H8414",
+ "he": "תהו",
+ "xlit": "tôhûw",
+ "pron": "to'-hoo",
+ "def_en": [
+  "1) formlessness, confusion, unreality, emptiness",
+  "1a) formlessness (of primeval earth)",
+  "1a1) nothingness, empty space",
+  "1b) that which is empty or unreal (of idols) (fig)",
+  "1c) wasteland, wilderness (of solitary places)",
+  "1d) place of chaos",
+  "1e) vanity"
+ ],
+ "kjv": "confusion, empty place, without form, nothing, (thing of) nought, vain, vanity, waste, wilderness.",
+ "expl": "a desolation (of surface), i.e. desert; figuratively, a worthless thing; adverbially, in vain",
+ "etim": "from an unused root meaning to lie waste;",
+ "raices": [],
+ "ocurrencias": 20,
+ "formas": [
+  {
+   "forma": "תהו",
+   "forma_he": "תֹ֨הוּ֙",
+   "n": 10,
+   "ref": "bereshit/1/2"
+  },
+  {
+   "forma": "בתהו",
+   "forma_he": "בַתֹּ֖הוּ",
+   "n": 4,
+   "ref": "yeshayahu/29/21"
+  },
+  {
+   "forma": "ותהו",
+   "forma_he": "וָתֹ֖הוּ",
+   "n": 2,
+   "ref": "yeshayahu/40/17"
+  },
+  {
+   "forma": "ובתהו",
+   "forma_he": "וּבְתֹ֖הוּ",
+   "n": 1,
+   "ref": "devarim/32/10"
+  },
+  {
+   "forma": "התהו",
+   "forma_he": "הַתֹּ֗הוּ",
+   "n": 1,
+   "ref": "shmuel_a/12/21"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HC/Ncmsa",
+  "HR/Ncmsa",
+  "HC/R/Ncmsa"
+ ],
+ "glosa_es": ""
+}

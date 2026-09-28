@@ -1,0 +1,56 @@
+{
+ "strong": "H7175",
+ "he": "קרש",
+ "xlit": "qeresh",
+ "pron": "keh'-resh",
+ "def_en": [
+  "1) board, boards, plank",
+  "1a) board",
+  "1b) boards"
+ ],
+ "kjv": "bench, board.",
+ "expl": "a slab or plank; by implication, a deck of aship",
+ "etim": "from an unused root meaning to split off;",
+ "raices": [],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "הקרש",
+   "forma_he": "הַקָּ֑רֶשׁ",
+   "n": 16,
+   "ref": "shemot/26/16"
+  },
+  {
+   "forma": "הקרשים",
+   "forma_he": "הַקְּרָשִׁ֖ים",
+   "n": 9,
+   "ref": "shemot/26/15"
+  },
+  {
+   "forma": "קרשים",
+   "forma_he": "קְרָשִֽׁים",
+   "n": 8,
+   "ref": "shemot/26/22"
+  },
+  {
+   "forma": "לקרשי",
+   "forma_he": "לְקַרְשֵׁ֥י",
+   "n": 6,
+   "ref": "shemot/26/26"
+  },
+  {
+   "forma": "קרשי",
+   "forma_he": "קַרְשֵׁ֥י",
+   "n": 4,
+   "ref": "shemot/26/17"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HTd/Ncmpa",
+  "HNcmpa",
+  "HR/Ncmpc",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

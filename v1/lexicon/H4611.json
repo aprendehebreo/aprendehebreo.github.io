@@ -1,0 +1,59 @@
+{
+ "strong": "H4611",
+ "he": "מעלל",
+ "xlit": "maʻălâl",
+ "pron": "mah-al-awl'",
+ "def_en": [
+  "1) deed, practice",
+  "1a) practice (usually bad)",
+  "1b) deeds",
+  "1c) acts"
+ ],
+ "kjv": "doing, endeavour, invention, work.",
+ "expl": "an act (good or bad)",
+ "etim": "from ;",
+ "raices": [
+  "H5953"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "מעלליהם",
+   "forma_he": "מַעַלְלֵיהֶ֖ם",
+   "n": 11,
+   "ref": "yeshayahu/3/10"
+  },
+  {
+   "forma": "מעלליכם",
+   "forma_he": "מַעַלְלֵיכֶ֖ם",
+   "n": 9,
+   "ref": "yeshayahu/1/16"
+  },
+  {
+   "forma": "ומעלליכם",
+   "forma_he": "וּמַֽעַלְלֵיכֶ֑ם",
+   "n": 5,
+   "ref": "yirmiyahu/7/3"
+  },
+  {
+   "forma": "מעלליו",
+   "forma_he": "מַעֲלָלָֽיו",
+   "n": 3,
+   "ref": "yirmiyahu/17/10"
+  },
+  {
+   "forma": "ממעלליהם",
+   "forma_he": "מִמַּ֣עַלְלֵיהֶ֔ם",
+   "n": 2,
+   "ref": "shoftim/2/19"
+  }
+ ],
+ "morph": [
+  "HNcmpc/Sp3mp",
+  "HNcmpc/Sp2mp",
+  "HC/Ncmpc/Sp2mp",
+  "HR/Ncmpc/Sp3mp",
+  "HNcmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

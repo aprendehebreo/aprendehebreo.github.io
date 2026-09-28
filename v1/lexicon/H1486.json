@@ -1,0 +1,58 @@
+{
+ "strong": "H1486",
+ "he": "גורל",
+ "xlit": "gôwrâl",
+ "pron": "go-rawl'",
+ "def_en": [
+  "1) lot",
+  "1a) lot-pebbles used for systematically making decisions",
+  "2) portion",
+  "2a) lot, portion (thing assigned by casting lots)",
+  "2b) recompense, retribution"
+ ],
+ "kjv": "lot.",
+ "expl": "properly, a pebble, i.e. a lot (small stones being used for that purpose); figuratively, a portion or destiny (as if determined by lot)",
+ "etim": "or (shortened) ; from an unused root meaning to be rough (as stone);",
+ "raices": [],
+ "ocurrencias": 77,
+ "formas": [
+  {
+   "forma": "הגורל",
+   "forma_he": "הַגּוֹרָ֖ל",
+   "n": 24,
+   "ref": "vayikra/16/9"
+  },
+  {
+   "forma": "בגורל",
+   "forma_he": "בְּגוֹרָ֕ל",
+   "n": 15,
+   "ref": "bamidbar/26/55"
+  },
+  {
+   "forma": "גורל",
+   "forma_he": "גּוֹרָ֤ל",
+   "n": 14,
+   "ref": "vayikra/16/8"
+  },
+  {
+   "forma": "גורלות",
+   "forma_he": "גּוֹרָל֑וֹת",
+   "n": 8,
+   "ref": "vayikra/16/8"
+  },
+  {
+   "forma": "גורלם",
+   "forma_he": "גּֽוֹרָלָ֔ם",
+   "n": 3,
+   "ref": "yehoshua/18/11"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmpa",
+  "HR/Ncmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

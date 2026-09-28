@@ -1,0 +1,36 @@
+{
+ "strong": "H5983",
+ "he": "עמון",
+ "xlit": "ʻAmmôwn",
+ "pron": "am-mone'",
+ "def_en": [
+  "Ammon = \"tribal\"",
+  "1) a people dwelling in Transjordan descended from Lot through Ben-ammi"
+ ],
+ "kjv": "Ammon, Ammonites.",
+ "expl": "Ammon, a son of Lot; also his posterity and their country",
+ "etim": "from ; tribal, i.e. inbred;",
+ "raices": [
+  "H5971"
+ ],
+ "ocurrencias": 106,
+ "formas": [
+  {
+   "forma": "עמון",
+   "forma_he": "עַמּ֖וֹן",
+   "n": 105,
+   "ref": "bereshit/19/38"
+  },
+  {
+   "forma": "ועמון",
+   "forma_he": "וְ֭עַמּוֹן",
+   "n": 1,
+   "ref": "tehilim/83/8"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

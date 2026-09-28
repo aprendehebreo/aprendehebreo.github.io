@@ -1,0 +1,60 @@
+{
+ "strong": "H2074",
+ "he": "זבולון",
+ "xlit": "Zᵉbûwlûwn",
+ "pron": "zeb-oo-loon'",
+ "def_en": [
+  "Zebulun = \"exalted\"",
+  "n pr m",
+  "1) the 10th of the sons of Jacob, 6th and last of Leah; progenitor of Zebulun",
+  "2) the tribe descended from Zebulun",
+  "n pr loc",
+  "3) the land allocated to the tribe of Zebulun"
+ ],
+ "kjv": "Zebulun.",
+ "expl": "Zebulon, a son of Jacob; also his territory and tribe",
+ "etim": "or ; or ; from ; habitation;",
+ "raices": [
+  "H2082"
+ ],
+ "ocurrencias": 45,
+ "formas": [
+  {
+   "forma": "זבולן",
+   "forma_he": "זְבוּלֻ֑ן",
+   "n": 25,
+   "ref": "bereshit/46/14"
+  },
+  {
+   "forma": "זבלון",
+   "forma_he": "זְבֻלֽוּן",
+   "n": 6,
+   "ref": "bereshit/30/20"
+  },
+  {
+   "forma": "וזבלון",
+   "forma_he": "וּזְבֻלֽוּן",
+   "n": 3,
+   "ref": "divrei_hayamim_a/2/1"
+  },
+  {
+   "forma": "וזבולן",
+   "forma_he": "וּזְבוּלֻֽן",
+   "n": 2,
+   "ref": "bereshit/35/23"
+  },
+  {
+   "forma": "לזבולן",
+   "forma_he": "לִזְבוּלֻ֕ן",
+   "n": 2,
+   "ref": "bamidbar/1/9"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

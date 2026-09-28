@@ -1,0 +1,55 @@
+{
+ "strong": "H705",
+ "he": "ארבעים",
+ "xlit": "ʼarbâʻîym",
+ "pron": "ar-baw-eem'",
+ "def_en": [
+  "1) forty"
+ ],
+ "kjv": "-forty.",
+ "expl": "forty",
+ "etim": "multiple of ;",
+ "raices": [
+  "H702"
+ ],
+ "ocurrencias": 135,
+ "formas": [
+  {
+   "forma": "ארבעים",
+   "forma_he": "אַרְבָּעִ֣ים",
+   "n": 93,
+   "ref": "bereshit/5/13"
+  },
+  {
+   "forma": "וארבעים",
+   "forma_he": "וְאַרְבָּעִ֖ים",
+   "n": 36,
+   "ref": "bereshit/7/4"
+  },
+  {
+   "forma": "הארבעים",
+   "forma_he": "הָאַרְבָּעִֽים",
+   "n": 3,
+   "ref": "bereshit/18/29"
+  },
+  {
+   "forma": "בארבעים",
+   "forma_he": "בְּאַרְבָּעִ֣ים",
+   "n": 2,
+   "ref": "devarim/1/3"
+  },
+  {
+   "forma": "כארבעים",
+   "forma_he": "כְּאַרְבָּעִ֥ים",
+   "n": 1,
+   "ref": "yehoshua/4/13"
+  }
+ ],
+ "morph": [
+  "HAcbpa",
+  "HC/Acbpa",
+  "HTd/Acbpa",
+  "HR/Acbpa"
+ ],
+ "glosa_es": ""
+}

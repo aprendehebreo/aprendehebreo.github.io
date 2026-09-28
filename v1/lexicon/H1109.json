@@ -1,0 +1,47 @@
+{
+ "strong": "H1109",
+ "he": "בלעם",
+ "xlit": "Bilʻâm",
+ "pron": "bil-awm'",
+ "def_en": [
+  "Balaam = \"not of the people\"",
+  "n pr m",
+  "1) the son of Beor, a man endowed with the gift of prophecy",
+  "n pr loc",
+  "2) a town in Manasseh"
+ ],
+ "kjv": "Balaam, Bileam.",
+ "expl": "Bilam, a Mesopotamian prophet; also a place in Palestine",
+ "etim": "probably from and ; not (of the) people, i.e. foreigner;",
+ "raices": [
+  "H1077",
+  "H5971"
+ ],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "בלעם",
+   "forma_he": "בִּלְעָ֣ם",
+   "n": 56,
+   "ref": "bamidbar/22/5"
+  },
+  {
+   "forma": "לבלעם",
+   "forma_he": "לְבִלְעָם֙",
+   "n": 4,
+   "ref": "bamidbar/22/28"
+  },
+  {
+   "forma": "ובלעם",
+   "forma_he": "וּבִלְעָ֛ם",
+   "n": 1,
+   "ref": "bamidbar/23/2"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

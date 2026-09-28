@@ -1,0 +1,60 @@
+{
+ "strong": "H6256",
+ "he": "עת",
+ "xlit": "ʻêth",
+ "pron": "ayth",
+ "def_en": [
+  "1) time",
+  "1a) time (of an event)",
+  "1b) time (usual)",
+  "1c) experiences, fortunes",
+  "1d) occurrence, occasion"
+ ],
+ "kjv": "[phrase] after, (al-) ways, [idiom] certain, [phrase] continually, [phrase] evening, long, (due) season, so (long) as, (even-, evening-, noon-) tide, (meal-), what) time, when.",
+ "expl": "time, especially (adverb with preposition) now, when, etc.",
+ "etim": "from ;",
+ "raices": [
+  "H5703"
+ ],
+ "ocurrencias": 296,
+ "formas": [
+  {
+   "forma": "בעת",
+   "forma_he": "בָּעֵ֣ת",
+   "n": 90,
+   "ref": "bereshit/21/22"
+  },
+  {
+   "forma": "עת",
+   "forma_he": "עֵ֖ת",
+   "n": 72,
+   "ref": "bereshit/29/7"
+  },
+  {
+   "forma": "לעת",
+   "forma_he": "לְעֵ֣ת",
+   "n": 24,
+   "ref": "bereshit/8/11"
+  },
+  {
+   "forma": "כעת",
+   "forma_he": "כָּעֵ֣ת",
+   "n": 18,
+   "ref": "bereshit/18/10"
+  },
+  {
+   "forma": "ועת",
+   "forma_he": "וְעֵֽת",
+   "n": 18,
+   "ref": "yirmiyahu/30/7"
+  }
+ ],
+ "morph": [
+  "HRd/Ncbsa",
+  "HR/Ncbsc",
+  "HNcbsa",
+  "HNcbsc",
+  "HC/Ncbsa"
+ ],
+ "glosa_es": "tiempo; momento"
+}

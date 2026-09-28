@@ -1,0 +1,64 @@
+{
+ "strong": "H1141",
+ "he": "בניה",
+ "xlit": "Bᵉnâyâh",
+ "pron": "ben-aw-yaw'",
+ "def_en": [
+  "Benaiah = \"Jehovah has built\" or \"Yahweh has built up\"",
+  "1) one of David's mighty warriors, son of Jehoiada the chief priest, a Levite, set by David over his bodyguard, later having remained faithful to Solomon during Adonijah's attempt on the crown, was raised into the place of Joab as commander-in-chief of the army",
+  "2) the Pirathonite, an Ephraimite, one of David's thirty mighty warriors, and the captain of the eleventh monthly course",
+  "3) a Simeonite, a prince of the families of Simeon",
+  "4) a Levite in the time of David who played with a psaltery on Alamoth",
+  "5) a priest in the time of David, appointed to blow the trumpet before the ark",
+  "6) a Levite of the sons of Asaph",
+  "7) a Levite in the time of Hezekiah",
+  "8) Four Israelites in the time of Ezra who had taken strange wives",
+  "9) the father of Pelatiah"
+ ],
+ "kjv": "Benaiah.",
+ "expl": "Benajah, the name of twelve Israelites",
+ "etim": "or ; (prolonged) from and ; Jah has built;",
+ "raices": [
+  "H1129",
+  "H3050"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "בניהו",
+   "forma_he": "בְּנָיָ֖הוּ",
+   "n": 15,
+   "ref": "shmuel_b/23/22"
+  },
+  {
+   "forma": "ובניהו",
+   "forma_he": "וּבְנָיָ֨הוּ֙",
+   "n": 14,
+   "ref": "shmuel_b/8/18"
+  },
+  {
+   "forma": "בניה",
+   "forma_he": "בָנֶ֑יהָ",
+   "n": 8,
+   "ref": "shemot/18/3"
+  },
+  {
+   "forma": "ובניה",
+   "forma_he": "וּבְנָיָה֙",
+   "n": 3,
+   "ref": "shmuel_b/20/23"
+  },
+  {
+   "forma": "ולבניהו",
+   "forma_he": "וְלִבְנָיָ֧הוּ",
+   "n": 2,
+   "ref": "mlakhim_a/1/26"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

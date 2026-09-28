@@ -1,0 +1,59 @@
+{
+ "strong": "H4026",
+ "he": "מגדל",
+ "xlit": "migdâl",
+ "pron": "mig-dawl'",
+ "def_en": [
+  "1) tower",
+  "1a) tower",
+  "1b) elevated stage, pulpit",
+  "1c) raised bed"
+ ],
+ "kjv": "castle, flower, tower. Compare the names following.",
+ "expl": "a tower (from its size or height); by analogy, a rostrum; figuratively, a (pyramidal) bed of flowers",
+ "etim": "also (in plural) feminine ; from ;",
+ "raices": [
+  "H1431"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "מגדל",
+   "forma_he": "מִגְדֹּ֖ל",
+   "n": 13,
+   "ref": "shemot/14/2"
+  },
+  {
+   "forma": "המגדל",
+   "forma_he": "הַמִּגְדָּ֑ל",
+   "n": 7,
+   "ref": "bereshit/11/5"
+  },
+  {
+   "forma": "ומגדל",
+   "forma_he": "וּמִגְדָּל֙",
+   "n": 5,
+   "ref": "bereshit/11/4"
+  },
+  {
+   "forma": "ממגדל",
+   "forma_he": "מִמִּגְדַּ֥ל",
+   "n": 3,
+   "ref": "mlakhim_b/17/9"
+  },
+  {
+   "forma": "מגדלים",
+   "forma_he": "מְגַדְּלִ֥ים",
+   "n": 3,
+   "ref": "mlakhim_b/10/6"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HTd/Ncbsa",
+  "HR/Ncbsc",
+  "HC/Ncbsc",
+  "HNcbpa"
+ ],
+ "glosa_es": ""
+}

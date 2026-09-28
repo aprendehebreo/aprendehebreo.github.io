@@ -1,0 +1,56 @@
+{
+ "strong": "H6459",
+ "he": "פסל",
+ "xlit": "peçel",
+ "pron": "peh'-sel",
+ "def_en": [
+  "1) idol, image"
+ ],
+ "kjv": "carved (graven) image.",
+ "expl": "an idol",
+ "etim": "from ;",
+ "raices": [
+  "H6458"
+ ],
+ "ocurrencias": 30,
+ "formas": [
+  {
+   "forma": "פסל",
+   "forma_he": "פֶ֨סֶל֙",
+   "n": 18,
+   "ref": "shemot/20/4"
+  },
+  {
+   "forma": "ופסל",
+   "forma_he": "וּפֶ֤סֶל",
+   "n": 3,
+   "ref": "vayikra/26/1"
+  },
+  {
+   "forma": "הפסל",
+   "forma_he": "הַפֶּ֨סֶל֙",
+   "n": 3,
+   "ref": "shoftim/18/17"
+  },
+  {
+   "forma": "מפסל",
+   "forma_he": "מִפָּ֑סֶל",
+   "n": 2,
+   "ref": "yirmiyahu/10/14"
+  },
+  {
+   "forma": "בפסל",
+   "forma_he": "בַּפָּ֑סֶל",
+   "n": 1,
+   "ref": "yeshayahu/42/17"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HC/Ncmsa",
+  "HTd/Ncmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,72 @@
+{
+ "strong": "H622",
+ "he": "אסף",
+ "xlit": "ʼâçaph",
+ "pron": "aw-saf'",
+ "def_en": [
+  "1) to gather, receive, remove, gather in",
+  "1a) (Qal)",
+  "1a1) to gather, collect",
+  "1a2) to gather (an individual into company of others)",
+  "1a3) to bring up the rear",
+  "1a4) to gather and take away, remove, withdraw",
+  "1b) (Niphal)",
+  "1b1) to assemble, be gathered",
+  "1b2) (pass of Qal 1a2)",
+  "1b2a) to be gathered to one's fathers",
+  "1b2b) to be brought in or into (association with others)",
+  "1b3) (pass of Qal 1a4)",
+  "1b3a) to be taken away, removed, perish",
+  "1c) (Piel)",
+  "1c1) to gather (harvest)",
+  "1c2) to take in, receive into",
+  "1c3) rearguard, rearward (subst)",
+  "1d) (Pual) to be gathered",
+  "1e) (Hithpael) to gather oneself or themselves"
+ ],
+ "kjv": "assemble, bring, consume, destroy, felch, gather (in, together, up again), [idiom] generally, get (him), lose, put all together, receive, recover (another from leprosy), (be) rereward, [idiom] surely, take (away, into, up), [idiom] utterly, withdraw.",
+ "expl": "to gather for any purpose; hence, to receive, take away, i.e. remove (destroy, leave behind, put up, restore, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 202,
+ "formas": [
+  {
+   "forma": "ויאסף",
+   "forma_he": "וַיֵּאָ֖סֶף",
+   "n": 27,
+   "ref": "bereshit/25/8"
+  },
+  {
+   "forma": "ויאספו",
+   "forma_he": "וַיַּ֣אַסְפ֔וּ",
+   "n": 23,
+   "ref": "shemot/4/29"
+  },
+  {
+   "forma": "נאספו",
+   "forma_he": "נֶאֶסְפ֖וּ",
+   "n": 15,
+   "ref": "shoftim/2/10"
+  },
+  {
+   "forma": "אסף",
+   "forma_he": "אֹ֠סִף",
+   "n": 13,
+   "ref": "bereshit/8/21"
+  },
+  {
+   "forma": "יאסף",
+   "forma_he": "יֵֽאָסֵף֙",
+   "n": 12,
+   "ref": "shemot/9/19"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVNp3cp",
+  "HC/VNw3mp",
+  "HC/Vqw3mp",
+  "HVNi3ms"
+ ],
+ "glosa_es": "reunir; recoger; ser agregado"
+}

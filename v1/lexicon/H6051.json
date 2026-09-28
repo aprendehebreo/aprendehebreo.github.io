@@ -1,0 +1,58 @@
+{
+ "strong": "H6051",
+ "he": "ענן",
+ "xlit": "ʻânân",
+ "pron": "aw-nawn'",
+ "def_en": [
+  "1) cloud, cloudy, cloud-mass",
+  "1a) cloud-mass (of theophanic cloud)",
+  "1b) cloud"
+ ],
+ "kjv": "cloud(-y).",
+ "expl": "a cloud (as covering the sky), i.e. the nimbus or thunder-cloud",
+ "etim": "from ;",
+ "raices": [
+  "H6049"
+ ],
+ "ocurrencias": 87,
+ "formas": [
+  {
+   "forma": "הענן",
+   "forma_he": "הֶֽעָנָן֙",
+   "n": 34,
+   "ref": "shemot/13/22"
+  },
+  {
+   "forma": "ענן",
+   "forma_he": "עָנָ֖ן",
+   "n": 25,
+   "ref": "bereshit/9/14"
+  },
+  {
+   "forma": "בענן",
+   "forma_he": "בֶּֽעָנָ֑ן",
+   "n": 11,
+   "ref": "bereshit/9/13"
+  },
+  {
+   "forma": "וענן",
+   "forma_he": "וְעָנָ֑ן",
+   "n": 4,
+   "ref": "shemot/14/24"
+  },
+  {
+   "forma": "כענן",
+   "forma_he": "כֶּעָנָ֛ן",
+   "n": 4,
+   "ref": "yechezkel/38/9"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HNcmsc",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

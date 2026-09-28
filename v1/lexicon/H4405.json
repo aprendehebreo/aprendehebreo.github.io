@@ -1,0 +1,56 @@
+{
+ "strong": "H4405",
+ "he": "מלה",
+ "xlit": "millâh",
+ "pron": "mil-law'",
+ "def_en": [
+  "1) word, speech, utterance"
+ ],
+ "kjv": "[phrase] answer, by-word, matter, any thing (what) to say, to speak(-ing), speak, talking, word.",
+ "expl": "a word; collectively, a discourse; figuratively, a topic",
+ "etim": "from (plural masculine as if from ;",
+ "raices": [
+  "H4448"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "מלין",
+   "forma_he": "מִלִּ֣ין",
+   "n": 10,
+   "ref": "iyov/12/11"
+  },
+  {
+   "forma": "מלים",
+   "forma_he": "מֻלִ֣ים",
+   "n": 6,
+   "ref": "yehoshua/5/5"
+  },
+  {
+   "forma": "מלי",
+   "forma_he": "מִלָּ֑י",
+   "n": 5,
+   "ref": "iyov/19/23"
+  },
+  {
+   "forma": "מלתי",
+   "forma_he": "מִלָּתִ֑י",
+   "n": 4,
+   "ref": "iyov/13/17"
+  },
+  {
+   "forma": "במלים",
+   "forma_he": "בְּמִלִּ֑ים",
+   "n": 3,
+   "ref": "iyov/16/4"
+  }
+ ],
+ "morph": [
+  "HNcfpa",
+  "HR/Ncfpa",
+  "HNcfpc/Sp1cs",
+  "HNcfsc/Sp1cs",
+  "HNcfpc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

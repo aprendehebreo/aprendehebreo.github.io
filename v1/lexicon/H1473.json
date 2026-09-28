@@ -1,0 +1,58 @@
+{
+ "strong": "H1473",
+ "he": "גולה",
+ "xlit": "gôwlâh",
+ "pron": "go-law'",
+ "def_en": [
+  "1) exiles, exile, captivity",
+  "1a) exiles (coll)",
+  "1b) exile, captivity (abstract)"
+ ],
+ "kjv": "(carried away), captive(-ity), removing.",
+ "expl": "exile; concretely and collectively exiles",
+ "etim": "or (shortened) ; active participle feminine of ;",
+ "raices": [
+  "H1540"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "הגולה",
+   "forma_he": "הַגּוֹלָ֔ה",
+   "n": 23,
+   "ref": "yirmiyahu/28/6"
+  },
+  {
+   "forma": "גולה",
+   "forma_he": "גּוֹלֶ֔ה",
+   "n": 8,
+   "ref": "mlakhim_b/24/14"
+  },
+  {
+   "forma": "בגולה",
+   "forma_he": "בַּגּוֹלָֽה",
+   "n": 7,
+   "ref": "yirmiyahu/29/16"
+  },
+  {
+   "forma": "הגלה",
+   "forma_he": "הֶגְלָ֥ה",
+   "n": 2,
+   "ref": "mlakhim_b/17/11"
+  },
+  {
+   "forma": "ובגולה",
+   "forma_he": "וּבַגּוֹלָ֖ה",
+   "n": 1,
+   "ref": "yirmiyahu/48/11"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HRd/Ncfsa",
+  "HNcfsa",
+  "HVqrmsa",
+  "HC/Rd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

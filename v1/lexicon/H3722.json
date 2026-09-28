@@ -1,0 +1,63 @@
+{
+ "strong": "H3722",
+ "he": "כפר",
+ "xlit": "kâphar",
+ "pron": "kaw-far'",
+ "def_en": [
+  "1) to cover, purge, make an atonement, make reconciliation, cover over with pitch",
+  "1a) (Qal) to coat or cover with pitch",
+  "1b) (Piel)",
+  "1b1) to cover over, pacify, propitiate",
+  "1b2) to cover over, atone for sin, make atonement for",
+  "1b3) to cover over, atone for sin and persons by legal rites",
+  "1c) (Pual)",
+  "1c1) to be covered over",
+  "1c2) to make atonement for",
+  "1d) (Hithpael) to be covered"
+ ],
+ "kjv": "appease, make (an atonement, cleanse, disannul, forgive, be merciful, pacify, pardon, purge (away), put off, (make) reconcile(-liation).",
+ "expl": "to cover (specifically with bitumen); figuratively, to expiate or condone, to placate or cancel",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 103,
+ "formas": [
+  {
+   "forma": "וכפר",
+   "forma_he": "וְכִפֶּ֤ר",
+   "n": 37,
+   "ref": "shemot/30/10"
+  },
+  {
+   "forma": "לכפר",
+   "forma_he": "לְכַפֵּ֖ר",
+   "n": 25,
+   "ref": "shemot/30/15"
+  },
+  {
+   "forma": "יכפר",
+   "forma_he": "יְכַפֵּ֤ר",
+   "n": 14,
+   "ref": "shemot/30/10"
+  },
+  {
+   "forma": "תכפר",
+   "forma_he": "תְּכַפֵּר֙",
+   "n": 3,
+   "ref": "shemot/29/37"
+  },
+  {
+   "forma": "ולכפר",
+   "forma_he": "וּלְכַפֵּ֖ר",
+   "n": 3,
+   "ref": "bamidbar/8/19"
+  }
+ ],
+ "morph": [
+  "HC/Vpq3ms",
+  "HR/Vpc",
+  "HVpi3ms",
+  "HC/Vpv2ms",
+  "HVPi3ms"
+ ],
+ "glosa_es": ""
+}

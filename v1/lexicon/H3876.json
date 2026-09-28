@@ -1,0 +1,49 @@
+{
+ "strong": "H3876",
+ "he": "לוט",
+ "xlit": "Lôwṭ",
+ "pron": "lote",
+ "def_en": [
+  "Lot = \"covering\"",
+  "1) son of Haran and Abraham's nephew who settled in Sodom and was delivered from its destruction by God"
+ ],
+ "kjv": "Lot.",
+ "expl": "Lot, Abraham's nephew",
+ "etim": "the same as ;",
+ "raices": [
+  "H3875"
+ ],
+ "ocurrencias": 33,
+ "formas": [
+  {
+   "forma": "לוט",
+   "forma_he": "לֽוֹט",
+   "n": 26,
+   "ref": "bereshit/11/27"
+  },
+  {
+   "forma": "ולוט",
+   "forma_he": "וְל֥וֹט",
+   "n": 4,
+   "ref": "bereshit/13/1"
+  },
+  {
+   "forma": "בלוט",
+   "forma_he": "בְּלוֹט֙",
+   "n": 2,
+   "ref": "bereshit/19/9"
+  },
+  {
+   "forma": "ללוט",
+   "forma_he": "לְל֔וֹט",
+   "n": 1,
+   "ref": "bereshit/13/5"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

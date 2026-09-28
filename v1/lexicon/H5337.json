@@ -1,0 +1,67 @@
+{
+ "strong": "H5337",
+ "he": "נצל",
+ "xlit": "nâtsal",
+ "pron": "naw-tsal'",
+ "def_en": [
+  "1) to snatch away, deliver, rescue, save, strip, plunder",
+  "1a)(Niphal)",
+  "1a1) to tear oneself away, deliver oneself",
+  "1a2) to be torn out or away, be delivered",
+  "1b) (Piel)",
+  "1b1) to strip off, spoil",
+  "1b2) to deliver",
+  "1c) (Hiphil)",
+  "1c1) to take away, snatch away",
+  "1c2) to rescue, recover",
+  "1c3) to deliver (from enemies or troubles or death)",
+  "1c4) to deliver from sin and guilt",
+  "1d) (Hophal) to be plucked out",
+  "1e) (Hithpael) to strip oneself"
+ ],
+ "kjv": "[idiom] at all, defend, deliver (self), escape, [idiom] without fail, part, pluck, preserve, recover, rescue, rid, save, spoil, strip, [idiom] surely, take (out).",
+ "expl": "to snatch away, whether in a good or a bad sense",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 213,
+ "formas": [
+  {
+   "forma": "מציל",
+   "forma_he": "מַצִּֽיל",
+   "n": 17,
+   "ref": "devarim/32/39"
+  },
+  {
+   "forma": "הצילני",
+   "forma_he": "הַצִּילֵ֥נִי",
+   "n": 15,
+   "ref": "bereshit/32/12"
+  },
+  {
+   "forma": "להציל",
+   "forma_he": "לְהַצִּ֥יל",
+   "n": 11,
+   "ref": "devarim/25/11"
+  },
+  {
+   "forma": "הציל",
+   "forma_he": "הִצִּ֤יל",
+   "n": 10,
+   "ref": "bereshit/31/16"
+  },
+  {
+   "forma": "הצילו",
+   "forma_he": "הִצִּיל֖וֹ",
+   "n": 9,
+   "ref": "shemot/18/9"
+  }
+ ],
+ "morph": [
+  "HVhrmsa",
+  "HVhv2ms/Sp1cs",
+  "HR/Vhc",
+  "HVhp3ms",
+  "HC/Vhq1cs"
+ ],
+ "glosa_es": "librar; salvar; rescatar"
+}

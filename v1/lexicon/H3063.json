@@ -1,0 +1,63 @@
+{
+ "strong": "H3063",
+ "he": "יהודה",
+ "xlit": "Yᵉhûwdâh",
+ "pron": "yeh-hoo-daw'",
+ "def_en": [
+  "Judah = \"praised\"",
+  "1) the son of Jacob by Leah",
+  "2) the tribe descended from Judah the son of Jacob",
+  "3) the territory occupied by the tribe of Judah",
+  "4) the kingdom comprised of the tribes of Judah and Benjamin which occupied the southern part of Canaan after the nation split upon the death of Solomon",
+  "5) a Levite in Ezra's time",
+  "6) an overseer of Jerusalem in the time of Nehemiah",
+  "7) a Levite musician in the time of Nehemiah",
+  "8) a priest in the time of Nehemiah"
+ ],
+ "kjv": "Judah.",
+ "expl": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory",
+ "etim": "from ; celebrated;",
+ "raices": [
+  "H3034"
+ ],
+ "ocurrencias": 819,
+ "formas": [
+  {
+   "forma": "יהודה",
+   "forma_he": "יְהוּדָ֑ה",
+   "n": 682,
+   "ref": "bereshit/29/35"
+  },
+  {
+   "forma": "ביהודה",
+   "forma_he": "בִּיהוּדָ֥ה",
+   "n": 47,
+   "ref": "shoftim/10/9"
+  },
+  {
+   "forma": "ויהודה",
+   "forma_he": "וִֽיהוּדָ֔ה",
+   "n": 39,
+   "ref": "bereshit/35/23"
+  },
+  {
+   "forma": "ליהודה",
+   "forma_he": "לִֽיהוּדָ֤ה",
+   "n": 32,
+   "ref": "bereshit/38/24"
+  },
+  {
+   "forma": "מיהודה",
+   "forma_he": "מִֽיהוּדָ֔ה",
+   "n": 11,
+   "ref": "bereshit/49/10"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Judá"
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H3847",
+ "he": "לבש",
+ "xlit": "lâbash",
+ "pron": "law-bash'",
+ "def_en": [
+  "1) to dress, wear, clothe, put on clothing, be clothed",
+  "1a) (Qal)",
+  "1a1) to put on clothes, be clothed, wear",
+  "1a2) to put on, be clothed with (fig.)",
+  "1b) (Pual) to be fully clothed",
+  "1c) (Hiphil) to clothe, array with, dress"
+ ],
+ "kjv": "(in) apparel, arm, array (self), clothe (self), come upon, put (on, upon), wear.",
+ "expl": "properly, wrap around, i.e. (by implication) to put on agarment or clothe (oneself, or another), literally or figuratively",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 111,
+ "formas": [
+  {
+   "forma": "לבש",
+   "forma_he": "לָבַ֖שׁ",
+   "n": 13,
+   "ref": "vayikra/16/23"
+  },
+  {
+   "forma": "וילבש",
+   "forma_he": "וַיַּלְבֵּ֤שׁ",
+   "n": 11,
+   "ref": "bereshit/41/42"
+  },
+  {
+   "forma": "ילבשו",
+   "forma_he": "יִלְבָּ֨שׁוּ֙",
+   "n": 9,
+   "ref": "yechezkel/26/16"
+  },
+  {
+   "forma": "לבשי",
+   "forma_he": "לִבְשִׁי",
+   "n": 6,
+   "ref": "yeshayahu/51/9"
+  },
+  {
+   "forma": "ילבש",
+   "forma_he": "יִלְבַּ֣שׁ",
+   "n": 5,
+   "ref": "vayikra/6/3"
+  }
+ ],
+ "morph": [
+  "HVqi3mp",
+  "HC/Vhw3ms",
+  "HVqsmsa",
+  "HVqi3ms",
+  "HVqp3ms"
+ ],
+ "glosa_es": ""
+}

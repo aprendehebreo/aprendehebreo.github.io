@@ -1,0 +1,61 @@
+{
+ "strong": "H3498",
+ "he": "יתר",
+ "xlit": "yâthar",
+ "pron": "yaw-thar'",
+ "def_en": [
+  "1) to be left over, remain, remain over, leave",
+  "1a) (Qal) remainder (participle)",
+  "1b) (Niphal) to be left over, remain over, be left behind",
+  "1c) (Hiphil)",
+  "1c1) to leave over, leave",
+  "1c2) to save over, preserve alive",
+  "1c3) to excel, show pre-eminence",
+  "1c4) to show excess, have more than enough, have an excess"
+ ],
+ "kjv": "excel, leave (a remnant), left behind, too much, make plenteous, preserve, (be, let) remain(-der, -ing, -nant), reserve, residue, rest.",
+ "expl": "to jut over or exceed; by implication, to excel; (intransitively) to remain or be left; causatively, to leave, cause to abound, preserve",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 107,
+ "formas": [
+  {
+   "forma": "הנותרים",
+   "forma_he": "הַנּוֹתָרִ֛ים",
+   "n": 22,
+   "ref": "shemot/28/10"
+  },
+  {
+   "forma": "נותר",
+   "forma_he": "נוֹתַ֨ר",
+   "n": 10,
+   "ref": "shemot/10/15"
+  },
+  {
+   "forma": "והנותר",
+   "forma_he": "וְהַנּוֹתָ֥ר",
+   "n": 10,
+   "ref": "vayikra/7/16"
+  },
+  {
+   "forma": "הנותר",
+   "forma_he": "הַנּוֹתָר֙",
+   "n": 7,
+   "ref": "shemot/29/34"
+  },
+  {
+   "forma": "ויותר",
+   "forma_he": "וַיִּוָּתֵ֥ר",
+   "n": 5,
+   "ref": "bereshit/32/25"
+  }
+ ],
+ "morph": [
+  "HTd/VNrmpa",
+  "HC/Td/VNrmsa",
+  "HVNp3ms",
+  "HTd/VNrmsa",
+  "HVNi3ms"
+ ],
+ "glosa_es": ""
+}

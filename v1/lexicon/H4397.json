@@ -1,0 +1,57 @@
+{
+ "strong": "H4397",
+ "he": "מלאך",
+ "xlit": "mălʼâk",
+ "pron": "mal-awk'",
+ "def_en": [
+  "1) messenger, representative",
+  "1a) messenger",
+  "1b) angel",
+  "1c) the theophanic angel"
+ ],
+ "kjv": "ambassador, angel, king, messenger.",
+ "expl": "a messenger; specifically, of God, i.e. an angel (also a prophet, priest or teacher)",
+ "etim": "from an unused root meaning to despatch as a deputy;",
+ "raices": [],
+ "ocurrencias": 213,
+ "formas": [
+  {
+   "forma": "מלאך",
+   "forma_he": "מַלְאַ֧ךְ",
+   "n": 67,
+   "ref": "bereshit/16/7"
+  },
+  {
+   "forma": "מלאכים",
+   "forma_he": "מַלְאָכִים֙",
+   "n": 44,
+   "ref": "bereshit/32/4"
+  },
+  {
+   "forma": "המלאך",
+   "forma_he": "הַמַּלְאָךְ֩",
+   "n": 27,
+   "ref": "bereshit/48/16"
+  },
+  {
+   "forma": "המלאכים",
+   "forma_he": "הַמַּלְאָכִ֤ים",
+   "n": 16,
+   "ref": "bereshit/19/1"
+  },
+  {
+   "forma": "ומלאך",
+   "forma_he": "וּמַלְאַ֣ךְ",
+   "n": 16,
+   "ref": "shoftim/6/21"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmpa",
+  "HTd/Ncmsa",
+  "HTd/Ncmpa",
+  "HNcmsa"
+ ],
+ "glosa_es": "mensajero; ángel"
+}

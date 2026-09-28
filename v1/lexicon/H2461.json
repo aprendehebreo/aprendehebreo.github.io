@@ -1,0 +1,59 @@
+{
+ "strong": "H2461",
+ "he": "חלב",
+ "xlit": "châlâb",
+ "pron": "khaw-lawb'",
+ "def_en": [
+  "1) milk, sour milk, cheese",
+  "1a) milk",
+  "1b) abundance of the land (metaph.)",
+  "1c) white (as milk)"
+ ],
+ "kjv": "[phrase] cheese, milk, sucking.",
+ "expl": "milk (as the richness of kine)",
+ "etim": "from the same as ;",
+ "raices": [
+  "H2459"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "חלב",
+   "forma_he": "חֵ֥לֶב",
+   "n": 28,
+   "ref": "bereshit/45/18"
+  },
+  {
+   "forma": "וחלב",
+   "forma_he": "וְחָלָ֗ב",
+   "n": 4,
+   "ref": "bereshit/18/8"
+  },
+  {
+   "forma": "בחלב",
+   "forma_he": "בַּחֲלֵ֥ב",
+   "n": 4,
+   "ref": "shemot/23/19"
+  },
+  {
+   "forma": "מחלב",
+   "forma_he": "מֵחָלָֽב",
+   "n": 3,
+   "ref": "bereshit/49/12"
+  },
+  {
+   "forma": "החלב",
+   "forma_he": "הַחֵלֶב֮",
+   "n": 2,
+   "ref": "shemot/29/13"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Ncmsa",
+  "HR/Ncmsa",
+  "HR/Ncmsc",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

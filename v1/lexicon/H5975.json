@@ -1,0 +1,69 @@
+{
+ "strong": "H5975",
+ "he": "עמד",
+ "xlit": "ʻâmad",
+ "pron": "aw-mad'",
+ "def_en": [
+  "1) to stand, remain, endure, take one's stand",
+  "1a) (Qal)",
+  "1a1) to stand, take one's stand, be in a standing attitude, stand forth, take a stand, present oneself, attend upon, be or become servant of",
+  "1a2) to stand still, stop (moving or doing), cease",
+  "1a3) to tarry, delay, remain, continue, abide, endure, persist, be steadfast",
+  "1a4) to make a stand, hold one's ground",
+  "1a5) to stand upright, remain standing, stand up, rise, be erect, be upright",
+  "1a6) to arise, appear, come on the scene, stand forth, appear, rise up or against",
+  "1a7) to stand with, take one's stand, be appointed, grow flat, grow insipid",
+  "1b) (Hiphil)",
+  "1b1) to station, set",
+  "1b2) to cause to stand firm, maintain",
+  "1b3) to cause to stand up, cause to set up, erect",
+  "1b4) to present (one) before (king)",
+  "1b5) to appoint, ordain, establish",
+  "1c) (Hophal) to be presented, be caused to stand, be stood before"
+ ],
+ "kjv": "abide (behind), appoint, arise, cease, confirm, continue, dwell, be employed, endure, establish, leave, make, ordain, be (over), place, (be) present (self), raise up, remain, repair, [phrase] serve, set (forth, over, -tle, up), (make to, make to be at a, with-) stand (by, fast, firm, still, up), (be at a) stay (up), tarry.",
+ "expl": "to stand, in various relations (literal and figurative, intransitive and transitive)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 526,
+ "formas": [
+  {
+   "forma": "עמד",
+   "forma_he": "עֹמֵ֧ד",
+   "n": 78,
+   "ref": "bereshit/18/8"
+  },
+  {
+   "forma": "ויעמד",
+   "forma_he": "וַיַּֽעֲמֹ֖ד",
+   "n": 73,
+   "ref": "shemot/14/19"
+  },
+  {
+   "forma": "ויעמדו",
+   "forma_he": "וַיַּֽעַמְד֖וּ",
+   "n": 30,
+   "ref": "bereshit/43/15"
+  },
+  {
+   "forma": "יעמד",
+   "forma_he": "יַעֲמֹ֑ד",
+   "n": 30,
+   "ref": "shemot/21/21"
+  },
+  {
+   "forma": "עמדים",
+   "forma_he": "עֹמְדִֽים",
+   "n": 27,
+   "ref": "shemot/26/15"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqrmsa",
+  "HVqi3ms",
+  "HC/Vqw3mp",
+  "HVqrmpa"
+ ],
+ "glosa_es": "estar de pie; permanecer"
+}

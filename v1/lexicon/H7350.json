@@ -1,0 +1,61 @@
+{
+ "strong": "H7350",
+ "he": "רחוק",
+ "xlit": "râchôwq",
+ "pron": "raw-khoke'",
+ "def_en": [
+  "adj",
+  "1) remote, far, distant, distant lands, distant ones",
+  "1a) of distance, time",
+  "n m",
+  "2) distance",
+  "2a) from a distance (with prep)"
+ ],
+ "kjv": "(a-) far (abroad, off), long ago, of old, space, great while to come.",
+ "expl": "remote, literally or figuratively, of place or time; specifically, precious; often used adverbially (with preposition)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7368"
+ ],
+ "ocurrencias": 85,
+ "formas": [
+  {
+   "forma": "מרחוק",
+   "forma_he": "מֵרָחוֹק֙",
+   "n": 23,
+   "ref": "devarim/28/49"
+  },
+  {
+   "forma": "רחוקה",
+   "forma_he": "רְחוֹקָ֑ה",
+   "n": 11,
+   "ref": "devarim/29/21"
+  },
+  {
+   "forma": "מרחק",
+   "forma_he": "מֵרָחֹֽק",
+   "n": 10,
+   "ref": "bereshit/22/4"
+  },
+  {
+   "forma": "רחוק",
+   "forma_he": "רָח֣וֹק",
+   "n": 8,
+   "ref": "yehoshua/3/4"
+  },
+  {
+   "forma": "למרחוק",
+   "forma_he": "לְמֵֽרָח֑וֹק",
+   "n": 8,
+   "ref": "shmuel_b/7/19"
+  }
+ ],
+ "morph": [
+  "HR/Aamsa",
+  "HAafsa",
+  "HAamsa",
+  "HR/R/Aamsa",
+  "HAampa"
+ ],
+ "glosa_es": ""
+}

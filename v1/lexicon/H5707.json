@@ -1,0 +1,58 @@
+{
+ "strong": "H5707",
+ "he": "עד",
+ "xlit": "ʻêd",
+ "pron": "ayd",
+ "def_en": [
+  "1) witness",
+  "1a) witness, testimony, evidence (of things)",
+  "1b) witness (of people)"
+ ],
+ "kjv": "witness.",
+ "expl": "concretely, a witness; abstractly, testimony; specifically, a recorder, i.e. prince",
+ "etim": "contracted from ;",
+ "raices": [
+  "H5749"
+ ],
+ "ocurrencias": 70,
+ "formas": [
+  {
+   "forma": "עד",
+   "forma_he": "עַ֤ד",
+   "n": 29,
+   "ref": "bereshit/3/19"
+  },
+  {
+   "forma": "עדים",
+   "forma_he": "עֶדְיָ֖ם",
+   "n": 14,
+   "ref": "shemot/33/6"
+  },
+  {
+   "forma": "לעד",
+   "forma_he": "לְעֵ֖ד",
+   "n": 8,
+   "ref": "bereshit/31/44"
+  },
+  {
+   "forma": "ועד",
+   "forma_he": "וְעַד",
+   "n": 6,
+   "ref": "bereshit/6/7"
+  },
+  {
+   "forma": "עדי",
+   "forma_he": "עָדַ֖י",
+   "n": 6,
+   "ref": "bamidbar/23/18"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmsa",
+  "HNcmpa",
+  "HR/Ncmsa",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

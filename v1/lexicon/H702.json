@@ -1,0 +1,56 @@
+{
+ "strong": "H702",
+ "he": "ארבע",
+ "xlit": "ʼarbaʻ",
+ "pron": "ar-bah'",
+ "def_en": [
+  "1) four"
+ ],
+ "kjv": "four.",
+ "expl": "four",
+ "etim": "masculine ; from ;",
+ "raices": [
+  "H7251"
+ ],
+ "ocurrencias": 320,
+ "formas": [
+  {
+   "forma": "ארבע",
+   "forma_he": "אַרְבַּ֥ע",
+   "n": 93,
+   "ref": "bereshit/11/16"
+  },
+  {
+   "forma": "ארבעה",
+   "forma_he": "אַרְבָּעָ֥ה",
+   "n": 66,
+   "ref": "bereshit/14/9"
+  },
+  {
+   "forma": "וארבעה",
+   "forma_he": "וְאַרְבָּעָה֮",
+   "n": 44,
+   "ref": "bamidbar/7/88"
+  },
+  {
+   "forma": "וארבע",
+   "forma_he": "וְאַרְבַּ֥ע",
+   "n": 38,
+   "ref": "bereshit/11/13"
+  },
+  {
+   "forma": "ארבעת",
+   "forma_he": "אַרְבַּ֣עַת",
+   "n": 15,
+   "ref": "bamidbar/7/7"
+  }
+ ],
+ "morph": [
+  "HAcfsa",
+  "HAcmsa",
+  "HC/Acmsa",
+  "HC/Acfsa",
+  "HR/Acfsa"
+ ],
+ "glosa_es": "cuatro"
+}

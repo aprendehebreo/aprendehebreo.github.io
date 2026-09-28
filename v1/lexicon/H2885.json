@@ -1,0 +1,58 @@
+{
+ "strong": "H2885",
+ "he": "טבעת",
+ "xlit": "ṭabbaʻath",
+ "pron": "tab-bah'-ath",
+ "def_en": [
+  "1) ring, signet, signet ring",
+  "1a) signet ring (as symbol of authority)",
+  "1b) ring (as ornament)"
+ ],
+ "kjv": "ring.",
+ "expl": "properly, a seal (as sunk into the wax), i.e. signet (for sealing); hence (generally) a ring of any kind",
+ "etim": "from ;",
+ "raices": [
+  "H2883"
+ ],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "טבעת",
+   "forma_he": "טַבְּעֹ֣ת",
+   "n": 17,
+   "ref": "shemot/25/12"
+  },
+  {
+   "forma": "בטבעת",
+   "forma_he": "בַּטַּבָּעֹ֔ת",
+   "n": 9,
+   "ref": "shemot/25/14"
+  },
+  {
+   "forma": "הטבעת",
+   "forma_he": "הַטַּבָּעֹ֔ת",
+   "n": 9,
+   "ref": "shemot/25/26"
+  },
+  {
+   "forma": "טבעות",
+   "forma_he": "טַבְּע֣וֹת",
+   "n": 4,
+   "ref": "shemot/28/23"
+  },
+  {
+   "forma": "טבעתו",
+   "forma_he": "טַבַּעְתּוֹ֙",
+   "n": 3,
+   "ref": "bereshit/41/42"
+  }
+ ],
+ "morph": [
+  "HNcfpc",
+  "HTd/Ncfpa",
+  "HNcfpa",
+  "HRd/Ncfpa",
+  "HR/Ncfsc"
+ ],
+ "glosa_es": ""
+}

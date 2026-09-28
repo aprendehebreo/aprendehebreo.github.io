@@ -1,0 +1,56 @@
+{
+ "strong": "H6918",
+ "he": "קדוש",
+ "xlit": "qâdôwsh",
+ "pron": "kaw-doshe'",
+ "def_en": [
+  "1) sacred, holy, Holy One, saint, set apart"
+ ],
+ "kjv": "holy (One), saint.",
+ "expl": "sacred (ceremonially or morally); (as noun) God (by eminence), an angel, a saint, a sanctuary",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6942"
+ ],
+ "ocurrencias": 119,
+ "formas": [
+  {
+   "forma": "קדוש",
+   "forma_he": "קָד֑וֹשׁ",
+   "n": 56,
+   "ref": "shemot/19/6"
+  },
+  {
+   "forma": "קדש",
+   "forma_he": "קָדֵ֔שׁ",
+   "n": 17,
+   "ref": "bereshit/14/7"
+  },
+  {
+   "forma": "קדשים",
+   "forma_he": "קָֽדָשִׁ֔ים",
+   "n": 16,
+   "ref": "shemot/29/37"
+  },
+  {
+   "forma": "וקדוש",
+   "forma_he": "וּקְד֥וֹשׁ",
+   "n": 5,
+   "ref": "yeshayahu/41/20"
+  },
+  {
+   "forma": "הקדוש",
+   "forma_he": "הַקָּד֖וֹשׁ",
+   "n": 4,
+   "ref": "bamidbar/16/5"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAamsc",
+  "HAampa",
+  "HTd/Aamsa",
+  "HR/Aamsc"
+ ],
+ "glosa_es": ""
+}

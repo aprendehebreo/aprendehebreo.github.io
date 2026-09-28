@@ -1,0 +1,61 @@
+{
+ "strong": "H4058",
+ "he": "מדד",
+ "xlit": "mâdad",
+ "pron": "maw-dad'",
+ "def_en": [
+  "1) to measure, stretch",
+  "1a) (Qal) to measure",
+  "1b) (Niphal) to be measured",
+  "1c) (Piel)",
+  "1c1) to extend, continue",
+  "1c2) to measure, measure off",
+  "1d) (Po) measured",
+  "1e) (Hithpolel) to extend oneself, stretch oneself"
+ ],
+ "kjv": "measure, mete, stretch self.",
+ "expl": "properly, to stretch; by implication, to measure (as if by stretching a line); figuratively, to be extended",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "וימד",
+   "forma_he": "וַיָּ֜מָד",
+   "n": 23,
+   "ref": "yechezkel/40/5"
+  },
+  {
+   "forma": "מדד",
+   "forma_he": "מָדַ֨ד",
+   "n": 6,
+   "ref": "yeshayahu/40/12"
+  },
+  {
+   "forma": "ומדד",
+   "forma_he": "וּמָדַ֤ד",
+   "n": 4,
+   "ref": "yechezkel/40/24"
+  },
+  {
+   "forma": "ומדדו",
+   "forma_he": "וּמָדְדוּ֙",
+   "n": 3,
+   "ref": "devarim/21/2"
+  },
+  {
+   "forma": "ימד",
+   "forma_he": "יִמַּ֖ד",
+   "n": 2,
+   "ref": "yirmiyahu/33/22"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HC/Vqq3ms",
+  "HC/Vqq3cp",
+  "HVNi3ms"
+ ],
+ "glosa_es": ""
+}

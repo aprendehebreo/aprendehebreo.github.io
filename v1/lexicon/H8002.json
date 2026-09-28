@@ -1,0 +1,57 @@
+{
+ "strong": "H8002",
+ "he": "שלם",
+ "xlit": "shelem",
+ "pron": "sheh'-lem",
+ "def_en": [
+  "1) peace offering, requital, sacrifice for alliance or friendship",
+  "1a) voluntary sacrifice of thanks"
+ ],
+ "kjv": "peace offering.",
+ "expl": "properly, requital, i.e. a (voluntary) sacrifice in thanks",
+ "etim": "from ;",
+ "raices": [
+  "H7999"
+ ],
+ "ocurrencias": 87,
+ "formas": [
+  {
+   "forma": "השלמים",
+   "forma_he": "הַשְּׁלָמִ֔ים",
+   "n": 35,
+   "ref": "vayikra/3/3"
+  },
+  {
+   "forma": "שלמים",
+   "forma_he": "שְֽׁלֵמִ֧ים",
+   "n": 20,
+   "ref": "bereshit/34/21"
+  },
+  {
+   "forma": "שלמיו",
+   "forma_he": "שְׁלָמָֽיו",
+   "n": 7,
+   "ref": "vayikra/7/13"
+  },
+  {
+   "forma": "ושלמים",
+   "forma_he": "וּשְׁלָמִ֖ים",
+   "n": 7,
+   "ref": "shoftim/20/26"
+  },
+  {
+   "forma": "והשלמים",
+   "forma_he": "וְהַשְּׁלָמִֽים",
+   "n": 4,
+   "ref": "vayikra/9/22"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmpa",
+  "HNcmpa",
+  "HNcmpc/Sp3ms",
+  "HC/Ncmpa",
+  "HC/Td/Ncmpa"
+ ],
+ "glosa_es": ""
+}

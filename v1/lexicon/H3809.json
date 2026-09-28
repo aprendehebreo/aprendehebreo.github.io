@@ -1,0 +1,49 @@
+{
+ "strong": "H3809",
+ "he": "לא",
+ "xlit": "lâʼ",
+ "pron": "law",
+ "def_en": [
+  "1) no, not, nothing"
+ ],
+ "kjv": "or even, neither, no(-ne, -r), (can-) not, as nothing, without.",
+ "expl": "{not (the simple or abs. negation); by implication, no;}",
+ "etim": "(Aramaic) or ; (Aramaic) (Daniel 4:32), corresponding to",
+ "raices": [
+  "H3808"
+ ],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "לא",
+   "forma_he": "לֹ֨א",
+   "n": 67,
+   "ref": "bereshit/2/5"
+  },
+  {
+   "forma": "ולא",
+   "forma_he": "וְלֹ֖א",
+   "n": 11,
+   "ref": "bereshit/2/25"
+  },
+  {
+   "forma": "הלא",
+   "forma_he": "הֲלֹ֤א",
+   "n": 3,
+   "ref": "bereshit/13/9"
+  },
+  {
+   "forma": "כלה",
+   "forma_he": "כֻלָּ֖הּ",
+   "n": 1,
+   "ref": "bereshit/13/10"
+  }
+ ],
+ "morph": [
+  "ATn",
+  "AC/Tn",
+  "ATi/Tn",
+  "AR/Tn"
+ ],
+ "glosa_es": ""
+}

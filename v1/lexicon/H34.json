@@ -1,0 +1,59 @@
+{
+ "strong": "H34",
+ "he": "אביון",
+ "xlit": "ʼebyôwn",
+ "pron": "eb-yone'",
+ "def_en": [
+  "1) in want, needy, chiefly poor, needy person",
+  "2) subject to oppression and abuse",
+  "3) needing help, deliverance from trouble, especially as delivered by God",
+  "4) general reference to lowest class"
+ ],
+ "kjv": "beggar, needy, poor (man).",
+ "expl": "destitute",
+ "etim": "from , in the sense of want (especially in feeling);",
+ "raices": [
+  "H14"
+ ],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "ואביון",
+   "forma_he": "וְאֶבְי֑וֹן",
+   "n": 20,
+   "ref": "devarim/24/14"
+  },
+  {
+   "forma": "אביון",
+   "forma_he": "אֶבְי֑וֹן",
+   "n": 15,
+   "ref": "devarim/15/4"
+  },
+  {
+   "forma": "אביונים",
+   "forma_he": "אֶבְיוֹנִ֖ים",
+   "n": 7,
+   "ref": "yirmiyahu/2/34"
+  },
+  {
+   "forma": "לאביון",
+   "forma_he": "לָאֶבְי֖וֹן",
+   "n": 4,
+   "ref": "yeshayahu/25/4"
+  },
+  {
+   "forma": "ואביונים",
+   "forma_he": "וְאֶבְיוֹנִ֖ים",
+   "n": 3,
+   "ref": "yeshayahu/14/30"
+  }
+ ],
+ "morph": [
+  "HC/Aamsa",
+  "HAamsa",
+  "HAampa",
+  "HRd/Aamsa",
+  "HC/Aampa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H4438",
+ "he": "מלכות",
+ "xlit": "malkûwth",
+ "pron": "mal-kooth'",
+ "def_en": [
+  "1) royalty, royal power, reign, kingdom, sovereign power",
+  "1a) royal power, dominion",
+  "1b) reign",
+  "1c) kingdom, realm"
+ ],
+ "kjv": "empire, kingdom, realm, reign, royal.",
+ "expl": "a rule; concretely, a dominion",
+ "etim": "or ; or (in plural) ; from ;",
+ "raices": [
+  "H4427"
+ ],
+ "ocurrencias": 91,
+ "formas": [
+  {
+   "forma": "מלכות",
+   "forma_he": "מַלְכ֛וּת",
+   "n": 27,
+   "ref": "yirmiyahu/49/34"
+  },
+  {
+   "forma": "מלכותו",
+   "forma_he": "מַלְכוּתֽוֹ",
+   "n": 20,
+   "ref": "tehilim/145/12"
+  },
+  {
+   "forma": "למלכות",
+   "forma_he": "לַמַּלְכֽוּת",
+   "n": 9,
+   "ref": "ester/4/14"
+  },
+  {
+   "forma": "למלכותו",
+   "forma_he": "לְמַלְכוּתֽוֹ",
+   "n": 6,
+   "ref": "ester/2/16"
+  },
+  {
+   "forma": "מלכותך",
+   "forma_he": "מַלְכוּתֶֽךָ",
+   "n": 5,
+   "ref": "tehilim/45/7"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp3ms",
+  "HNcfsc",
+  "HNcfsa",
+  "HR/Ncfsc",
+  "HR/Ncfsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

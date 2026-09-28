@@ -1,0 +1,61 @@
+{
+ "strong": "H3899",
+ "he": "לחם",
+ "xlit": "lechem",
+ "pron": "lekh'-em",
+ "def_en": [
+  "1) bread, food, grain",
+  "1a) bread",
+  "1a1) bread",
+  "1a2) bread-corn",
+  "1b) food (in general)"
+ ],
+ "kjv": "(shew-) bread, [idiom] eat, food, fruit, loaf, meat, victuals.",
+ "expl": "food (for man or beast), especially bread, or grain (for making it)",
+ "etim": "from ; See also",
+ "raices": [
+  "H3898",
+  "H1036"
+ ],
+ "ocurrencias": 299,
+ "formas": [
+  {
+   "forma": "לחם",
+   "forma_he": "לֶ֔חֶם",
+   "n": 195,
+   "ref": "bereshit/3/19"
+  },
+  {
+   "forma": "ולחם",
+   "forma_he": "וָלֶ֧חֶם",
+   "n": 17,
+   "ref": "bereshit/45/23"
+  },
+  {
+   "forma": "הלחם",
+   "forma_he": "הַלֶּ֖חֶם",
+   "n": 16,
+   "ref": "bereshit/27/17"
+  },
+  {
+   "forma": "ללחם",
+   "forma_he": "לַלָּ֑חֶם",
+   "n": 8,
+   "ref": "bereshit/41/55"
+  },
+  {
+   "forma": "לחמו",
+   "forma_he": "לַחְמ֑וֹ",
+   "n": 8,
+   "ref": "bereshit/49/20"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HNcbsc",
+  "HTd/Ncbsa",
+  "HRd/Ncbsa",
+  "HC/Ncbsa"
+ ],
+ "glosa_es": "pan; alimento"
+}

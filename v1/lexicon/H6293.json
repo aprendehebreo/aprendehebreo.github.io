@@ -1,0 +1,66 @@
+{
+ "strong": "H6293",
+ "he": "פגע",
+ "xlit": "pâgaʻ",
+ "pron": "paw-gah'",
+ "def_en": [
+  "1) to encounter, meet, reach, entreat, make intercession",
+  "1a) (Qal)",
+  "1a1) to meet, light upon, join",
+  "1a2) to meet (of kindness)",
+  "1a3) to encounter, fall upon (of hostility)",
+  "1a4) to encounter, entreat (of request)",
+  "1a5) to strike, touch (of boundary)",
+  "1b) (Hiphil)",
+  "1b1) to cause to light upon",
+  "1b2) to cause to entreat",
+  "1b3) to make entreaty, interpose",
+  "1b4) to make attack",
+  "1b5) to reach the mark"
+ ],
+ "kjv": "come (betwixt), cause to entreat, fall (upon), make intercession, intercessor, intreat, lay, light (upon), meet (together), pray, reach, run.",
+ "expl": "to impinge, by accident or violence, or (figuratively) by importunity",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "ופגע",
+   "forma_he": "וּפָגַע֙",
+   "n": 10,
+   "ref": "yehoshua/16/7"
+  },
+  {
+   "forma": "ויפגע",
+   "forma_he": "וַיִּפְגַּ֨ע",
+   "n": 5,
+   "ref": "bereshit/28/11"
+  },
+  {
+   "forma": "יפגעו",
+   "forma_he": "יִפְגְּע֥וּ",
+   "n": 4,
+   "ref": "yehoshua/2/16"
+  },
+  {
+   "forma": "פגע",
+   "forma_he": "פָּגַ֣ע",
+   "n": 4,
+   "ref": "yehoshua/19/34"
+  },
+  {
+   "forma": "ופגעו",
+   "forma_he": "וּפִגְעוּ",
+   "n": 2,
+   "ref": "bereshit/23/8"
+  }
+ ],
+ "morph": [
+  "HC/Vqp3ms",
+  "HC/Vqw3ms",
+  "HVqi3mp",
+  "HC/Vqv2ms",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": ""
+}

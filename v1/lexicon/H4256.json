@@ -1,0 +1,60 @@
+{
+ "strong": "H4256",
+ "he": "מחלקת",
+ "xlit": "machălôqeth",
+ "pron": "makh-al-o'-keth",
+ "def_en": [
+  "1) division, course, class, share, allotment",
+  "1a) division, part",
+  "1b) division, class, course",
+  "1b1) of priests, Levites (technical term of organisation)"
+ ],
+ "kjv": "company, course, division, portion. See also .",
+ "expl": "a section (of Levites, people or soldiers)",
+ "etim": "from ;",
+ "raices": [
+  "H2505",
+  "H5555"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "מחלקתו",
+   "forma_he": "מַֽחֲלֻקְתּ֔וֹ",
+   "n": 12,
+   "ref": "divrei_hayamim_a/27/2"
+  },
+  {
+   "forma": "מחלקות",
+   "forma_he": "מַחְלְק֥וֹת",
+   "n": 7,
+   "ref": "nechemia/11/36"
+  },
+  {
+   "forma": "מחלקותם",
+   "forma_he": "מַחְלְקוֹתָ֔ם",
+   "n": 4,
+   "ref": "yechezkel/48/29"
+  },
+  {
+   "forma": "כמחלקתם",
+   "forma_he": "כְּמַחְלְקֹתָ֖ם",
+   "n": 3,
+   "ref": "yehoshua/11/23"
+  },
+  {
+   "forma": "המחלקות",
+   "forma_he": "הַֽמַּחְלְקֽוֹת",
+   "n": 3,
+   "ref": "shmuel_a/23/28"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp3ms",
+  "HR/Ncfpc/Sp3mp",
+  "HNcfpc",
+  "HNcfpc/Sp3mp",
+  "HR/Ncfpa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,67 @@
+{
+ "strong": "H7931",
+ "he": "שכן",
+ "xlit": "shâkan",
+ "pron": "shaw-kan'",
+ "def_en": [
+  "1) to settle down, abide, dwell, tabernacle, reside",
+  "1a) (Qal)",
+  "1a1) to settle down to abide",
+  "1a2) to abide, dwell, reside",
+  "1b) (Piel)",
+  "1b1) to make settle down, establish",
+  "1b2) to make or cause to dwell",
+  "1c) (Hiphil)",
+  "1c1) to lay, place, set, establish, settle, fix",
+  "1c2) to cause to dwell or abide"
+ ],
+ "kjv": "abide, continue, (cause to, make to) dwell(-er), have habitation, inhabit, lay, place, (cause to) remain, rest, set (up).",
+ "expl": "to reside or permanently stay (literally or figuratively)",
+ "etim": "a primitive root (apparently akin (by transmission) to through the idea of lodging; compare , );",
+ "raices": [
+  "H7901",
+  "H5531",
+  "H7925"
+ ],
+ "ocurrencias": 129,
+ "formas": [
+  {
+   "forma": "שכן",
+   "forma_he": "שֹׁכֵ֨ן",
+   "n": 18,
+   "ref": "bereshit/14/13"
+  },
+  {
+   "forma": "ישכן",
+   "forma_he": "יִשְׁכֹּֽן",
+   "n": 16,
+   "ref": "bereshit/16/12"
+  },
+  {
+   "forma": "לשכן",
+   "forma_he": "לִשְׁכֹּ֣ן",
+   "n": 13,
+   "ref": "bamidbar/9/22"
+  },
+  {
+   "forma": "ישכנו",
+   "forma_he": "יִשְׁכְּנוּ",
+   "n": 10,
+   "ref": "yeshayahu/34/11"
+  },
+  {
+   "forma": "ושכנתי",
+   "forma_he": "וְשָׁכַנְתִּ֖י",
+   "n": 8,
+   "ref": "shemot/25/8"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVqi3mp",
+  "HVqrmsa",
+  "HR/Vpc",
+  "HR/Vqc"
+ ],
+ "glosa_es": ""
+}

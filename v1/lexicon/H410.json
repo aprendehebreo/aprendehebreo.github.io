@@ -1,0 +1,62 @@
+{
+ "strong": "H410",
+ "he": "אל",
+ "xlit": "ʼêl",
+ "pron": "ale",
+ "def_en": [
+  "1) god, god-like one, mighty one",
+  "1a) mighty men, men of rank, mighty heroes",
+  "1b) angels",
+  "1c) god, false god, (demons, imaginations)",
+  "1d) God, the one true God, Jehovah",
+  "2) mighty things in nature",
+  "3) strength, power"
+ ],
+ "kjv": "God (god), [idiom] goodly, [idiom] great, idol, might(-y one), power, strong. Compare names in '-el.'",
+ "expl": "strength; as adjective, mighty; especially the Almighty (but used also of any deity)",
+ "etim": "shortened from ;",
+ "raices": [
+  "H352"
+ ],
+ "ocurrencias": 245,
+ "formas": [
+  {
+   "forma": "אל",
+   "forma_he": "אֶל",
+   "n": 163,
+   "ref": "bereshit/1/9"
+  },
+  {
+   "forma": "לאל",
+   "forma_he": "לְאֵ֥ל",
+   "n": 25,
+   "ref": "bereshit/14/18"
+  },
+  {
+   "forma": "האל",
+   "forma_he": "הָאֵל֙",
+   "n": 20,
+   "ref": "bereshit/19/8"
+  },
+  {
+   "forma": "אלי",
+   "forma_he": "אֵלַ֖י",
+   "n": 13,
+   "ref": "bereshit/4/10"
+  },
+  {
+   "forma": "ואל",
+   "forma_he": "וְאֶל",
+   "n": 6,
+   "ref": "bereshit/3/16"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": "Dios; poderoso"
+}

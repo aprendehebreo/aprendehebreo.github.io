@@ -1,0 +1,59 @@
+{
+ "strong": "H4713",
+ "he": "מצרי",
+ "xlit": "Mitsrîy",
+ "pron": "mits-ree'",
+ "def_en": [
+  "Egyptian = see Egypte \"double straits\"",
+  "1) Egyptian-an inhabitant or citizen of Egypt",
+  "1a) an Egyptian",
+  "1b) the Egyptian"
+ ],
+ "kjv": "Egyptian, of Egypt.",
+ "expl": "a Mitsrite, or inhabitant of Mitsrajim",
+ "etim": "from ;",
+ "raices": [
+  "H4714"
+ ],
+ "ocurrencias": 76,
+ "formas": [
+  {
+   "forma": "מצרים",
+   "forma_he": "מִצְרַ֔יִם",
+   "n": 42,
+   "ref": "bereshit/13/10"
+  },
+  {
+   "forma": "המצרי",
+   "forma_he": "הַמִּצְרִֽי",
+   "n": 10,
+   "ref": "bereshit/39/2"
+  },
+  {
+   "forma": "מצרי",
+   "forma_he": "מִצְרִ֔י",
+   "n": 9,
+   "ref": "bereshit/39/1"
+  },
+  {
+   "forma": "המצרים",
+   "forma_he": "הַמִּצְרִ֔ים",
+   "n": 5,
+   "ref": "bereshit/12/12"
+  },
+  {
+   "forma": "המצרית",
+   "forma_he": "הַמִּצְרִית֙",
+   "n": 4,
+   "ref": "bereshit/16/3"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HTd/Ngmsa",
+  "HNgmsa",
+  "HTd/Ngmpa",
+  "HTd/Ngfsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H5062",
+ "he": "נגף",
+ "xlit": "nâgaph",
+ "pron": "naw-gaf'",
+ "def_en": [
+  "1) to strike, smite",
+  "1a) (Qal) to strike, smite",
+  "1b) (Niphal) to be stricken, be smitten",
+  "1c) (Hithpael) to stumble"
+ ],
+ "kjv": "beat, dash, hurt, plague, slay, smite (down), strike, stumble, [idiom] surely, put to the worse.",
+ "expl": "to push, gore, defeat, stub (the toe), inflict (a disease)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "נגף",
+   "forma_he": "נֹגֵ֛ף",
+   "n": 7,
+   "ref": "shemot/7/27"
+  },
+  {
+   "forma": "ויגף",
+   "forma_he": "וַיִּגֹּ֥ף",
+   "n": 5,
+   "ref": "shemot/32/35"
+  },
+  {
+   "forma": "נגפו",
+   "forma_he": "נִגָּ֑פוּ",
+   "n": 5,
+   "ref": "shoftim/20/36"
+  },
+  {
+   "forma": "וינגף",
+   "forma_he": "וַיִּנָּ֥גֶף",
+   "n": 5,
+   "ref": "shmuel_a/4/2"
+  },
+  {
+   "forma": "יגף",
+   "forma_he": "יִגֹּ֧ף",
+   "n": 3,
+   "ref": "shemot/21/35"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/VNw3ms",
+  "HVNp3cp",
+  "HVqi3ms",
+  "HC/VNw3mp"
+ ],
+ "glosa_es": ""
+}

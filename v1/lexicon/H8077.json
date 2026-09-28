@@ -1,0 +1,56 @@
+{
+ "strong": "H8077",
+ "he": "שממה",
+ "xlit": "shᵉmâmâh",
+ "pron": "shem-aw-maw'",
+ "def_en": [
+  "1) devastation, waste, desolation"
+ ],
+ "kjv": "(laid, [idiom] most) desolate(-ion), waste.",
+ "expl": "devastation; figuratively, astonishment",
+ "etim": "or ; feminine of ;",
+ "raices": [
+  "H8076"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "שממה",
+   "forma_he": "שְׁמָמָ֔ה",
+   "n": 39,
+   "ref": "shemot/23/29"
+  },
+  {
+   "forma": "לשממה",
+   "forma_he": "לִשְׁמָמָ֔ה",
+   "n": 9,
+   "ref": "yirmiyahu/12/11"
+  },
+  {
+   "forma": "ושממה",
+   "forma_he": "וְשֹׁ֣מֵמָ֔ה",
+   "n": 5,
+   "ref": "shmuel_b/13/20"
+  },
+  {
+   "forma": "שממות",
+   "forma_he": "שֹׁמֵמֽוֹת",
+   "n": 3,
+   "ref": "yeshayahu/49/8"
+  },
+  {
+   "forma": "לשממות",
+   "forma_he": "לְשִֽׁמְמ֥וֹת",
+   "n": 1,
+   "ref": "yirmiyahu/25/12"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HC/Ncfsa",
+  "HNcfpc",
+  "HR/Ncfpc"
+ ],
+ "glosa_es": ""
+}

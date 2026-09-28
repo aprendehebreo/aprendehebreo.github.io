@@ -1,0 +1,57 @@
+{
+ "strong": "H3967",
+ "he": "מאה",
+ "xlit": "mêʼâh",
+ "pron": "may-aw'",
+ "def_en": [
+  "1) hundred",
+  "1a) as simple number",
+  "1b) as part of larger number",
+  "1c) as a fraction-one one-hundredth (1/100)"
+ ],
+ "kjv": "hundred((-fold), -th), [phrase] sixscore.",
+ "expl": "a hundred; also as a multiplicative and a fraction",
+ "etim": "or ; properly, a primitive numeral",
+ "raices": [],
+ "ocurrencias": 583,
+ "formas": [
+  {
+   "forma": "מאות",
+   "forma_he": "מֵאוֹת֙",
+   "n": 302,
+   "ref": "bereshit/5/5"
+  },
+  {
+   "forma": "מאה",
+   "forma_he": "מֵאָ֥ה",
+   "n": 100,
+   "ref": "bereshit/6/3"
+  },
+  {
+   "forma": "מאתים",
+   "forma_he": "מָאתַ֣יִם",
+   "n": 46,
+   "ref": "bereshit/11/23"
+  },
+  {
+   "forma": "ומאה",
+   "forma_he": "וּמֵאָ֥ה",
+   "n": 34,
+   "ref": "vayikra/26/8"
+  },
+  {
+   "forma": "ומאתים",
+   "forma_he": "וּמָאתַ֣יִם",
+   "n": 28,
+   "ref": "bereshit/11/19"
+  }
+ ],
+ "morph": [
+  "HAcbpa",
+  "HAcbsa",
+  "HAcbda",
+  "HC/Acbsa",
+  "HC/Acbda"
+ ],
+ "glosa_es": "cien; cientos"
+}

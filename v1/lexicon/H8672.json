@@ -1,0 +1,59 @@
+{
+ "strong": "H8672",
+ "he": "תשע",
+ "xlit": "têshaʻ",
+ "pron": "tay'-shah",
+ "def_en": [
+  "1) nine, nonad",
+  "1a) nine (as cardinal number)",
+  "1b) ninth (as ordinal number)",
+  "1c) in combination with other numbers"
+ ],
+ "kjv": "nine ([phrase] -teen, [phrase] -teenth, -th).",
+ "expl": "nine or (ordinal) ninth",
+ "etim": "or (masculine) ; perhaps from through the idea of a turn to the next or full number ten;",
+ "raices": [
+  "H8159"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "תשע",
+   "forma_he": "תְּשַׁ֤ע",
+   "n": 25,
+   "ref": "bereshit/5/5"
+  },
+  {
+   "forma": "ותשע",
+   "forma_he": "וּתְשַׁ֥ע",
+   "n": 16,
+   "ref": "bereshit/5/8"
+  },
+  {
+   "forma": "תשעה",
+   "forma_he": "תִּשְׁעָ֧ה",
+   "n": 8,
+   "ref": "bamidbar/1/23"
+  },
+  {
+   "forma": "בתשעה",
+   "forma_he": "בְּתִשְׁעָ֤ה",
+   "n": 4,
+   "ref": "vayikra/23/32"
+  },
+  {
+   "forma": "לתשעת",
+   "forma_he": "לְתִשְׁעַ֥ת",
+   "n": 3,
+   "ref": "bamidbar/34/13"
+  }
+ ],
+ "morph": [
+  "HAcfsa",
+  "HC/Acfsa",
+  "HAcmsa",
+  "HR/Acmsa",
+  "HR/Acmsc"
+ ],
+ "glosa_es": ""
+}

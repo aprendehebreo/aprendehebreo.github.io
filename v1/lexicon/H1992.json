@@ -1,0 +1,56 @@
+{
+ "strong": "H1992",
+ "he": "הם",
+ "xlit": "hêm",
+ "pron": "haym",
+ "def_en": [
+  "1) they, these, the same, who"
+ ],
+ "kjv": "it, like, [idiom] (how, so) many (soever, more as) they (be), (the) same, [idiom] so, [idiom] such, their, them, these, they, those, which, who, whom, withal, ye.",
+ "expl": "they (only used when emphatic)",
+ "etim": "or (prolonged) ; masculine plural from ;",
+ "raices": [
+  "H1981"
+ ],
+ "ocurrencias": 566,
+ "formas": [
+  {
+   "forma": "המה",
+   "forma_he": "הֵ֧מָּה",
+   "n": 219,
+   "ref": "bereshit/6/4"
+  },
+  {
+   "forma": "הם",
+   "forma_he": "הֵ֑ם",
+   "n": 176,
+   "ref": "bereshit/3/7"
+  },
+  {
+   "forma": "והמה",
+   "forma_he": "וְהֵ֨מָּה֙",
+   "n": 53,
+   "ref": "bamidbar/11/26"
+  },
+  {
+   "forma": "ההם",
+   "forma_he": "הָהֵם֒",
+   "n": 46,
+   "ref": "bereshit/6/4"
+  },
+  {
+   "forma": "והם",
+   "forma_he": "וְהֵ֖ם",
+   "n": 45,
+   "ref": "bereshit/14/13"
+  }
+ ],
+ "morph": [
+  "HPp3mp",
+  "HC/Pp3mp",
+  "HTd/Pp3mp",
+  "HR/Pp3mp",
+  "HTd/Pdxmp"
+ ],
+ "glosa_es": "ellos; aquellos"
+}

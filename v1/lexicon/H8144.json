@@ -1,0 +1,55 @@
+{
+ "strong": "H8144",
+ "he": "שני",
+ "xlit": "shânîy",
+ "pron": "shaw-nee'",
+ "def_en": [
+  "1) scarlet, crimson",
+  "1a) properly, the insect 'coccus ilicis', the dried body of the female yielding colouring matter from which is made the dye used for cloth to colour it scarlet or crimson"
+ ],
+ "kjv": "crimson, scarlet (thread).",
+ "expl": "crimson, properly, the insect or its color, also stuff dyed with it",
+ "etim": "of uncertain derivation;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "שני",
+   "forma_he": "שֵׁנִֽי",
+   "n": 26,
+   "ref": "bereshit/1/8"
+  },
+  {
+   "forma": "השני",
+   "forma_he": "הַשֵּׁנִ֖י",
+   "n": 10,
+   "ref": "bereshit/2/13"
+  },
+  {
+   "forma": "ושני",
+   "forma_he": "וּשְׁנֵ֤י",
+   "n": 3,
+   "ref": "bereshit/24/22"
+  },
+  {
+   "forma": "ובשני",
+   "forma_he": "וּבִשְׁנִ֥י",
+   "n": 1,
+   "ref": "vayikra/14/52"
+  },
+  {
+   "forma": "כשנים",
+   "forma_he": "כַּשָּׁנִים֙",
+   "n": 1,
+   "ref": "yeshayahu/1/18"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HC/Ncmsc",
+  "HNcmsc",
+  "HC/R/Ncmsc"
+ ],
+ "glosa_es": ""
+}

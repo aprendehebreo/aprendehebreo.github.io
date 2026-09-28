@@ -1,0 +1,30 @@
+{
+ "strong": "H5542",
+ "he": "סלה",
+ "xlit": "çelâh",
+ "pron": "seh'-law",
+ "def_en": [
+  "1) to lift up, exalt",
+  "1a) Selah",
+  "1a1) a technical musical term probably showing accentuation, pause, interruption"
+ ],
+ "kjv": "Selah.",
+ "expl": "suspension (of music), i.e. pause",
+ "etim": "from ;",
+ "raices": [
+  "H5541"
+ ],
+ "ocurrencias": 74,
+ "formas": [
+  {
+   "forma": "סלה",
+   "forma_he": "סֶ֑לָה",
+   "n": 74,
+   "ref": "chavakuk/3/3"
+  }
+ ],
+ "morph": [
+  "HTj"
+ ],
+ "glosa_es": ""
+}

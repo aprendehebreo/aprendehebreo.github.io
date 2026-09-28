@@ -1,0 +1,60 @@
+{
+ "strong": "H7998",
+ "he": "שלל",
+ "xlit": "shâlâl",
+ "pron": "shaw-lawl'",
+ "def_en": [
+  "1) prey, plunder, spoil, booty",
+  "1a) prey",
+  "1b) booty, spoil, plunder (of war)",
+  "1c) plunder (private)",
+  "1d) gain (meaning dubious)"
+ ],
+ "kjv": "prey, spoil.",
+ "expl": "booty",
+ "etim": "from ;",
+ "raices": [
+  "H7997"
+ ],
+ "ocurrencias": 74,
+ "formas": [
+  {
+   "forma": "שלל",
+   "forma_he": "שָׁלָֽל",
+   "n": 26,
+   "ref": "bereshit/49/27"
+  },
+  {
+   "forma": "השלל",
+   "forma_he": "הַשָּׁלָ֔ל",
+   "n": 10,
+   "ref": "bamidbar/31/11"
+  },
+  {
+   "forma": "ושלל",
+   "forma_he": "וּשְׁלַ֥ל",
+   "n": 8,
+   "ref": "devarim/2/35"
+  },
+  {
+   "forma": "לשלל",
+   "forma_he": "לַשָּׁלָ֖ל",
+   "n": 8,
+   "ref": "mlakhim_b/3/23"
+  },
+  {
+   "forma": "שללה",
+   "forma_he": "שְׁלָלָ֗הּ",
+   "n": 5,
+   "ref": "devarim/13/17"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HR/Ncmsa",
+  "HNcmsc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

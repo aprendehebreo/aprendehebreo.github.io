@@ -1,0 +1,86 @@
+{
+ "strong": "H7725",
+ "he": "שוב",
+ "xlit": "shûwb",
+ "pron": "shoob",
+ "def_en": [
+  "1) to return, turn back",
+  "1a) (Qal)",
+  "1a1) to turn back, return",
+  "1a1a) to turn back",
+  "1a1b) to return, come or go back",
+  "1a1c) to return unto, go back, come back",
+  "1a1d) of dying",
+  "1a1e) of human relations (fig)",
+  "1a1f) of spiritual relations (fig)",
+  "1a1f1) to turn back (from God), apostatise",
+  "1a1f2) to turn away (of God)",
+  "1a1f3) to turn back (to God), repent",
+  "1a1f4) turn back (from evil)",
+  "1a1g) of inanimate things",
+  "1a1h) in repetition",
+  "1b) (Polel)",
+  "1b1) to bring back",
+  "1b2) to restore, refresh, repair (fig)",
+  "1b3) to lead away (enticingly)",
+  "1b4) to show turning, apostatise",
+  "1c) (Pual) restored (participle)",
+  "1d) (Hiphil) to cause to return, bring back",
+  "1d1) to bring back, allow to return, put back, draw back, give back, restore, relinquish, give in payment",
+  "1d2) to bring back, refresh, restore",
+  "1d3) to bring back, report to, answer",
+  "1d4) to bring back, make requital, pay (as recompense)",
+  "1d5) to turn back or backward, repel, defeat, repulse, hinder, reject, refuse",
+  "1d6) to turn away (face), turn toward",
+  "1d7) to turn against",
+  "1d8) to bring back to mind",
+  "1d9) to show a turning away 1d10) to reverse, revoke",
+  "1e) (Hophal) to be returned, be restored, be brought back",
+  "1f) (Pulal) brought back"
+ ],
+ "kjv": "((break, build, circumcise, dig, do anything, do evil, feed, lay down, lie down, lodge, make, rejoice, send, take, weep)) [idiom] again, (cause to) answer ([phrase] again), [idiom] in any case (wise), [idiom] at all, averse, bring (again, back, home again), call (to mind), carry again (back), cease, [idiom] certainly, come again (back), [idiom] consider, [phrase] continually, convert, deliver (again), [phrase] deny, draw back, fetch home again, [idiom] fro, get (oneself) (back) again, [idiom] give (again), go again (back, home), (go) out, hinder, let, (see) more, [idiom] needs, be past, [idiom] pay, pervert, pull in again, put (again, up again), recall, recompense, recover, refresh, relieve, render (again), requite, rescue, restore, retrieve, (cause to, make to) return, reverse, reward, [phrase] say nay, send back, set again, slide back, still, [idiom] surely, take back (off), (cause to, make to) turn (again, self again, away, back, back again, backward, from, off), withdraw.",
+ "expl": "to turn back (hence, away) transitively or intransitively, literally or figuratively (not necessarily with the idea of return to the starting point); generally to retreat; often adverbial, again",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 1073,
+ "formas": [
+  {
+   "forma": "וישב",
+   "forma_he": "וַיֵּ֥שֶׁב",
+   "n": 125,
+   "ref": "bereshit/4/16"
+  },
+  {
+   "forma": "ישוב",
+   "forma_he": "יָשׁ֛וּב",
+   "n": 55,
+   "ref": "vayikra/13/16"
+  },
+  {
+   "forma": "וישבו",
+   "forma_he": "וַיָּשֻׁ֧בוּ",
+   "n": 53,
+   "ref": "bereshit/8/3"
+  },
+  {
+   "forma": "שב",
+   "forma_he": "שָׁ֥ב",
+   "n": 40,
+   "ref": "bereshit/18/33"
+  },
+  {
+   "forma": "ושב",
+   "forma_he": "וְשֶׁב",
+   "n": 34,
+   "ref": "bereshit/35/1"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HC/Vqw3mp",
+  "HR/Vqc",
+  "HVqp3ms"
+ ],
+ "glosa_es": "volver; regresar; responder"
+}

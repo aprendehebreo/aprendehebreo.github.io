@@ -1,0 +1,61 @@
+{
+ "strong": "H1892",
+ "he": "הבל",
+ "xlit": "hebel",
+ "pron": "heh'bel",
+ "def_en": [
+  "n m",
+  "1) vapour, breath",
+  "1a) breath, vapour",
+  "1b) vanity (fig.)",
+  "adv",
+  "2) vainly"
+ ],
+ "kjv": "[idiom] altogether, vain, vanity.",
+ "expl": "emptiness or vanity; figuratively, something transitory and unsatisfactory; often used as an adverb",
+ "etim": "or (rarely in the abs.) ; from ;",
+ "raices": [
+  "H1891"
+ ],
+ "ocurrencias": 73,
+ "formas": [
+  {
+   "forma": "הבל",
+   "forma_he": "הָ֑בֶל",
+   "n": 48,
+   "ref": "bereshit/4/2"
+  },
+  {
+   "forma": "הבלים",
+   "forma_he": "הֲבָלִ֖ים",
+   "n": 4,
+   "ref": "yirmiyahu/10/8"
+  },
+  {
+   "forma": "בהבליהם",
+   "forma_he": "בְּהַבְלֵיהֶ֑ם",
+   "n": 3,
+   "ref": "devarim/32/21"
+  },
+  {
+   "forma": "הבלי",
+   "forma_he": "הַבְלֵי",
+   "n": 3,
+   "ref": "yona/2/9"
+  },
+  {
+   "forma": "ההבל",
+   "forma_he": "הַהֶ֨בֶל֙",
+   "n": 2,
+   "ref": "mlakhim_b/17/15"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpa",
+  "HR/Ncmpc/Sp3mp",
+  "HRd/Ncmsa",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

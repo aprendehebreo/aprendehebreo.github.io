@@ -1,0 +1,56 @@
+{
+ "strong": "H4054",
+ "he": "מגרש",
+ "xlit": "migrâsh",
+ "pron": "mig-rawsh'",
+ "def_en": [
+  "1) common, common land, open land, suburb"
+ ],
+ "kjv": "cast out, suburb.",
+ "expl": "a suburb (i.e. open country whither flocks are driven from pasture); hence, the area around abuilding, or the margin of the sea",
+ "etim": "also (in plural) feminine (Ezekiel 27:28) ; from ;",
+ "raices": [
+  "H1644"
+ ],
+ "ocurrencias": 115,
+ "formas": [
+  {
+   "forma": "מגרשה",
+   "forma_he": "מִגִּרְשָׂהּ֙",
+   "n": 50,
+   "ref": "vayikra/2/16"
+  },
+  {
+   "forma": "מגרשיה",
+   "forma_he": "מִגְרָשֶׁ֖יהָ",
+   "n": 41,
+   "ref": "divrei_hayamim_a/6/40"
+  },
+  {
+   "forma": "ומגרשיהן",
+   "forma_he": "וּמִגְרְשֵׁיהֶ֖ן",
+   "n": 5,
+   "ref": "yehoshua/21/2"
+  },
+  {
+   "forma": "מגרש",
+   "forma_he": "מִגְרַ֥שׁ",
+   "n": 4,
+   "ref": "vayikra/25/34"
+  },
+  {
+   "forma": "מגרשיהן",
+   "forma_he": "מִגְרְשֵׁיהֶֽן",
+   "n": 3,
+   "ref": "bamidbar/35/7"
+  }
+ ],
+ "morph": [
+  "HNcmpc/Sp3fs",
+  "HC/Ncmpc/Sp3fp",
+  "HNcmpc/Sp3fp",
+  "HNcmpc/Sp3mp",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H1516",
+ "he": "גיא",
+ "xlit": "gayʼ",
+ "pron": "gah'-ee",
+ "def_en": [
+  "1) valley, a steep valley, narrow gorge"
+ ],
+ "kjv": "valley.",
+ "expl": "a gorge (from its lofty sides; hence, narrow, but not a gully or winter-torrent)",
+ "etim": "or (shortened) ; probably (by transmutation) from the same root as (abbreviated);",
+ "raices": [
+  "H1466"
+ ],
+ "ocurrencias": 62,
+ "formas": [
+  {
+   "forma": "גיא",
+   "forma_he": "גַ֔יְא",
+   "n": 15,
+   "ref": "shmuel_a/17/52"
+  },
+  {
+   "forma": "בגיא",
+   "forma_he": "בַּגָּ֔יְא",
+   "n": 13,
+   "ref": "devarim/3/29"
+  },
+  {
+   "forma": "גי",
+   "forma_he": "גֵּ֣י",
+   "n": 9,
+   "ref": "yehoshua/15/8"
+  },
+  {
+   "forma": "הגיא",
+   "forma_he": "הַגַּיְא֙",
+   "n": 6,
+   "ref": "bamidbar/21/20"
+  },
+  {
+   "forma": "בגי",
+   "forma_he": "בַגַּיְ֙",
+   "n": 3,
+   "ref": "devarim/34/6"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HR/Ncbsc",
+  "HTd/Ncbsa",
+  "HRd/Ncbsa",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

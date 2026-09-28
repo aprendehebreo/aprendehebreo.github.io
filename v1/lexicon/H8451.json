@@ -1,0 +1,66 @@
+{
+ "strong": "H8451",
+ "he": "תורה",
+ "xlit": "tôwrâh",
+ "pron": "to-raw'",
+ "def_en": [
+  "1) law, direction, instruction",
+  "1a) instruction, direction (human or divine)",
+  "1a1) body of prophetic teaching",
+  "1a2) instruction in Messianic age",
+  "1a3) body of priestly direction or instruction",
+  "1a4) body of legal directives",
+  "1b) law",
+  "1b1) law of the burnt offering",
+  "1b2) of special law, codes of law",
+  "1c) custom, manner",
+  "1d) the Deuteronomic or Mosaic Law"
+ ],
+ "kjv": "law.",
+ "expl": "a precept or statute, especially the Decalogue or Pentateuch",
+ "etim": "or ; from ;",
+ "raices": [
+  "H3384"
+ ],
+ "ocurrencias": 222,
+ "formas": [
+  {
+   "forma": "תורת",
+   "forma_he": "תּוֹרַ֥ת",
+   "n": 48,
+   "ref": "shemot/13/9"
+  },
+  {
+   "forma": "התורה",
+   "forma_he": "הַתּוֹרָ֗ה",
+   "n": 48,
+   "ref": "vayikra/7/37"
+  },
+  {
+   "forma": "תורה",
+   "forma_he": "תּוֹרָ֣ה",
+   "n": 23,
+   "ref": "shemot/12/49"
+  },
+  {
+   "forma": "תורתך",
+   "forma_he": "תֽוֹרָתֶ֗ךָ",
+   "n": 18,
+   "ref": "tehilim/119/34"
+  },
+  {
+   "forma": "בתורת",
+   "forma_he": "בְּתוֹרַ֣ת",
+   "n": 15,
+   "ref": "mlakhim_a/2/3"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsc",
+  "HNcfsa",
+  "HNcfsc/Sp2ms",
+  "HR/Ncfsc"
+ ],
+ "glosa_es": "ley; instrucción; torá"
+}

@@ -1,0 +1,68 @@
+{
+ "strong": "H3335",
+ "he": "יצר",
+ "xlit": "yâtsar",
+ "pron": "yaw-tsar'",
+ "def_en": [
+  "1) to form, fashion, frame",
+  "1a) (Qal) to form, fashion",
+  "1a1) of human activity",
+  "1a2) of divine activity",
+  "1a2a) of creation",
+  "1a2a1) of original creation",
+  "1a2a2) of individuals at conception",
+  "1a2a3) of Israel as a people",
+  "1a2b) to frame, pre-ordain, plan (fig. of divine) purpose of a situation)",
+  "1b) (Niphal) to be formed, be created",
+  "1c) (Pual) to be predetermined, be pre-ordained",
+  "1d) (Hophal) to be formed"
+ ],
+ "kjv": "[idiom] earthen, fashion, form, frame, make(-r), potter, purpose.",
+ "expl": "to mould into a form; especially as apotter; figuratively, to determine (i.e. form a resolution)",
+ "etim": "probably identical with (through the squeezing into shape); (compare );",
+ "raices": [
+  "H3334",
+  "H3331"
+ ],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "יוצר",
+   "forma_he": "יוֹצֵ֔ר",
+   "n": 13,
+   "ref": "shmuel_b/17/28"
+  },
+  {
+   "forma": "היוצר",
+   "forma_he": "הַיּוֹצֵ֑ר",
+   "n": 8,
+   "ref": "yirmiyahu/18/2"
+  },
+  {
+   "forma": "יצר",
+   "forma_he": "יָצָֽר",
+   "n": 6,
+   "ref": "bereshit/2/8"
+  },
+  {
+   "forma": "ויצר",
+   "forma_he": "וַיִּצֶר֩",
+   "n": 3,
+   "ref": "bereshit/2/19"
+  },
+  {
+   "forma": "ויצרך",
+   "forma_he": "וְיֹצֶרְךָ֖",
+   "n": 3,
+   "ref": "yeshayahu/43/1"
+  }
+ ],
+ "morph": [
+  "HTd/Vqrmsa",
+  "HVqrmsa",
+  "HNcmsa",
+  "HVqrmsc",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": ""
+}

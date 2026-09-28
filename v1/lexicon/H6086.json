@@ -1,0 +1,58 @@
+{
+ "strong": "H6086",
+ "he": "עץ",
+ "xlit": "ʻêts",
+ "pron": "ates",
+ "def_en": [
+  "1) tree, wood, timber, stock, plank, stalk, stick, gallows",
+  "1a) tree, trees",
+  "1b) wood, pieces of wood, gallows, firewood, cedar-wood, woody flax"
+ ],
+ "kjv": "[phrase] carpenter, gallows, helve, [phrase] pine, plank, staff, stalk, stick, stock, timber, tree, wood.",
+ "expl": "a tree (from its firmness); hence, wood (plural sticks)",
+ "etim": "from ;",
+ "raices": [
+  "H6095"
+ ],
+ "ocurrencias": 330,
+ "formas": [
+  {
+   "forma": "עץ",
+   "forma_he": "עֵ֣ץ",
+   "n": 109,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "עצי",
+   "forma_he": "עֲצֵי",
+   "n": 58,
+   "ref": "bereshit/6/14"
+  },
+  {
+   "forma": "העץ",
+   "forma_he": "הָעֵ֛ץ",
+   "n": 31,
+   "ref": "bereshit/1/29"
+  },
+  {
+   "forma": "העצים",
+   "forma_he": "הָעֵצִ֑ים",
+   "n": 30,
+   "ref": "bereshit/22/9"
+  },
+  {
+   "forma": "עצים",
+   "forma_he": "עֵצִ֖ים",
+   "n": 28,
+   "ref": "vayikra/1/7"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpc",
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": "árbol; madera"
+}

@@ -1,0 +1,35 @@
+{
+ "strong": "H1077",
+ "he": "בל",
+ "xlit": "bal",
+ "pron": "bal",
+ "def_en": [
+  "1) not, hardly, else"
+ ],
+ "kjv": "lest, neither, no, none (that...), not (any), nothing.",
+ "expl": "properly, a failure; by implication nothing; usually (adverb) not at all; also lest",
+ "etim": "from ;",
+ "raices": [
+  "H1086"
+ ],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "בל",
+   "forma_he": "בַּל",
+   "n": 63,
+   "ref": "yeshayahu/14/21"
+  },
+  {
+   "forma": "ובל",
+   "forma_he": "וּבַל",
+   "n": 9,
+   "ref": "yeshayahu/26/10"
+  }
+ ],
+ "morph": [
+  "HTn",
+  "HC/Tn"
+ ],
+ "glosa_es": ""
+}

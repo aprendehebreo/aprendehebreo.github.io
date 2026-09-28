@@ -1,0 +1,60 @@
+{
+ "strong": "H5771",
+ "he": "עון",
+ "xlit": "ʻâvôn",
+ "pron": "aw-vone'",
+ "def_en": [
+  "1) perversity, depravity, iniquity, guilt or punishment of iniquity",
+  "1a) iniquity",
+  "1b) guilt of iniquity, guilt (as great), guilt (of condition)",
+  "1c) consequence of or punishment for iniquity"
+ ],
+ "kjv": "fault, iniquity, mischeif, punishment (of iniquity), sin.",
+ "expl": "perversity, i.e. (moral) evil",
+ "etim": "or ; (2 Kings 7:9; Psalm 51:5 ()), from ;",
+ "raices": [
+  "H7",
+  "H5753"
+ ],
+ "ocurrencias": 232,
+ "formas": [
+  {
+   "forma": "עון",
+   "forma_he": "עֲוֺ֥ן",
+   "n": 68,
+   "ref": "bereshit/15/16"
+  },
+  {
+   "forma": "עונם",
+   "forma_he": "עֲוֺנָ֥ם",
+   "n": 26,
+   "ref": "vayikra/20/19"
+  },
+  {
+   "forma": "עונך",
+   "forma_he": "עֲוֺנֶ֔ךָ",
+   "n": 12,
+   "ref": "yeshayahu/6/7"
+  },
+  {
+   "forma": "בעונו",
+   "forma_he": "בַּעֲוֺנֽוֹ",
+   "n": 10,
+   "ref": "yehoshua/22/20"
+  },
+  {
+   "forma": "בעון",
+   "forma_he": "בַּעֲוֺ֥ן",
+   "n": 9,
+   "ref": "bereshit/19/15"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HNcbsa",
+  "HNcbsc/Sp3mp",
+  "HR/Ncbsc",
+  "HR/Ncbsc/Sp3ms"
+ ],
+ "glosa_es": "iniquidad; culpa; castigo"
+}

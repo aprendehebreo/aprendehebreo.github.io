@@ -1,0 +1,59 @@
+{
+ "strong": "H8040",
+ "he": "שמאול",
+ "xlit": "sᵉmôʼwl",
+ "pron": "sem-ole'",
+ "def_en": [
+  "1) the left, the left hand, the left side",
+  "1a) left",
+  "1b) left hand",
+  "1c) north (as one faces east)"
+ ],
+ "kjv": "left (hand, side).",
+ "expl": "properly, dark (as enveloped), i.e. the north; hence (by orientation), the left hand",
+ "etim": "or ; a primitive word (rather perhaps from the same as (by insertion of the aleph) through the idea of wrapping up);",
+ "raices": [
+  "H8071"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "ושמאול",
+   "forma_he": "וּשְׂמֹ֔אול",
+   "n": 12,
+   "ref": "bamidbar/20/17"
+  },
+  {
+   "forma": "שמאלו",
+   "forma_he": "שְׂמֹאל֖וֹ",
+   "n": 4,
+   "ref": "bereshit/48/14"
+  },
+  {
+   "forma": "משמאול",
+   "forma_he": "מִשְּׂמֹ֛אול",
+   "n": 4,
+   "ref": "mlakhim_a/7/49"
+  },
+  {
+   "forma": "שמאול",
+   "forma_he": "שְׂמֹ֥אול",
+   "n": 4,
+   "ref": "mlakhim_b/23/8"
+  },
+  {
+   "forma": "משמאל",
+   "forma_he": "מִשְּׂמֹ֖אל",
+   "n": 3,
+   "ref": "bereshit/14/15"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsa",
+  "HR/Ncmsa",
+  "HNcmsa",
+  "HR/Ncmsc/Sp3ms",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

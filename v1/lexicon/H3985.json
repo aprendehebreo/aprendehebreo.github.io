@@ -1,0 +1,54 @@
+{
+ "strong": "H3985",
+ "he": "מאן",
+ "xlit": "mâʼên",
+ "pron": "maw-ane'",
+ "def_en": [
+  "1) (Piel) to refuse"
+ ],
+ "kjv": "refuse, [idiom] utterly.",
+ "expl": "to refuse",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "מאנו",
+   "forma_he": "מֵאֲנ֖וּ",
+   "n": 10,
+   "ref": "yirmiyahu/5/3"
+  },
+  {
+   "forma": "וימאן",
+   "forma_he": "וַיְמָאֵן֙",
+   "n": 9,
+   "ref": "bereshit/37/35"
+  },
+  {
+   "forma": "מאן",
+   "forma_he": "מֵאֵ֖ן",
+   "n": 5,
+   "ref": "shemot/7/14"
+  },
+  {
+   "forma": "מאנה",
+   "forma_he": "מֵֽאֲנָה֙",
+   "n": 4,
+   "ref": "yirmiyahu/15/18"
+  },
+  {
+   "forma": "וימאנו",
+   "forma_he": "וַיְמָאֲנ֣וּ",
+   "n": 3,
+   "ref": "shmuel_a/8/19"
+  }
+ ],
+ "morph": [
+  "HVpp3cp",
+  "HC/Vpw3ms",
+  "HVpp3ms",
+  "HVpp3fs",
+  "HC/Vpw3mp"
+ ],
+ "glosa_es": ""
+}

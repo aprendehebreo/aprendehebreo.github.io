@@ -1,0 +1,58 @@
+{
+ "strong": "H5329",
+ "he": "נצח",
+ "xlit": "nâtsach",
+ "pron": "naw-tsakh'",
+ "def_en": [
+  "1) to excel, be bright, be preeminent, be perpetual, be overseer, be enduring",
+  "1a) (Niphal) enduring (participle)",
+  "1b) (Piel) to act as overseer or superintendent or director or chief"
+ ],
+ "kjv": "excel, chief musician (singer), oversee(-r), set forward.",
+ "expl": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+ "etim": "a primitive root; also as denominative from",
+ "raices": [
+  "H5331"
+ ],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "למנצח",
+   "forma_he": "לַמְנַצֵּ֖חַ",
+   "n": 56,
+   "ref": "chavakuk/3/19"
+  },
+  {
+   "forma": "לנצח",
+   "forma_he": "לָנֶ֔צַח",
+   "n": 5,
+   "ref": "yeshayahu/13/20"
+  },
+  {
+   "forma": "ומנצחים",
+   "forma_he": "וּמְנַצְּחִ֣ים",
+   "n": 2,
+   "ref": "divrei_hayamim_b/2/1"
+  },
+  {
+   "forma": "נצחת",
+   "forma_he": "נִצַּ֑חַת",
+   "n": 1,
+   "ref": "yirmiyahu/8/5"
+  },
+  {
+   "forma": "מנצחים",
+   "forma_he": "מְנַצְּחִ֖ים",
+   "n": 1,
+   "ref": "divrei_hayamim_b/2/17"
+  }
+ ],
+ "morph": [
+  "HRd/Vprmsa",
+  "HR/Vpc",
+  "HC/Vprmpa",
+  "HVNsfsa",
+  "HVprmpa"
+ ],
+ "glosa_es": ""
+}

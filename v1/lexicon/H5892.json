@@ -1,0 +1,59 @@
+{
+ "strong": "H5892",
+ "he": "עיר",
+ "xlit": "ʻîyr",
+ "pron": "eer",
+ "def_en": [
+  "1) excitement, anguish",
+  "1a) of terror",
+  "2) city, town (a place of waking, guarded)",
+  "2a) city, town"
+ ],
+ "kjv": "Ai (from margin), city, court (from margin), town.",
+ "expl": "a city (a place guarded by waking or a watch) in the widest sense (even of a mere encampment or post)",
+ "etim": "or (in the plural) ; or ; (Judges 10:4), from",
+ "raices": [
+  "H5782"
+ ],
+ "ocurrencias": 1095,
+ "formas": [
+  {
+   "forma": "העיר",
+   "forma_he": "הָעִ֔יר",
+   "n": 312,
+   "ref": "bereshit/4/17"
+  },
+  {
+   "forma": "עיר",
+   "forma_he": "עִ֔יר",
+   "n": 134,
+   "ref": "bereshit/4/17"
+  },
+  {
+   "forma": "בעיר",
+   "forma_he": "בָּעִ֑יר",
+   "n": 99,
+   "ref": "bereshit/19/12"
+  },
+  {
+   "forma": "ערי",
+   "forma_he": "עָרֵ֣י",
+   "n": 95,
+   "ref": "bereshit/19/29"
+  },
+  {
+   "forma": "ערים",
+   "forma_he": "עָרִים֙",
+   "n": 78,
+   "ref": "bamidbar/32/24"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfpc",
+  "HRd/Ncfsa",
+  "HNcfpa",
+  "HTd/Ncfpa"
+ ],
+ "glosa_es": "ciudad"
+}

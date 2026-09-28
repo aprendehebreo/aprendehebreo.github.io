@@ -1,0 +1,56 @@
+{
+ "strong": "H5207",
+ "he": "ניחוח",
+ "xlit": "nîychôwach",
+ "pron": "nee-kho'-akh",
+ "def_en": [
+  "1) soothing, quieting, tranquillising"
+ ],
+ "kjv": "sweet (odour).",
+ "expl": "properly, restful, i.e. pleasant; abstractly, delight",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5117"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "ניחח",
+   "forma_he": "נִיחֹ֔חַ",
+   "n": 36,
+   "ref": "shemot/29/41"
+  },
+  {
+   "forma": "ניחוח",
+   "forma_he": "נִיח֔וֹחַ",
+   "n": 3,
+   "ref": "shemot/29/18"
+  },
+  {
+   "forma": "הניחח",
+   "forma_he": "הַנִּיחֹחַ֒",
+   "n": 1,
+   "ref": "bereshit/8/21"
+  },
+  {
+   "forma": "ניחחכם",
+   "forma_he": "נִיחֹֽחֲכֶֽם",
+   "n": 1,
+   "ref": "vayikra/26/31"
+  },
+  {
+   "forma": "ניחחי",
+   "forma_he": "נִֽיחֹחִ֔י",
+   "n": 1,
+   "ref": "bamidbar/28/2"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp2mp",
+  "HNcmsc/Sp1cs",
+  "HNcmpc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

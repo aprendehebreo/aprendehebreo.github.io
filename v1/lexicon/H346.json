@@ -1,0 +1,51 @@
+{
+ "strong": "H346",
+ "he": "איה",
+ "xlit": "ʼayêh",
+ "pron": "ah-yay'",
+ "def_en": [
+  "1) where?",
+  "1a) of persons, things",
+  "1b) rhetorical"
+ ],
+ "kjv": "where.",
+ "expl": "where?",
+ "etim": "prolonged from ;",
+ "raices": [
+  "H335"
+ ],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "איה",
+   "forma_he": "אַיֵּ֖ה",
+   "n": 36,
+   "ref": "bereshit/18/9"
+  },
+  {
+   "forma": "ואיה",
+   "forma_he": "וְאַיֵּ֥ה",
+   "n": 8,
+   "ref": "bereshit/22/7"
+  },
+  {
+   "forma": "ואיו",
+   "forma_he": "וְאַיּ֑וֹ",
+   "n": 2,
+   "ref": "shemot/2/20"
+  },
+  {
+   "forma": "איו",
+   "forma_he": "אַיּ֤וֹ",
+   "n": 1,
+   "ref": "mlakhim_b/19/13"
+  }
+ ],
+ "morph": [
+  "HTi",
+  "HC/Ti",
+  "HC/Ti/Sp3ms",
+  "HTi/Sp3ms"
+ ],
+ "glosa_es": ""
+}

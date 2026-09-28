@@ -1,0 +1,56 @@
+{
+ "strong": "H4948",
+ "he": "משקל",
+ "xlit": "mishqâl",
+ "pron": "mish-kawl'",
+ "def_en": [
+  "1) heaviness, weight"
+ ],
+ "kjv": "(full) weight.",
+ "expl": "weight (numerically estimated); hence, weighing (the act)",
+ "etim": "from ;",
+ "raices": [
+  "H8254"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "משקל",
+   "forma_he": "מִשְׁקַ֞ל",
+   "n": 16,
+   "ref": "shoftim/8/26"
+  },
+  {
+   "forma": "משקלה",
+   "forma_he": "מִשְׁקָלָהּ֒",
+   "n": 12,
+   "ref": "bamidbar/7/13"
+  },
+  {
+   "forma": "במשקל",
+   "forma_he": "בַּמִּשְׁקָ֖ל",
+   "n": 11,
+   "ref": "vayikra/19/35"
+  },
+  {
+   "forma": "ומשקל",
+   "forma_he": "וּמִשְׁקַל֙",
+   "n": 4,
+   "ref": "shmuel_a/17/5"
+  },
+  {
+   "forma": "משקלו",
+   "forma_he": "מִשְׁקָל֑וֹ",
+   "n": 2,
+   "ref": "bereshit/24/22"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3fs",
+  "HNcmsc",
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

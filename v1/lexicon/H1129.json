@@ -1,0 +1,63 @@
+{
+ "strong": "H1129",
+ "he": "בנה",
+ "xlit": "bânâh",
+ "pron": "baw-naw'",
+ "def_en": [
+  "1) to build, rebuild, establish, cause to continue",
+  "1a) (Qal)",
+  "1a1) to build, rebuild",
+  "1a2) to build a house (ie, establish a family)",
+  "1b) (Niphal)",
+  "1b1) to be built",
+  "1b2) to be rebuilt",
+  "1b3) established (of restored exiles) (fig.)",
+  "1b4) established (made permanent)",
+  "1b5) to be built up (of childless wife becoming the mother of a family through the children of a concubine)"
+ ],
+ "kjv": "(begin to) build(-er), obtain children, make, repair, set (up), [idiom] surely.",
+ "expl": "to build (literally and figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 377,
+ "formas": [
+  {
+   "forma": "ויבן",
+   "forma_he": "וַיִּבֶן֩",
+   "n": 60,
+   "ref": "bereshit/2/22"
+  },
+  {
+   "forma": "בנה",
+   "forma_he": "בֹּ֣נֶה",
+   "n": 51,
+   "ref": "bereshit/4/17"
+  },
+  {
+   "forma": "לבנות",
+   "forma_he": "לְבָנ֔וֹת",
+   "n": 47,
+   "ref": "bereshit/30/37"
+  },
+  {
+   "forma": "יבנה",
+   "forma_he": "יִבְנֶ֖ה",
+   "n": 20,
+   "ref": "devarim/25/9"
+  },
+  {
+   "forma": "תבנה",
+   "forma_he": "תִבְנֶ֥ה",
+   "n": 17,
+   "ref": "shemot/20/25"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HR/Vqc",
+  "HVqp3ms",
+  "HC/Vqw3mp",
+  "HVqi3ms"
+ ],
+ "glosa_es": "construir; edificar"
+}

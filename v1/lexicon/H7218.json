@@ -1,0 +1,62 @@
+{
+ "strong": "H7218",
+ "he": "ראש",
+ "xlit": "rôʼsh",
+ "pron": "roshe",
+ "def_en": [
+  "1) head, top, summit, upper part, chief, total, sum, height, front, beginning",
+  "1a) head (of man, animals)",
+  "1b) top, tip (of mountain)",
+  "1c) height (of stars)",
+  "1d) chief, head (of man, city, nation, place, family, priest)",
+  "1e) head, front, beginning",
+  "1f) chief, choicest, best",
+  "1g) head, division, company, band",
+  "1h) sum"
+ ],
+ "kjv": "band, beginning, captain, chapiter, chief(-est place, man, things), company, end, [idiom] every (man), excellent, first, forefront, (be-)head, height, (on) high(-est part, (priest)), [idiom] lead, [idiom] poor, principal, ruler, sum, top.",
+ "expl": "the head (as most easily shaken), whether literal or figurative (in many applications, of place, time, rank, itc.)",
+ "etim": "from an unused root apparently meaning to shake;",
+ "raices": [],
+ "ocurrencias": 600,
+ "formas": [
+  {
+   "forma": "ראש",
+   "forma_he": "רֹ֔אשׁ",
+   "n": 147,
+   "ref": "bereshit/3/15"
+  },
+  {
+   "forma": "ראשי",
+   "forma_he": "רָאשֵׁ֥י",
+   "n": 101,
+   "ref": "bereshit/8/5"
+  },
+  {
+   "forma": "ראשו",
+   "forma_he": "רֹאשֽׁוֹ",
+   "n": 65,
+   "ref": "bereshit/48/18"
+  },
+  {
+   "forma": "הראש",
+   "forma_he": "הָרֹ֖אשׁ",
+   "n": 38,
+   "ref": "vayikra/1/8"
+  },
+  {
+   "forma": "בראש",
+   "forma_he": "בְּרֹ֣אשׁ",
+   "n": 37,
+   "ref": "shemot/24/17"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmpc",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsc",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": "cabeza; jefe; principio"
+}

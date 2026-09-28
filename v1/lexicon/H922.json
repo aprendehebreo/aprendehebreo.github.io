@@ -1,0 +1,33 @@
+{
+ "strong": "H922",
+ "he": "בהו",
+ "xlit": "bôhûw",
+ "pron": "bo'-hoo",
+ "def_en": [
+  "1) emptiness, void, waste"
+ ],
+ "kjv": "emptiness, void.",
+ "expl": "a vacuity, i.e. (superficially) an undistinguishable ruin",
+ "etim": "from an unused root (meaning to be empty);",
+ "raices": [],
+ "ocurrencias": 3,
+ "formas": [
+  {
+   "forma": "ובהו",
+   "forma_he": "וָבֹ֔הוּ",
+   "n": 2,
+   "ref": "bereshit/1/2"
+  },
+  {
+   "forma": "בהו",
+   "forma_he": "בֹֽהוּ",
+   "n": 1,
+   "ref": "yeshayahu/34/11"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsa",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

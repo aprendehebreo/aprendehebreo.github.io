@@ -1,0 +1,64 @@
+{
+ "strong": "H2142",
+ "he": "זכר",
+ "xlit": "zâkar",
+ "pron": "zaw-kar'",
+ "def_en": [
+  "1) to remember, recall, call to mind",
+  "1a) (Qal) to remember, recall",
+  "1b) (Niphal) to be brought to remembrance, be remembered, be thought of, be brought to mind",
+  "1c) (Hiphil)",
+  "1c1) to cause to remember, remind",
+  "1c2) to cause to be remembered, keep in remembrance",
+  "1c3) to mention",
+  "1c4) to record",
+  "1c5) to make a memorial, make remembrance"
+ ],
+ "kjv": "[idiom] burn (incense), [idiom] earnestly, be male, (make) mention (of), be mindful, recount, record(-er), remember, make to be remembered, bring (call, come, keep, put) to (in) remembrance, [idiom] still, think on, [idiom] well.",
+ "expl": "properly, to mark (so as to be recognized), i.e. to remember; by implication, to mention; to be male",
+ "etim": "a primitive root; also as denominative from",
+ "raices": [
+  "H2145"
+ ],
+ "ocurrencias": 235,
+ "formas": [
+  {
+   "forma": "זכר",
+   "forma_he": "זָכָ֥ר",
+   "n": 42,
+   "ref": "bereshit/1/27"
+  },
+  {
+   "forma": "זכרו",
+   "forma_he": "זָֽכְרוּ֙",
+   "n": 13,
+   "ref": "shoftim/8/34"
+  },
+  {
+   "forma": "יזכר",
+   "forma_he": "יִזְכָּר",
+   "n": 13,
+   "ref": "shmuel_b/14/11"
+  },
+  {
+   "forma": "ויזכר",
+   "forma_he": "וַיִּזְכֹּ֤ר",
+   "n": 9,
+   "ref": "bereshit/8/1"
+  },
+  {
+   "forma": "תזכר",
+   "forma_he": "תִּזָּכָ֔ר",
+   "n": 9,
+   "ref": "shemot/34/19"
+  }
+ ],
+ "morph": [
+  "HVqv2ms",
+  "HVqp3ms",
+  "HC/Vqw3ms",
+  "HVqa",
+  "HC/Vqq2ms"
+ ],
+ "glosa_es": "recordar; acordarse"
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H2822",
+ "he": "חשך",
+ "xlit": "chôshek",
+ "pron": "kho-shek'",
+ "def_en": [
+  "1) darkness, obscurity",
+  "1a) darkness",
+  "1b) secret place"
+ ],
+ "kjv": "dark(-ness), night, obscurity.",
+ "expl": "the dark; hence (literally) darkness; figuratively, misery, destruction, death, ignorance, sorrow, wickedness",
+ "etim": "from ;",
+ "raices": [
+  "H2821"
+ ],
+ "ocurrencias": 80,
+ "formas": [
+  {
+   "forma": "חשך",
+   "forma_he": "חָשַׂ֤ךְ",
+   "n": 47,
+   "ref": "bereshit/39/9"
+  },
+  {
+   "forma": "בחשך",
+   "forma_he": "בַּחֹ֨שֶׁךְ֙",
+   "n": 14,
+   "ref": "yehoshua/2/5"
+  },
+  {
+   "forma": "החשך",
+   "forma_he": "הַחֹֽשֶׁךְ",
+   "n": 6,
+   "ref": "bereshit/1/4"
+  },
+  {
+   "forma": "לחשך",
+   "forma_he": "לְחֹ֔שֶׁךְ",
+   "n": 3,
+   "ref": "yeshayahu/5/20"
+  },
+  {
+   "forma": "וחשך",
+   "forma_he": "וְחֹ֖שֶׁךְ",
+   "n": 2,
+   "ref": "bereshit/1/2"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HTd/Ncmsa",
+  "HC/Rd/Ncmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

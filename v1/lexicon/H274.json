@@ -1,0 +1,57 @@
+{
+ "strong": "H274",
+ "he": "אחזיה",
+ "xlit": "ʼĂchazyâh",
+ "pron": "akh-az-yaw'",
+ "def_en": [
+  "Ahaziah = \"Jehovah (Yahu) holds (possesses)\"",
+  "1) ruler of Israel, son of Ahab",
+  "2) ruler of Judah, son of Jehoram (Joram)"
+ ],
+ "kjv": "Ahaziah.",
+ "expl": "Achazjah, the name of a Jewish and an Israelite king",
+ "etim": "or (prolonged) ; from and ; Jah has seized;",
+ "raices": [
+  "H270",
+  "H3050"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "אחזיהו",
+   "forma_he": "אֲחַזְיָ֥הוּ",
+   "n": 26,
+   "ref": "mlakhim_a/22/40"
+  },
+  {
+   "forma": "אחזיה",
+   "forma_he": "אֲחַזְיָ֜ה",
+   "n": 5,
+   "ref": "mlakhim_b/1/2"
+  },
+  {
+   "forma": "ואחזיהו",
+   "forma_he": "וַאֲחַזְיָ֨הוּ",
+   "n": 3,
+   "ref": "mlakhim_b/8/29"
+  },
+  {
+   "forma": "ואחזיה",
+   "forma_he": "וַֽאֲחַזְיָה֙",
+   "n": 2,
+   "ref": "mlakhim_b/9/16"
+  },
+  {
+   "forma": "לאחזיהו",
+   "forma_he": "לַאֲחַזְיָ֖הוּ",
+   "n": 1,
+   "ref": "divrei_hayamim_b/22/8"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

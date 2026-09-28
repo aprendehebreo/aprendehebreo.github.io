@@ -1,0 +1,61 @@
+{
+ "strong": "H4791",
+ "he": "מרום",
+ "xlit": "mârôwm",
+ "pron": "maw-rome'",
+ "def_en": [
+  "1) height",
+  "1a) height, elevation, elevated place",
+  "1a1) in a high place (adv)",
+  "1b) height",
+  "1c) proudly (adv)",
+  "1d) of nobles (fig.)"
+ ],
+ "kjv": "(far) above, dignity, haughty, height, (most, on) high (one, place), loftily, upward.",
+ "expl": "altitude, i.e. concretely (an elevated place), abstractly (elevation, figuratively (elation), or adverbially (aloft)",
+ "etim": "from ;",
+ "raices": [
+  "H7311"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "מרום",
+   "forma_he": "מֵר֔וֹם",
+   "n": 23,
+   "ref": "yehoshua/11/5"
+  },
+  {
+   "forma": "ממרום",
+   "forma_he": "מִמָּר֖וֹם",
+   "n": 9,
+   "ref": "shmuel_b/22/17"
+  },
+  {
+   "forma": "במרום",
+   "forma_he": "בַּמָּר֑וֹם",
+   "n": 6,
+   "ref": "yeshayahu/24/21"
+  },
+  {
+   "forma": "למרום",
+   "forma_he": "לַמָּר֔וֹם",
+   "n": 5,
+   "ref": "yeshayahu/38/14"
+  },
+  {
+   "forma": "במרומים",
+   "forma_he": "בַּמְּרוֹמִֽים",
+   "n": 3,
+   "ref": "tehilim/148/1"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HR/Ncmsa",
+  "HRd/Ncmsa",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

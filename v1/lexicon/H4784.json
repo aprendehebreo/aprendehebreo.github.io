@@ -1,0 +1,58 @@
+{
+ "strong": "H4784",
+ "he": "מרה",
+ "xlit": "mârâh",
+ "pron": "maw-raw'",
+ "def_en": [
+  "1) to be contentious, be rebellious, be refractory, be disobedient towards, be rebellious against",
+  "1a) (Qal) to be disobedient, be rebellious",
+  "1a1) towards father",
+  "1a2) towards God",
+  "1b) (Hiphil) to show rebelliousness, show disobedience, disobey"
+ ],
+ "kjv": "bitter, change, be disobedient, disobey, grievously, provocation, provoke(-ing), (be) rebel (against, -lious).",
+ "expl": "to be (causatively, make) bitter (or unpleasant); (figuratively) to rebel (or resist; causatively, to provoke)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 45,
+ "formas": [
+  {
+   "forma": "וימרו",
+   "forma_he": "וַיַּמְרוּ",
+   "n": 6,
+   "ref": "yechezkel/20/8"
+  },
+  {
+   "forma": "מרו",
+   "forma_he": "מָר֥וּ",
+   "n": 4,
+   "ref": "yeshayahu/63/10"
+  },
+  {
+   "forma": "ותמרו",
+   "forma_he": "וַתַּמְר֕וּ",
+   "n": 3,
+   "ref": "devarim/1/26"
+  },
+  {
+   "forma": "ממרים",
+   "forma_he": "מַמְרִ֥ים",
+   "n": 3,
+   "ref": "devarim/9/7"
+  },
+  {
+   "forma": "מרה",
+   "forma_he": "מָרָֽה",
+   "n": 3,
+   "ref": "shemot/15/23"
+  }
+ ],
+ "morph": [
+  "HC/Vhw3mp",
+  "HC/Vqrmsa",
+  "HC/Vhw2mp",
+  "HVhrmpa",
+  "HVqp3fs"
+ ],
+ "glosa_es": ""
+}

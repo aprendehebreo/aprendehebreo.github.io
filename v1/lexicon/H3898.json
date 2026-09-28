@@ -1,0 +1,57 @@
+{
+ "strong": "H3898",
+ "he": "לחם",
+ "xlit": "lâcham",
+ "pron": "law-kham'",
+ "def_en": [
+  "1) to fight, do battle, make war",
+  "1a) (Qal) to fight, do battle",
+  "1b) (Niphal) to engage in battle, wage war",
+  "2) (Qal) to eat, use as food"
+ ],
+ "kjv": "devour, eat, [idiom] ever, fight(-ing), overcome, prevail, (make) war(-ring).",
+ "expl": "to feed on; figuratively, to consume; by implication, to battle (as destruction)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 177,
+ "formas": [
+  {
+   "forma": "להלחם",
+   "forma_he": "לְהִלָּחֵ֖ם",
+   "n": 42,
+   "ref": "shemot/17/10"
+  },
+  {
+   "forma": "נלחם",
+   "forma_he": "נִלְחָ֥ם",
+   "n": 25,
+   "ref": "shemot/14/25"
+  },
+  {
+   "forma": "וילחם",
+   "forma_he": "וַיִּלָּ֥חֶם",
+   "n": 20,
+   "ref": "shemot/17/8"
+  },
+  {
+   "forma": "וילחמו",
+   "forma_he": "וַיִּֽלָּחֲמ֖וּ",
+   "n": 15,
+   "ref": "yehoshua/10/5"
+  },
+  {
+   "forma": "נלחמים",
+   "forma_he": "נִלְחָמִ֥ים",
+   "n": 8,
+   "ref": "yehoshua/10/25"
+  }
+ ],
+ "morph": [
+  "HR/VNc",
+  "HC/VNw3ms",
+  "HVNp3ms",
+  "HC/VNw3mp",
+  "HVNrmpa"
+ ],
+ "glosa_es": "pelear; luchar; combatir"
+}

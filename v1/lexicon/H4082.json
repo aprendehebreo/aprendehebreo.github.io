@@ -1,0 +1,58 @@
+{
+ "strong": "H4082",
+ "he": "מדינה",
+ "xlit": "mᵉdîynâh",
+ "pron": "med-ee-naw'",
+ "def_en": [
+  "1) province, district",
+  "1a) district",
+  "1b) province"
+ ],
+ "kjv": "([idiom] every) province.",
+ "expl": "properly, a judgeship, i.e. jurisdiction; by implication, a district (as ruled by a judge); generally, a region",
+ "etim": "from ;",
+ "raices": [
+  "H1777"
+ ],
+ "ocurrencias": 53,
+ "formas": [
+  {
+   "forma": "מדינה",
+   "forma_he": "מְדִינָֽה",
+   "n": 13,
+   "ref": "ester/1/1"
+  },
+  {
+   "forma": "מדינות",
+   "forma_he": "מְדִינ֖וֹת",
+   "n": 11,
+   "ref": "ester/1/16"
+  },
+  {
+   "forma": "ומדינה",
+   "forma_he": "וּמְדִינָה֙",
+   "n": 10,
+   "ref": "ester/1/22"
+  },
+  {
+   "forma": "המדינות",
+   "forma_he": "הַמְּדִינ֑וֹת",
+   "n": 8,
+   "ref": "mlakhim_a/20/14"
+  },
+  {
+   "forma": "המדינה",
+   "forma_he": "הַמְּדִינָ֑ה",
+   "n": 4,
+   "ref": "daniel/8/2"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfpc",
+  "HC/Ncfsa",
+  "HTd/Ncfpa",
+  "HTd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

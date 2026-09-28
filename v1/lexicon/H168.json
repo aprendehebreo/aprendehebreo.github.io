@@ -1,0 +1,59 @@
+{
+ "strong": "H168",
+ "he": "אהל",
+ "xlit": "ʼôhel",
+ "pron": "o'-hel",
+ "def_en": [
+  "1) tent",
+  "1a) nomad's tent, and thus symbolic of wilderness life, transience",
+  "1b) dwelling, home, habitation",
+  "1c) the sacred tent of Jehovah (the tabernacle)"
+ ],
+ "kjv": "covering, (dwelling) (place), home, tabernacle, tent.",
+ "expl": "a tent (as clearly conspicuous from a distance)",
+ "etim": "from ;",
+ "raices": [
+  "H166"
+ ],
+ "ocurrencias": 348,
+ "formas": [
+  {
+   "forma": "אהל",
+   "forma_he": "אֹ֖הֶל",
+   "n": 124,
+   "ref": "bereshit/4/20"
+  },
+  {
+   "forma": "באהל",
+   "forma_he": "בָאֹֽהֶל",
+   "n": 47,
+   "ref": "bereshit/18/9"
+  },
+  {
+   "forma": "האהל",
+   "forma_he": "הָאֹ֖הֶל",
+   "n": 41,
+   "ref": "bereshit/18/1"
+  },
+  {
+   "forma": "אהלי",
+   "forma_he": "אָהֳלֵ֨י",
+   "n": 14,
+   "ref": "bamidbar/16/26"
+  },
+  {
+   "forma": "לאהל",
+   "forma_he": "לְאֹ֖הֶל",
+   "n": 12,
+   "ref": "shemot/26/7"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsc/Sp3ms"
+ ],
+ "glosa_es": "tienda"
+}

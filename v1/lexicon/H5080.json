@@ -1,0 +1,71 @@
+{
+ "strong": "H5080",
+ "he": "נדח",
+ "xlit": "nâdach",
+ "pron": "naw-dakh'",
+ "def_en": [
+  "1) to impel, thrust, drive away, banish",
+  "1a) (Qal)",
+  "1a1) to impel",
+  "1a2) to thrust away, banish",
+  "1b) (Niphal)",
+  "1b1) to be impelled",
+  "1b2) to be thrust out, be banished",
+  "1b2a) banished, outcast (participle)",
+  "1b3) to be driven away",
+  "1b4) to be thrust away, thrust aside",
+  "1c) (Pual) to be thrust into",
+  "1c1) thrust (participle)",
+  "1d) (Hiphil)",
+  "1d1) to thrust, move, impel",
+  "1d2) to thrust out, banish",
+  "1d3) to thrust away, thrust aside",
+  "1e) (Hophal) to be chased, be hunted",
+  "1e1) chased, hunted (participle)"
+ ],
+ "kjv": "banish, bring, cast down (out), chase, compel, draw away, drive (away, out, quite), fetch a stroke, force, go away, outcast, thrust away (out), withdraw.",
+ "expl": "to push off; used in a great variety of applications, literally and figuratively (to expel, mislead, strike, inflict, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 52,
+ "formas": [
+  {
+   "forma": "הדחתים",
+   "forma_he": "הִדַּחְתִּ֣ים",
+   "n": 4,
+   "ref": "yirmiyahu/8/3"
+  },
+  {
+   "forma": "נדחו",
+   "forma_he": "נִדְּחֽוֹ",
+   "n": 3,
+   "ref": "shmuel_b/14/13"
+  },
+  {
+   "forma": "ונדחת",
+   "forma_he": "וְנִדַּחְתָּ֛",
+   "n": 2,
+   "ref": "devarim/4/19"
+  },
+  {
+   "forma": "להדיחך",
+   "forma_he": "לְהַדִּֽיחֲךָ֙",
+   "n": 2,
+   "ref": "devarim/13/6"
+  },
+  {
+   "forma": "נדחים",
+   "forma_he": "נִדָּחִ֔ים",
+   "n": 2,
+   "ref": "devarim/22/1"
+  }
+ ],
+ "morph": [
+  "HVhp1cs/Sp3mp",
+  "HC/VNq2ms",
+  "HR/Vhc/Sp2ms",
+  "HVNrmpa",
+  "HC/Vhw3ms"
+ ],
+ "glosa_es": ""
+}

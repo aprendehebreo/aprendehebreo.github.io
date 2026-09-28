@@ -1,0 +1,59 @@
+{
+ "strong": "H136",
+ "he": "אדני",
+ "xlit": "ʼĂdônây",
+ "pron": "ad-o-noy'",
+ "def_en": [
+  "1) my lord, lord",
+  "1a) of men",
+  "1b) of God",
+  "2) Lord-title, spoken in place of Yahweh in Jewish display of reverence"
+ ],
+ "kjv": "(my) Lord.",
+ "expl": "the Lord (used as a proper name of God only)",
+ "etim": "an emphatic form of ;",
+ "raices": [
+  "H113"
+ ],
+ "ocurrencias": 445,
+ "formas": [
+  {
+   "forma": "אדני",
+   "forma_he": "אֲדֹנָ֤י",
+   "n": 419,
+   "ref": "bereshit/15/2"
+  },
+  {
+   "forma": "לאדני",
+   "forma_he": "לַֽאדֹנָי֙",
+   "n": 11,
+   "ref": "bereshit/18/30"
+  },
+  {
+   "forma": "ואדני",
+   "forma_he": "וַֽאדֹנִ֖י",
+   "n": 7,
+   "ref": "bereshit/18/12"
+  },
+  {
+   "forma": "אדון",
+   "forma_he": "אֲד֖וֹן",
+   "n": 2,
+   "ref": "yehoshua/3/11"
+  },
+  {
+   "forma": "אדוני",
+   "forma_he": "אֲדוֹנָ֔י",
+   "n": 1,
+   "ref": "shoftim/13/8"
+  }
+ ],
+ "morph": [
+  "HNcmpc/Sp1cs",
+  "HR/Ncmpc/Sp1cs",
+  "HC/Ncmpc/Sp1cs",
+  "HNcmsc",
+  "HC/Ncmpc"
+ ],
+ "glosa_es": "Señor; amo"
+}

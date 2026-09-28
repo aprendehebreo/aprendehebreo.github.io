@@ -1,0 +1,59 @@
+{
+ "strong": "H2931",
+ "he": "טמא",
+ "xlit": "ṭâmêʼ",
+ "pron": "taw-may'",
+ "def_en": [
+  "1) unclean, impure",
+  "1a) ethically and religiously",
+  "1b) ritually",
+  "1c) of places"
+ ],
+ "kjv": "defiled, [phrase] infamous, polluted(-tion), unclean.",
+ "expl": "foul in a religious sense",
+ "etim": "from ;",
+ "raices": [
+  "H2930"
+ ],
+ "ocurrencias": 88,
+ "formas": [
+  {
+   "forma": "טמא",
+   "forma_he": "טִמֵּא֙",
+   "n": 45,
+   "ref": "bereshit/34/5"
+  },
+  {
+   "forma": "הטמא",
+   "forma_he": "הַטָּמֵ֖א",
+   "n": 11,
+   "ref": "vayikra/10/10"
+  },
+  {
+   "forma": "טמאה",
+   "forma_he": "טְמֵאָ֗ה",
+   "n": 9,
+   "ref": "vayikra/5/2"
+  },
+  {
+   "forma": "טמאים",
+   "forma_he": "טְמֵאִ֥ים",
+   "n": 8,
+   "ref": "vayikra/11/8"
+  },
+  {
+   "forma": "הטמאים",
+   "forma_he": "הַטְּמֵאִ֥ים",
+   "n": 2,
+   "ref": "vayikra/11/31"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HTd/Aamsa",
+  "HAafsa",
+  "HAampa",
+  "HAamsc"
+ ],
+ "glosa_es": ""
+}

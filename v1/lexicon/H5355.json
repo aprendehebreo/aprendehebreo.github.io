@@ -1,0 +1,60 @@
+{
+ "strong": "H5355",
+ "he": "נקי",
+ "xlit": "nâqîy",
+ "pron": "naw-kee'",
+ "def_en": [
+  "1) clean, free from, exempt, clear, innocent",
+  "1a) free from guilt, clean, innocent",
+  "1b) free from punishment",
+  "1c) free or exempt from obligations",
+  "2) innocent"
+ ],
+ "kjv": "blameless, clean, clear, exempted, free, guiltless, innocent, quit.",
+ "expl": "innocent",
+ "etim": "or ; (Joel 4:19; Jonah [1:14), from ;",
+ "raices": [
+  "H5352"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "נקי",
+   "forma_he": "נָקִ֖י",
+   "n": 25,
+   "ref": "bereshit/24/41"
+  },
+  {
+   "forma": "נקים",
+   "forma_he": "נְקִיִּֽם",
+   "n": 6,
+   "ref": "bereshit/44/10"
+  },
+  {
+   "forma": "הנקי",
+   "forma_he": "הִנָּקִ֕י",
+   "n": 4,
+   "ref": "bamidbar/5/19"
+  },
+  {
+   "forma": "ונקי",
+   "forma_he": "וְנָקִ֤י",
+   "n": 3,
+   "ref": "shemot/23/7"
+  },
+  {
+   "forma": "נקיים",
+   "forma_he": "נְקִיִּ֛ים",
+   "n": 2,
+   "ref": "bamidbar/32/22"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HTd/Aamsa",
+  "HC/Aamsa",
+  "HAamsc"
+ ],
+ "glosa_es": ""
+}

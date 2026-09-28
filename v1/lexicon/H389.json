@@ -1,0 +1,36 @@
+{
+ "strong": "H389",
+ "he": "אך",
+ "xlit": "ʼak",
+ "pron": "ak",
+ "def_en": [
+  "1) indeed, surely (emphatic)",
+  "2) howbeit, only, but, yet (restrictive)"
+ ],
+ "kjv": "also, in any wise, at least, but, certainly, even, howbeit, nevertheless, notwithstanding, only, save, surely, of a surety, truly, verily, [phrase] wherefore, yet (but).",
+ "expl": "a particle of affirmation, surely; hence (by limitation) only",
+ "etim": "akin to ;",
+ "raices": [
+  "H403"
+ ],
+ "ocurrencias": 161,
+ "formas": [
+  {
+   "forma": "אך",
+   "forma_he": "אַךְ",
+   "n": 158,
+   "ref": "bereshit/7/23"
+  },
+  {
+   "forma": "ואך",
+   "forma_he": "וְאַ֨ךְ",
+   "n": 3,
+   "ref": "bereshit/9/5"
+  }
+ ],
+ "morph": [
+  "HTa",
+  "HC/D"
+ ],
+ "glosa_es": "pero; ciertamente; solo"
+}

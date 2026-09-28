@@ -1,0 +1,59 @@
+{
+ "strong": "H452",
+ "he": "אליה",
+ "xlit": "ʼÊlîyâh",
+ "pron": "ay-lee-yaw'",
+ "def_en": [
+  "Elijah or Eliah = \"my God is Jehovah\" or \"Yah(u) is God\"",
+  "1) the great prophet of the reign of Ahab",
+  "2) Benjamite son of Jeroham",
+  "3) a son of Elam with foreign wife during exile",
+  "4) a son of Harim, and priest, with foreign wife during exile"
+ ],
+ "kjv": "Elijah, Eliah.",
+ "expl": "Elijah, the name of the famous prophet and of two other Israelites",
+ "etim": "or prolonged ; from and ; God of Jehovah;",
+ "raices": [
+  "H410",
+  "H3050"
+ ],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "אליהו",
+   "forma_he": "אֵלִיָּ֨הוּ",
+   "n": 60,
+   "ref": "mlakhim_a/17/1"
+  },
+  {
+   "forma": "אליה",
+   "forma_he": "אֵלֶ֔יהָ",
+   "n": 5,
+   "ref": "bereshit/16/13"
+  },
+  {
+   "forma": "ואליה",
+   "forma_he": "וְאֵֽלִיָּה֙",
+   "n": 3,
+   "ref": "ezra/10/21"
+  },
+  {
+   "forma": "ואליהו",
+   "forma_he": "וְאֵ֨לִיָּ֜הוּ",
+   "n": 2,
+   "ref": "mlakhim_a/18/42"
+  },
+  {
+   "forma": "מאליהו",
+   "forma_he": "מֵֽאֵלִיָּ֥הוּ",
+   "n": 1,
+   "ref": "divrei_hayamim_b/21/12"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

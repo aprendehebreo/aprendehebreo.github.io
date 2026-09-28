@@ -1,0 +1,60 @@
+{
+ "strong": "H2637",
+ "he": "חסר",
+ "xlit": "châçêr",
+ "pron": "khaw-sare'",
+ "def_en": [
+  "1) to lack, be without, decrease, be lacking, have a need",
+  "1a) (Qal)",
+  "1a1) to lack",
+  "1a2) to be lacking",
+  "1a3) to diminish, decrease",
+  "1b) (Piel) to cause to lack",
+  "1c) (Hiphil) to cause to be lacking"
+ ],
+ "kjv": "be abated, bereave, decrease, (cause to) fail, (have) lack, make lower, want.",
+ "expl": "to lack; by implication, to fail, want, lessen",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 21,
+ "formas": [
+  {
+   "forma": "יחסר",
+   "forma_he": "יֶחְסַ֖ר",
+   "n": 5,
+   "ref": "devarim/15/8"
+  },
+  {
+   "forma": "תחסר",
+   "forma_he": "תֶחְסַ֥ר",
+   "n": 3,
+   "ref": "devarim/8/9"
+  },
+  {
+   "forma": "יחסרו",
+   "forma_he": "יַחְסְר֖וּ",
+   "n": 2,
+   "ref": "yechezkel/4/17"
+  },
+  {
+   "forma": "ויחסרו",
+   "forma_he": "וַיַּחְסְר֣וּ",
+   "n": 1,
+   "ref": "bereshit/8/3"
+  },
+  {
+   "forma": "וחסור",
+   "forma_he": "וְחָס֔וֹר",
+   "n": 1,
+   "ref": "bereshit/8/5"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVqi3fs",
+  "HVqi3mp",
+  "HVqj3ms",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": ""
+}

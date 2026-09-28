@@ -1,0 +1,54 @@
+{
+ "strong": "H3490",
+ "he": "יתום",
+ "xlit": "yâthôwm",
+ "pron": "yaw-thome'",
+ "def_en": [
+  "1) an orphan, fatherless"
+ ],
+ "kjv": "fatherless (child), orphan.",
+ "expl": "a bereaved person",
+ "etim": "from an unused root meaning to be lonely;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "יתום",
+   "forma_he": "יָת֖וֹם",
+   "n": 17,
+   "ref": "devarim/10/18"
+  },
+  {
+   "forma": "יתומים",
+   "forma_he": "יְתוֹמִ֖ים",
+   "n": 6,
+   "ref": "yeshayahu/10/2"
+  },
+  {
+   "forma": "ויתום",
+   "forma_he": "וְיָת֖וֹם",
+   "n": 5,
+   "ref": "shemot/22/21"
+  },
+  {
+   "forma": "ליתום",
+   "forma_he": "לַיָּת֥וֹם",
+   "n": 5,
+   "ref": "devarim/24/19"
+  },
+  {
+   "forma": "והיתום",
+   "forma_he": "וְהַיָּת֤וֹם",
+   "n": 3,
+   "ref": "devarim/14/29"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpa",
+  "HC/Ncmsa",
+  "HRd/Ncmsa",
+  "HC/Td/Ncmsa"
+ ],
+ "glosa_es": ""
+}

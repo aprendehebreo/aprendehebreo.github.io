@@ -1,0 +1,187 @@
+{
+ "id": 2,
+ "titulo": "Alef-bet I: de א a י",
+ "objetivos": [
+  "Identificar las diez primeras letras por su nombre, sonido y forma.",
+  "Escribir cada letra con el trazo correcto (empezando por la derecha).",
+  "Recordar el valor de gematria del 1 al 10.",
+  "Entender que ו y י también funcionan como vocales (madres de lectura)."
+ ],
+ "items": [
+  {
+   "id": "alef",
+   "tipo": "letra",
+   "he": "א",
+   "es": "alef",
+   "sonido": "(sin sonido propio)",
+   "nota": "Gematria 1. Trazo: dos yod, una arriba y otra abajo, unidas por una diagonal."
+  },
+  {
+   "id": "bet",
+   "tipo": "letra",
+   "he": "ב",
+   "es": "bet",
+   "sonido": "b (con punto) / v",
+   "nota": "Gematria 2. Con un punto dentro (dagesh) suena b; sin punto, v."
+  },
+  {
+   "id": "guimel",
+   "tipo": "letra",
+   "he": "ג",
+   "es": "guimel",
+   "sonido": "g",
+   "nota": "Gematria 3. Un trazo superior y un pie que se extiende hacia la izquierda."
+  },
+  {
+   "id": "daled",
+   "tipo": "letra",
+   "he": "ד",
+   "es": "daled",
+   "sonido": "d",
+   "nota": "Gematria 4. Dos trazos: uno horizontal arriba y una vertical que baja a la derecha."
+  },
+  {
+   "id": "he",
+   "tipo": "letra",
+   "he": "ה",
+   "es": "he",
+   "sonido": "h aspirada",
+   "nota": "Gematria 5. Al final de palabra casi siempre es muda y solo indica que la palabra termina en vocal."
+  },
+  {
+   "id": "vav",
+   "tipo": "letra",
+   "he": "ו",
+   "es": "vav",
+   "sonido": "v",
+   "nota": "Gematria 6. Es la más delgada. También se usa como vocal: con jolam (וֹ) suena o y con dagesh (וּ) suena u."
+  },
+  {
+   "id": "zayin",
+   "tipo": "letra",
+   "he": "ז",
+   "es": "zayin",
+   "sonido": "z",
+   "nota": "Gematria 7. Como la vav pero con un trazo horizontal arriba."
+  },
+  {
+   "id": "jet",
+   "tipo": "letra",
+   "he": "ח",
+   "es": "jet",
+   "sonido": "j (gutural, como la j del español)",
+   "nota": "Gematria 8. Se parece a la he pero con la abertura cerrada."
+  },
+  {
+   "id": "tet",
+   "tipo": "letra",
+   "he": "ט",
+   "es": "tet",
+   "sonido": "t",
+   "nota": "Gematria 9. Un círculo con un trazo que entra por arriba."
+  },
+  {
+   "id": "yod",
+   "tipo": "letra",
+   "he": "י",
+   "es": "yod",
+   "sonido": "y",
+   "nota": "Gematria 10. Es la letra más pequeña. También es vocal: puede escribir la i o la e."
+  },
+  {
+   "id": "madres",
+   "tipo": "gramatica",
+   "es": "Letras que también son vocales",
+   "he": "ו י",
+   "nota": "La ו y la י no solo son consonantes: en el texto bíblico escriben también las vocales o/u y i/e. Por eso se llaman 'madres de lectura'. En יוֹם la ו lleva un punto arriba (jolam) que se lee o.",
+   "ejemplo": {
+    "he": "יוֹם",
+    "xlit": "día",
+    "es": "yom",
+    "ref": "bereshit/1/5"
+   }
+  },
+  {
+   "id": "av",
+   "tipo": "palabra",
+   "he": "אַב",
+   "es": "padre",
+   "xlit": "av",
+   "ref": "bereshit/17/5",
+   "nota": "Strong H1. Su forma más frecuente en el Tanaj es el constructo אֲבִי ('padre de'), en bereshit/4/20."
+  },
+  {
+   "id": "yom",
+   "tipo": "palabra",
+   "he": "יוֹם",
+   "es": "día",
+   "xlit": "yom",
+   "ref": "bereshit/1/5",
+   "nota": "Strong H3117. En el Tanaj aparece 2 304 veces con sus formas. Letras: י, ו con jolam, ם final."
+  }
+ ],
+ "ejercicios": [
+  {
+   "id": "e2-1",
+   "tipo": "opcion",
+   "pregunta": "¿Qué letra tiene el sonido gutural 'j' (como la j del español)?",
+   "opciones": [
+    "bet",
+    "zayin",
+    "jet (ח)",
+    "tet"
+   ],
+   "correcta": 2,
+   "explica": "Jet (ח) es la gutural. Tet (ט) suena t."
+  },
+  {
+   "id": "e2-2",
+   "tipo": "opcion",
+   "pregunta": "si א = 1, ב = 2 y ג = 3, ¿cuánto vale א + ב + ג?",
+   "opciones": [
+    "3",
+    "6",
+    "12",
+    "123"
+   ],
+   "correcta": 1,
+   "explica": "1 + 2 + 3 = 6. En gematria los valores se suman."
+  },
+  {
+   "id": "e2-3",
+   "tipo": "leer",
+   "pregunta": "En la palabra יוֹם, ¿qué letra lees primero?",
+   "opciones": [
+    "י (yod)",
+    "ו (vav)",
+    "ם (mem final)"
+   ],
+   "correcta": 0,
+   "explica": "Se lee de derecha a izquierda: primero la yod, luego la vav con jolam, luego la mem final."
+  },
+  {
+   "id": "e2-4",
+   "tipo": "audio",
+   "pregunta": "Escucha אַב. ¿Qué significa?",
+   "opciones": [
+    "padre",
+    "hijo",
+    "día"
+   ],
+   "correcta": 0,
+   "explica": "אַב (av) es 'padre'. La forma más común en el Tanaj es אֲבִי, 'padre de'."
+  },
+  {
+   "id": "e2-5",
+   "tipo": "escribir",
+   "pregunta": "Escribe la letra que suena 'v' sin punto y 'b' con punto.",
+   "respuesta": "ב",
+   "explica": "Es la bet: con dagesh (בּ) suena b; sin punto (ב) suena v."
+  }
+ ],
+ "pasaje": "bereshit/1/1",
+ "html": "<h2>Diez letras, un solo bloque</h2>\n<p>Aprende estas diez letras como un grupo: א ב ג ד ה ו ז ח ט י. Todas tienen el valor de gematria igual a su posición: del 1 al 10.</p>\n<table><tbody>\n<tr><th>Letra</th><th>Nombre</th><th>Sonido</th><th>Gematria</th><th>Nota de trazo</th></tr>\n<tr><td>א</td><td>alef</td><td>(muda)</td><td>1</td><td>dos yod unidas por una diagonal</td></tr>\n<tr><td>ב</td><td>bet</td><td>b / v</td><td>2</td><td>como un techo con base; el punto cambia el sonido</td></tr>\n<tr><td>ג</td><td>guimel</td><td>g</td><td>3</td><td>como una bota con el pie a la izquierda</td></tr>\n<tr><td>ד</td><td>daled</td><td>d</td><td>4</td><td>un ángulo abierto a la izquierda</td></tr>\n<tr><td>ה</td><td>he</td><td>h</td><td>5</td><td>cerrada arriba, abierta abajo</td></tr>\n<tr><td>ו</td><td>vav</td><td>v</td><td>6</td><td>un trazo vertical corto</td></tr>\n<tr><td>ז</td><td>zayin</td><td>z</td><td>7</td><td>vav con un trazo arriba</td></tr>\n<tr><td>ח</td><td>jet</td><td>j gutural</td><td>8</td><td>dos trazos curvos y cerrados arriba</td></tr>\n<tr><td>ט</td><td>tet</td><td>t</td><td>9</td><td>círculo con un trazo que entra</td></tr>\n<tr><td>י</td><td>yod</td><td>y</td><td>10</td><td>el trazo más pequeño del alfabeto</td></tr>\n</tbody></table>\n<h2>Pares que se confunden</h2>\n<ul>\n<li><strong>ב / כ</strong>: la bet tiene un trazo que sobresale por abajo; la kaf no (la verás en la lección 3).</li>\n<li><strong>ה / ח</strong>: la he queda abierta por abajo; la jet está cerrada.</li>\n<li><strong>ו / ז / י</strong>: vav es un trazo recto, zayin lleva un trazo arriba, yod es el más corto.</li>\n</ul>\n<h2>Palabras para leer en voz alta</h2>\n<ul>\n<li>אַב (av) — padre</li>\n<li>יוֹם (yom) — día</li>\n<li>לֵב (lev) — corazón (la verás completa en la lección 4)</li>\n</ul>\n<h2>Consejo de estudio</h2>\n<p>Copia cada letra cinco veces, empezando siempre por el trazo de la derecha. No te detengas a memorizar el orden del alfabeto: lo que necesitas es reconocer la letra cuando la veas dentro de una palabra.</p>",
+ "archivo": "02.md",
+ "items_total": 13,
+ "ejercicios_total": 5
+}

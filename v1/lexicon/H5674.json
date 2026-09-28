@@ -1,0 +1,78 @@
+{
+ "strong": "H5674",
+ "he": "עבר",
+ "xlit": "ʻâbar",
+ "pron": "aw-bar'",
+ "def_en": [
+  "1) to pass over or by or through, alienate, bring, carry, do away, take, take away, transgress",
+  "1a) (Qal)",
+  "1a1) to pass over, cross, cross over, pass over, march over, overflow, go over",
+  "1a2) to pass beyond",
+  "1a3) to pass through, traverse",
+  "1a3a) passers-through (participle)",
+  "1a3b) to pass through (the parts of victim in covenant)",
+  "1a4) to pass along, pass by, overtake and pass, sweep by",
+  "1a4a) passer-by (participle)",
+  "1a4b) to be past, be over",
+  "1a5) to pass on, go on, pass on before, go in advance of, pass along, travel, advance",
+  "1a6) to pass away",
+  "1a6a) to emigrate, leave (one's territory)",
+  "1a6b) to vanish",
+  "1a6c) to perish, cease to exist",
+  "1a6d) to become invalid, become obsolete (of law, decree)",
+  "1a6e) to be alienated, pass into other hands",
+  "1b) (Niphal) to be crossed",
+  "1c) (Piel) to impregnate, cause to cross",
+  "1d) (Hiphil)",
+  "1d1) to cause to pass over, cause to bring over, cause to cross over, make over to, dedicate, devote",
+  "1d2) to cause to pass through",
+  "1d3) to cause to pass by or beyond or under, let pass by",
+  "1d4) to cause to pass away, cause to take away",
+  "1e) (Hithpael) to pass over"
+ ],
+ "kjv": "alienate, alter, [idiom] at all, beyond, bring (over, through), carry over, (over-) come (on, over), conduct (over), convey over, current, deliver, do away, enter, escape, fail, gender, get over, (make) go (away, beyond, by, forth, his way, in, on, over, through), have away (more), lay, meddle, overrun, make partition, (cause to, give, make to, over) pass(-age, along, away, beyond, by, -enger, on, out, over, through), (cause to, make) [phrase] proclaim(-amation), perish, provoke to anger, put away, rage, [phrase] raiser of taxes, remove, send over, set apart, [phrase] shave, cause to (make) sound, [idiom] speedily, [idiom] sweet smelling, take (away), (make to) transgress(-or), translate, turn away, (way-) faring man, be wrath.",
+ "expl": "to cross over; used very widely of any transition (literal or figurative; transitive, intransitive, intensive, causative); specifically, to cover (in copulation)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 562,
+ "formas": [
+  {
+   "forma": "עבר",
+   "forma_he": "עֵ֔בֶר",
+   "n": 75,
+   "ref": "bereshit/10/21"
+  },
+  {
+   "forma": "ויעבר",
+   "forma_he": "וַיַּעֲבֵ֨ר",
+   "n": 52,
+   "ref": "bereshit/8/1"
+  },
+  {
+   "forma": "עברו",
+   "forma_he": "עִבְר֣וּ",
+   "n": 44,
+   "ref": "bereshit/32/17"
+  },
+  {
+   "forma": "עברים",
+   "forma_he": "עִבְרִ֖ים",
+   "n": 29,
+   "ref": "shemot/2/13"
+  },
+  {
+   "forma": "יעבר",
+   "forma_he": "יַעֲבָר",
+   "n": 26,
+   "ref": "bereshit/33/14"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HVqp3ms",
+  "HVqrmpa"
+ ],
+ "glosa_es": "pasar; cruzar"
+}

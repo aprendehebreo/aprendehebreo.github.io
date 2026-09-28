@@ -1,0 +1,64 @@
+{
+ "strong": "H7703",
+ "he": "שדד",
+ "xlit": "shâdad",
+ "pron": "shaw-dad'",
+ "def_en": [
+  "1) to deal violently with, despoil, devastate, ruin, destroy, spoil",
+  "1a) (Qal)",
+  "1a1) to violently destroy, devastate, despoil, assail",
+  "1a2) devastator, despoiler (participle) (subst)",
+  "1b) (Niphal) to be utterly ruined",
+  "1c) (Piel)",
+  "1c1) to assault",
+  "1c2) to devastate",
+  "1d) (Pual) to be devastated",
+  "1e) (Poel) to violently destroy",
+  "1f) (Hophal) to be devastated"
+ ],
+ "kjv": "dead, destroy(-er), oppress, robber, spoil(-er), [idiom] utterly, (lay) waste.",
+ "expl": "properly, to be burly, i.e. (figuratively) powerful (passively, impregnable); by implication, to ravage",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "שדד",
+   "forma_he": "שֻׁדַּ֨ד",
+   "n": 18,
+   "ref": "yeshayahu/15/1"
+  },
+  {
+   "forma": "שודד",
+   "forma_he": "שׁוֹדֵ֑ד",
+   "n": 6,
+   "ref": "yeshayahu/16/4"
+  },
+  {
+   "forma": "שדדה",
+   "forma_he": "שֻׁדְּדָ֖ה",
+   "n": 5,
+   "ref": "yirmiyahu/4/20"
+  },
+  {
+   "forma": "שדוד",
+   "forma_he": "שָׁדֽוּד",
+   "n": 4,
+   "ref": "shoftim/5/27"
+  },
+  {
+   "forma": "שדדנו",
+   "forma_he": "שֻׁדָּֽדְנוּ",
+   "n": 2,
+   "ref": "yirmiyahu/4/13"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HVPp3ms",
+  "HVPp3fs",
+  "HVqsmsa",
+  "HVPp1cp"
+ ],
+ "glosa_es": ""
+}

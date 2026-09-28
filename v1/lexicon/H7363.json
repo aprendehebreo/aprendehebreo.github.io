@@ -1,0 +1,41 @@
+{
+ "strong": "H7363",
+ "he": "רחף",
+ "xlit": "râchaph",
+ "pron": "raw-khaf'",
+ "def_en": [
+  "1) (Qal) to grow soft, relax",
+  "2) (Piel) to hover"
+ ],
+ "kjv": "flutter, move, shake.",
+ "expl": "to brood; by implication, to be relaxed",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 3,
+ "formas": [
+  {
+   "forma": "מרחפת",
+   "forma_he": "מְרַחֶ֖פֶת",
+   "n": 1,
+   "ref": "bereshit/1/2"
+  },
+  {
+   "forma": "ירחף",
+   "forma_he": "יְרַחֵ֑ף",
+   "n": 1,
+   "ref": "devarim/32/11"
+  },
+  {
+   "forma": "רחפו",
+   "forma_he": "רָֽחֲפוּ֙",
+   "n": 1,
+   "ref": "yirmiyahu/23/9"
+  }
+ ],
+ "morph": [
+  "HVprfsa",
+  "HVpi3ms",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

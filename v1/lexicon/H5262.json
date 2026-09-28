@@ -1,0 +1,58 @@
+{
+ "strong": "H5262",
+ "he": "נסך",
+ "xlit": "neçek",
+ "pron": "neh'-sek",
+ "def_en": [
+  "1) drink offering, libation, molten image, something poured out",
+  "1a) drink offering",
+  "1b) molten images"
+ ],
+ "kjv": "cover, drink offering, molten image.",
+ "expl": "a libation; also a cast idol",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5258"
+ ],
+ "ocurrencias": 64,
+ "formas": [
+  {
+   "forma": "ונסכיהם",
+   "forma_he": "וְנִסְכֵּיהֶ֔ם",
+   "n": 15,
+   "ref": "vayikra/23/18"
+  },
+  {
+   "forma": "ונסכה",
+   "forma_he": "וְנִסְכֹּ֥ה",
+   "n": 8,
+   "ref": "vayikra/23/13"
+  },
+  {
+   "forma": "נסכים",
+   "forma_he": "נְסָכִים֙",
+   "n": 8,
+   "ref": "yirmiyahu/7/18"
+  },
+  {
+   "forma": "ונסך",
+   "forma_he": "וְנֵ֕סֶךְ",
+   "n": 5,
+   "ref": "shemot/29/40"
+  },
+  {
+   "forma": "ונסכו",
+   "forma_he": "וְנִסְכּ֖וֹ",
+   "n": 5,
+   "ref": "bamidbar/15/24"
+  }
+ ],
+ "morph": [
+  "HC/Ncmpc/Sp3mp",
+  "HNcmpa",
+  "HC/Ncmsc/Sp3fs",
+  "HC/Ncmsc/Sp3ms",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

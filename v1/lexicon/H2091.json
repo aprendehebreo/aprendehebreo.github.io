@@ -1,0 +1,57 @@
+{
+ "strong": "H2091",
+ "he": "זהב",
+ "xlit": "zâhâb",
+ "pron": "zaw-hawb'",
+ "def_en": [
+  "1) gold",
+  "1a) as precious metal",
+  "1b) as a measure of weight",
+  "1c) of brilliance, splendour (fig.)"
+ ],
+ "kjv": "gold(-en), fair weather.",
+ "expl": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky",
+ "etim": "from an unused root meaning to shimmer;",
+ "raices": [],
+ "ocurrencias": 389,
+ "formas": [
+  {
+   "forma": "זהב",
+   "forma_he": "זָהָ֔ב",
+   "n": 242,
+   "ref": "bereshit/24/22"
+  },
+  {
+   "forma": "הזהב",
+   "forma_he": "הַזָּהָֽב",
+   "n": 60,
+   "ref": "bereshit/2/11"
+  },
+  {
+   "forma": "וזהב",
+   "forma_he": "וּֽזֲהַ֛ב",
+   "n": 31,
+   "ref": "bereshit/2/12"
+  },
+  {
+   "forma": "לזהב",
+   "forma_he": "לַזָּהָ֖ב",
+   "n": 11,
+   "ref": "mlakhim_a/22/49"
+  },
+  {
+   "forma": "והזהב",
+   "forma_he": "וְהַזָּהָ֗ב",
+   "n": 9,
+   "ref": "yehoshua/6/24"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HC/Ncmsa",
+  "HRd/Ncmsa",
+  "HC/Td/Ncmsa"
+ ],
+ "glosa_es": "oro"
+}

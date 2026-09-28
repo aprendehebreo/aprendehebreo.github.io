@@ -1,0 +1,62 @@
+{
+ "strong": "H3588",
+ "he": "כי",
+ "xlit": "kîy",
+ "pron": "kee",
+ "def_en": [
+  "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since",
+  "1a) that",
+  "1a1) yea, indeed",
+  "1b) when (of time)",
+  "1b1) when, if, though (with a concessive force)",
+  "1c) because, since (causal connection)",
+  "1d) but (after negative)",
+  "1e) that if, for if, indeed if, for though, but if",
+  "1f) but rather, but",
+  "1g) except that",
+  "1h) only, nevertheless",
+  "1i) surely",
+  "1j) that is",
+  "1k) but if",
+  "1l) for though",
+  "1m) forasmuch as, for therefore"
+ ],
+ "kjv": "and, + (forasmuch, inasmuch, where-) as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al-) though, + till, truly, + until, when, whether, while, whom, yea, yet.",
+ "expl": "(by implication) very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed",
+ "etim": "a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent;",
+ "raices": [],
+ "ocurrencias": 4488,
+ "formas": [
+  {
+   "forma": "כי",
+   "forma_he": "כִּי",
+   "n": 4376,
+   "ref": "bereshit/1/4"
+  },
+  {
+   "forma": "וכי",
+   "forma_he": "וְכִ֧י",
+   "n": 106,
+   "ref": "bereshit/3/6"
+  },
+  {
+   "forma": "הכי",
+   "forma_he": "הֲכִי֩",
+   "n": 5,
+   "ref": "bereshit/27/36"
+  },
+  {
+   "forma": "לכי",
+   "forma_he": "לֵ֑כִי",
+   "n": 1,
+   "ref": "shemot/2/8"
+  }
+ ],
+ "morph": [
+  "HC",
+  "HC/C",
+  "HTi/C",
+  "HR/Sp2fs"
+ ],
+ "glosa_es": "porque; pues; que"
+}

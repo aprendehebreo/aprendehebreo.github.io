@@ -1,0 +1,60 @@
+{
+ "strong": "H2389",
+ "he": "חזק",
+ "xlit": "châzâq",
+ "pron": "khaw-zawk'",
+ "def_en": [
+  "1) strong, stout, mighty",
+  "1a) strong",
+  "1a1) severe, sharp, hot",
+  "1a2) firm, hard",
+  "1b) a strong one (subst)"
+ ],
+ "kjv": "harder, hottest, [phrase] impudent, loud, mighty, sore, stiff(-hearted), strong(-er).",
+ "expl": "strong (usu. in a bad sense, hard, bold, violent)",
+ "etim": "from ;",
+ "raices": [
+  "H2388"
+ ],
+ "ocurrencias": 56,
+ "formas": [
+  {
+   "forma": "חזקה",
+   "forma_he": "חֲזָקָֽה",
+   "n": 21,
+   "ref": "shemot/3/19"
+  },
+  {
+   "forma": "חזק",
+   "forma_he": "חָזַ֥ק",
+   "n": 14,
+   "ref": "bereshit/41/57"
+  },
+  {
+   "forma": "החזקה",
+   "forma_he": "הַחֲזָקָ֑ה",
+   "n": 10,
+   "ref": "devarim/3/24"
+  },
+  {
+   "forma": "חזקים",
+   "forma_he": "חֲזָקִ֥ים",
+   "n": 3,
+   "ref": "shoftim/18/26"
+  },
+  {
+   "forma": "וחזק",
+   "forma_he": "וְחָזֵ֣ק",
+   "n": 2,
+   "ref": "shemot/19/19"
+  }
+ ],
+ "morph": [
+  "HAafsa",
+  "HAamsa",
+  "HTd/Aafsa",
+  "HAampa",
+  "HC/Aamsa"
+ ],
+ "glosa_es": ""
+}

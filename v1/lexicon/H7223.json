@@ -1,0 +1,65 @@
+{
+ "strong": "H7223",
+ "he": "ראשון",
+ "xlit": "riʼshôwn",
+ "pron": "ree-shone'",
+ "def_en": [
+  "adj",
+  "1) first, primary, former",
+  "1a) former (of time)",
+  "1a1) ancestors",
+  "1a2) former things",
+  "1b) foremost (of location)",
+  "1c) first (in time)",
+  "1d) first, chief (in degree)",
+  "adv",
+  "2) first, before, formerly, at first"
+ ],
+ "kjv": "ancestor, (that were) before(-time), beginning, eldest, first, fore(-father) (-most), former (thing), of old time, past.",
+ "expl": "first, in place, time or rank (as adjective or noun)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7221"
+ ],
+ "ocurrencias": 182,
+ "formas": [
+  {
+   "forma": "הראשון",
+   "forma_he": "הָרִאשׁוֹן֙",
+   "n": 62,
+   "ref": "bereshit/25/25"
+  },
+  {
+   "forma": "הראשנים",
+   "forma_he": "הָרִאשֹׁנִ֖ים",
+   "n": 29,
+   "ref": "shemot/34/1"
+  },
+  {
+   "forma": "בראשנה",
+   "forma_he": "בָּרִאשֹׁנָ֑ה",
+   "n": 15,
+   "ref": "bereshit/13/4"
+  },
+  {
+   "forma": "בראשונה",
+   "forma_he": "בָרִֽאשׁוֹנָ֖ה",
+   "n": 8,
+   "ref": "devarim/13/10"
+  },
+  {
+   "forma": "בראשון",
+   "forma_he": "בָּֽרִאשׁוֹן֙",
+   "n": 7,
+   "ref": "bereshit/8/13"
+  }
+ ],
+ "morph": [
+  "HTd/Aomsa",
+  "HTd/Aampa",
+  "HRd/Aafsa",
+  "HTd/Aamsa",
+  "HRd/Aamsa"
+ ],
+ "glosa_es": "primero; anterior"
+}

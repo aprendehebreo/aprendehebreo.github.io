@@ -1,0 +1,57 @@
+{
+ "strong": "H3327",
+ "he": "יצחק",
+ "xlit": "Yitschâq",
+ "pron": "yits-khawk'",
+ "def_en": [
+  "Isaac = \"he laughs\"",
+  "1) son of Abraham by Sarah his wife and father of Jacob and Esau"
+ ],
+ "kjv": "Isaac. Compare .",
+ "expl": "Jitschak (or Isaac), son of Abraham",
+ "etim": "from ; laughter (i.e. mochery);",
+ "raices": [
+  "H6711",
+  "H3446"
+ ],
+ "ocurrencias": 108,
+ "formas": [
+  {
+   "forma": "יצחק",
+   "forma_he": "יִצְחָ֑ק",
+   "n": 81,
+   "ref": "bereshit/17/19"
+  },
+  {
+   "forma": "ליצחק",
+   "forma_he": "לְיִצְחָֽק",
+   "n": 20,
+   "ref": "bereshit/24/4"
+  },
+  {
+   "forma": "ויצחק",
+   "forma_he": "וַיִּצְחָ֑ק",
+   "n": 5,
+   "ref": "bereshit/17/17"
+  },
+  {
+   "forma": "ביצחק",
+   "forma_he": "בְיִצְחָ֔ק",
+   "n": 1,
+   "ref": "bereshit/21/12"
+  },
+  {
+   "forma": "וליצחק",
+   "forma_he": "וּלְיִצְחָ֖ק",
+   "n": 1,
+   "ref": "bereshit/35/12"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

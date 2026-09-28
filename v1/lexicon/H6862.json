@@ -1,0 +1,60 @@
+{
+ "strong": "H6862",
+ "he": "צר",
+ "xlit": "tsar",
+ "pron": "tsar",
+ "def_en": [
+  "1) narrow, tight",
+  "2) straits, distress",
+  "3) adversary, foe, enemy, oppressor",
+  "4) hard pebble, flint"
+ ],
+ "kjv": "adversary, afflicted(-tion), anguish, close, distress, enemy, flint, foe, narrow, small, sorrow, strait, tribulation, trouble.",
+ "expl": "narrow; (as a noun) a tight place (usually figuratively, i.e. trouble); also a pebble ; (transitive) an opponent (as crowding)",
+ "etim": "or ; from ; compare as in",
+ "raices": [
+  "H6887",
+  "H6864"
+ ],
+ "ocurrencias": 110,
+ "formas": [
+  {
+   "forma": "צר",
+   "forma_he": "צֹ֗ר",
+   "n": 32,
+   "ref": "shemot/4/25"
+  },
+  {
+   "forma": "בצר",
+   "forma_he": "בַּצַּ֣ר",
+   "n": 15,
+   "ref": "devarim/4/30"
+  },
+  {
+   "forma": "צרי",
+   "forma_he": "צֳרִי֙",
+   "n": 10,
+   "ref": "bereshit/43/11"
+  },
+  {
+   "forma": "צריך",
+   "forma_he": "צָרֶ֖יךָ",
+   "n": 7,
+   "ref": "bereshit/14/20"
+  },
+  {
+   "forma": "צריו",
+   "forma_he": "צָרָ֗יו",
+   "n": 6,
+   "ref": "bamidbar/24/8"
+  }
+ ],
+ "morph": [
+  "HRd/Aamsa",
+  "HAamsa",
+  "HNcmsa",
+  "HR/Ncmpc/Sp3ms",
+  "HNcmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

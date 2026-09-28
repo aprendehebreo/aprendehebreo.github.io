@@ -1,0 +1,74 @@
+{
+ "strong": "H5375",
+ "he": "נשא",
+ "xlit": "nâsâʼ",
+ "pron": "naw-saw'",
+ "def_en": [
+  "1) to lift, bear up, carry, take",
+  "1a) (Qal)",
+  "1a1) to lift, lift up",
+  "1a2) to bear, carry, support, sustain, endure",
+  "1a3) to take, take away, carry off, forgive",
+  "1b) (Niphal)",
+  "1b1) to be lifted up, be exalted",
+  "1b2) to lift oneself up, rise up",
+  "1b3) to be borne, be carried",
+  "1b4) to be taken away, be carried off, be swept away",
+  "1c) (Piel)",
+  "1c1) to lift up, exalt, support, aid, assist",
+  "1c2) to desire, long (fig.)",
+  "1c3) to carry, bear continuously",
+  "1c4) to take, take away",
+  "1d) (Hithpael) to lift oneself up, exalt oneself",
+  "1e) (Hiphil)",
+  "1e1) to cause one to bear (iniquity)",
+  "1e2) to cause to bring, have brought"
+ ],
+ "kjv": "accept, advance, arise, (able to, (armor), suffer to) bear(-er, up), bring (forth), burn, carry (away), cast, contain, desire, ease, exact, exalt (self), extol, fetch, forgive, furnish, further, give, go on, help, high, hold up, honorable ([phrase] man), lade, lay, lift (self) up, lofty, marry, magnify, [idiom] needs, obtain, pardon, raise (up), receive, regard, respect, set (up), spare, stir up, [phrase] swear, take (away, up), [idiom] utterly, wear, yield.",
+ "expl": "to lift, in a great variety of applications, literal and figurative, absolute and relative",
+ "etim": "or ; (Psalm 4:6 ()), a primitive root;",
+ "raices": [
+  "H7"
+ ],
+ "ocurrencias": 654,
+ "formas": [
+  {
+   "forma": "נשא",
+   "forma_he": "נָשָׂ֥א",
+   "n": 71,
+   "ref": "bereshit/13/6"
+  },
+  {
+   "forma": "וישאו",
+   "forma_he": "וַיִּשְׂאוּ֙",
+   "n": 43,
+   "ref": "bereshit/7/17"
+  },
+  {
+   "forma": "וישא",
+   "forma_he": "וַיִּשָּׂא",
+   "n": 42,
+   "ref": "bereshit/13/10"
+  },
+  {
+   "forma": "ישא",
+   "forma_he": "יִשָּׂ֥א",
+   "n": 37,
+   "ref": "bereshit/32/21"
+  },
+  {
+   "forma": "ונשא",
+   "forma_he": "וְנִשָּׂא",
+   "n": 37,
+   "ref": "shemot/25/28"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3mp",
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HR/Vqc",
+  "HVqrmpc"
+ ],
+ "glosa_es": "levantar; cargar; perdonar"
+}

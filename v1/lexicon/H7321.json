@@ -1,0 +1,66 @@
+{
+ "strong": "H7321",
+ "he": "רוע",
+ "xlit": "rûwaʻ",
+ "pron": "roo-ah'",
+ "def_en": [
+  "1) to shout, raise a sound, cry out, give a blast",
+  "1a) (Hiphil)",
+  "1a1) to shout a war-cry or alarm of battle",
+  "1a2) to sound a signal for war or march",
+  "1a3) to shout in triumph (over enemies)",
+  "1a4) to shout in applause",
+  "1a5) to shout (with religious impulse)",
+  "1a6) to cry out in distress",
+  "1b) (Polal) to utter a shout",
+  "1c) (Hithpolel)",
+  "1c1) to shout in triumph",
+  "1c2) to shout for joy",
+  "2) (Niphal) destroyed"
+ ],
+ "kjv": "blow an alarm, cry (alarm, aloud, out), destroy, make a joyful noise, smart, shout (for joy), sound an alarm, triumph.",
+ "expl": "to mar (especially by breaking); figuratively, to split the ears (with sound), i.e. shout (for alarm or joy)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "הריעו",
+   "forma_he": "הָרִ֖יעוּ",
+   "n": 14,
+   "ref": "yehoshua/6/10"
+  },
+  {
+   "forma": "ויריעו",
+   "forma_he": "וַיָּרִ֤יעוּ",
+   "n": 4,
+   "ref": "yehoshua/6/20"
+  },
+  {
+   "forma": "יריעו",
+   "forma_he": "יָרִ֥יעוּ",
+   "n": 3,
+   "ref": "yehoshua/6/5"
+  },
+  {
+   "forma": "וירעו",
+   "forma_he": "וַיָּרֵ֥עוּ",
+   "n": 3,
+   "ref": "bamidbar/20/15"
+  },
+  {
+   "forma": "תריעו",
+   "forma_he": "תָרִֽיעוּ",
+   "n": 2,
+   "ref": "bamidbar/10/7"
+  }
+ ],
+ "morph": [
+  "HVhv2mp",
+  "HC/Vhw3mp",
+  "HVhi3mp",
+  "HVhi2mp",
+  "HC/Vhq2mp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,35 @@
+{
+ "strong": "H587",
+ "he": "אנחנו",
+ "xlit": "ʼănachnûw",
+ "pron": "an-akh'-noo",
+ "def_en": [
+  "1) we (first pers. pl. -usually used for emphasis)"
+ ],
+ "kjv": "ourselves, us, we.",
+ "expl": "we",
+ "etim": "apparently from ;",
+ "raices": [
+  "H595"
+ ],
+ "ocurrencias": 121,
+ "formas": [
+  {
+   "forma": "אנחנו",
+   "forma_he": "אֲנָֽחְנוּ",
+   "n": 90,
+   "ref": "bereshit/13/8"
+  },
+  {
+   "forma": "ואנחנו",
+   "forma_he": "וַאֲנַ֣חְנוּ",
+   "n": 31,
+   "ref": "shemot/10/26"
+  }
+ ],
+ "morph": [
+  "HPp1cp",
+  "HC/Pp1cp"
+ ],
+ "glosa_es": ""
+}

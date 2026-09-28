@@ -1,0 +1,60 @@
+{
+ "strong": "H7225",
+ "he": "ראשית",
+ "xlit": "rêʼshîyth",
+ "pron": "ray-sheeth'",
+ "def_en": [
+  "1) first, beginning, best, chief",
+  "1a) beginning",
+  "1b) first",
+  "1c) chief",
+  "1d) choice part"
+ ],
+ "kjv": "beginning, chief(-est), first(-fruits, part, time), principal thing.",
+ "expl": "the first, in place, time, order or rank (specifically, a firstfruit)",
+ "etim": "from the same as ;",
+ "raices": [
+  "H7218"
+ ],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "ראשית",
+   "forma_he": "רֵאשִׁ֤ית",
+   "n": 28,
+   "ref": "bereshit/10/10"
+  },
+  {
+   "forma": "וראשית",
+   "forma_he": "וְרֵאשִׁ֣ית",
+   "n": 6,
+   "ref": "bereshit/49/3"
+  },
+  {
+   "forma": "בראשית",
+   "forma_he": "בְּרֵאשִׁ֖ית",
+   "n": 5,
+   "ref": "bereshit/1/1"
+  },
+  {
+   "forma": "מראשית",
+   "forma_he": "מֵרֵאשִׁית֙",
+   "n": 4,
+   "ref": "bamidbar/15/21"
+  },
+  {
+   "forma": "ראשיתם",
+   "forma_he": "רֵאשִׁיתָ֛ם",
+   "n": 1,
+   "ref": "bamidbar/18/12"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HR/Ncfsc",
+  "HC/Ncfsc",
+  "HNcfsa",
+  "HR/Ncfsa"
+ ],
+ "glosa_es": ""
+}

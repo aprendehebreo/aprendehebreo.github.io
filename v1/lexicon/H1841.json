@@ -1,0 +1,58 @@
+{
+ "strong": "H1841",
+ "he": "דניאל",
+ "xlit": "Dânîyêʼl",
+ "pron": "daw-nee-yale'",
+ "def_en": [
+  "Daniel = \"God is my judge\"",
+  "1) the 4th of the greater prophets, taken as hostage in the first deportation to Babylon, because of the gift of God of the interpretation of dreams, he became the 2nd in command of the Babylon empire and lasted through the end of the Babylonian empire and into the Persian empire. His prophecies are the key to the understanding of end time events. Noted for his purity and holiness by contemporary prophet, Ezekiel",
+  "1a) also, 'Belteshazzar' ( H01095 or H01096)"
+ ],
+ "kjv": "Daniel.",
+ "expl": "Danijel, the Hebrew prophet",
+ "etim": "(Aramaic) corresponding to ;",
+ "raices": [
+  "H1840"
+ ],
+ "ocurrencias": 52,
+ "formas": [
+  {
+   "forma": "דניאל",
+   "forma_he": "דָּנִיֵּ֣אל",
+   "n": 27,
+   "ref": "yechezkel/14/14"
+  },
+  {
+   "forma": "לדניאל",
+   "forma_he": "לְדָֽנִיֵּ֜אל",
+   "n": 16,
+   "ref": "daniel/1/7"
+  },
+  {
+   "forma": "ודניאל",
+   "forma_he": "וְדָנִיֵּ֣אל",
+   "n": 5,
+   "ref": "daniel/1/17"
+  },
+  {
+   "forma": "ולדניאל",
+   "forma_he": "וּלְדָנִיֵּ֖אל",
+   "n": 2,
+   "ref": "daniel/2/46"
+  },
+  {
+   "forma": "בדניאל",
+   "forma_he": "בְּדָ֣נִיֵּ֔אל",
+   "n": 2,
+   "ref": "daniel/5/12"
+  }
+ ],
+ "morph": [
+  "ANp",
+  "AR/Np",
+  "AC/Np",
+  "ATo/Np",
+  "AC/R/Np"
+ ],
+ "glosa_es": ""
+}

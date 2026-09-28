@@ -1,0 +1,56 @@
+{
+ "strong": "H4043",
+ "he": "מגן",
+ "xlit": "mâgên",
+ "pron": "maw-gane'",
+ "def_en": [
+  "1) shield, buckler"
+ ],
+ "kjv": "[idiom] armed, buckler, defence, ruler, [phrase] scale, shield.",
+ "expl": "a shield (i.e. the small one or buckler); figuratively, a protector; also the scaly hide of the crocodile",
+ "etim": "also (in plural) feminine ; from ;",
+ "raices": [
+  "H1598"
+ ],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "מגן",
+   "forma_he": "מִגַּן",
+   "n": 27,
+   "ref": "bereshit/3/23"
+  },
+  {
+   "forma": "מגני",
+   "forma_he": "מָגִנִּ֞י",
+   "n": 9,
+   "ref": "shmuel_b/22/3"
+  },
+  {
+   "forma": "ומגן",
+   "forma_he": "וּמָגֵן֙",
+   "n": 5,
+   "ref": "yechezkel/23/24"
+  },
+  {
+   "forma": "מגנים",
+   "forma_he": "מָֽגִנִּים֙",
+   "n": 4,
+   "ref": "mlakhim_a/10/17"
+  },
+  {
+   "forma": "המגן",
+   "forma_he": "הַמָּגֵ֣ן",
+   "n": 3,
+   "ref": "mlakhim_a/10/17"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HNcbsc",
+  "HNcbpc",
+  "HC/Ncbsa",
+  "HNcbsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

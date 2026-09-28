@@ -1,0 +1,67 @@
+{
+ "strong": "H5324",
+ "he": "נצב",
+ "xlit": "nâtsab",
+ "pron": "naw-tsab'",
+ "def_en": [
+  "1) to stand, take one's stand, stand upright, be set (over), establish",
+  "1a) (Niphal)",
+  "1a1) to station oneself, take one's stand",
+  "1a2) to stand, be stationed",
+  "1a3) to stand, take an upright position",
+  "1a4) to be stationed, be appointed",
+  "1a5) deputy, prefect, appointed, deputed (subst)",
+  "1a6) to stand firm",
+  "1b) (Hiphil)",
+  "1b1) to station, set",
+  "1b2) to set up, erect",
+  "1b3) to cause to stand erect",
+  "1b4) to fix, establish",
+  "1c) (Hophal) to be fixed, be determined, be stationary"
+ ],
+ "kjv": "appointed, deputy, erect, establish, [idiom] Huzzah (by mistake for a proper name), lay, officer, pillar, present, rear up, set (over, up), settle, sharpen, establish, (make to) stand(-ing, still, up, upright), best state.",
+ "expl": "to station, in various applications (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 75,
+ "formas": [
+  {
+   "forma": "נצב",
+   "forma_he": "נִצָּ֖ב",
+   "n": 22,
+   "ref": "bereshit/24/13"
+  },
+  {
+   "forma": "נצבים",
+   "forma_he": "נִצָּבִ֖ים",
+   "n": 8,
+   "ref": "bereshit/18/2"
+  },
+  {
+   "forma": "הנצבים",
+   "forma_he": "הַנִּצָּבִים֙",
+   "n": 8,
+   "ref": "bereshit/45/1"
+  },
+  {
+   "forma": "ויצב",
+   "forma_he": "וַיַּצֵּ֣ב",
+   "n": 7,
+   "ref": "bereshit/21/28"
+  },
+  {
+   "forma": "נצבה",
+   "forma_he": "נִצָּ֑בָה",
+   "n": 3,
+   "ref": "bereshit/37/7"
+  }
+ ],
+ "morph": [
+  "HVNrmsa",
+  "HVNrmpa",
+  "HTd/VNrmpa",
+  "HC/Vhw3ms",
+  "HVNp3fs"
+ ],
+ "glosa_es": ""
+}

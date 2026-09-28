@@ -1,0 +1,81 @@
+{
+ "strong": "H5927",
+ "he": "עלה",
+ "xlit": "ʻâlâh",
+ "pron": "aw-law'",
+ "def_en": [
+  "1) to go up, ascend, climb",
+  "1a) (Qal)",
+  "1a1) to go up, ascend",
+  "1a2) to meet, visit, follow, depart, withdraw, retreat",
+  "1a3) to go up, come up (of animals)",
+  "1a4) to spring up, grow, shoot forth (of vegetation)",
+  "1a5) to go up, go up over, rise (of natural phenomenon)",
+  "1a6) to come up (before God)",
+  "1a7) to go up, go up over, extend (of boundary)",
+  "1a8) to excel, be superior to",
+  "1b) (Niphal)",
+  "1b1) to be taken up, be brought up, be taken away",
+  "1b2) to take oneself away",
+  "1b3) to be exalted",
+  "1c) (Hiphil)",
+  "1c1) to bring up, cause to ascend or climb, cause to go up",
+  "1c2) to bring up, bring against, take away",
+  "1c3) to bring up, draw up, train",
+  "1c4) to cause to ascend",
+  "1c5) to rouse, stir up (mentally)",
+  "1c6) to offer, bring up (of gifts)",
+  "1c7) to exalt",
+  "1c8) to cause to ascend, offer",
+  "1d) (Hophal)",
+  "1d1) to be carried away, be led up",
+  "1d2) to be taken up into, be inserted in",
+  "1d3) to be offered",
+  "1e) (Hithpael) to lift oneself"
+ ],
+ "kjv": "arise (up), (cause to) ascend up, at once, break (the day) (up), bring (up), (cause to) burn, carry up, cast up, [phrase] shew, climb (up), (cause to, make to) come (up), cut off, dawn, depart, exalt, excel, fall, fetch up, get up, (make to) go (away, up); grow (over) increase, lay, leap, levy, lift (self) up, light, (make) up, [idiom] mention, mount up, offer, make to pay, [phrase] perfect, prefer, put (on), raise, recover, restore, (make to) rise (up), scale, set (up), shoot forth (up), (begin to) spring (up), stir up, take away (up), work.",
+ "expl": "to ascend, intransitively (be high) or actively (mount); used in a great variety of senses, primary and secondary, literal and figurative",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 894,
+ "formas": [
+  {
+   "forma": "עלה",
+   "forma_he": "עֲלֵ֣ה",
+   "n": 121,
+   "ref": "bereshit/3/7"
+  },
+  {
+   "forma": "ויעל",
+   "forma_he": "וַיַּ֥עַל",
+   "n": 118,
+   "ref": "bereshit/8/20"
+  },
+  {
+   "forma": "ויעלו",
+   "forma_he": "וַיַּֽעֲל֤וּ",
+   "n": 70,
+   "ref": "bereshit/37/28"
+  },
+  {
+   "forma": "יעלה",
+   "forma_he": "יַֽעֲלֶ֣ה",
+   "n": 56,
+   "ref": "bereshit/2/6"
+  },
+  {
+   "forma": "עלו",
+   "forma_he": "עֻלּ֖וֹ",
+   "n": 38,
+   "ref": "bereshit/27/40"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HVqi3ms",
+  "HC/Vqw3mp",
+  "HR/Vqc"
+ ],
+ "glosa_es": "subir; ascender; ofrecer"
+}

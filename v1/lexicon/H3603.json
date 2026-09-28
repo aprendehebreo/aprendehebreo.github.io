@@ -1,0 +1,59 @@
+{
+ "strong": "H3603",
+ "he": "ככר",
+ "xlit": "kikkâr",
+ "pron": "kik-kawr'",
+ "def_en": [
+  "1) round",
+  "1a) a round district (environs of the Jordan valley)",
+  "1b) a round loaf (of bread)",
+  "1c) a round weight, talent (of gold, silver, bronze, iron)"
+ ],
+ "kjv": "loaf, morsel, piece, plain, talent.",
+ "expl": "a circle, i.e. (by implication) a circumjacent tract or region, especially the Ghor or valley of the Jordan; also a (round) loaf; also a talent (or large [round] coin)",
+ "etim": "from ;",
+ "raices": [
+  "H3769"
+ ],
+ "ocurrencias": 68,
+ "formas": [
+  {
+   "forma": "ככר",
+   "forma_he": "כִּכַּ֣ר",
+   "n": 34,
+   "ref": "bereshit/13/10"
+  },
+  {
+   "forma": "הככר",
+   "forma_he": "הַכִּכָּ֔ר",
+   "n": 11,
+   "ref": "bereshit/13/12"
+  },
+  {
+   "forma": "ככרים",
+   "forma_he": "כִּכָּרָ֑יִם",
+   "n": 9,
+   "ref": "mlakhim_b/5/23"
+  },
+  {
+   "forma": "וככר",
+   "forma_he": "וְכִכַּ֨ר",
+   "n": 4,
+   "ref": "shemot/29/23"
+  },
+  {
+   "forma": "ככרי",
+   "forma_he": "כִּכְּרֵי",
+   "n": 3,
+   "ref": "mlakhim_b/5/5"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HTd/Ncbsa",
+  "HNcbsa",
+  "HNcbpa",
+  "HNcbpc"
+ ],
+ "glosa_es": ""
+}

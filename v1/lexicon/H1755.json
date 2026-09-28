@@ -1,0 +1,60 @@
+{
+ "strong": "H1755",
+ "he": "דור",
+ "xlit": "dôwr",
+ "pron": "dore",
+ "def_en": [
+  "1) period, generation, habitation, dwelling",
+  "1a) period, age, generation (period of time)",
+  "1b) generation (those living during a period)",
+  "1c) generation (characterised by quality, condition, class of men)",
+  "1d) dwelling-place, habitation"
+ ],
+ "kjv": "age, [idiom] evermore, generation, (n-) ever, posterity.",
+ "expl": "properly, a revolution of time, i.e. an age or generation; also a dwelling",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H1752"
+ ],
+ "ocurrencias": 168,
+ "formas": [
+  {
+   "forma": "דור",
+   "forma_he": "דּֽוֹר",
+   "n": 34,
+   "ref": "devarim/7/9"
+  },
+  {
+   "forma": "לדרתיכם",
+   "forma_he": "לְדֹרֹתֵיכֶ֑ם",
+   "n": 27,
+   "ref": "bereshit/17/12"
+  },
+  {
+   "forma": "ודור",
+   "forma_he": "וְד֥וֹר",
+   "n": 16,
+   "ref": "bereshit/15/16"
+  },
+  {
+   "forma": "לדר",
+   "forma_he": "לְדֹ֥ר",
+   "n": 16,
+   "ref": "shemot/3/15"
+  },
+  {
+   "forma": "ודר",
+   "forma_he": "וָ֝דֹ֗ר",
+   "n": 16,
+   "ref": "tehilim/10/6"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsa",
+  "HR/Ncmsa",
+  "HNcmsa",
+  "HR/Ncmpc/Sp2mp",
+  "HR/Ncmpc/Sp3mp"
+ ],
+ "glosa_es": "generación; descendencia"
+}

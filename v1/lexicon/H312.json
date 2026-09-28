@@ -1,0 +1,58 @@
+{
+ "strong": "H312",
+ "he": "אחר",
+ "xlit": "ʼachêr",
+ "pron": "akh-air'",
+ "def_en": [
+  "1) another, other, following",
+  "1a) following, further",
+  "1b) other, different"
+ ],
+ "kjv": "(an-) other man, following, next, strange.",
+ "expl": "properly, hinder; generally, next, other, etc.",
+ "etim": "from ;",
+ "raices": [
+  "H309"
+ ],
+ "ocurrencias": 166,
+ "formas": [
+  {
+   "forma": "אחרים",
+   "forma_he": "אֲחֵרִ֑ים",
+   "n": 76,
+   "ref": "bereshit/8/10"
+  },
+  {
+   "forma": "אחר",
+   "forma_he": "אַחֵ֔ר",
+   "n": 48,
+   "ref": "bereshit/4/25"
+  },
+  {
+   "forma": "אחרת",
+   "forma_he": "אַחֶ֔רֶת",
+   "n": 13,
+   "ref": "bereshit/26/21"
+  },
+  {
+   "forma": "האחרת",
+   "forma_he": "הָאַחֶֽרֶת",
+   "n": 6,
+   "ref": "bereshit/17/21"
+  },
+  {
+   "forma": "אחרות",
+   "forma_he": "אֲחֵרֽוֹת",
+   "n": 5,
+   "ref": "bereshit/29/27"
+  }
+ ],
+ "morph": [
+  "HAampa",
+  "HAamsa",
+  "HAafsa",
+  "HTd/Aafsa",
+  "HAafpa"
+ ],
+ "glosa_es": "otro; ajeno"
+}

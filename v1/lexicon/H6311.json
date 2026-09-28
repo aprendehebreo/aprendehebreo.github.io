@@ -1,0 +1,57 @@
+{
+ "strong": "H6311",
+ "he": "פה",
+ "xlit": "pôh",
+ "pron": "po",
+ "def_en": [
+  "1) here, from here, hither",
+  "1a) here",
+  "1b) hither"
+ ],
+ "kjv": "here, hither, the one (other, this, that) side.",
+ "expl": "this place (French ici), i.e. here or hence",
+ "etim": "or ; (Job 38:11), or ; probably from a primitive inseparable particle 'p' (of demonstrative force) and ;",
+ "raices": [
+  "H1931"
+ ],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "פה",
+   "forma_he": "פֹ֔ה",
+   "n": 45,
+   "ref": "bereshit/19/12"
+  },
+  {
+   "forma": "מפו",
+   "forma_he": "מִפּ֔וֹ",
+   "n": 19,
+   "ref": "yechezkel/40/12"
+  },
+  {
+   "forma": "מפה",
+   "forma_he": "מִפֹּה֙",
+   "n": 11,
+   "ref": "yechezkel/40/10"
+  },
+  {
+   "forma": "ומפו",
+   "forma_he": "וּמִפּֽוֹ",
+   "n": 5,
+   "ref": "yechezkel/40/10"
+  },
+  {
+   "forma": "ופה",
+   "forma_he": "וּ֠פֹה",
+   "n": 1,
+   "ref": "yehoshua/18/8"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HR/D",
+  "HC/R/D",
+  "HC/D"
+ ],
+ "glosa_es": ""
+}

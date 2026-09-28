@@ -1,0 +1,56 @@
+{
+ "strong": "H7133",
+ "he": "קרבן",
+ "xlit": "qorbân",
+ "pron": "kor-bawn'",
+ "def_en": [
+  "1) offering, oblation"
+ ],
+ "kjv": "oblation, that is offered, offering.",
+ "expl": "something brought near the altar, i.e. a sacrificial present",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7126"
+ ],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "קרבנו",
+   "forma_he": "קָרְבָּנוֹ֙",
+   "n": 36,
+   "ref": "vayikra/1/3"
+  },
+  {
+   "forma": "קרבן",
+   "forma_he": "קָרְבָּ֖ן",
+   "n": 29,
+   "ref": "vayikra/1/2"
+  },
+  {
+   "forma": "קרבנם",
+   "forma_he": "קָרְבָּנָ֜ם",
+   "n": 6,
+   "ref": "bamidbar/7/3"
+  },
+  {
+   "forma": "קרבנך",
+   "forma_he": "קָרְבָּנֶ֑ךָ",
+   "n": 3,
+   "ref": "vayikra/2/5"
+  },
+  {
+   "forma": "קרבנכם",
+   "forma_he": "קָרְבַּנְכֶֽם",
+   "n": 1,
+   "ref": "vayikra/1/2"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HNcmsc/Sp3mp",
+  "HNcmsa",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H1391",
+ "he": "גבעון",
+ "xlit": "Gibʻôwn",
+ "pron": "ghib-ohn'",
+ "def_en": [
+  "Gibeon = \"hill city\"",
+  "1) a Levitical city of Benjamin, modern 'el-Jib', which lies 5 miles or 8 km from Jerusalem"
+ ],
+ "kjv": "Gibeon.",
+ "expl": "Gibon, a place in Palestine",
+ "etim": "from the same as ; hilly;",
+ "raices": [
+  "H1387"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "גבעון",
+   "forma_he": "גִבְע֜וֹן",
+   "n": 17,
+   "ref": "yehoshua/9/3"
+  },
+  {
+   "forma": "בגבעון",
+   "forma_he": "בְּגִבְע֑וֹן",
+   "n": 13,
+   "ref": "yehoshua/10/10"
+  },
+  {
+   "forma": "מגבעון",
+   "forma_he": "מִגִּבְעוֹן֙",
+   "n": 3,
+   "ref": "yirmiyahu/28/1"
+  },
+  {
+   "forma": "ובגבעון",
+   "forma_he": "וּבְגִבְע֥וֹן",
+   "n": 2,
+   "ref": "divrei_hayamim_a/8/29"
+  },
+  {
+   "forma": "גבעונה",
+   "forma_he": "גִּבְעֽוֹנָה",
+   "n": 1,
+   "ref": "shmuel_b/2/12"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

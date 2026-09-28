@@ -1,0 +1,62 @@
+{
+ "strong": "H5650",
+ "he": "עבד",
+ "xlit": "ʻebed",
+ "pron": "eh'-bed",
+ "def_en": [
+  "1) slave, servant",
+  "1a) slave, servant, man-servant",
+  "1b) subjects",
+  "1c) servants, worshippers (of God)",
+  "1d) servant (in special sense as prophets, Levites etc)",
+  "1e) servant (of Israel)",
+  "1f) servant (as form of address between equals)"
+ ],
+ "kjv": "[idiom] bondage, bondman, (bond-) servant, (man-) servant.",
+ "expl": "a servant",
+ "etim": "from ;",
+ "raices": [
+  "H5647"
+ ],
+ "ocurrencias": 803,
+ "formas": [
+  {
+   "forma": "עבדך",
+   "forma_he": "עַבְדֶּֽךָ",
+   "n": 143,
+   "ref": "bereshit/18/3"
+  },
+  {
+   "forma": "עבדי",
+   "forma_he": "עַבְדֵ֥י",
+   "n": 140,
+   "ref": "bereshit/21/25"
+  },
+  {
+   "forma": "עבדיו",
+   "forma_he": "עֲבָדָ֔יו",
+   "n": 97,
+   "ref": "bereshit/20/8"
+  },
+  {
+   "forma": "עבד",
+   "forma_he": "עֹבֵ֥ד",
+   "n": 70,
+   "ref": "bereshit/4/2"
+  },
+  {
+   "forma": "עבדיך",
+   "forma_he": "עֲבָדֶ֖יךָ",
+   "n": 67,
+   "ref": "bereshit/42/11"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp2ms",
+  "HNcmpc/Sp3ms",
+  "HNcmpc/Sp2ms",
+  "HNcmpc",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": "siervo; esclavo"
+}

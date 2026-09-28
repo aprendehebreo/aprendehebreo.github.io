@@ -1,0 +1,63 @@
+{
+ "strong": "H3001",
+ "he": "יבש",
+ "xlit": "yâbêsh",
+ "pron": "yaw-bashe'",
+ "def_en": [
+  "1) to make dry, wither, be dry, become dry, be dried up, be withered",
+  "1a) (Qal)",
+  "1a1) to be dry, be dried up, be without moisture",
+  "1a2) to be dried up",
+  "1b) (Piel) to make dry, dry up",
+  "1c) (Hiphil)",
+  "1c1) to dry up, make dry",
+  "1c1a) to dry up (water)",
+  "1c1b) to make dry, wither",
+  "1c1c) to exhibit dryness"
+ ],
+ "kjv": "be ashamed, clean, be confounded, (make) dry (up), (do) shame(-fully), [idiom] utterly, wither (away).",
+ "expl": "to be ashamed, confused or disappointed; also (as failing) to dry up (as water) or wither (as herbage)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 73,
+ "formas": [
+  {
+   "forma": "יבש",
+   "forma_he": "יָבֵ֖שׁ",
+   "n": 10,
+   "ref": "yehoshua/9/5"
+  },
+  {
+   "forma": "תיבש",
+   "forma_he": "תִּיבָ֔שׁ",
+   "n": 7,
+   "ref": "yechezkel/17/9"
+  },
+  {
+   "forma": "הוביש",
+   "forma_he": "הוֹבִ֨ישׁ",
+   "n": 6,
+   "ref": "yehoshua/2/10"
+  },
+  {
+   "forma": "הביש",
+   "forma_he": "הֹבִ֔ישׁ",
+   "n": 6,
+   "ref": "yeshayahu/30/5"
+  },
+  {
+   "forma": "יבשו",
+   "forma_he": "יֵבֹ֔שׁוּ",
+   "n": 5,
+   "ref": "yeshayahu/1/29"
+  }
+ ],
+ "morph": [
+  "HVhp3ms",
+  "HVqp3ms",
+  "HVhp3fs",
+  "HVqi3fs",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

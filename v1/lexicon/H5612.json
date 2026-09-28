@@ -1,0 +1,73 @@
+{
+ "strong": "H5612",
+ "he": "ספר",
+ "xlit": "çêpher",
+ "pron": "say'-fer",
+ "def_en": [
+  "n f",
+  "1) book",
+  "n m",
+  "2) missive, document, writing, book",
+  "2a) missive",
+  "2a1) letter (of instruction), written order, commission, request, written decree",
+  "2b) legal document, certificate of divorce, deed of purchase, indictment, sign",
+  "2c) book, scroll",
+  "2c1) book of prophecies",
+  "2c2) genealogical register",
+  "2c3) law-book",
+  "2c4) book (of poems)",
+  "2c5) book (of kings)",
+  "2c6) books of the canon, scripture",
+  "2c7) record book (of God)",
+  "2d) book-learning, writing",
+  "2d1) be able to read (after verb 'to know')"
+ ],
+ "kjv": "bill, book, evidence, [idiom] learn(-ed) (-ing), letter, register, scroll.",
+ "expl": "properly, writing (the art or a document); by implication, a book",
+ "etim": "or (feminine) ; (Psalm 56:8 ()), from ;",
+ "raices": [
+  "H9",
+  "H5608"
+ ],
+ "ocurrencias": 188,
+ "formas": [
+  {
+   "forma": "ספר",
+   "forma_he": "סֵ֔פֶר",
+   "n": 97,
+   "ref": "bereshit/5/1"
+  },
+  {
+   "forma": "בספר",
+   "forma_he": "בַּסֵּ֔פֶר",
+   "n": 33,
+   "ref": "shemot/17/14"
+  },
+  {
+   "forma": "הספר",
+   "forma_he": "הַסֵּ֔פֶר",
+   "n": 30,
+   "ref": "mlakhim_b/5/6"
+  },
+  {
+   "forma": "ספרים",
+   "forma_he": "סֹפְרִ֑ים",
+   "n": 12,
+   "ref": "mlakhim_a/4/3"
+  },
+  {
+   "forma": "הספרים",
+   "forma_he": "הספרים",
+   "n": 5,
+   "ref": "mlakhim_a/21/8"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": "libro; escrito; carta"
+}

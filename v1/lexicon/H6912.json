@@ -1,0 +1,58 @@
+{
+ "strong": "H6912",
+ "he": "קבר",
+ "xlit": "qâbar",
+ "pron": "kaw-bar'",
+ "def_en": [
+  "1) to bury",
+  "1a) (Qal) to bury",
+  "1b) (Niphal) to be buried",
+  "1c) (Piel) to bury, bury (in masses)",
+  "1d) (Pual) to be buried"
+ ],
+ "kjv": "[idiom] in any wise, bury(-ier).",
+ "expl": "to inter",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 133,
+ "formas": [
+  {
+   "forma": "ויקבר",
+   "forma_he": "וַיִּקָּבֵ֣ר",
+   "n": 29,
+   "ref": "devarim/10/6"
+  },
+  {
+   "forma": "ויקברו",
+   "forma_he": "וַיִּקְבְּר֨וּ",
+   "n": 23,
+   "ref": "bereshit/25/9"
+  },
+  {
+   "forma": "ויקברהו",
+   "forma_he": "וַיִּקְבְּרֻ֥הוּ",
+   "n": 15,
+   "ref": "shmuel_a/25/1"
+  },
+  {
+   "forma": "קברו",
+   "forma_he": "קִבְר֛וֹ",
+   "n": 9,
+   "ref": "bereshit/23/6"
+  },
+  {
+   "forma": "קבר",
+   "forma_he": "קֶ֨בֶר֙",
+   "n": 6,
+   "ref": "bereshit/23/4"
+  }
+ ],
+ "morph": [
+  "HC/VNw3ms",
+  "HC/Vqw3mp",
+  "HC/Vqw3mp/Sp3ms",
+  "HVqp3cp",
+  "HR/Vqc"
+ ],
+ "glosa_es": ""
+}

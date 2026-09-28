@@ -1,0 +1,57 @@
+{
+ "strong": "H7637",
+ "he": "שביעי",
+ "xlit": "shᵉbîyʻîy",
+ "pron": "sheb-ee-ee'",
+ "def_en": [
+  "1) seventh",
+  "1a) ordinal number"
+ ],
+ "kjv": "seventh (time).",
+ "expl": "seventh",
+ "etim": "or ; ordinal from ;",
+ "raices": [
+  "H7657"
+ ],
+ "ocurrencias": 98,
+ "formas": [
+  {
+   "forma": "השביעי",
+   "forma_he": "הַשְּׁבִיעִ֔י",
+   "n": 73,
+   "ref": "bereshit/2/2"
+  },
+  {
+   "forma": "השבעי",
+   "forma_he": "הַשְּׁבִעִֽי",
+   "n": 8,
+   "ref": "shemot/12/15"
+  },
+  {
+   "forma": "השביעית",
+   "forma_he": "הַשְּׁבִיעִ֔ית",
+   "n": 6,
+   "ref": "yehoshua/6/16"
+  },
+  {
+   "forma": "השביעת",
+   "forma_he": "הַשְּׁבִיעִ֔ת",
+   "n": 4,
+   "ref": "vayikra/23/16"
+  },
+  {
+   "forma": "בשביעי",
+   "forma_he": "בַּשְּׁבִיעִ֡י",
+   "n": 2,
+   "ref": "yechezkel/45/25"
+  }
+ ],
+ "morph": [
+  "HTd/Aomsa",
+  "HTd/Aofsa",
+  "HRd/Aomsa",
+  "HC/Rd/Aofsa",
+  "HC/Td/Aofsa"
+ ],
+ "glosa_es": ""
+}

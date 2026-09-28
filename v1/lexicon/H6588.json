@@ -1,0 +1,66 @@
+{
+ "strong": "H6588",
+ "he": "פשע",
+ "xlit": "peshaʻ",
+ "pron": "peh'-shah",
+ "def_en": [
+  "1) transgression, rebellion",
+  "1a1) transgression (against individuals)",
+  "1a2) transgression (nation against nation)",
+  "1a3) transgression (against God)",
+  "1a3a) in general",
+  "1a3b) as recognised by sinner",
+  "1a3c) as God deals with it",
+  "1a3d) as God forgives",
+  "1a4) guilt of transgression",
+  "1a5) punishment for transgression",
+  "1a6) offering for transgression"
+ ],
+ "kjv": "rebellion, sin, transgression, trespass.",
+ "expl": "a revolt (national, moral or religious)",
+ "etim": "from ;",
+ "raices": [
+  "H6586"
+ ],
+ "ocurrencias": 93,
+ "formas": [
+  {
+   "forma": "פשעי",
+   "forma_he": "פִּשְׁעִי֙",
+   "n": 23,
+   "ref": "bereshit/31/36"
+  },
+  {
+   "forma": "פשע",
+   "forma_he": "פֶּ֣שַׁע",
+   "n": 18,
+   "ref": "bereshit/50/17"
+  },
+  {
+   "forma": "פשעיהם",
+   "forma_he": "פִּשְׁעֵיהֶ֖ם",
+   "n": 6,
+   "ref": "vayikra/16/21"
+  },
+  {
+   "forma": "פשעינו",
+   "forma_he": "פְשָׁעֵ֨ינוּ֙",
+   "n": 5,
+   "ref": "yeshayahu/59/12"
+  },
+  {
+   "forma": "בפשע",
+   "forma_he": "בְּפֶ֤שַׁע",
+   "n": 5,
+   "ref": "mikha/1/5"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpc",
+  "HR/Ncmsc",
+  "HNcmpc/Sp1cs",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

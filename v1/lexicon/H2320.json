@@ -1,0 +1,58 @@
+{
+ "strong": "H2320",
+ "he": "חדש",
+ "xlit": "chôdesh",
+ "pron": "kho'-desh",
+ "def_en": [
+  "1) the new moon, month, monthly",
+  "1a) the first day of the month",
+  "1b) the lunar month"
+ ],
+ "kjv": "month(-ly), new moon.",
+ "expl": "the new moon; by implication, a month",
+ "etim": "from ;",
+ "raices": [
+  "H2318"
+ ],
+ "ocurrencias": 283,
+ "formas": [
+  {
+   "forma": "לחדש",
+   "forma_he": "לַחֹ֑דֶשׁ",
+   "n": 99,
+   "ref": "bereshit/7/11"
+  },
+  {
+   "forma": "בחדש",
+   "forma_he": "בַּחֹ֨דֶשׁ֙",
+   "n": 62,
+   "ref": "bereshit/7/11"
+  },
+  {
+   "forma": "חדש",
+   "forma_he": "חֹ֥דֶשׁ",
+   "n": 43,
+   "ref": "bereshit/29/14"
+  },
+  {
+   "forma": "חדשים",
+   "forma_he": "חֳדָשִׁ֗ים",
+   "n": 29,
+   "ref": "bereshit/38/24"
+  },
+  {
+   "forma": "החדש",
+   "forma_he": "הַחֹ֣דֶשׁ",
+   "n": 19,
+   "ref": "bereshit/8/5"
+  }
+ ],
+ "morph": [
+  "HRd/Ncmsa",
+  "HNcmpa",
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc"
+ ],
+ "glosa_es": "mes; luna nueva"
+}

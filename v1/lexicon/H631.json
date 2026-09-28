@@ -1,0 +1,63 @@
+{
+ "strong": "H631",
+ "he": "אסר",
+ "xlit": "ʼâçar",
+ "pron": "aw-sar'",
+ "def_en": [
+  "1) to tie, bind, imprison",
+  "1a) (Qal)",
+  "1a1) to tie, bind",
+  "1a2) to tie, harness",
+  "1a3) to bind (with cords)",
+  "1a4) to gird (rare and late)",
+  "1a5) to begin the battle, make the attack",
+  "1a6) of obligation of oath (figurative)",
+  "1b) (Niphal) to be imprisoned, bound",
+  "1c) (Pual) to be taken prisoner"
+ ],
+ "kjv": "bind, fast, gird, harness, hold, keep, make ready, order, prepare, prison(-er), put in bonds, set in array, tie.",
+ "expl": "to yoke or hitch; by analogy, to fasten in any sense, to join battle",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 73,
+ "formas": [
+  {
+   "forma": "אסרה",
+   "forma_he": "אָסֻֽרָה",
+   "n": 9,
+   "ref": "shemot/3/3"
+  },
+  {
+   "forma": "ויאסרהו",
+   "forma_he": "וַיַּאַסְרֻ֗הוּ",
+   "n": 8,
+   "ref": "shoftim/15/13"
+  },
+  {
+   "forma": "אסור",
+   "forma_he": "אָס֥וּר",
+   "n": 6,
+   "ref": "bereshit/40/3"
+  },
+  {
+   "forma": "ויאסר",
+   "forma_he": "וַיֶּאֱסֹ֥ר",
+   "n": 6,
+   "ref": "bereshit/42/24"
+  },
+  {
+   "forma": "אסורים",
+   "forma_he": "אֲסוּרִ֑ים",
+   "n": 5,
+   "ref": "bereshit/39/20"
+  }
+ ],
+ "morph": [
+  "HVqp3fs",
+  "HC/Vqw3ms",
+  "HC/Vqw3ms/Sp3ms",
+  "HVqsmpa",
+  "HVqsmsa"
+ ],
+ "glosa_es": ""
+}

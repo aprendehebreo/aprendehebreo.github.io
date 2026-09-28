@@ -1,0 +1,58 @@
+{
+ "strong": "H3046",
+ "he": "ידע",
+ "xlit": "yᵉdaʻ",
+ "pron": "yed-ah'",
+ "def_en": [
+  "1) to know",
+  "1a) (P'al) to know",
+  "1b) (Aphel) to let someone know, communicate, inform, cause to know"
+ ],
+ "kjv": "certify, know, make known, teach.",
+ "expl": "{to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)}",
+ "etim": "(Aramaic) corresponding to",
+ "raices": [
+  "H3045"
+ ],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "ידע",
+   "forma_he": "יֹדֵ֣עַ",
+   "n": 5,
+   "ref": "bereshit/3/5"
+  },
+  {
+   "forma": "להודעתני",
+   "forma_he": "לְהוֹדָעֻתַ֛נִי",
+   "n": 4,
+   "ref": "daniel/2/26"
+  },
+  {
+   "forma": "תנדע",
+   "forma_he": "תִּנְדַּֽע",
+   "n": 4,
+   "ref": "daniel/2/30"
+  },
+  {
+   "forma": "ידיע",
+   "forma_he": "יְדִ֥יעַ",
+   "n": 4,
+   "ref": "daniel/3/18"
+  },
+  {
+   "forma": "הודע",
+   "forma_he": "הוֹדַ֤ע",
+   "n": 3,
+   "ref": "vayikra/4/23"
+  }
+ ],
+ "morph": [
+  "AR/Vhc/Sp1cs",
+  "AVqi2ms",
+  "AVhp3ms",
+  "AVhrmpa",
+  "AVqp3ms"
+ ],
+ "glosa_es": ""
+}

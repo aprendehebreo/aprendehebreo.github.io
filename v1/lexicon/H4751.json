@@ -1,0 +1,62 @@
+{
+ "strong": "H4751",
+ "he": "מר",
+ "xlit": "mar",
+ "pron": "mar",
+ "def_en": [
+  "adj",
+  "1) bitter, bitterness",
+  "1a) of water or food",
+  "1b) of harlot's end, end of wickedness, cry (fig.)",
+  "1c) of pain (subst)",
+  "adv",
+  "2) bitterly"
+ ],
+ "kjv": "[phrase] angry, bitter(-ly, -ness), chafed, discontented, [idiom] great, heavy.",
+ "expl": "bitter (literally or figuratively); also (as noun) bitterness, or (adverbially) bitterly",
+ "etim": "or (feminine) ; from ;",
+ "raices": [
+  "H4843"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "מר",
+   "forma_he": "מָר",
+   "n": 15,
+   "ref": "shemot/30/23"
+  },
+  {
+   "forma": "המרים",
+   "forma_he": "הַמָּרִ֖ים",
+   "n": 4,
+   "ref": "bamidbar/5/18"
+  },
+  {
+   "forma": "מרה",
+   "forma_he": "מָרָֽה",
+   "n": 4,
+   "ref": "shemot/15/23"
+  },
+  {
+   "forma": "במר",
+   "forma_he": "בְּמַר",
+   "n": 3,
+   "ref": "yechezkel/27/31"
+  },
+  {
+   "forma": "ומרה",
+   "forma_he": "וּמָרָ֖ה",
+   "n": 2,
+   "ref": "bereshit/27/34"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HTd/Aampa",
+  "HAafsa",
+  "HAamsc",
+  "HR/Aamsc"
+ ],
+ "glosa_es": ""
+}

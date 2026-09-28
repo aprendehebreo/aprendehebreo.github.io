@@ -1,0 +1,61 @@
+{
+ "strong": "H3477",
+ "he": "ישר",
+ "xlit": "yâshâr",
+ "pron": "yaw-shawr'",
+ "def_en": [
+  "1) straight, upright, correct, right",
+  "1a) straight, level",
+  "1b) right, pleasing, correct",
+  "1c) straightforward, just, upright, fitting, proper",
+  "1d) uprightness, righteous, upright",
+  "1e) that which is upright (subst)"
+ ],
+ "kjv": "convenient, equity, Jasher, just, meet(-est), [phrase] pleased well right(-eous), straight, (most) upright(-ly, -ness).",
+ "expl": "straight (literally or figuratively)",
+ "etim": "from ;",
+ "raices": [
+  "H3474"
+ ],
+ "ocurrencias": 119,
+ "formas": [
+  {
+   "forma": "הישר",
+   "forma_he": "הַיָּשָׁ֥ר",
+   "n": 35,
+   "ref": "devarim/6/18"
+  },
+  {
+   "forma": "ישרים",
+   "forma_he": "יְשָׁרִ֔ים",
+   "n": 25,
+   "ref": "bamidbar/23/10"
+  },
+  {
+   "forma": "ישר",
+   "forma_he": "יָשָׁ֣ר",
+   "n": 19,
+   "ref": "shmuel_a/29/6"
+  },
+  {
+   "forma": "וישר",
+   "forma_he": "וְיָשָׁ֖ר",
+   "n": 11,
+   "ref": "devarim/32/4"
+  },
+  {
+   "forma": "ישרי",
+   "forma_he": "יִשְׁרֵי",
+   "n": 6,
+   "ref": "tehilim/7/11"
+  }
+ ],
+ "morph": [
+  "HTd/Aamsa",
+  "HAampa",
+  "HAamsa",
+  "HC/Aamsa",
+  "HAampc"
+ ],
+ "glosa_es": ""
+}

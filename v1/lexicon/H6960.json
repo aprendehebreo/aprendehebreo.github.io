@@ -1,0 +1,61 @@
+{
+ "strong": "H6960",
+ "he": "קוה",
+ "xlit": "qâvâh",
+ "pron": "kaw-vaw'",
+ "def_en": [
+  "1) to wait, look for, hope, expect",
+  "1a) (Qal) waiting (participle)",
+  "1b) (Piel)",
+  "1b1) to wait or look eagerly for",
+  "1b2) to lie in wait for",
+  "1b3) to wait for, linger for",
+  "2) to collect, bind together",
+  "2a) (Niphal) to be collected"
+ ],
+ "kjv": "gather (together), look, patiently, tarry, wait (for, on, upon).",
+ "expl": "to bind together (perhaps by twisting), i.e. collect; (figuratively) to expect",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "קויתי",
+   "forma_he": "קִוִּ֥יתִי",
+   "n": 7,
+   "ref": "bereshit/49/18"
+  },
+  {
+   "forma": "קוה",
+   "forma_he": "קַוֵּ֥ה",
+   "n": 6,
+   "ref": "yirmiyahu/8/15"
+  },
+  {
+   "forma": "יקוו",
+   "forma_he": "יִקָּו֨וּ",
+   "n": 3,
+   "ref": "bereshit/1/9"
+  },
+  {
+   "forma": "קוינו",
+   "forma_he": "קִוִּ֥ינוּ",
+   "n": 3,
+   "ref": "yeshayahu/25/9"
+  },
+  {
+   "forma": "נקוה",
+   "forma_he": "נְקַוֶּ֤ה",
+   "n": 3,
+   "ref": "yeshayahu/59/9"
+  }
+ ],
+ "morph": [
+  "HVpp1cs",
+  "HVpv2ms",
+  "HVpp1cp",
+  "HVpi1cp",
+  "HVpi3ms"
+ ],
+ "glosa_es": ""
+}

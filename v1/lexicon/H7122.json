@@ -1,0 +1,59 @@
+{
+ "strong": "H7122",
+ "he": "קרא",
+ "xlit": "qârâʼ",
+ "pron": "kaw-raw'",
+ "def_en": [
+  "1) to encounter, befall, meet",
+  "1a) (Qal)",
+  "1a1) to meet, encounter",
+  "1a2) to befall (fig)",
+  "1b) (Niphal) to meet, meet unexpectedly",
+  "1c) (Hiphil) to cause to meet"
+ ],
+ "kjv": "befall, (by) chance, (cause to) come (upon), fall out, happen, meet.",
+ "expl": "to encounter, whether accidentally or in a hostile manner",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "לקראת",
+   "forma_he": "לִקְרַ֣את",
+   "n": 12,
+   "ref": "bereshit/15/10"
+  },
+  {
+   "forma": "לקראתו",
+   "forma_he": "לִקְרָאתוֹ֒",
+   "n": 4,
+   "ref": "bereshit/14/17"
+  },
+  {
+   "forma": "נקרא",
+   "forma_he": "נִקְרָ֣א",
+   "n": 3,
+   "ref": "bereshit/24/57"
+  },
+  {
+   "forma": "יקרא",
+   "forma_he": "יִּקְרָא",
+   "n": 2,
+   "ref": "bereshit/2/19"
+  },
+  {
+   "forma": "לקראתי",
+   "forma_he": "לִקְרָאתִ֖י",
+   "n": 2,
+   "ref": "bamidbar/22/34"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HR/Vqc/Sp3ms",
+  "HVNp3ms",
+  "HR/Vqc/Sp1cs",
+  "HVqi3ms/Sp3ms"
+ ],
+ "glosa_es": ""
+}

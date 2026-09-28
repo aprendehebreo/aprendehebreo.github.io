@@ -1,0 +1,59 @@
+{
+ "strong": "H7586",
+ "he": "שאול",
+ "xlit": "Shâʼûwl",
+ "pron": "shaw-ool'",
+ "def_en": [
+  "Saul or Shaul = \"desired\"",
+  "1) a Benjamite, son of Kish, and the 1st king of Israel",
+  "2) an early king of Edom and a successor of Samlah",
+  "3) a son of Simeon",
+  "4) a Levite, son of Uzziah"
+ ],
+ "kjv": "Saul, Shaul.",
+ "expl": "Shaul, the name of an Edomite and two Israelites",
+ "etim": "passive participle of ; asked;",
+ "raices": [
+  "H7592"
+ ],
+ "ocurrencias": 406,
+ "formas": [
+  {
+   "forma": "שאול",
+   "forma_he": "שָׁא֖וּל",
+   "n": 353,
+   "ref": "bereshit/36/37"
+  },
+  {
+   "forma": "ושאול",
+   "forma_he": "וְשָׁא֖וּל",
+   "n": 25,
+   "ref": "bereshit/46/10"
+  },
+  {
+   "forma": "לשאול",
+   "forma_he": "לְשָׁא֕וּל",
+   "n": 25,
+   "ref": "bamidbar/26/13"
+  },
+  {
+   "forma": "ולשאול",
+   "forma_he": "וּלְשָׁא֣וּל",
+   "n": 2,
+   "ref": "shmuel_a/23/13"
+  },
+  {
+   "forma": "משאול",
+   "forma_he": "מִשָּׁא֖וּל",
+   "n": 1,
+   "ref": "shmuel_b/4/8"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Saúl"
+}

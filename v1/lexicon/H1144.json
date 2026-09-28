@@ -1,0 +1,61 @@
+{
+ "strong": "H1144",
+ "he": "בנימין",
+ "xlit": "Binyâmîyn",
+ "pron": "bin-yaw-mene'",
+ "def_en": [
+  "Benjamin = \"son of the right hand\"",
+  "1) Jacob's and Rachel's youngest son, Joseph's full brother",
+  "2) son of Bilhan, great-grandson of Benjamin",
+  "3) a Benjamite, one of the sons of Harim, in the time of Ezra who had taken a strange wife",
+  "4) the tribe descended from Benjamin, the son of Jacob"
+ ],
+ "kjv": "Benjamin.",
+ "expl": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+ "etim": "from and ; son of (the) right hand;",
+ "raices": [
+  "H1121",
+  "H3225"
+ ],
+ "ocurrencias": 167,
+ "formas": [
+  {
+   "forma": "בנימן",
+   "forma_he": "בִּנְיָמִ֣ן",
+   "n": 101,
+   "ref": "bereshit/42/36"
+  },
+  {
+   "forma": "ובנימן",
+   "forma_he": "וּבִנְיָמִֽן",
+   "n": 27,
+   "ref": "bereshit/35/24"
+  },
+  {
+   "forma": "בנימין",
+   "forma_he": "בִנְיָמִֽין",
+   "n": 12,
+   "ref": "bereshit/35/18"
+  },
+  {
+   "forma": "לבנימן",
+   "forma_he": "לְבִ֨נְיָמִ֔ן",
+   "n": 11,
+   "ref": "bamidbar/1/11"
+  },
+  {
+   "forma": "מבנימן",
+   "forma_he": "מִבִּנְיָמִ֔ן",
+   "n": 7,
+   "ref": "shoftim/20/17"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np",
+  "HNcmpc/R"
+ ],
+ "glosa_es": "Benjamín"
+}

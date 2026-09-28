@@ -1,0 +1,60 @@
+{
+ "strong": "H5057",
+ "he": "נגיד",
+ "xlit": "nâgîyd",
+ "pron": "naw-gheed'",
+ "def_en": [
+  "1) leader, ruler, captain, prince",
+  "1a) ruler, prince",
+  "1b) prince-overseer",
+  "1c) ruler (in other capacities)",
+  "1d) princely things"
+ ],
+ "kjv": "captain, chief, excellent thing, (chief) governor, leader, noble, prince, (chief) ruler.",
+ "expl": "a commander (as occupying the front), civil, military or religious; generally (abstractly, plural), honorable themes",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5046"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "נגיד",
+   "forma_he": "נָגִ֛יד",
+   "n": 24,
+   "ref": "shmuel_b/6/21"
+  },
+  {
+   "forma": "לנגיד",
+   "forma_he": "לְנָגִיד֙",
+   "n": 9,
+   "ref": "shmuel_a/9/16"
+  },
+  {
+   "forma": "נגידים",
+   "forma_he": "נְגִידִ֑ים",
+   "n": 4,
+   "ref": "tehilim/76/13"
+  },
+  {
+   "forma": "הנגיד",
+   "forma_he": "הַנָּגִ֣יד",
+   "n": 3,
+   "ref": "divrei_hayamim_a/12/28"
+  },
+  {
+   "forma": "נגד",
+   "forma_he": "נֶ֣גֶד",
+   "n": 1,
+   "ref": "bereshit/31/32"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HNcmsc",
+  "HNcmpa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

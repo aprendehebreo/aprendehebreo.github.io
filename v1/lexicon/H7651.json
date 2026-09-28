@@ -1,0 +1,59 @@
+{
+ "strong": "H7651",
+ "he": "שבע",
+ "xlit": "shebaʻ",
+ "pron": "sheh'-bah",
+ "def_en": [
+  "1) seven (cardinal number)",
+  "1a) as ordinal number",
+  "1b) in combination-17, 700 etc"
+ ],
+ "kjv": "([phrase] by) seven(-fold),-s, (-teen, -teenth), -th, times). Compare .",
+ "expl": "seven (as the sacred full one); also (adverbially) seven times; by implication, a week; by extension, an indefinite number",
+ "etim": "or (masculine) (); from ; a primitive cardinal number;",
+ "raices": [
+  "H7650",
+  "H7658"
+ ],
+ "ocurrencias": 394,
+ "formas": [
+  {
+   "forma": "שבע",
+   "forma_he": "שֶׁ֣בַע",
+   "n": 126,
+   "ref": "bereshit/5/7"
+  },
+  {
+   "forma": "שבעת",
+   "forma_he": "שִׁבְעַ֥ת",
+   "n": 107,
+   "ref": "bereshit/8/10"
+  },
+  {
+   "forma": "שבעה",
+   "forma_he": "שִׁבְעָ֥ה",
+   "n": 58,
+   "ref": "bereshit/7/2"
+  },
+  {
+   "forma": "ושבע",
+   "forma_he": "וּשְׁבַ֥ע",
+   "n": 34,
+   "ref": "bereshit/5/26"
+  },
+  {
+   "forma": "ושבעה",
+   "forma_he": "וְשִׁבְעָֽה",
+   "n": 30,
+   "ref": "bereshit/4/24"
+  }
+ ],
+ "morph": [
+  "HAcfsa",
+  "HAcmsc",
+  "HAcmsa",
+  "HC/Acfsa",
+  "HC/Acmsa"
+ ],
+ "glosa_es": "siete"
+}

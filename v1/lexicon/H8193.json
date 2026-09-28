@@ -1,0 +1,61 @@
+{
+ "strong": "H8193",
+ "he": "שפה",
+ "xlit": "sâphâh",
+ "pron": "saw-faw'",
+ "def_en": [
+  "1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding",
+  "1a) lip (as body part)",
+  "1b) language",
+  "1c) edge, shore, bank (of cup, sea, river, etc)"
+ ],
+ "kjv": "band, bank, binding, border, brim, brink, edge, language, lip, prating, (sea-)shore, side, speech, talk, (vain) words.",
+ "expl": "the lip (as a natural boundary); by implication, language; by analogy, a margin (of a vessel, water, cloth, etc.)",
+ "etim": "or (in dual and plural) ; probably from or through the idea of termination (compare );",
+ "raices": [
+  "H5595",
+  "H8192",
+  "H5490"
+ ],
+ "ocurrencias": 177,
+ "formas": [
+  {
+   "forma": "שפת",
+   "forma_he": "שְׂפַ֥ת",
+   "n": 39,
+   "ref": "bereshit/11/7"
+  },
+  {
+   "forma": "שפתי",
+   "forma_he": "שְׂפָתַ֔י",
+   "n": 36,
+   "ref": "yirmiyahu/17/16"
+  },
+  {
+   "forma": "שפתים",
+   "forma_he": "שְׂפָתָֽיִם",
+   "n": 16,
+   "ref": "shemot/6/12"
+  },
+  {
+   "forma": "שפתיו",
+   "forma_he": "שְׂפָתָ֖יו",
+   "n": 15,
+   "ref": "yeshayahu/11/4"
+  },
+  {
+   "forma": "שפה",
+   "forma_he": "שָׂפָ֣ה",
+   "n": 9,
+   "ref": "bereshit/11/1"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfdc/Sp1cs",
+  "HNcfdc",
+  "HNcfda",
+  "HNcfdc/Sp3ms"
+ ],
+ "glosa_es": "labio; borde; lengua"
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H1581",
+ "he": "גמל",
+ "xlit": "gâmâl",
+ "pron": "gaw-mawl'",
+ "def_en": [
+  "1) camel",
+  "1a) as property, as beast of burden, for riding, forbidden for food"
+ ],
+ "kjv": "camel.",
+ "expl": "a camel",
+ "etim": "apparently from (in the sense of labor or burden-bearing);",
+ "raices": [
+  "H1580"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "גמלים",
+   "forma_he": "גְמַלִּ֜ים",
+   "n": 10,
+   "ref": "bereshit/24/10"
+  },
+  {
+   "forma": "הגמלים",
+   "forma_he": "הַגְּמַלִּ֛ים",
+   "n": 10,
+   "ref": "bereshit/24/11"
+  },
+  {
+   "forma": "וגמלים",
+   "forma_he": "וּגְמַלִּֽים",
+   "n": 6,
+   "ref": "bereshit/12/16"
+  },
+  {
+   "forma": "הגמל",
+   "forma_he": "הִגָּמֵ֥ל",
+   "n": 5,
+   "ref": "bereshit/21/8"
+  },
+  {
+   "forma": "גמליהם",
+   "forma_he": "גְמַלֵּיהֶֽם",
+   "n": 5,
+   "ref": "shoftim/8/21"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HTd/Ncmpa",
+  "HC/Ncmpa",
+  "HTd/Ncmsa",
+  "HNcmpc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

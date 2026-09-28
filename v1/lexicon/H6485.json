@@ -1,0 +1,83 @@
+{
+ "strong": "H6485",
+ "he": "פקד",
+ "xlit": "pâqad",
+ "pron": "paw-kad'",
+ "def_en": [
+  "v",
+  "1) to attend to, muster, number, reckon, visit, punish, appoint, look after, care for",
+  "1a) (Qal)",
+  "1a1) to pay attention to, observe",
+  "1a2) to attend to",
+  "1a3) to seek, look about for",
+  "1a4) to seek in vain, need, miss, lack",
+  "1a5) to visit",
+  "1a6) to visit upon, punish",
+  "1a7) to pass in review, muster, number",
+  "1a8) to appoint, assign, lay upon as a charge, deposit",
+  "1b) (Niphal)",
+  "1b1) to be sought, be needed, be missed, be lacking",
+  "1b2) to be visited",
+  "1b3) to be visited upon",
+  "1b4) to be appointed",
+  "1b5) to be watched over",
+  "1c) (Piel) to muster, call up",
+  "1d) (Pual) to be passed in review, be caused to miss, be called, be called to account",
+  "1e) (Hiphil)",
+  "1e1) to set over, make overseer, appoint an overseer",
+  "1e2) to commit, entrust, commit for care, deposit",
+  "1f) (Hophal)",
+  "1f1) to be visited",
+  "1f2) to be deposited",
+  "1f3) to be made overseer, be entrusted",
+  "1g) (Hithpael) numbered",
+  "1h) (Hothpael) numbered",
+  "n m pl abstr",
+  "2) musterings, expenses"
+ ],
+ "kjv": "appoint, [idiom] at all, avenge, bestow, (appoint to have the, give a) charge, commit, count, deliver to keep, be empty, enjoin, go see, hurt, do judgment, lack, lay up, look, make, [idiom] by any means, miss, number, officer, (make) overseer, have (the) oversight, punish, reckon, (call to) remember(-brance), set (over), sum, [idiom] surely, visit, want.",
+ "expl": "to visit (with friendly or hostile intent); by analogy, to oversee, muster, charge, care for, miss, deposit, etc.",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 304,
+ "formas": [
+  {
+   "forma": "פקד",
+   "forma_he": "פָּקַ֥ד",
+   "n": 37,
+   "ref": "bereshit/21/1"
+  },
+  {
+   "forma": "ויפקד",
+   "forma_he": "וַ֠יִּפְקֹד",
+   "n": 20,
+   "ref": "bereshit/40/4"
+  },
+  {
+   "forma": "ופקדתי",
+   "forma_he": "וּפָקַדְתִּ֥י",
+   "n": 20,
+   "ref": "shemot/32/34"
+  },
+  {
+   "forma": "פקדיהם",
+   "forma_he": "פְּקֻדֵיהֶ֖ם",
+   "n": 20,
+   "ref": "bamidbar/1/21"
+  },
+  {
+   "forma": "יפקד",
+   "forma_he": "יִפְקֹ֣ד",
+   "n": 17,
+   "ref": "bereshit/50/24"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqsmpc/Sp3mp",
+  "HC/Vqq1cs",
+  "HVqsmpc",
+  "HTd/Vqsmpa"
+ ],
+ "glosa_es": "visitar; contar; castigar"
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H4393",
+ "he": "מלא",
+ "xlit": "mᵉlôʼ",
+ "pron": "mel-o'",
+ "def_en": [
+  "1) fulness, that which fills",
+  "1a) fulness, handful",
+  "1b) mass, multitude",
+  "1c) fulness, that which fills, entire contents",
+  "1d) full length, full line"
+ ],
+ "kjv": "[idiom] all along, [idiom] all that is (there-) in, fill, ([idiom] that whereof...was) full, fulness, (hand-) full, multitude.",
+ "expl": "fulness (literally or figuratively)",
+ "etim": "rarely ; or ; (Ezekiel [41:8), from ;",
+ "raices": [
+  "H4390"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "מלא",
+   "forma_he": "מָלֵ֜א",
+   "n": 15,
+   "ref": "bereshit/23/9"
+  },
+  {
+   "forma": "ומלאה",
+   "forma_he": "וּמָלְאָ֥ה",
+   "n": 8,
+   "ref": "vayikra/19/29"
+  },
+  {
+   "forma": "ומלאו",
+   "forma_he": "וּמִלְא֤וּ",
+   "n": 3,
+   "ref": "bereshit/1/22"
+  },
+  {
+   "forma": "ומלואה",
+   "forma_he": "וּמְלוֹאָ֔הּ",
+   "n": 3,
+   "ref": "yirmiyahu/8/16"
+  },
+  {
+   "forma": "מלוא",
+   "forma_he": "מְל֨וֹא",
+   "n": 2,
+   "ref": "vayikra/5/12"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HC/Ncmsc/Sp3fs",
+  "HC/Ncmsc/Sp3ms",
+  "HC/Ncmsc",
+  "HR/Ncmsc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

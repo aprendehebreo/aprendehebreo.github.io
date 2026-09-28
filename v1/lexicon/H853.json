@@ -1,0 +1,56 @@
+{
+ "strong": "H853",
+ "he": "את",
+ "xlit": "ʼêth",
+ "pron": "ayth",
+ "def_en": [
+  "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative"
+ ],
+ "kjv": "(as such unrepresented in English).",
+ "expl": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)",
+ "etim": "apparent contracted from in the demonstrative sense of entity;",
+ "raices": [
+  "H226"
+ ],
+ "ocurrencias": 10979,
+ "formas": [
+  {
+   "forma": "את",
+   "forma_he": "אֵ֥ת",
+   "n": 7054,
+   "ref": "bereshit/1/1"
+  },
+  {
+   "forma": "ואת",
+   "forma_he": "וְאֵ֥ת",
+   "n": 2194,
+   "ref": "bereshit/1/1"
+  },
+  {
+   "forma": "אתו",
+   "forma_he": "אֹת֑וֹ",
+   "n": 440,
+   "ref": "bereshit/1/27"
+  },
+  {
+   "forma": "אתכם",
+   "forma_he": "אִתְּכֶ֑ם",
+   "n": 297,
+   "ref": "bereshit/9/9"
+  },
+  {
+   "forma": "אתם",
+   "forma_he": "אֹתָ֛ם",
+   "n": 284,
+   "ref": "bereshit/1/17"
+  }
+ ],
+ "morph": [
+  "HTo",
+  "HC/To",
+  "HTo/Sp3mp",
+  "HTo/Sp3ms",
+  "HTo/Sp2mp"
+ ],
+ "glosa_es": "(partícula de objeto directo; no se traduce)"
+}

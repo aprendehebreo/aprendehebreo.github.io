@@ -1,0 +1,59 @@
+{
+ "strong": "H7626",
+ "he": "שבט",
+ "xlit": "shêbeṭ",
+ "pron": "shay'-bet",
+ "def_en": [
+  "1) rod, staff, branch, offshoot, club, sceptre, tribe",
+  "1a) rod, staff",
+  "1b) shaft (of spear, dart)",
+  "1c) club (of shepherd's implement)",
+  "1d) truncheon, sceptre (mark of authority)",
+  "1e) clan, tribe"
+ ],
+ "kjv": "[idiom] correction, dart, rod, sceptre, staff, tribe.",
+ "expl": "a scion, i.e. (literally) a stick (for punishing, writing, fighting, ruling, walking, etc.) or (figuratively) a clan",
+ "etim": "from an unused root probably meaning to branch off;",
+ "raices": [],
+ "ocurrencias": 190,
+ "formas": [
+  {
+   "forma": "שבט",
+   "forma_he": "שֵׁ֨בֶט֙",
+   "n": 62,
+   "ref": "bereshit/49/10"
+  },
+  {
+   "forma": "שבטי",
+   "forma_he": "שִׁבְטֵ֥י",
+   "n": 49,
+   "ref": "bereshit/49/16"
+  },
+  {
+   "forma": "בשבט",
+   "forma_he": "בַּשֵּׁ֔בֶט",
+   "n": 16,
+   "ref": "shemot/21/20"
+  },
+  {
+   "forma": "לשבט",
+   "forma_he": "לַשָּֽׁבֶט",
+   "n": 7,
+   "ref": "devarim/1/23"
+  },
+  {
+   "forma": "השבטים",
+   "forma_he": "הַשְּׁבָטִ֑ים",
+   "n": 7,
+   "ref": "yehoshua/13/7"
+  }
+ ],
+ "morph": [
+  "HNcmpc",
+  "HNcmsc",
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HR/Ncmpc"
+ ],
+ "glosa_es": "vara; cetro; tribu"
+}

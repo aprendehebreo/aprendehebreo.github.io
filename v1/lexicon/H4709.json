@@ -1,0 +1,61 @@
+{
+ "strong": "H4709",
+ "he": "מצפה",
+ "xlit": "Mitspâh",
+ "pron": "mits-paw'",
+ "def_en": [
+  "Mizpah = \"watchtower\"",
+  "1) a place in Gilead north of Jabbok and location of Laban's cairn",
+  "2) a place in Gilead south of Jabbok; site unknown",
+  "3) a place near Mount Hermon",
+  "4) an old sacred place in Benjamin"
+ ],
+ "kjv": "Mitspah. (This seems rather to be only an orthographic variation of when 'in pause'.)",
+ "expl": "Mitspah, the name of two places in Palestine",
+ "etim": "feminine of ;",
+ "raices": [
+  "H4708",
+  "H4708"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "המצפה",
+   "forma_he": "הַמִּצְפָּֽה",
+   "n": 17,
+   "ref": "yehoshua/11/3"
+  },
+  {
+   "forma": "במצפה",
+   "forma_he": "בַּמִּצְפָּֽה",
+   "n": 11,
+   "ref": "shoftim/10/17"
+  },
+  {
+   "forma": "המצפתה",
+   "forma_he": "הַמִּצְפָּ֑תָה",
+   "n": 4,
+   "ref": "shmuel_a/7/5"
+  },
+  {
+   "forma": "והמצפה",
+   "forma_he": "וְהַמִּצְפָּה֙",
+   "n": 3,
+   "ref": "bereshit/31/49"
+  },
+  {
+   "forma": "למצפה",
+   "forma_he": "לְמִצְפָּ֔ה",
+   "n": 1,
+   "ref": "hoshea/5/1"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HRd/Np",
+  "HTd/Np/Sd",
+  "HC/Td/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

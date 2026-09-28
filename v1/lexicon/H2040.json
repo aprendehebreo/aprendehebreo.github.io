@@ -1,0 +1,62 @@
+{
+ "strong": "H2040",
+ "he": "הרס",
+ "xlit": "hâraç",
+ "pron": "haw-ras'",
+ "def_en": [
+  "1) to tear down, break down, overthrow, beat down, break, break through, destroy, pluck down, pull down, throw down, ruined, destroyer, utterly",
+  "1a) (Qal)",
+  "1a1) to throw down, tear down",
+  "1a2) to break through",
+  "1a3) to break down, break away",
+  "1b) (Niphal) to be torn down, be thrown down",
+  "1c) (Piel)",
+  "1c1) to overthrow, tear down",
+  "1c2) destroyer (participle)"
+ ],
+ "kjv": "beat down, break (down, through), destroy, overthrow, pluck down, pull down, ruin, throw down, [idiom] utterly.",
+ "expl": "to pull down or in pieces, break, destroy",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "הרס",
+   "forma_he": "הָרֵס֙",
+   "n": 6,
+   "ref": "shemot/23/24"
+  },
+  {
+   "forma": "יהרסו",
+   "forma_he": "יֶהֶרְס֤וּ",
+   "n": 3,
+   "ref": "shemot/19/21"
+  },
+  {
+   "forma": "והרסו",
+   "forma_he": "וְהָרְס֤וּ",
+   "n": 3,
+   "ref": "yechezkel/16/39"
+  },
+  {
+   "forma": "תהרס",
+   "forma_he": "תַּהֲרֹ֣ס",
+   "n": 2,
+   "ref": "shemot/15/7"
+  },
+  {
+   "forma": "הרסו",
+   "forma_he": "הָרָ֔סוּ",
+   "n": 2,
+   "ref": "mlakhim_a/19/10"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqi1cs",
+  "HC/Vqq3cp",
+  "HVqi3mp",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

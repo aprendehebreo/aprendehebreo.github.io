@@ -1,0 +1,62 @@
+{
+ "strong": "H2729",
+ "he": "חרד",
+ "xlit": "chârad",
+ "pron": "khaw-rad'",
+ "def_en": [
+  "1) to tremble, quake, move about, be afraid, be startled, be terrified",
+  "1a) (Qal)",
+  "1a1) to tremble, quake (of a mountain)",
+  "1a2) to tremble (of people)",
+  "1a3) to be anxiously careful",
+  "1a4) to go or come trembling (with prep)",
+  "1b) (Hiphil)",
+  "1b1) to cause to tremble",
+  "1b2) to drive in terror, rout (an army)"
+ ],
+ "kjv": "be (make) afraid, be careful, discomfit, fray (away), quake, tremble.",
+ "expl": "to shudder with terror; hence, to fear; also to hasten (with anxiety)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "מחריד",
+   "forma_he": "מַחֲרִ֑יד",
+   "n": 12,
+   "ref": "vayikra/26/6"
+  },
+  {
+   "forma": "ויחרד",
+   "forma_he": "וַיֶּחֱרַ֨ד",
+   "n": 6,
+   "ref": "bereshit/27/33"
+  },
+  {
+   "forma": "ויחרדו",
+   "forma_he": "וַיֶּֽחֶרְד֞וּ",
+   "n": 4,
+   "ref": "bereshit/42/28"
+  },
+  {
+   "forma": "יחרדו",
+   "forma_he": "יֶחֱרָ֑דוּ",
+   "n": 4,
+   "ref": "yeshayahu/41/5"
+  },
+  {
+   "forma": "חרדו",
+   "forma_he": "חָרְד֥וּ",
+   "n": 3,
+   "ref": "shmuel_a/13/7"
+  }
+ ],
+ "morph": [
+  "HVhrmsa",
+  "HC/Vqw3ms",
+  "HVqi3mp",
+  "HC/Vqw3mp",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

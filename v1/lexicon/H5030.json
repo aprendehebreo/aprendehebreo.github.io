@@ -1,0 +1,59 @@
+{
+ "strong": "H5030",
+ "he": "נביא",
+ "xlit": "nâbîyʼ",
+ "pron": "naw-bee'",
+ "def_en": [
+  "1) spokesman, speaker, prophet",
+  "1a) prophet",
+  "1b) false prophet",
+  "1c) heathen prophet"
+ ],
+ "kjv": "prophecy, that prophesy, prophet.",
+ "expl": "a prophet or (generally) inspired man",
+ "etim": "from ;",
+ "raices": [
+  "H5012"
+ ],
+ "ocurrencias": 317,
+ "formas": [
+  {
+   "forma": "הנביא",
+   "forma_he": "הַנָּבִ֣יא",
+   "n": 120,
+   "ref": "devarim/13/4"
+  },
+  {
+   "forma": "הנביאים",
+   "forma_he": "הַנְּבִיאִים֙",
+   "n": 53,
+   "ref": "shmuel_a/19/20"
+  },
+  {
+   "forma": "נביא",
+   "forma_he": "נָבִ֣יא",
+   "n": 26,
+   "ref": "bereshit/20/7"
+  },
+  {
+   "forma": "הנבאים",
+   "forma_he": "הַנְּבִאִ֔ים",
+   "n": 19,
+   "ref": "mlakhim_a/22/12"
+  },
+  {
+   "forma": "נביאי",
+   "forma_he": "נְבִיאֵ֣י",
+   "n": 12,
+   "ref": "mlakhim_a/18/4"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HTd/Ncmpa",
+  "HNcmsa",
+  "HNcmpc",
+  "HNcmpa"
+ ],
+ "glosa_es": "profeta"
+}

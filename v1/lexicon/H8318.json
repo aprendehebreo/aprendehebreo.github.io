@@ -1,0 +1,44 @@
+{
+ "strong": "H8318",
+ "he": "שרץ",
+ "xlit": "sherets",
+ "pron": "sheh'-rets",
+ "def_en": [
+  "1) teeming or swarming things, creepers, swarmers",
+  "1a) of insects, animals, small reptiles, quadrupeds"
+ ],
+ "kjv": "creep(-ing thing), move(-ing creature).",
+ "expl": "a swarm, i.e. active mass of minute animals",
+ "etim": "from ;",
+ "raices": [
+  "H8317"
+ ],
+ "ocurrencias": 15,
+ "formas": [
+  {
+   "forma": "שרץ",
+   "forma_he": "שֶׁ֖רֶץ",
+   "n": 8,
+   "ref": "bereshit/1/20"
+  },
+  {
+   "forma": "השרץ",
+   "forma_he": "הַשֶּׁ֖רֶץ",
+   "n": 6,
+   "ref": "bereshit/7/21"
+  },
+  {
+   "forma": "בשרץ",
+   "forma_he": "בַּשֶּׁ֖רֶץ",
+   "n": 1,
+   "ref": "vayikra/11/29"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

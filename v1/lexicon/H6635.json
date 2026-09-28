@@ -1,0 +1,63 @@
+{
+ "strong": "H6635",
+ "he": "צבא",
+ "xlit": "tsâbâʼ",
+ "pron": "tsaw-baw'",
+ "def_en": [
+  "1) that which goes forth, army, war, warfare, host",
+  "1a) army, host",
+  "1a1) host (of organised army)",
+  "1a2) host (of angels)",
+  "1a3) of sun, moon, and stars",
+  "1a4) of whole creation",
+  "1b) war, warfare, service, go out to war",
+  "1c) service"
+ ],
+ "kjv": "appointed time, ([phrase]) army, ([phrase]) battle, company, host, service, soldiers, waiting upon, war(-fare).",
+ "expl": "a mass of persons (or figuratively, things), especially reg. organized forwar (an army); by implication, a campaign, literally or figuratively (specifically, hardship, worship)",
+ "etim": "or (feminine) ; from ;",
+ "raices": [
+  "H6633"
+ ],
+ "ocurrencias": 487,
+ "formas": [
+  {
+   "forma": "צבאות",
+   "forma_he": "צִבְא֥וֹת",
+   "n": 286,
+   "ref": "shemot/12/41"
+  },
+  {
+   "forma": "צבא",
+   "forma_he": "צָבָ֖א",
+   "n": 74,
+   "ref": "bamidbar/1/3"
+  },
+  {
+   "forma": "הצבא",
+   "forma_he": "הַצָּבָ֔א",
+   "n": 33,
+   "ref": "bamidbar/31/21"
+  },
+  {
+   "forma": "לצבא",
+   "forma_he": "לַצָּבָ֔א",
+   "n": 17,
+   "ref": "bamidbar/4/3"
+  },
+  {
+   "forma": "לצבאתם",
+   "forma_he": "לְצִבְאֹתָ֖ם",
+   "n": 16,
+   "ref": "bamidbar/1/3"
+  }
+ ],
+ "morph": [
+  "HNcbpa",
+  "HNcbsc",
+  "HNcbsa",
+  "HTd/Ncbsa",
+  "HRd/Ncbsa"
+ ],
+ "glosa_es": "ejército; huestes"
+}

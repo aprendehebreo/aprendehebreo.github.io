@@ -1,0 +1,59 @@
+{
+ "strong": "H3468",
+ "he": "ישע",
+ "xlit": "yeshaʻ",
+ "pron": "yeh'-shah",
+ "def_en": [
+  "1) deliverance, salvation, rescue, safety, welfare",
+  "1a) safety, welfare, prosperity",
+  "1b) salvation",
+  "1c) victory"
+ ],
+ "kjv": "safety, salvation, saving.",
+ "expl": "liberty, deliverance, prosperity",
+ "etim": "or ; from ;",
+ "raices": [
+  "H3467"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "ישעי",
+   "forma_he": "יִשְׁעִ֗י",
+   "n": 11,
+   "ref": "shmuel_b/22/3"
+  },
+  {
+   "forma": "ישעך",
+   "forma_he": "יִשְׁעֶ֑ךָ",
+   "n": 6,
+   "ref": "shmuel_b/22/36"
+  },
+  {
+   "forma": "ישע",
+   "forma_he": "יֶ֗שַׁע",
+   "n": 5,
+   "ref": "yeshayahu/45/8"
+  },
+  {
+   "forma": "ישענו",
+   "forma_he": "יֹּשִׁעֵ֨נוּ֙",
+   "n": 5,
+   "ref": "shmuel_a/10/27"
+  },
+  {
+   "forma": "לישע",
+   "forma_he": "לְיֵ֣שַׁע",
+   "n": 2,
+   "ref": "chavakuk/3/13"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp1cp",
+  "HNcmsc/Sp2ms",
+  "HNcmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

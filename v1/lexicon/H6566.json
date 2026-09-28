@@ -1,0 +1,61 @@
+{
+ "strong": "H6566",
+ "he": "פרש",
+ "xlit": "pâras",
+ "pron": "paw-ras'",
+ "def_en": [
+  "1) to spread, spread out, stretch, break in pieces",
+  "1a) (Qal)",
+  "1a1) to spread out, display",
+  "1a2) to spread over",
+  "1b) (Niphal) to be scattered, be spread out",
+  "1c) (Piel)",
+  "1c1) to spread out",
+  "1c1) to scatter"
+ ],
+ "kjv": "break, chop in pieces, lay open, scatter, spread (abroad, forth, selves, out), stretch (forth, out).",
+ "expl": "to break apart, disperse, etc.",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 67,
+ "formas": [
+  {
+   "forma": "ויפרש",
+   "forma_he": "וַיִּפְרֹ֥שׂ",
+   "n": 8,
+   "ref": "shemot/9/33"
+  },
+  {
+   "forma": "ופרשו",
+   "forma_he": "וּפִרְשֽׁוֹ",
+   "n": 6,
+   "ref": "vayikra/4/11"
+  },
+  {
+   "forma": "פרש",
+   "forma_he": "פֹרַ֔שׁ",
+   "n": 6,
+   "ref": "bamidbar/15/34"
+  },
+  {
+   "forma": "יפרש",
+   "forma_he": "יִפְרֹ֤שׂ",
+   "n": 4,
+   "ref": "devarim/32/11"
+  },
+  {
+   "forma": "ופרש",
+   "forma_he": "וּפָרַ֥שׂ",
+   "n": 4,
+   "ref": "mlakhim_a/8/38"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/Vqq3cp",
+  "HVqp3ms",
+  "HVqi3ms",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": ""
+}

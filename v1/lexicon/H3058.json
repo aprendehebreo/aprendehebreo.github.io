@@ -1,0 +1,48 @@
+{
+ "strong": "H3058",
+ "he": "יהוא",
+ "xlit": "Yêhûwʼ",
+ "pron": "yay-hoo'",
+ "def_en": [
+  "Jehu = \"Jehovah is He\"",
+  "1) the king of the northern kingdom Israel who overthrew the dynasty of Omri",
+  "2) son of Hanani and an Israelite prophet in the time of Baasha and Jehoshaphat",
+  "3) the Antothite, a Benjamite, one of David's mighty warriors",
+  "4) a descendant of Judah of the house of Hezron",
+  "5) son of Josibiah and a chief of the tribe of Simeon"
+ ],
+ "kjv": "Jehu.",
+ "expl": "Jehu, the name of five Israelites",
+ "etim": "from and ; Jehovah (is) He;",
+ "raices": [
+  "H3068",
+  "H1931"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "יהוא",
+   "forma_he": "יֵה֣וּא",
+   "n": 47,
+   "ref": "mlakhim_a/16/1"
+  },
+  {
+   "forma": "ויהוא",
+   "forma_he": "וְיֵה֗וּא",
+   "n": 10,
+   "ref": "mlakhim_b/9/11"
+  },
+  {
+   "forma": "ליהוא",
+   "forma_he": "לְיֵהוּא֙",
+   "n": 1,
+   "ref": "mlakhim_b/12/2"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

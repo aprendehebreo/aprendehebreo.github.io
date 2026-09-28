@@ -1,0 +1,49 @@
+{
+ "strong": "H3004",
+ "he": "יבשה",
+ "xlit": "yabbâshâh",
+ "pron": "yab-baw-shaw'",
+ "def_en": [
+  "1) dry land, dry ground"
+ ],
+ "kjv": "dry (ground, land).",
+ "expl": "dry ground",
+ "etim": "from ;",
+ "raices": [
+  "H3001"
+ ],
+ "ocurrencias": 14,
+ "formas": [
+  {
+   "forma": "ביבשה",
+   "forma_he": "בַּיַּבָּשָֽׁה",
+   "n": 6,
+   "ref": "shemot/14/16"
+  },
+  {
+   "forma": "היבשה",
+   "forma_he": "הַיַּבָּשָׁ֑ה",
+   "n": 5,
+   "ref": "bereshit/1/9"
+  },
+  {
+   "forma": "ליבשה",
+   "forma_he": "לַיַּבָּשָׁה֙",
+   "n": 2,
+   "ref": "bereshit/1/10"
+  },
+  {
+   "forma": "יבשה",
+   "forma_he": "יָבְשָׁ֖ה",
+   "n": 1,
+   "ref": "bereshit/8/14"
+  }
+ ],
+ "morph": [
+  "HRd/Ncfsa",
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HR/Ncfsa"
+ ],
+ "glosa_es": ""
+}

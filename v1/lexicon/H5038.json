@@ -1,0 +1,57 @@
+{
+ "strong": "H5038",
+ "he": "נבלה",
+ "xlit": "nᵉbêlâh",
+ "pron": "neb-ay-law'",
+ "def_en": [
+  "1) carcass, corpse",
+  "1a) of humans, idols, animals"
+ ],
+ "kjv": "(dead) body, (dead) carcase, dead of itself, which died, (beast) that (which) dieth of itself.",
+ "expl": "a flabby thing, i.e. a carcase or carrion (human or bestial, often collectively); figuratively, an idol",
+ "etim": "from ;",
+ "raices": [
+  "H5034"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "נבלתם",
+   "forma_he": "נִבְלָתָ֖ם",
+   "n": 6,
+   "ref": "vayikra/11/11"
+  },
+  {
+   "forma": "נבלתו",
+   "forma_he": "נִבְלָת֜וֹ",
+   "n": 6,
+   "ref": "devarim/21/23"
+  },
+  {
+   "forma": "נבלה",
+   "forma_he": "נְבָלָ֞ה",
+   "n": 5,
+   "ref": "bereshit/34/7"
+  },
+  {
+   "forma": "הנבלה",
+   "forma_he": "הַנְּבָלָ֥ה",
+   "n": 5,
+   "ref": "shoftim/19/23"
+  },
+  {
+   "forma": "נבלת",
+   "forma_he": "נִבְלַ֧ת",
+   "n": 5,
+   "ref": "mlakhim_a/13/29"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsc/Sp3mp",
+  "HNcfsc/Sp3mp",
+  "HNcfsc/Sp3ms",
+  "HNcfsa",
+  "HTd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

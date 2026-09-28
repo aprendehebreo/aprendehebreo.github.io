@@ -1,0 +1,64 @@
+{
+ "strong": "H1",
+ "he": "אב",
+ "xlit": "ʼâb",
+ "pron": "awb",
+ "def_en": [
+  "1) father of an individual",
+  "2) of God as father of his people",
+  "3) head or founder of a household, group, family, or clan",
+  "4) ancestor",
+  "4a) grandfather, forefathers — of person",
+  "4b) of people",
+  "5) originator or patron of a class, profession, or art",
+  "6) of producer, generator (fig.)",
+  "7) of benevolence and protection (fig.)",
+  "8) term of respect and honour",
+  "9) ruler or chief (spec.)"
+ ],
+ "kjv": "chief, (fore-) father(-less), [idiom] patrimony, principal. Compare names in 'Abi-'.",
+ "expl": "father, in a literal and immediate, or figurative and remote application",
+ "etim": "a primitive word;",
+ "raices": [],
+ "ocurrencias": 1213,
+ "formas": [
+  {
+   "forma": "אבי",
+   "forma_he": "אֲבִ֕י",
+   "n": 197,
+   "ref": "bereshit/4/20"
+  },
+  {
+   "forma": "אביו",
+   "forma_he": "אָבִ֖יו",
+   "n": 193,
+   "ref": "bereshit/2/24"
+  },
+  {
+   "forma": "אביך",
+   "forma_he": "אָבִ֑יךָ",
+   "n": 105,
+   "ref": "bereshit/12/1"
+  },
+  {
+   "forma": "אבתיו",
+   "forma_he": "אֲבֹתָ֖יו",
+   "n": 73,
+   "ref": "vayikra/25/41"
+  },
+  {
+   "forma": "אבתם",
+   "forma_he": "אֲבֹתָ֑ם",
+   "n": 44,
+   "ref": "shemot/4/5"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp1cs",
+  "HNcmpc/Sp3mp",
+  "HNcmsc/Sp2ms",
+  "HNcmpc/Sp3ms"
+ ],
+ "glosa_es": "padre"
+}

@@ -1,0 +1,71 @@
+{
+ "strong": "H935",
+ "he": "בוא",
+ "xlit": "bôwʼ",
+ "pron": "bo",
+ "def_en": [
+  "1) to go in, enter, come, go, come in",
+  "1a) (Qal)",
+  "1a1) to enter, come in",
+  "1a2) to come",
+  "1a2a) to come with",
+  "1a2b) to come upon, fall or light upon, attack (enemy)",
+  "1a2c) to come to pass",
+  "1a3) to attain to",
+  "1a4) to be enumerated",
+  "1a5) to go",
+  "1b) (Hiphil)",
+  "1b1) to lead in",
+  "1b2) to carry in",
+  "1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon",
+  "1b4) to bring to pass",
+  "1c) (Hophal)",
+  "1c1) to be brought, brought in",
+  "1c2) to be introduced, be put"
+ ],
+ "kjv": "abide, apply, attain, [idiom] be, befall, [phrase] besiege, bring (forth, in, into, to pass), call, carry, [idiom] certainly, (cause, let, thing for) to come (against, in, out, upon, to pass), depart, [idiom] doubtless again, [phrase] eat, [phrase] employ, (cause to) enter (in, into, -tering, -trance, -try), be fallen, fetch, [phrase] follow, get, give, go (down, in, to war), grant, [phrase] have, [idiom] indeed, (in-) vade, lead, lift (up), mention, pull in, put, resort, run (down), send, set, [idiom] (well) stricken (in age), [idiom] surely, take (in), way.",
+ "expl": "to go or come (in a wide variety of applications)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 2592,
+ "formas": [
+  {
+   "forma": "ויבא",
+   "forma_he": "וַיָּבֵא֙",
+   "n": 302,
+   "ref": "bereshit/2/19"
+  },
+  {
+   "forma": "בא",
+   "forma_he": "בָּ֣א",
+   "n": 273,
+   "ref": "bereshit/6/13"
+  },
+  {
+   "forma": "ויבאו",
+   "forma_he": "וַיָּבֹ֥אוּ",
+   "n": 205,
+   "ref": "bereshit/7/15"
+  },
+  {
+   "forma": "באו",
+   "forma_he": "בָּ֧אוּ",
+   "n": 128,
+   "ref": "bereshit/7/9"
+  },
+  {
+   "forma": "יבוא",
+   "forma_he": "יָב֥וֹא",
+   "n": 98,
+   "ref": "bereshit/32/9"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HVqp3ms",
+  "HVqi3ms",
+  "HR/Vqc"
+ ],
+ "glosa_es": "venir; entrar; traer"
+}

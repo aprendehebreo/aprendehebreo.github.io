@@ -1,0 +1,54 @@
+{
+ "strong": "H8384",
+ "he": "תאן",
+ "xlit": "tᵉʼên",
+ "pron": "teh-ane'",
+ "def_en": [
+  "1) fig, fig tree"
+ ],
+ "kjv": "fig (tree).",
+ "expl": "the fig (tree or fruit)",
+ "etim": "or (in the singular, feminine) ; perhaps of foreign derivation",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "תאנים",
+   "forma_he": "תְּאֵנִ֑ים",
+   "n": 8,
+   "ref": "mlakhim_b/20/7"
+  },
+  {
+   "forma": "תאנה",
+   "forma_he": "תְאֵנָ֔ה",
+   "n": 5,
+   "ref": "bereshit/3/7"
+  },
+  {
+   "forma": "תאנתו",
+   "forma_he": "תְּאֵֽנָת֔וֹ",
+   "n": 4,
+   "ref": "mlakhim_a/5/5"
+  },
+  {
+   "forma": "התאנים",
+   "forma_he": "הַתְּאֵנִֽים",
+   "n": 2,
+   "ref": "bamidbar/13/23"
+  },
+  {
+   "forma": "ותאנה",
+   "forma_he": "וּתְאֵנָ֤ה",
+   "n": 2,
+   "ref": "bamidbar/20/5"
+  }
+ ],
+ "morph": [
+  "HNcfpa",
+  "HNcfsa",
+  "HNcfsc/Sp3ms",
+  "HTd/Ncfpa",
+  "HC/Ncfsa"
+ ],
+ "glosa_es": ""
+}

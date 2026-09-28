@@ -1,0 +1,70 @@
+{
+ "nombre": "aprendehebreo.io",
+ "descripcion": "Curso de hebreo bíblico para principiantes, con API JSON abierta.",
+ "version": "1.0.0",
+ "tanaj_api": "https://avisonofgod.github.io/v1/",
+ "generado_por": "build/build_all.py",
+ "conteos": {
+  "letras_y_finales": 27,
+  "signos_niqqud": 55,
+  "lemas_con_lexico": 1072,
+  "palabras_con_audio": 100,
+  "clips_audio": 253,
+  "lecciones": 12,
+  "items_de_lecciones": 150,
+  "ejercicios": 64
+ },
+ "cobertura_vocabulario": {
+  "top100": {
+   "cobertura": 50.49,
+   "con_glosa_es": 100,
+   "archivo": "vocab/top100.json"
+  },
+  "top300": {
+   "cobertura": 67.81,
+   "con_glosa_es": 300,
+   "archivo": "vocab/top300.json"
+  },
+  "top1000": {
+   "cobertura": 83.53,
+   "con_glosa_es": 300,
+   "archivo": "vocab/top1000.json"
+  }
+ },
+ "fuentes": {
+  "hebreo": {
+   "obra": "Westminster Leningrad Codex (morphhb)",
+   "licencia": "CC BY 4.0",
+   "url": "https://github.com/openscriptures/morphhb"
+  },
+  "lexico": {
+   "obra": "Strong's Hebrew Dictionary",
+   "licencia": "dominio público",
+   "url": "https://github.com/openscriptures/strongs"
+  },
+  "espanol": {
+   "obra": "Reina-Valera 1909",
+   "licencia": "dominio público",
+   "url": "https://api.getbible.net/"
+  },
+  "letras": {
+   "obra": "Unicode Character Database",
+   "licencia": "Unicode License",
+   "url": "https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt"
+  },
+  "audio": {
+   "obra": "edge-tts (voces he-IL de Microsoft Edge)",
+   "licencia": "términos de Microsoft",
+   "nota": "voz sintética; se puede sustituir por grabaciones"
+  }
+ },
+ "endpoints": {
+  "alefbet": "alefbet.json",
+  "niqqud": "niqqud.json",
+  "vocabulario": "vocab/top100.json | top300.json | top1000.json",
+  "lexico": "lexicon/<H####>.json (índice en lexicon/index.json)",
+  "lecciones": "lessons/index.json y lessons/<NN>.json",
+  "audio": "audio/index.json y audio/<id>.mp3",
+  "integridad": "manifest.json"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H4938",
+ "he": "משענה",
+ "xlit": "mishʻênâh",
+ "pron": "mish-ay-naw'",
+ "def_en": [
+  "1) support (of every kind), staff"
+ ],
+ "kjv": "staff.",
+ "expl": "support (abstractly), i.e. (figuratively) sustenance or (concretely) a walking-stick",
+ "etim": "or ; feminine of ;",
+ "raices": [
+  "H4937"
+ ],
+ "ocurrencias": 12,
+ "formas": [
+  {
+   "forma": "משענת",
+   "forma_he": "מִשְׁעֶנֶת֩",
+   "n": 3,
+   "ref": "mlakhim_b/18/21"
+  },
+  {
+   "forma": "משענתו",
+   "forma_he": "מִשְׁעַנְתּ֖וֹ",
+   "n": 2,
+   "ref": "shemot/21/19"
+  },
+  {
+   "forma": "המשענת",
+   "forma_he": "הַמִּשְׁעֶ֨נֶת֙",
+   "n": 2,
+   "ref": "shoftim/6/21"
+  },
+  {
+   "forma": "משענתי",
+   "forma_he": "מִשְׁעַנְתִּ֣י",
+   "n": 2,
+   "ref": "mlakhim_b/4/29"
+  },
+  {
+   "forma": "במשענתם",
+   "forma_he": "בְּמִשְׁעֲנֹתָ֑ם",
+   "n": 1,
+   "ref": "bamidbar/21/18"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsc/Sp3ms",
+  "HTd/Ncfsa",
+  "HNcfsc/Sp1cs",
+  "HR/Ncfpc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

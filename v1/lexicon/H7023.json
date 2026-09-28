@@ -1,0 +1,58 @@
+{
+ "strong": "H7023",
+ "he": "קיר",
+ "xlit": "qîyr",
+ "pron": "keer",
+ "def_en": [
+  "1) wall, side",
+  "1a) wall (of house or chamber)",
+  "1b) the sides (of the altar)"
+ ],
+ "kjv": "[phrase] mason, side, town, [idiom] very, wall.",
+ "expl": "a wall (as built in a trench)",
+ "etim": "or ; (Isaiah 22:5), or (feminine) ; from ;",
+ "raices": [
+  "H6979"
+ ],
+ "ocurrencias": 74,
+ "formas": [
+  {
+   "forma": "בקיר",
+   "forma_he": "בְּקִ֣יר",
+   "n": 20,
+   "ref": "yehoshua/2/15"
+  },
+  {
+   "forma": "הקיר",
+   "forma_he": "הַקִּֽיר",
+   "n": 15,
+   "ref": "vayikra/14/37"
+  },
+  {
+   "forma": "קיר",
+   "forma_he": "קִ֥יר",
+   "n": 10,
+   "ref": "vayikra/1/15"
+  },
+  {
+   "forma": "קירות",
+   "forma_he": "קִיר֤וֹת",
+   "n": 6,
+   "ref": "mlakhim_a/6/5"
+  },
+  {
+   "forma": "הקירות",
+   "forma_he": "הַקִּיר֑וֹת",
+   "n": 3,
+   "ref": "mlakhim_a/6/16"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HR/Ncmsa",
+  "HNcmsa",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

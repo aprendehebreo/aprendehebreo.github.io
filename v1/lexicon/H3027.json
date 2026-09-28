@@ -1,0 +1,68 @@
+{
+ "strong": "H3027",
+ "he": "יד",
+ "xlit": "yâd",
+ "pron": "yawd",
+ "def_en": [
+  "1) hand",
+  "1a) hand (of man)",
+  "1b) strength, power (fig.)",
+  "1c) side (of land), part, portion (metaph.) (fig.)",
+  "1d) (various special, technical senses)",
+  "1d1) sign, monument",
+  "1d2) part, fractional part, share",
+  "1d3) time, repetition",
+  "1d4) axle-trees, axle",
+  "1d5) stays, support (for laver)",
+  "1d6) tenons (in tabernacle)",
+  "1d7) a phallus, a hand (meaning unsure)",
+  "1d8) wrists"
+ ],
+ "kjv": "([phrase] be) able, [idiom] about, [phrase] armholes, at, axletree, because of, beside, border, [idiom] bounty, [phrase] broad, (broken-) handed, [idiom] by, charge, coast, [phrase] consecrate, [phrase] creditor, custody, debt, dominion, [idiom] enough, [phrase] fellowship, force, [idiom] from, hand(-staves, -y work), [idiom] he, himself, [idiom] in, labour, [phrase] large, ledge, (left-) handed, means, [idiom] mine, ministry, near, [idiom] of, [idiom] order, ordinance, [idiom] our, parts, pain, power, [idiom] presumptuously, service, side, sore, state, stay, draw with strength, stroke, [phrase] swear, terror, [idiom] thee, [idiom] by them, [idiom] themselves, [idiom] thine own, [idiom] thou, through, [idiom] throwing, [phrase] thumb, times, [idiom] to, [idiom] under, [idiom] us, [idiom] wait on, (way-) side, where, [phrase] wide, [idiom] with (him, me, you), work, [phrase] yield, [idiom] yourselves.",
+ "expl": "a hand (the open one (indicating power, means, direction, etc.),",
+ "etim": "a primitive word; in distinction from , the closed one); used (as noun, adverb, etc.) in a great variety of applications, both literally and figuratively, both proximate and remote (as follows)",
+ "raices": [
+  "H3709"
+ ],
+ "ocurrencias": 1627,
+ "formas": [
+  {
+   "forma": "ביד",
+   "forma_he": "בְּיַ֖ד",
+   "n": 282,
+   "ref": "bereshit/27/17"
+  },
+  {
+   "forma": "ידו",
+   "forma_he": "יָד֗וֹ",
+   "n": 160,
+   "ref": "bereshit/3/22"
+  },
+  {
+   "forma": "יד",
+   "forma_he": "יָ֑ד",
+   "n": 145,
+   "ref": "bereshit/38/28"
+  },
+  {
+   "forma": "ידי",
+   "forma_he": "יָדִ֤י",
+   "n": 137,
+   "ref": "bereshit/14/22"
+  },
+  {
+   "forma": "מיד",
+   "forma_he": "מִיַּ֥ד",
+   "n": 104,
+   "ref": "bereshit/9/5"
+  }
+ ],
+ "morph": [
+  "HR/Ncbsc",
+  "HNcbsc/Sp3ms",
+  "HR/Ncbsc/Sp3ms",
+  "HNcbsc",
+  "HNcbsc/Sp2ms"
+ ],
+ "glosa_es": "mano; poder"
+}

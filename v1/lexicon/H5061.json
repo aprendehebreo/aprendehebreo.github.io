@@ -1,0 +1,59 @@
+{
+ "strong": "H5061",
+ "he": "נגע",
+ "xlit": "negaʻ",
+ "pron": "neh'-gah",
+ "def_en": [
+  "1) stroke, plague, disease, mark, plague spot",
+  "1a) stroke, wound",
+  "1b) stroke (metaphorical of disease)",
+  "1c) mark (of leprosy)"
+ ],
+ "kjv": "plague, sore, stricken, stripe, stroke, wound.",
+ "expl": "a blow (figuratively, infliction); also (by implication) a spot (concretely, a leprous person or dress)",
+ "etim": "from ;",
+ "raices": [
+  "H5060"
+ ],
+ "ocurrencias": 78,
+ "formas": [
+  {
+   "forma": "הנגע",
+   "forma_he": "הַנֹּגֵ֜עַ",
+   "n": 39,
+   "ref": "bereshit/26/11"
+  },
+  {
+   "forma": "נגע",
+   "forma_he": "נָגַע֙",
+   "n": 25,
+   "ref": "bereshit/32/33"
+  },
+  {
+   "forma": "לנגע",
+   "forma_he": "לִנְגֹּ֥עַ",
+   "n": 2,
+   "ref": "bereshit/20/6"
+  },
+  {
+   "forma": "בנגע",
+   "forma_he": "בַּנֶּ֜גַע",
+   "n": 2,
+   "ref": "vayikra/13/3"
+  },
+  {
+   "forma": "נגעו",
+   "forma_he": "נִגְעֽוֹ",
+   "n": 2,
+   "ref": "vayikra/13/44"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HNcmsa",
+  "HR/Ncmsc",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

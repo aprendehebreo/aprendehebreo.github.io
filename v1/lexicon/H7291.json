@@ -1,0 +1,65 @@
+{
+ "strong": "H7291",
+ "he": "רדף",
+ "xlit": "râdaph",
+ "pron": "raw-daf'",
+ "def_en": [
+  "1) to be behind, follow after, pursue, persecute, run after",
+  "1a) (Qal)",
+  "1a1) to pursue, put to flight, chase, dog, attend closely upon",
+  "1a2) to persecute, harass (fig)",
+  "1a3) to follow after, aim to secure (fig)",
+  "1a4) to run after (a bribe) (fig)",
+  "1b) (Niphal)",
+  "1b1) to be pursued",
+  "1b2) one pursued (participle)",
+  "1c) (Piel) to pursue ardently, aim eagerly to secure, pursue",
+  "1d) (Pual) to be pursued, be chased away",
+  "1e) (Hiphil) to pursue, chase"
+ ],
+ "kjv": "chase, put to flight, follow (after, on), hunt, (be under) persecute(-ion, -or), pursue(-r).",
+ "expl": "to run after (usually with hostile intent; figuratively (of time) gone by)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 144,
+ "formas": [
+  {
+   "forma": "וירדפו",
+   "forma_he": "וַיִּרְדְּפ֨וּ",
+   "n": 15,
+   "ref": "shemot/14/9"
+  },
+  {
+   "forma": "רדף",
+   "forma_he": "רְדֹ֖ף",
+   "n": 13,
+   "ref": "bereshit/44/4"
+  },
+  {
+   "forma": "וירדף",
+   "forma_he": "וַיִּרְדֹּ֖ף",
+   "n": 11,
+   "ref": "bereshit/14/14"
+  },
+  {
+   "forma": "רדפו",
+   "forma_he": "רָֽדְפ֔וּ",
+   "n": 8,
+   "ref": "bereshit/35/5"
+  },
+  {
+   "forma": "רדפי",
+   "forma_he": "רֹ֥דְפֵי",
+   "n": 8,
+   "ref": "yeshayahu/51/1"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3mp",
+  "HC/Vqw3ms",
+  "HVqrmsa",
+  "HVqi3ms",
+  "HTd/Vqrmpa"
+ ],
+ "glosa_es": ""
+}

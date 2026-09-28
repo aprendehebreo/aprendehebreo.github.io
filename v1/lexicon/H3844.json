@@ -1,0 +1,57 @@
+{
+ "strong": "H3844",
+ "he": "לבנון",
+ "xlit": "Lᵉbânôwn",
+ "pron": "leb-aw-nohn'",
+ "def_en": [
+  "Lebanon = \"whiteness\"",
+  "1) a wooded mountain range on the northern border of Israel"
+ ],
+ "kjv": "Lebanon.",
+ "expl": "Lebanon, a mountain range in Palestine",
+ "etim": "from ; (the) white mountain (from its snow);",
+ "raices": [
+  "H3825"
+ ],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "הלבנון",
+   "forma_he": "הַלְּבָנ֑וֹן",
+   "n": 25,
+   "ref": "yehoshua/9/1"
+  },
+  {
+   "forma": "לבנון",
+   "forma_he": "לְבָנ֑וֹן",
+   "n": 17,
+   "ref": "mlakhim_b/19/23"
+  },
+  {
+   "forma": "בלבנון",
+   "forma_he": "בַּלְּבָנ֔וֹן",
+   "n": 11,
+   "ref": "mlakhim_a/5/13"
+  },
+  {
+   "forma": "והלבנון",
+   "forma_he": "וְהַלְּבָנ֔וֹן",
+   "n": 5,
+   "ref": "devarim/1/7"
+  },
+  {
+   "forma": "כלבנון",
+   "forma_he": "כַּלְּבָנֽוֹן",
+   "n": 4,
+   "ref": "hoshea/14/6"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HNp",
+  "HRd/Np",
+  "HC/Td/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

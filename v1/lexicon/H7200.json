@@ -1,0 +1,73 @@
+{
+ "strong": "H7200",
+ "he": "ראה",
+ "xlit": "râʼâh",
+ "pron": "raw-aw'",
+ "def_en": [
+  "1) to see, look at, inspect, perceive, consider",
+  "1a) (Qal)",
+  "1a1) to see",
+  "1a2) to see, perceive",
+  "1a3) to see, have vision",
+  "1a4) to look at, see, regard, look after, see after, learn about, observe, watch, look upon, look out, find out",
+  "1a5) to see, observe, consider, look at, give attention to, discern, distinguish",
+  "1a6) to look at, gaze at",
+  "1b) (Niphal)",
+  "1b1) to appear, present oneself",
+  "1b2) to be seen",
+  "1b3) to be visible",
+  "1c) (Pual) to be seen",
+  "1d) (Hiphil)",
+  "1d1) to cause to see, show",
+  "1d2) to cause to look intently at, behold, cause to gaze at",
+  "1e) (Hophal)",
+  "1e1) to be caused to see, be shown",
+  "1e2) to be exhibited to",
+  "1f) (Hithpael) to look at each other, face"
+ ],
+ "kjv": "advise self, appear, approve, behold, [idiom] certainly, consider, discern, (make to) enjoy, have experience, gaze, take heed, [idiom] indeed, [idiom] joyfully, lo, look (on, one another, one on another, one upon another, out, up, upon), mark, meet, [idiom] be near, perceive, present, provide, regard, (have) respect, (fore-, cause to, let) see(-r, -m, one another), shew (self), [idiom] sight of others, (e-) spy, stare, [idiom] surely, [idiom] think, view, visions.",
+ "expl": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 1314,
+ "formas": [
+  {
+   "forma": "וירא",
+   "forma_he": "וַיַּ֧רְא",
+   "n": 156,
+   "ref": "bereshit/1/4"
+  },
+  {
+   "forma": "ראה",
+   "forma_he": "רֹאֶ֖ה",
+   "n": 126,
+   "ref": "bereshit/13/15"
+  },
+  {
+   "forma": "ראיתי",
+   "forma_he": "רָאִ֛יתִי",
+   "n": 88,
+   "ref": "bereshit/7/1"
+  },
+  {
+   "forma": "ראו",
+   "forma_he": "רָאֽוּ",
+   "n": 71,
+   "ref": "bereshit/9/23"
+  },
+  {
+   "forma": "וראה",
+   "forma_he": "וּרְאֵ֔ה",
+   "n": 65,
+   "ref": "bereshit/13/14"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp1cs",
+  "HR/Vqc",
+  "HVqv2ms",
+  "HVqp3cp"
+ ],
+ "glosa_es": "ver; mirar"
+}

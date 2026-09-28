@@ -1,0 +1,62 @@
+{
+ "strong": "H2232",
+ "he": "זרע",
+ "xlit": "zâraʻ",
+ "pron": "zaw-rah'",
+ "def_en": [
+  "1) to sow, scatter seed",
+  "1a) (Qal)",
+  "1a1) to sow",
+  "1a2) producing, yielding seed",
+  "1b)(Niphal)",
+  "1b1) to be sown",
+  "1b2) to become pregnant, be made pregnant",
+  "1c) (Pual) to be sown",
+  "1d) (Hiphil) to produce seed, yield seed"
+ ],
+ "kjv": "bear, conceive seed, set with sow(-er), yield.",
+ "expl": "to sow; figuratively, to disseminate, plant, fructify",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 56,
+ "formas": [
+  {
+   "forma": "תזרע",
+   "forma_he": "תִּזְרַ֣ע",
+   "n": 11,
+   "ref": "shemot/23/10"
+  },
+  {
+   "forma": "זרע",
+   "forma_he": "זֶ֔רַע",
+   "n": 5,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "זרעו",
+   "forma_he": "זַרְעוֹ",
+   "n": 5,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "יזרע",
+   "forma_he": "יִזָּרֵ֑עַ",
+   "n": 4,
+   "ref": "vayikra/11/37"
+  },
+  {
+   "forma": "וזרעתם",
+   "forma_he": "וּזְרַעְתֶּ֖ם",
+   "n": 3,
+   "ref": "bereshit/47/23"
+  }
+ ],
+ "morph": [
+  "HVqi2ms",
+  "HVqrmsa",
+  "HC/Vqq2mp",
+  "HVNi3ms",
+  "HVqv2mp"
+ ],
+ "glosa_es": ""
+}

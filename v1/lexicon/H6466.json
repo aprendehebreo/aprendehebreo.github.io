@@ -1,0 +1,57 @@
+{
+ "strong": "H6466",
+ "he": "פעל",
+ "xlit": "pâʻal",
+ "pron": "paw-al'",
+ "def_en": [
+  "1) to do, make",
+  "1a) (Qal)",
+  "1a1) to do",
+  "1a2) to make"
+ ],
+ "kjv": "commit, (evil-) do(-er), make(-r), ordain, work(-er).",
+ "expl": "to do or make (systematically and habitually), especially to practise",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 56,
+ "formas": [
+  {
+   "forma": "פעלי",
+   "forma_he": "פֹּ֥עֲלֵי",
+   "n": 19,
+   "ref": "yeshayahu/31/2"
+  },
+  {
+   "forma": "פעל",
+   "forma_he": "פָּ֖עַל",
+   "n": 7,
+   "ref": "bamidbar/23/23"
+  },
+  {
+   "forma": "פעלת",
+   "forma_he": "פָּעַ֖לְתָּ",
+   "n": 6,
+   "ref": "shemot/15/17"
+  },
+  {
+   "forma": "יפעל",
+   "forma_he": "יִפְעַל",
+   "n": 5,
+   "ref": "yeshayahu/44/15"
+  },
+  {
+   "forma": "פעלו",
+   "forma_he": "פָּעֳל֔וֹ",
+   "n": 3,
+   "ref": "devarim/32/4"
+  }
+ ],
+ "morph": [
+  "HVqrmpc",
+  "HVqp2ms",
+  "HVqp3ms",
+  "HVqi3ms",
+  "HR/Vqrmpc"
+ ],
+ "glosa_es": ""
+}

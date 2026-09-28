@@ -1,0 +1,59 @@
+{
+ "strong": "H8057",
+ "he": "שמחה",
+ "xlit": "simchâh",
+ "pron": "sim-khaw'",
+ "def_en": [
+  "1) joy, mirth, gladness",
+  "1a) mirth, gladness, joy, gaiety, pleasure",
+  "1b) joy (of God)",
+  "1c) glad result, happy issue"
+ ],
+ "kjv": "[idiom] exceeding(-ly), gladness, joy(-fulness), mirth, pleasure, rejoice(-ing).",
+ "expl": "blithesomeness or glee, (religious or festival)",
+ "etim": "from ;",
+ "raices": [
+  "H8056"
+ ],
+ "ocurrencias": 94,
+ "formas": [
+  {
+   "forma": "שמחה",
+   "forma_he": "שִׂמְחָ֣ה",
+   "n": 34,
+   "ref": "mlakhim_a/1/40"
+  },
+  {
+   "forma": "בשמחה",
+   "forma_he": "בְּשִׂמְחָ֥ה",
+   "n": 19,
+   "ref": "bereshit/31/27"
+  },
+  {
+   "forma": "ושמחה",
+   "forma_he": "וְשִׂמְחָ֗ה",
+   "n": 11,
+   "ref": "yeshayahu/22/13"
+  },
+  {
+   "forma": "שמחת",
+   "forma_he": "שִׂמְחַ֥ת",
+   "n": 5,
+   "ref": "yeshayahu/61/7"
+  },
+  {
+   "forma": "ושמחת",
+   "forma_he": "וְשָׂמַחְתָּ֗",
+   "n": 4,
+   "ref": "devarim/12/18"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HC/Ncfsa",
+  "HNcfsc",
+  "HR/Ncfsc"
+ ],
+ "glosa_es": ""
+}

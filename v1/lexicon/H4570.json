@@ -1,0 +1,58 @@
+{
+ "strong": "H4570",
+ "he": "מעגל",
+ "xlit": "maʻgâl",
+ "pron": "mah-gawl'",
+ "def_en": [
+  "1) entrenchment, track",
+  "1a) circumvallation, entrenchment",
+  "1b) track"
+ ],
+ "kjv": "going, path, trench, way(-side).",
+ "expl": "a track (literally or figuratively); also a rampart (as circular)",
+ "etim": "or feminine ; from the same as ;",
+ "raices": [
+  "H5696"
+ ],
+ "ocurrencias": 16,
+ "formas": [
+  {
+   "forma": "מעגל",
+   "forma_he": "מַעְגַּ֥ל",
+   "n": 4,
+   "ref": "yeshayahu/26/7"
+  },
+  {
+   "forma": "במעגל",
+   "forma_he": "בַּמַּעְגָּ֔ל",
+   "n": 2,
+   "ref": "shmuel_a/26/5"
+  },
+  {
+   "forma": "במעגלותם",
+   "forma_he": "בְּמַעְגְּלוֹתָ֑ם",
+   "n": 2,
+   "ref": "yeshayahu/59/8"
+  },
+  {
+   "forma": "במעגלי",
+   "forma_he": "בְמַעְגְּלֵי",
+   "n": 2,
+   "ref": "tehilim/23/3"
+  },
+  {
+   "forma": "מעגלתיה",
+   "forma_he": "מַעְגְּלֹתֶֽיהָ",
+   "n": 2,
+   "ref": "mishlei/2/18"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HRd/Ncmsa",
+  "HR/Ncmpc/Sp3mp",
+  "HR/Ncmpc",
+  "HNcmpc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

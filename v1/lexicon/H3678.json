@@ -1,0 +1,58 @@
+{
+ "strong": "H3678",
+ "he": "כסא",
+ "xlit": "kiççêʼ",
+ "pron": "kis-say'",
+ "def_en": [
+  "1) seat (of honour), throne, seat, stool",
+  "1a) seat (of honour), throne",
+  "1b) royal dignity, authority, power (fig.)"
+ ],
+ "kjv": "seat, stool, throne.",
+ "expl": "properly, covered, i.e. a throne (as canopied)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H3680"
+ ],
+ "ocurrencias": 135,
+ "formas": [
+  {
+   "forma": "כסא",
+   "forma_he": "כִּסֵּ֣א",
+   "n": 52,
+   "ref": "devarim/17/18"
+  },
+  {
+   "forma": "כסאו",
+   "forma_he": "כִּסְא֔וֹ",
+   "n": 31,
+   "ref": "shemot/11/5"
+  },
+  {
+   "forma": "כסאי",
+   "forma_he": "כִּסְאִ֑י",
+   "n": 10,
+   "ref": "mlakhim_a/1/13"
+  },
+  {
+   "forma": "לכסא",
+   "forma_he": "לְכִסֵּ֥א",
+   "n": 9,
+   "ref": "yeshayahu/22/23"
+  },
+  {
+   "forma": "הכסא",
+   "forma_he": "הַכִּסֵּ֖א",
+   "n": 7,
+   "ref": "bereshit/41/40"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp1cs",
+  "HNcmsa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

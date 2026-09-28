@@ -1,0 +1,56 @@
+{
+ "strong": "H3064",
+ "he": "יהודי",
+ "xlit": "Yᵉhûwdîy",
+ "pron": "yeh-hoo-dee'",
+ "def_en": [
+  "1) Jew"
+ ],
+ "kjv": "Jew.",
+ "expl": "a Jehudite (i.e. Judaite or Jew), or descendant of Jehudah (i.e. Judah)",
+ "etim": "patronymically from ;",
+ "raices": [
+  "H3063"
+ ],
+ "ocurrencias": 81,
+ "formas": [
+  {
+   "forma": "היהודים",
+   "forma_he": "הַיְהוּדִ֖ים",
+   "n": 49,
+   "ref": "mlakhim_b/16/6"
+  },
+  {
+   "forma": "ליהודים",
+   "forma_he": "לַיְּהוּדִ֔ים",
+   "n": 7,
+   "ref": "ester/4/3"
+  },
+  {
+   "forma": "היהודי",
+   "forma_he": "הַיְּהוּדִ֔י",
+   "n": 6,
+   "ref": "ester/5/13"
+  },
+  {
+   "forma": "יהודים",
+   "forma_he": "יְהוּדִֽים",
+   "n": 3,
+   "ref": "yirmiyahu/43/9"
+  },
+  {
+   "forma": "יהודי",
+   "forma_he": "יְהוּדִ֡י",
+   "n": 3,
+   "ref": "yirmiyahu/36/14"
+  }
+ ],
+ "morph": [
+  "HTd/Ngmpa",
+  "HRd/Ngmpa",
+  "HTd/Ngmsa",
+  "HNgmpa",
+  "HNgmsa"
+ ],
+ "glosa_es": ""
+}

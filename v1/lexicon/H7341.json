@@ -1,0 +1,56 @@
+{
+ "strong": "H7341",
+ "he": "רחב",
+ "xlit": "rôchab",
+ "pron": "ro'-khab",
+ "def_en": [
+  "1) breadth, width, expanse"
+ ],
+ "kjv": "breadth, broad, largeness, thickness, wideness.",
+ "expl": "width (literally or figuratively)",
+ "etim": "from ;",
+ "raices": [
+  "H7337"
+ ],
+ "ocurrencias": 101,
+ "formas": [
+  {
+   "forma": "ורחב",
+   "forma_he": "וְרֹ֨חַב֙",
+   "n": 34,
+   "ref": "shemot/26/2"
+  },
+  {
+   "forma": "רחב",
+   "forma_he": "רֹ֖חַב",
+   "n": 34,
+   "ref": "shemot/26/16"
+  },
+  {
+   "forma": "רחבו",
+   "forma_he": "רָחְבּ֔וֹ",
+   "n": 15,
+   "ref": "shemot/25/10"
+  },
+  {
+   "forma": "רחבה",
+   "forma_he": "רָחְבָּ֔הּ",
+   "n": 9,
+   "ref": "bereshit/6/15"
+  },
+  {
+   "forma": "ברחב",
+   "forma_he": "בְרֹ֨חַב֙",
+   "n": 3,
+   "ref": "shemot/38/18"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsa",
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HC/Ncmsc"
+ ],
+ "glosa_es": ""
+}

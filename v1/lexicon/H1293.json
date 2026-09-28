@@ -1,0 +1,61 @@
+{
+ "strong": "H1293",
+ "he": "ברכה",
+ "xlit": "Bᵉrâkâh",
+ "pron": "ber-aw-kaw'",
+ "def_en": [
+  "1) blessing",
+  "2) (source of) blessing",
+  "3) blessing, prosperity",
+  "4) blessing, praise of God",
+  "5) a gift, present",
+  "6) treaty of peace"
+ ],
+ "kjv": "blessing, liberal, pool, present.",
+ "expl": "benediction; by implication prosperity",
+ "etim": "from ;",
+ "raices": [
+  "H1288"
+ ],
+ "ocurrencias": 69,
+ "formas": [
+  {
+   "forma": "ברכה",
+   "forma_he": "בְּרָכָֽה",
+   "n": 22,
+   "ref": "bereshit/12/2"
+  },
+  {
+   "forma": "ברכת",
+   "forma_he": "בִּרְכַּ֣ת",
+   "n": 12,
+   "ref": "bereshit/28/4"
+  },
+  {
+   "forma": "הברכה",
+   "forma_he": "הַֽבְרָכָ֨ה",
+   "n": 11,
+   "ref": "bereshit/27/38"
+  },
+  {
+   "forma": "ברכות",
+   "forma_he": "בִּרְכ֣וֹת",
+   "n": 5,
+   "ref": "tehilim/21/4"
+  },
+  {
+   "forma": "לברכה",
+   "forma_he": "לִבְרָכָ֑ה",
+   "n": 4,
+   "ref": "devarim/23/6"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HTd/Ncfsa",
+  "HNcfsc",
+  "HNcfpc",
+  "HR/Ncfsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H6098",
+ "he": "עצה",
+ "xlit": "ʻêtsâh",
+ "pron": "ay-tsaw'",
+ "def_en": [
+  "1) counsel, advice, purpose"
+ ],
+ "kjv": "advice, advisement, counsel(l-(or)), purpose.",
+ "expl": "advice; by implication, plan; also prudence",
+ "etim": "from ;",
+ "raices": [
+  "H3289"
+ ],
+ "ocurrencias": 90,
+ "formas": [
+  {
+   "forma": "עצת",
+   "forma_he": "עֲצַ֥ת",
+   "n": 20,
+   "ref": "shmuel_b/15/31"
+  },
+  {
+   "forma": "עצה",
+   "forma_he": "עֵצָהּ֙",
+   "n": 20,
+   "ref": "devarim/20/19"
+  },
+  {
+   "forma": "ועצת",
+   "forma_he": "וַעֲצַ֣ת",
+   "n": 7,
+   "ref": "shmuel_b/16/23"
+  },
+  {
+   "forma": "עצתו",
+   "forma_he": "עֲצָתוֹ֒",
+   "n": 5,
+   "ref": "shmuel_b/17/23"
+  },
+  {
+   "forma": "עצתי",
+   "forma_he": "עֲצָתִ֣י",
+   "n": 5,
+   "ref": "yeshayahu/46/10"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsa",
+  "HC/Ncfsc",
+  "HR/Ncfsc",
+  "HNcfsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,55 @@
+{
+ "strong": "H4975",
+ "he": "מתן",
+ "xlit": "môthen",
+ "pron": "mo'-then",
+ "def_en": [
+  "1) loins, hips",
+  "1a) used with H02223 in Pr 30:31; perhaps an extinct animal, exact meaning unknown"
+ ],
+ "kjv": "[phrase] greyhound, loins, side.",
+ "expl": "properly, the waist or small of the back; only in plural the loins",
+ "etim": "from an unused root meaning to be slender;",
+ "raices": [],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "מתנים",
+   "forma_he": "מָתְנַ֧יִם",
+   "n": 9,
+   "ref": "devarim/33/11"
+  },
+  {
+   "forma": "במתניו",
+   "forma_he": "בְּמָתְנָ֑יו",
+   "n": 7,
+   "ref": "bereshit/37/34"
+  },
+  {
+   "forma": "מתניו",
+   "forma_he": "מָתְנָיו֙",
+   "n": 7,
+   "ref": "shmuel_b/20/8"
+  },
+  {
+   "forma": "מתניך",
+   "forma_he": "מָתְנֶ֗יךָ",
+   "n": 6,
+   "ref": "mlakhim_b/4/29"
+  },
+  {
+   "forma": "במתניהם",
+   "forma_he": "בְּמָתְנֵיהֶ֜ם",
+   "n": 3,
+   "ref": "mlakhim_a/20/32"
+  }
+ ],
+ "morph": [
+  "HNcmda",
+  "HR/Ncmdc/Sp3ms",
+  "HNcmdc/Sp3ms",
+  "HNcmdc/Sp2ms",
+  "HR/Ncmdc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

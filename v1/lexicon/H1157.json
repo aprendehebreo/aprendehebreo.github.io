@@ -1,0 +1,60 @@
+{
+ "strong": "H1157",
+ "he": "בעד",
+ "xlit": "bᵉʻad",
+ "pron": "beh-ad'",
+ "def_en": [
+  "1) behind, through, round about, on behalf of, away from, about",
+  "1a) through (of action)",
+  "1b) behind (with verbs of shutting)",
+  "1c) about (with verbs of fencing)",
+  "1d) on behalf of (metaph. especially with Hithpael)"
+ ],
+ "kjv": "about, at by (means of), for, over, through, up (-on), within.",
+ "expl": "in up to or over against; generally at, beside, among, behind, for, etc.",
+ "etim": "from with prepositional prefix;",
+ "raices": [
+  "H5704"
+ ],
+ "ocurrencias": 103,
+ "formas": [
+  {
+   "forma": "בעד",
+   "forma_he": "בְּעַ֥ד",
+   "n": 42,
+   "ref": "bereshit/20/18"
+  },
+  {
+   "forma": "ובעד",
+   "forma_he": "וּבְעַ֣ד",
+   "n": 20,
+   "ref": "vayikra/9/7"
+  },
+  {
+   "forma": "בעדו",
+   "forma_he": "בַּֽעֲדֽוֹ",
+   "n": 11,
+   "ref": "bereshit/7/16"
+  },
+  {
+   "forma": "בעדי",
+   "forma_he": "בַּעֲדִֽי",
+   "n": 9,
+   "ref": "shemot/8/24"
+  },
+  {
+   "forma": "בעדך",
+   "forma_he": "בַּֽעַדְךָ֖",
+   "n": 4,
+   "ref": "bereshit/20/7"
+  }
+ ],
+ "morph": [
+  "HR",
+  "HC/R",
+  "HR/Sp3ms",
+  "HR/Sp1cs",
+  "HR/Sp3mp"
+ ],
+ "glosa_es": ""
+}

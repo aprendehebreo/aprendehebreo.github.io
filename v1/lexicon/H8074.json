@@ -1,0 +1,72 @@
+{
+ "strong": "H8074",
+ "he": "שמם",
+ "xlit": "shâmêm",
+ "pron": "shaw-mame'",
+ "def_en": [
+  "1) to be desolate, be appalled, stun, stupefy",
+  "1a) (Qal)",
+  "1a1) to be desolated, be deflowered, be deserted, be appalled",
+  "1a2) to be appalled, be awestruck",
+  "1b) (Niphal)",
+  "1b1) to be desolated, be made desolate",
+  "1b2) to be appalled",
+  "1c) (Polel)",
+  "1c1) to be stunned",
+  "1c2) appalling, causing horror (participle)",
+  "1c2a) horror-causer, appaller (subst)",
+  "1d) (Hiphil)",
+  "1d1) to devastate, ravage, make desolated",
+  "1d2) to appal, show horror",
+  "1e) (Hophal) to lay desolate, be desolated",
+  "1f) (Hithpolel)",
+  "1f1) to cause to be desolate",
+  "1f2) to be appalled, be astounded",
+  "1f3) to cause oneself desolation, cause oneself ruin"
+ ],
+ "kjv": "make amazed, be astonied, (be an) astonish(-ment), (be, bring into, unto, lay, lie, make) desolate(-ion, places), be destitute, destroy (self), (lay, lie, make) waste, wonder.",
+ "expl": "to stun (or intransitively, grow numb), i.e. devastate or (figuratively) stupefy (both usually in a passive sense)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 86,
+ "formas": [
+  {
+   "forma": "ונשמו",
+   "forma_he": "וְנָשַׁ֖מּוּ",
+   "n": 6,
+   "ref": "vayikra/26/22"
+  },
+  {
+   "forma": "ישם",
+   "forma_he": "יָשֵׂם֩",
+   "n": 6,
+   "ref": "shmuel_a/2/20"
+  },
+  {
+   "forma": "נשמו",
+   "forma_he": "נָשַׁ֣מּוּ",
+   "n": 5,
+   "ref": "yeshayahu/33/8"
+  },
+  {
+   "forma": "והשמתי",
+   "forma_he": "וַהֲשִׁמֹּתִ֥י",
+   "n": 4,
+   "ref": "vayikra/26/32"
+  },
+  {
+   "forma": "שממות",
+   "forma_he": "שֹׁמֵמֽוֹת",
+   "n": 4,
+   "ref": "yeshayahu/49/8"
+  }
+ ],
+ "morph": [
+  "HC/VNq3cp",
+  "HC/Vhq1cs",
+  "HVqi3ms",
+  "HVNp3cp",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,55 @@
+{
+ "strong": "H3320",
+ "he": "יצב",
+ "xlit": "yâtsab",
+ "pron": "yaw-tsab'",
+ "def_en": [
+  "1) to place, set, stand, set or station oneself, present oneself",
+  "1a) (Hithpael) to station oneself, take one's stand, stand, present oneself, stand with someone"
+ ],
+ "kjv": "present selves, remaining, resort, set (selves), (be able to, can, with-) stand (fast, forth, -ing, still, up).",
+ "expl": "to place (any thing so as to stay); reflexively, to station, offer, continue",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "יתיצב",
+   "forma_he": "יִתְיַצֵּ֥ב",
+   "n": 9,
+   "ref": "devarim/7/24"
+  },
+  {
+   "forma": "התיצבו",
+   "forma_he": "הִֽתְיַצְב֗וּ",
+   "n": 6,
+   "ref": "shemot/14/13"
+  },
+  {
+   "forma": "ויתיצבו",
+   "forma_he": "וַיִּֽתְיַצְּב֖וּ",
+   "n": 6,
+   "ref": "shemot/19/17"
+  },
+  {
+   "forma": "ויתיצב",
+   "forma_he": "וַיִּתְיַצֵּ֥ב",
+   "n": 6,
+   "ref": "shemot/34/5"
+  },
+  {
+   "forma": "התיצב",
+   "forma_he": "הִתְיַצֵּב֮",
+   "n": 4,
+   "ref": "bamidbar/23/3"
+  }
+ ],
+ "morph": [
+  "HVti3ms",
+  "HC/Vtw3ms",
+  "HR/Vtc",
+  "HVtv2mp",
+  "HC/Vtw3mp"
+ ],
+ "glosa_es": ""
+}

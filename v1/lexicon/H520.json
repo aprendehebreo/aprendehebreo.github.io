@@ -1,0 +1,57 @@
+{
+ "strong": "H520",
+ "he": "אמה",
+ "xlit": "ʼammâh",
+ "pron": "am-maw'",
+ "def_en": [
+  "1) cubit-a measure of distance (the forearm), roughly 18 in (. 5m). There are several cubits used in the OT, the cubit of a man or common cubit (De 3:11), the legal cubit or cubit of the sanctuary (Eze 40:5) plus others. See a Bible Dictionary for a complete treatment."
+ ],
+ "kjv": "cubit, [phrase] hundred (by exchange for ), measure, post.",
+ "expl": "properly, a mother (i.e. unit of measure, or the fore-arm (below the elbow), i.e. a cubit; also a door-base (as a bond of the entrance)",
+ "etim": "prolonged from ;",
+ "raices": [
+  "H517",
+  "H3967"
+ ],
+ "ocurrencias": 249,
+ "formas": [
+  {
+   "forma": "אמה",
+   "forma_he": "אַמָּ֗ה",
+   "n": 85,
+   "ref": "bereshit/6/15"
+  },
+  {
+   "forma": "אמות",
+   "forma_he": "אָמ֖וּת",
+   "n": 81,
+   "ref": "bereshit/26/9"
+  },
+  {
+   "forma": "באמה",
+   "forma_he": "בָּֽאַמָּ֔ה",
+   "n": 42,
+   "ref": "shemot/26/2"
+  },
+  {
+   "forma": "ואמה",
+   "forma_he": "וְאִמָּ֔הּ",
+   "n": 16,
+   "ref": "bereshit/24/55"
+  },
+  {
+   "forma": "האמה",
+   "forma_he": "הָאָמָ֥ה",
+   "n": 8,
+   "ref": "bereshit/21/10"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfpa",
+  "HRd/Ncfsa",
+  "HC/Ncfsa",
+  "HTd/Ncfsa"
+ ],
+ "glosa_es": "codo (medida)"
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H730",
+ "he": "ארז",
+ "xlit": "ʼerez",
+ "pron": "eh-rez'",
+ "def_en": [
+  "1) cedar",
+  "1a) cedar tree",
+  "1b) cedar timber, cedar wood (in building)",
+  "1c) cedar wood (in purifications)"
+ ],
+ "kjv": "cedar (tree).",
+ "expl": "a cedar tree (from the tenacity of its roots)",
+ "etim": "from ;",
+ "raices": [
+  "H729"
+ ],
+ "ocurrencias": 73,
+ "formas": [
+  {
+   "forma": "ארזים",
+   "forma_he": "אֲרָזִ֔ים",
+   "n": 27,
+   "ref": "shmuel_b/5/11"
+  },
+  {
+   "forma": "ארז",
+   "forma_he": "אֶ֔רֶז",
+   "n": 11,
+   "ref": "vayikra/14/4"
+  },
+  {
+   "forma": "הארז",
+   "forma_he": "הָאֶ֛רֶז",
+   "n": 8,
+   "ref": "vayikra/14/6"
+  },
+  {
+   "forma": "ארזי",
+   "forma_he": "אַרְזֵ֥י",
+   "n": 6,
+   "ref": "shoftim/9/15"
+  },
+  {
+   "forma": "בארז",
+   "forma_he": "בָּאֶ֗רֶז",
+   "n": 4,
+   "ref": "mlakhim_a/7/3"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmpc",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

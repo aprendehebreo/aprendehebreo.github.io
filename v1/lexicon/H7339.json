@@ -1,0 +1,57 @@
+{
+ "strong": "H7339",
+ "he": "רחב",
+ "xlit": "rᵉchôb",
+ "pron": "rekh-obe'",
+ "def_en": [
+  "1) broad or open place or plaza"
+ ],
+ "kjv": "broad place (way), street. See also .",
+ "expl": "a width, i.e. (concretely) avenue or area",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7337",
+  "H1050"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "ברחוב",
+   "forma_he": "בָרְח֖וֹב",
+   "n": 8,
+   "ref": "bereshit/19/2"
+  },
+  {
+   "forma": "ברחבות",
+   "forma_he": "בָּרְחֹב֑וֹת",
+   "n": 7,
+   "ref": "nachum/2/5"
+  },
+  {
+   "forma": "רחוב",
+   "forma_he": "רְח֑וֹב",
+   "n": 5,
+   "ref": "shoftim/18/28"
+  },
+  {
+   "forma": "ברחבתיה",
+   "forma_he": "בִּרְחֹבֹתֶ֑יהָ",
+   "n": 3,
+   "ref": "yirmiyahu/49/26"
+  },
+  {
+   "forma": "וברחבתיה",
+   "forma_he": "וּבִרְחֹבֹתֶ֛יהָ",
+   "n": 2,
+   "ref": "yeshayahu/15/3"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsc",
+  "HRd/Ncfsa",
+  "HR/Ncfpc/Sp3fs",
+  "HRd/Ncfpa",
+  "HNcfsa"
+ ],
+ "glosa_es": ""
+}

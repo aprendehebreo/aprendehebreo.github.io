@@ -1,0 +1,60 @@
+{
+ "strong": "H4124",
+ "he": "מואב",
+ "xlit": "Môwʼâb",
+ "pron": "mo-awb",
+ "def_en": [
+  "Moab = \"of his father\"",
+  "n pr m",
+  "1) a son of Lot by his eldest daughter",
+  "2) the nation descended from the son of Lot",
+  "n pr loc",
+  "3) the land inhabited by the descendants of the son of Lot"
+ ],
+ "kjv": "Moab.",
+ "expl": "Moab, an incestuous son of Lot; also his territory and descendants",
+ "etim": "from a prolonged form of the prepositional prefix m-and ; from (her (the mother's)) father;",
+ "raices": [
+  "H1"
+ ],
+ "ocurrencias": 181,
+ "formas": [
+  {
+   "forma": "מואב",
+   "forma_he": "מוֹאָ֑ב",
+   "n": 160,
+   "ref": "bereshit/19/37"
+  },
+  {
+   "forma": "למואב",
+   "forma_he": "לְמוֹאָ֖ב",
+   "n": 10,
+   "ref": "bamidbar/22/4"
+  },
+  {
+   "forma": "ומואב",
+   "forma_he": "וּמוֹאָב֙",
+   "n": 4,
+   "ref": "yeshayahu/11/14"
+  },
+  {
+   "forma": "במואב",
+   "forma_he": "בְּמוֹאָ֣ב",
+   "n": 3,
+   "ref": "shmuel_a/14/47"
+  },
+  {
+   "forma": "וממואב",
+   "forma_he": "וּמִמּוֹאָב֙",
+   "n": 2,
+   "ref": "shmuel_b/8/12"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/R/Np",
+  "HC/Np"
+ ],
+ "glosa_es": "Moab"
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H3556",
+ "he": "כוכב",
+ "xlit": "kôwkâb",
+ "pron": "ko-kawb'",
+ "def_en": [
+  "1) star",
+  "1a) of Messiah, brothers, youth, numerous progeny, personification, God's omniscience (fig.)"
+ ],
+ "kjv": "star(-gazer).",
+ "expl": "a star (as round or as shining); figuratively, a prince",
+ "etim": "probably from the same as (in the sense of rolling) or (in the sense of blazing);",
+ "raices": [
+  "H3522",
+  "H3554"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "ככוכבי",
+   "forma_he": "כְּכוֹכְבֵ֣י",
+   "n": 7,
+   "ref": "bereshit/22/17"
+  },
+  {
+   "forma": "הכוכבים",
+   "forma_he": "הַכּוֹכָבִֽים",
+   "n": 6,
+   "ref": "bereshit/1/16"
+  },
+  {
+   "forma": "וכוכבים",
+   "forma_he": "וְכוֹכָבִ֖ים",
+   "n": 6,
+   "ref": "yirmiyahu/31/35"
+  },
+  {
+   "forma": "כוכבים",
+   "forma_he": "כּֽוֹכָבִ֔ים",
+   "n": 4,
+   "ref": "bereshit/37/9"
+  },
+  {
+   "forma": "כוכבי",
+   "forma_he": "כוֹכְבֵ֤י",
+   "n": 4,
+   "ref": "yeshayahu/13/10"
+  }
+ ],
+ "morph": [
+  "HR/Ncmpc",
+  "HTd/Ncmpa",
+  "HC/Ncmpa",
+  "HNcmpa",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

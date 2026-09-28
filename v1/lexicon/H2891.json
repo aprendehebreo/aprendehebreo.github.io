@@ -1,0 +1,71 @@
+{
+ "strong": "H2891",
+ "he": "טהר",
+ "xlit": "ṭâhêr",
+ "pron": "taw-hare'",
+ "def_en": [
+  "1) to be clean, be pure",
+  "1a) (Qal)",
+  "1a1) to be clean (physically-of disease)",
+  "1a2) to be clean ceremonially",
+  "1a3) to purify, be clean morally, made clean",
+  "1b) (Piel)",
+  "1b1) to cleanse, purify",
+  "1b1a) physically",
+  "1b1b) ceremonially",
+  "1b1c) morally",
+  "1b2) to pronounce clean",
+  "1b3) to perform the ceremony of cleansing",
+  "1c) (Pual) to be cleansed, be pronounced clean",
+  "1d) (Hithpael)",
+  "1d1) to purify oneself",
+  "1d1a) ceremonially",
+  "1d1b) morally",
+  "1d2) to present oneself for purification"
+ ],
+ "kjv": "be (make, make self, pronounce) clean, cleanse (self), purge, purify(-ier, self).",
+ "expl": "to be pure (physical sound, clear, unadulterated; Levitically, uncontaminated; morally, innocent or holy)",
+ "etim": "a primitive root; properly, to be bright; i.e. (by implication)",
+ "raices": [],
+ "ocurrencias": 95,
+ "formas": [
+  {
+   "forma": "וטהר",
+   "forma_he": "וְטָהֵֽר",
+   "n": 21,
+   "ref": "vayikra/11/32"
+  },
+  {
+   "forma": "המטהר",
+   "forma_he": "הַמִּטַּהֵ֛ר",
+   "n": 12,
+   "ref": "vayikra/14/7"
+  },
+  {
+   "forma": "וטהרו",
+   "forma_he": "וְטִהֲר֤וֹ",
+   "n": 8,
+   "ref": "vayikra/13/6"
+  },
+  {
+   "forma": "יטהר",
+   "forma_he": "יִטְהַ֤ר",
+   "n": 5,
+   "ref": "vayikra/15/13"
+  },
+  {
+   "forma": "לטהר",
+   "forma_he": "לָטֹֽהַר",
+   "n": 5,
+   "ref": "shemot/24/10"
+  }
+ ],
+ "morph": [
+  "HC/Vqq3ms",
+  "HTd/Vtrmsa",
+  "HC/Vpq3ms/Sp3ms",
+  "HC/Vpq3ms",
+  "HVqi3ms"
+ ],
+ "glosa_es": ""
+}

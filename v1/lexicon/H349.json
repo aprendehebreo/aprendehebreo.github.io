@@ -1,0 +1,57 @@
+{
+ "strong": "H349",
+ "he": "איך",
+ "xlit": "ʼêyk",
+ "pron": "ake",
+ "def_en": [
+  "interrog adv",
+  "1) how?",
+  "interj",
+  "2) how! (in lamentation)",
+  "3) expression of satisfaction"
+ ],
+ "kjv": "how, what.",
+ "expl": "how? or how!; also where",
+ "etim": "also ; and ; prolonged from ;",
+ "raices": [
+  "H335"
+ ],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "איך",
+   "forma_he": "אֵיךְ֙",
+   "n": 43,
+   "ref": "bereshit/44/34"
+  },
+  {
+   "forma": "ואיך",
+   "forma_he": "וְאֵ֥יךְ",
+   "n": 18,
+   "ref": "bereshit/26/9"
+  },
+  {
+   "forma": "איכה",
+   "forma_he": "אַיֶּֽכָּה",
+   "n": 17,
+   "ref": "bereshit/3/9"
+  },
+  {
+   "forma": "איככה",
+   "forma_he": "אֵיכָ֖כָה",
+   "n": 3,
+   "ref": "shir_hashirim/5/3"
+  },
+  {
+   "forma": "ואיככה",
+   "forma_he": "וְאֵֽיכָכָ֤ה",
+   "n": 1,
+   "ref": "ester/8/6"
+  }
+ ],
+ "morph": [
+  "HTi",
+  "HC/Ti"
+ ],
+ "glosa_es": ""
+}

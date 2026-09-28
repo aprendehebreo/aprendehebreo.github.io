@@ -1,0 +1,55 @@
+{
+ "strong": "H3470",
+ "he": "ישעיה",
+ "xlit": "Yᵉshaʻyâh",
+ "pron": "yesh-ah-yaw'",
+ "def_en": [
+  "Isaiah or Jesaiah or Jeshaiah = \"Jehovah has saved\"",
+  "1) the major prophet, son of Amoz, who prophesied concerning Judah and Jerusalem during the days of kings Uzziah, Jotham, Ahaz, and Hezekiah of Judah; author of the prophetic book by his name; tradition has it that he was sawn asunder in the trunk of a carob tree by king Manasseh and that this is the incident referred to in Heb 11:37",
+  "2) son of Hananiah, brother of Pelatiah, and grandson of Zerubbabel",
+  "3) a Benjamite",
+  "4) one of the 6 sons of Jeduthun",
+  "5) son of Rehabiah, a descendant of Moses through Gershom, and an ancestor of a Levite treasurer in the time of David",
+  "6) son of Athaliah and chief of the house of Elam who returned with Ezra",
+  "7) a chief of the descendants of Merari who returned with Ezra"
+ ],
+ "kjv": "Isaiah, Jesaiah, Jeshaiah.",
+ "expl": "Jeshajah, the name of seven Israelites",
+ "etim": "or ; from and ; Jah has saved;",
+ "raices": [
+  "H3467",
+  "H3050"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "ישעיהו",
+   "forma_he": "יְשַֽׁעְיָ֥הוּ",
+   "n": 32,
+   "ref": "mlakhim_b/19/2"
+  },
+  {
+   "forma": "ישעיה",
+   "forma_he": "יְשַֽׁעְיָ֖ה",
+   "n": 3,
+   "ref": "ezra/8/7"
+  },
+  {
+   "forma": "וישעיהו",
+   "forma_he": "וִֽ֠ישַׁעְיָהוּ",
+   "n": 3,
+   "ref": "divrei_hayamim_a/25/3"
+  },
+  {
+   "forma": "וישעיה",
+   "forma_he": "וִישַֽׁעְיָ֑ה",
+   "n": 1,
+   "ref": "divrei_hayamim_a/3/21"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

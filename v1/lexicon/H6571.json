@@ -1,0 +1,58 @@
+{
+ "strong": "H6571",
+ "he": "פרש",
+ "xlit": "pârâsh",
+ "pron": "paw-rawsh'",
+ "def_en": [
+  "1) horse, steed, warhorse",
+  "2) horseman"
+ ],
+ "kjv": "horseman.",
+ "expl": "a steed (as stretched out to a vehicle, not single nor for mounting ); also (by implication) a driver (in a chariot), i.e. (collectively) cavalry",
+ "etim": "from ; (compare )",
+ "raices": [
+  "H6567",
+  "H5483"
+ ],
+ "ocurrencias": 57,
+ "formas": [
+  {
+   "forma": "פרשים",
+   "forma_he": "פָּרָשִׁ֑ים",
+   "n": 17,
+   "ref": "bereshit/50/9"
+  },
+  {
+   "forma": "ופרשים",
+   "forma_he": "וּפָ֣רָשִׁ֔ים",
+   "n": 9,
+   "ref": "mlakhim_a/1/5"
+  },
+  {
+   "forma": "ופרשיו",
+   "forma_he": "וּפָרָשָׁ֖יו",
+   "n": 8,
+   "ref": "shemot/14/9"
+  },
+  {
+   "forma": "הפרשים",
+   "forma_he": "הַפָּ֣רָשִׁ֔ים",
+   "n": 5,
+   "ref": "shemot/14/28"
+  },
+  {
+   "forma": "ובפרשיו",
+   "forma_he": "וּבְפָרָשָֽׁיו",
+   "n": 4,
+   "ref": "shemot/14/17"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HC/Ncmpa",
+  "HC/Ncmpc/Sp3ms",
+  "HC/R/Ncmpa",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": ""
+}

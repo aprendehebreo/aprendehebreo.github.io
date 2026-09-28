@@ -1,0 +1,61 @@
+{
+ "strong": "H6817",
+ "he": "צעק",
+ "xlit": "tsâʻaq",
+ "pron": "tsaw-ak'",
+ "def_en": [
+  "1) to cry, cry out, call, cry for help",
+  "1a) (Qal)",
+  "1a1) to cry, cry out (for help)",
+  "1a2) to cry, cry out (in distress or need)",
+  "1a3) to make outcry, clamour",
+  "1b) (Niphal) to be summoned",
+  "1c) (Piel) to cry aloud (in grief)",
+  "1d) (Hiphil) to call together"
+ ],
+ "kjv": "[idiom] at all, call together, cry (out), gather (selves) (together).",
+ "expl": "to shriek; (by implication) to proclaim (an assembly)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 55,
+ "formas": [
+  {
+   "forma": "ויצעק",
+   "forma_he": "וַיִּצְעַ֣ק",
+   "n": 12,
+   "ref": "bereshit/27/34"
+  },
+  {
+   "forma": "ויצעקו",
+   "forma_he": "וַיִּצְעֲק֥וּ",
+   "n": 10,
+   "ref": "shemot/5/15"
+  },
+  {
+   "forma": "יצעק",
+   "forma_he": "יִצְעַק֙",
+   "n": 4,
+   "ref": "shemot/22/22"
+  },
+  {
+   "forma": "צעקה",
+   "forma_he": "צְעָקָ֔ה",
+   "n": 4,
+   "ref": "bereshit/27/34"
+  },
+  {
+   "forma": "צעק",
+   "forma_he": "צָעֹ֤ק",
+   "n": 3,
+   "ref": "shemot/22/22"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HVqi3ms",
+  "HVqp3fs",
+  "HC/VNw3ms"
+ ],
+ "glosa_es": ""
+}

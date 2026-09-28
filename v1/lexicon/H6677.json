@@ -1,0 +1,58 @@
+{
+ "strong": "H6677",
+ "he": "צואר",
+ "xlit": "tsavvâʼr",
+ "pron": "tsav-vawr'",
+ "def_en": [
+  "1) neck, back of neck",
+  "1a) neck, back of neck (of man)",
+  "1b) neck (of animals)"
+ ],
+ "kjv": "neck.",
+ "expl": "the back of the neck (as that on which burdens are bound)",
+ "etim": "or ; (Nehemiah 3:5), or lemma צַוָּרן missing vowel, corrected to צַוָּרֹן",
+ "raices": [
+  "H6696"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "צוארך",
+   "forma_he": "צַוָּארֶֽךָ",
+   "n": 9,
+   "ref": "bereshit/27/40"
+  },
+  {
+   "forma": "צואר",
+   "forma_he": "צַוָּ֖אר",
+   "n": 7,
+   "ref": "yeshayahu/8/8"
+  },
+  {
+   "forma": "צוארו",
+   "forma_he": "צַוָּארָ֖ו",
+   "n": 5,
+   "ref": "bereshit/33/4"
+  },
+  {
+   "forma": "צואריו",
+   "forma_he": "צַוָּארָֽיו",
+   "n": 4,
+   "ref": "bereshit/27/16"
+  },
+  {
+   "forma": "צוארי",
+   "forma_he": "צַוְּארֵ֥י",
+   "n": 4,
+   "ref": "bereshit/45/14"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp2ms",
+  "HNcmsc/Sp3ms",
+  "HNcmpc/Sp3ms",
+  "HNcmsc/Sp2fs",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

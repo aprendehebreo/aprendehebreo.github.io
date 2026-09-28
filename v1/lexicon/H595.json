@@ -1,0 +1,40 @@
+{
+ "strong": "H595",
+ "he": "אנכי",
+ "xlit": "ʼânôkîy",
+ "pron": "aw-no-kee'",
+ "def_en": [
+  "1) I (first pers. sing.)"
+ ],
+ "kjv": "I, me, [idiom] which.",
+ "expl": "I",
+ "etim": "sometimes, ; a primitive pronoun;",
+ "raices": [],
+ "ocurrencias": 359,
+ "formas": [
+  {
+   "forma": "אנכי",
+   "forma_he": "אָנֹ֖כִי",
+   "n": 293,
+   "ref": "bereshit/3/10"
+  },
+  {
+   "forma": "ואנכי",
+   "forma_he": "וְאָנֹכִ֖י",
+   "n": 64,
+   "ref": "bereshit/15/2"
+  },
+  {
+   "forma": "האנכי",
+   "forma_he": "הֶאָנֹכִ֣י",
+   "n": 2,
+   "ref": "bamidbar/11/12"
+  }
+ ],
+ "morph": [
+  "HPp1cs",
+  "HC/Pp1cs",
+  "HTi/Pp1cs"
+ ],
+ "glosa_es": "yo"
+}

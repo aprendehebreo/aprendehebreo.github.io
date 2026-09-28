@@ -1,0 +1,63 @@
+{
+ "strong": "H804",
+ "he": "אשור",
+ "xlit": "ʼAshshûwr",
+ "pron": "ash-shoor'",
+ "def_en": [
+  "Asshur or Assyria = \"a step\"",
+  "n pr m",
+  "1) the second son of Shem, eponymous ancestor of the Assyrians",
+  "2) the people of Assyria",
+  "n pr loc",
+  "3) the nation, Assyria",
+  "4) the land, Assyria or Asshur"
+ ],
+ "kjv": "Asshur, Assur, Assyria, Assyrians. See .",
+ "expl": "Ashshur, the second son of Shem; also his descendants and the country occupied by them (i.e. Assyria), its region and its empire",
+ "etim": "or ; apparently from (in the sense of successful);",
+ "raices": [
+  "H833",
+  "H838"
+ ],
+ "ocurrencias": 151,
+ "formas": [
+  {
+   "forma": "אשור",
+   "forma_he": "אַשּׁ֑וּר",
+   "n": 130,
+   "ref": "bereshit/2/14"
+  },
+  {
+   "forma": "אשורה",
+   "forma_he": "אַשּׁ֑וּרָה",
+   "n": 6,
+   "ref": "bereshit/25/18"
+  },
+  {
+   "forma": "מאשור",
+   "forma_he": "מֵֽאַשּׁ֑וּר",
+   "n": 5,
+   "ref": "yeshayahu/10/24"
+  },
+  {
+   "forma": "ואשור",
+   "forma_he": "וְאַשּׁ֑וּר",
+   "n": 4,
+   "ref": "bereshit/10/22"
+  },
+  {
+   "forma": "באשור",
+   "forma_he": "בְּאַשּׁ֑וּר",
+   "n": 1,
+   "ref": "yeshayahu/19/23"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Asiria"
+}

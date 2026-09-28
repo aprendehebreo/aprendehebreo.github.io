@@ -1,0 +1,56 @@
+{
+ "strong": "H8317",
+ "he": "שרץ",
+ "xlit": "shârats",
+ "pron": "shaw-rats'",
+ "def_en": [
+  "1) (Qal) to teem, swarm, multiply",
+  "1a) to swarm, teem",
+  "1b2) to swarm"
+ ],
+ "kjv": "breed (bring forth, increase) abundantly (in abundance), creep, move.",
+ "expl": "to wriggle, i.e. (by implication) swarm or abound",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 14,
+ "formas": [
+  {
+   "forma": "השרץ",
+   "forma_he": "הַשֶּׁ֖רֶץ",
+   "n": 5,
+   "ref": "bereshit/7/21"
+  },
+  {
+   "forma": "שרצו",
+   "forma_he": "שָׁרְצ֨וּ",
+   "n": 2,
+   "ref": "bereshit/1/21"
+  },
+  {
+   "forma": "ישרצו",
+   "forma_he": "יִשְׁרְצ֣וּ",
+   "n": 1,
+   "ref": "bereshit/1/20"
+  },
+  {
+   "forma": "ושרצו",
+   "forma_he": "וְשָֽׁרְצ֣וּ",
+   "n": 1,
+   "ref": "bereshit/8/17"
+  },
+  {
+   "forma": "וישרצו",
+   "forma_he": "וַֽיִּשְׁרְצ֛וּ",
+   "n": 1,
+   "ref": "shemot/1/7"
+  }
+ ],
+ "morph": [
+  "HTd/Vqrmsa",
+  "HVqi3mp",
+  "HVqp3cp",
+  "HC/Vqq3cp",
+  "HVqv2mp"
+ ],
+ "glosa_es": ""
+}

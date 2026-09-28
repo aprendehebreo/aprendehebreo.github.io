@@ -1,0 +1,79 @@
+{
+ "strong": "H8085",
+ "he": "שמע",
+ "xlit": "shâmaʻ",
+ "pron": "shaw-mah'",
+ "def_en": [
+  "v",
+  "1) to hear, listen to, obey",
+  "1a) (Qal)",
+  "1a1) to hear (perceive by ear)",
+  "1a2) to hear of or concerning",
+  "1a3) to hear (have power to hear)",
+  "1a4) to hear with attention or interest, listen to",
+  "1a5) to understand (language)",
+  "1a6) to hear (of judicial cases)",
+  "1a7) to listen, give heed",
+  "1a7a) to consent, agree",
+  "1a7b) to grant request",
+  "1a8) to listen to, yield to",
+  "1a9) to obey, be obedient",
+  "1b) (Niphal)",
+  "1b1) to be heard (of voice or sound)",
+  "1b2) to be heard of",
+  "1b3) to be regarded, be obeyed",
+  "1c) (Piel) to cause to hear, call to hear, summon",
+  "1d) (Hiphil)",
+  "1d1) to cause to hear, tell, proclaim, utter a sound",
+  "1d2) to sound aloud (musical term)",
+  "1d3) to make proclamation, summon",
+  "1d4) to cause to be heard",
+  "n m",
+  "2) sound"
+ ],
+ "kjv": "[idiom] attentively, call (gather) together, [idiom] carefully, [idiom] certainly, consent, consider, be content, declare, [idiom] diligently, discern, give ear, (cause to, let, make to) hear(-ken, tell), [idiom] indeed, listen, make (a) noise, (be) obedient, obey, perceive, (make a) proclaim(-ation), publish, regard, report, shew (forth), (make a) sound, [idiom] surely, tell, understand, whosoever (heareth), witness.",
+ "expl": "to hear intelligently (often with implication of attention, obedience, etc.; causatively, to tell, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 1165,
+ "formas": [
+  {
+   "forma": "שמעו",
+   "forma_he": "שִׁמְעוּ",
+   "n": 164,
+   "ref": "bereshit/37/6"
+  },
+  {
+   "forma": "שמע",
+   "forma_he": "שָׁמַ֥ע",
+   "n": 162,
+   "ref": "bereshit/16/11"
+  },
+  {
+   "forma": "וישמע",
+   "forma_he": "וַיִּשְׁמַ֣ע",
+   "n": 94,
+   "ref": "bereshit/14/14"
+  },
+  {
+   "forma": "שמעתי",
+   "forma_he": "שָׁמַ֖עְתִּי",
+   "n": 49,
+   "ref": "bereshit/3/10"
+  },
+  {
+   "forma": "תשמע",
+   "forma_he": "תִּשְׁמַ֥ע",
+   "n": 44,
+   "ref": "bereshit/41/15"
+  }
+ ],
+ "morph": [
+  "HVqv2mp",
+  "HC/Vqw3ms",
+  "HR/Vqc",
+  "HVqp3cp",
+  "HVqp3ms"
+ ],
+ "glosa_es": "oír; escuchar; obedecer"
+}

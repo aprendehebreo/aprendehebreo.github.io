@@ -1,0 +1,59 @@
+{
+ "strong": "H2572",
+ "he": "חמשים",
+ "xlit": "chămishshîym",
+ "pron": "kham-ish-sheem'",
+ "def_en": [
+  "1) fifty",
+  "1a) fifty (cardinal number)",
+  "1b) a multiple of fifty (with other numbers)",
+  "1c) fiftieth (ordinal number)"
+ ],
+ "kjv": "fifty.",
+ "expl": "fifty",
+ "etim": "multiple of ;",
+ "raices": [
+  "H2568"
+ ],
+ "ocurrencias": 163,
+ "formas": [
+  {
+   "forma": "חמשים",
+   "forma_he": "חֲמִשִּׁ֤ים",
+   "n": 97,
+   "ref": "bereshit/6/15"
+  },
+  {
+   "forma": "וחמשים",
+   "forma_he": "וַֽחֲמִשִּׁ֖ים",
+   "n": 45,
+   "ref": "bereshit/9/28"
+  },
+  {
+   "forma": "החמשים",
+   "forma_he": "הַחֲמִשִּׁים֙",
+   "n": 8,
+   "ref": "vayikra/25/10"
+  },
+  {
+   "forma": "בחמשים",
+   "forma_he": "בַּחֲמִשִּׁ֗ים",
+   "n": 4,
+   "ref": "shemot/27/18"
+  },
+  {
+   "forma": "וחמשיו",
+   "forma_he": "וַחֲמִשָּׁ֑יו",
+   "n": 3,
+   "ref": "mlakhim_b/1/9"
+  }
+ ],
+ "morph": [
+  "HAcbpa",
+  "HC/Acbpa",
+  "HTd/Acbpa",
+  "HR/Acbpa",
+  "HC/Acbpc/Sp3ms"
+ ],
+ "glosa_es": "cincuenta"
+}

@@ -1,0 +1,68 @@
+{
+ "strong": "H6999",
+ "he": "קטר",
+ "xlit": "qâṭar",
+ "pron": "kaw-tar'",
+ "def_en": [
+  "v",
+  "1) to sacrifice, burn incense, burn sacrifices, make sacrifices smoke",
+  "1a) (Piel)",
+  "1a1) to make sacrifices smoke",
+  "1a2) to sacrifice",
+  "1b) (Pual) to smoke a sacrifice",
+  "1c) (Hiphil)",
+  "1c1) to make sacrifices smoke",
+  "1c2) to cause incense to smoke, offer incense",
+  "1c3) to make smoke upon",
+  "1d) (Hophal) to be made to smoke",
+  "n m",
+  "2) incense",
+  "n f",
+  "3) incense-altar"
+ ],
+ "kjv": "burn (incense, sacrifice) (upon), (altar for) incense, kindle, offer (incense, a sacrifice).",
+ "expl": "to smoke, i.e. turn into fragrance by fire (especially as an act of worship)",
+ "etim": "a primitive root (identical with through the idea of fumigation in a close place and perhaps thus driving out the occupants);",
+ "raices": [],
+ "ocurrencias": 117,
+ "formas": [
+  {
+   "forma": "והקטיר",
+   "forma_he": "וְהִקְטִ֥יר",
+   "n": 19,
+   "ref": "shemot/30/7"
+  },
+  {
+   "forma": "ויקטר",
+   "forma_he": "וַיַּקְטֵ֥ר",
+   "n": 14,
+   "ref": "shemot/40/27"
+  },
+  {
+   "forma": "להקטיר",
+   "forma_he": "לְהַקְטִ֥יר",
+   "n": 12,
+   "ref": "shemot/30/20"
+  },
+  {
+   "forma": "ומקטרים",
+   "forma_he": "וּֽמְקַטְּרִ֖ים",
+   "n": 8,
+   "ref": "mlakhim_a/22/44"
+  },
+  {
+   "forma": "לקטר",
+   "forma_he": "לְקַטֵּ֥ר",
+   "n": 8,
+   "ref": "yirmiyahu/11/13"
+  }
+ ],
+ "morph": [
+  "HC/Vhq3ms",
+  "HR/Vhc",
+  "HC/Vhw3ms",
+  "HR/Vpc",
+  "HC/Vprmpa"
+ ],
+ "glosa_es": ""
+}

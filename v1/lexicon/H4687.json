@@ -1,0 +1,59 @@
+{
+ "strong": "H4687",
+ "he": "מצוה",
+ "xlit": "mitsvâh",
+ "pron": "mits-vaw'",
+ "def_en": [
+  "1) commandment",
+  "1a) commandment (of man)",
+  "1b) the commandment (of God)",
+  "1c) commandment (of code of wisdom)"
+ ],
+ "kjv": "(which was) commanded(-ment), law, ordinance, precept.",
+ "expl": "a command, whether human or divine (collectively, the Law)",
+ "etim": "from ;",
+ "raices": [
+  "H6680"
+ ],
+ "ocurrencias": 184,
+ "formas": [
+  {
+   "forma": "מצות",
+   "forma_he": "מַצּ֣וֹת",
+   "n": 42,
+   "ref": "shemot/12/15"
+  },
+  {
+   "forma": "מצותיו",
+   "forma_he": "מִצְוֺתָ֗יו",
+   "n": 24,
+   "ref": "devarim/4/40"
+  },
+  {
+   "forma": "המצוה",
+   "forma_he": "הַמִּצְוָ֛ה",
+   "n": 20,
+   "ref": "devarim/5/31"
+  },
+  {
+   "forma": "מצותי",
+   "forma_he": "מִצְוֺתַ֖י",
+   "n": 19,
+   "ref": "bereshit/26/5"
+  },
+  {
+   "forma": "מצותיך",
+   "forma_he": "מִצְוֺתֶֽיךָ",
+   "n": 18,
+   "ref": "tehilim/119/6"
+  }
+ ],
+ "morph": [
+  "HNcfpc/Sp3ms",
+  "HNcfpc",
+  "HTd/Ncfsa",
+  "HNcfpc/Sp1cs",
+  "HNcfpc/Sp2ms"
+ ],
+ "glosa_es": "mandamiento; precepto"
+}

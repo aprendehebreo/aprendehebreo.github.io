@@ -1,0 +1,58 @@
+{
+ "strong": "H241",
+ "he": "אזן",
+ "xlit": "ʼôzen",
+ "pron": "o'-zen",
+ "def_en": [
+  "1) ear, as part of the body",
+  "2) ear, as organ of hearing",
+  "3) (subjective) to uncover the ear to reveal; the receiver of divine revelation"
+ ],
+ "kjv": "[phrase] advertise, audience, [phrase] displease, ear, hearing, [phrase] show.",
+ "expl": "broadness. i.e. (concrete) the ear (from its form in man)",
+ "etim": "from ;",
+ "raices": [
+  "H238"
+ ],
+ "ocurrencias": 188,
+ "formas": [
+  {
+   "forma": "באזני",
+   "forma_he": "בְּאָזְנֵ֣י",
+   "n": 49,
+   "ref": "bereshit/23/10"
+  },
+  {
+   "forma": "אזן",
+   "forma_he": "אֹ֨זֶן",
+   "n": 25,
+   "ref": "shemot/29/20"
+  },
+  {
+   "forma": "אזנך",
+   "forma_he": "אֲזֵנֶ֑ךָ",
+   "n": 22,
+   "ref": "devarim/23/14"
+  },
+  {
+   "forma": "אזנם",
+   "forma_he": "אָזְנָם֙",
+   "n": 10,
+   "ref": "vayikra/8/24"
+  },
+  {
+   "forma": "אזני",
+   "forma_he": "אָזְנִ֑י",
+   "n": 9,
+   "ref": "shmuel_a/20/2"
+  }
+ ],
+ "morph": [
+  "HR/Ncfdc",
+  "HNcfsc/Sp2ms",
+  "HNcfsa",
+  "HR/Ncfdc/Sp1cs",
+  "HNcfsc"
+ ],
+ "glosa_es": "oído; oreja"
+}

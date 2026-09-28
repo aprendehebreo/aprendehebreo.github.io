@@ -1,0 +1,58 @@
+{
+ "strong": "H3526",
+ "he": "כבס",
+ "xlit": "kâbaç",
+ "pron": "kaw-bas'",
+ "def_en": [
+  "1) to wash (by treading), be washed, perform the work of a fuller",
+  "1a) (Qal) washer, fuller, treader (participle)",
+  "1b) (Piel) to wash (garments, person)",
+  "1c) (Pual) to be washed",
+  "1d) (Hothpael) to be washed out"
+ ],
+ "kjv": "fuller, wash(-ing).",
+ "expl": "to trample; hence, to wash (properly, by stamping with the feet), whether literal (including the fulling process) or figurative",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "יכבס",
+   "forma_he": "יְכַבֵּ֥ס",
+   "n": 17,
+   "ref": "vayikra/11/25"
+  },
+  {
+   "forma": "וכבס",
+   "forma_he": "וְכִבֶּ֥ס",
+   "n": 14,
+   "ref": "vayikra/13/6"
+  },
+  {
+   "forma": "וכבסו",
+   "forma_he": "וְכִבְּס֖וּ",
+   "n": 3,
+   "ref": "shemot/19/10"
+  },
+  {
+   "forma": "כובס",
+   "forma_he": "כוֹבֵֽס",
+   "n": 3,
+   "ref": "mlakhim_b/18/17"
+  },
+  {
+   "forma": "כבס",
+   "forma_he": "כִּבֵּ֤ס",
+   "n": 2,
+   "ref": "bereshit/49/11"
+  }
+ ],
+ "morph": [
+  "HVpi3ms",
+  "HC/Vpq3ms",
+  "HC/Vpq3cp",
+  "HVqrmsa",
+  "HVpp3ms"
+ ],
+ "glosa_es": ""
+}

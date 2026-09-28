@@ -1,0 +1,62 @@
+{
+ "strong": "H5012",
+ "he": "נבא",
+ "xlit": "nâbâʼ",
+ "pron": "naw-baw'",
+ "def_en": [
+  "1) to prophesy",
+  "1a) (Niphal)",
+  "1a1) to prophesy",
+  "1a1a) under influence of divine spirit",
+  "1a1b) of false prophets",
+  "1b)(Hithpael)",
+  "1b1) to prophesy",
+  "1b1a) under influence of divine spirit",
+  "1b1b) of false prophets"
+ ],
+ "kjv": "prophesy(-ing), make self a prophet.",
+ "expl": "to prophesy, i.e. speak (or sing) by inspiration (in prediction or simple discourse)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 115,
+ "formas": [
+  {
+   "forma": "הנבא",
+   "forma_he": "הִנָּבֵ֣א",
+   "n": 21,
+   "ref": "yechezkel/11/4"
+  },
+  {
+   "forma": "נבאים",
+   "forma_he": "נְבִאִ֖ים",
+   "n": 10,
+   "ref": "shmuel_a/10/10"
+  },
+  {
+   "forma": "הנבאים",
+   "forma_he": "הַנְּבִאִ֔ים",
+   "n": 10,
+   "ref": "mlakhim_a/22/12"
+  },
+  {
+   "forma": "והנבא",
+   "forma_he": "וְהִנָּבֵ֖א",
+   "n": 9,
+   "ref": "yechezkel/6/2"
+  },
+  {
+   "forma": "נבא",
+   "forma_he": "נָבֹ֖א",
+   "n": 8,
+   "ref": "devarim/1/22"
+  }
+ ],
+ "morph": [
+  "HVNv2ms",
+  "HVNrmpa",
+  "HTd/VNrmpa",
+  "HC/VNv2ms",
+  "HC/Vtw3mp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H6471",
+ "he": "פעם",
+ "xlit": "paʻam",
+ "pron": "pah'-am",
+ "def_en": [
+  "1) stroke, beat, foot, step, anvil, occurrence",
+  "1a) foot, hoof-beat, footfall, footstep",
+  "1b) anvil",
+  "1c) occurrence, time, stroke, beat",
+  "1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another"
+ ],
+ "kjv": "anvil, corner, foot(-step), going, (hundred-) fold, [idiom] now, (this) [phrase] once, order, rank, step, [phrase] thrice, (often-), second, this, two) time(-s), twice, wheel.",
+ "expl": "a stroke, literally or figuratively (in various applications, as follow)",
+ "etim": "or (feminine) ; from ;",
+ "raices": [
+  "H6470"
+ ],
+ "ocurrencias": 118,
+ "formas": [
+  {
+   "forma": "פעמים",
+   "forma_he": "פַעֲמַ֔יִם",
+   "n": 56,
+   "ref": "bereshit/27/36"
+  },
+  {
+   "forma": "בפעם",
+   "forma_he": "בַּפַּ֣עַם",
+   "n": 16,
+   "ref": "shemot/8/28"
+  },
+  {
+   "forma": "הפעם",
+   "forma_he": "הַפַּ֗עַם",
+   "n": 13,
+   "ref": "bereshit/2/23"
+  },
+  {
+   "forma": "פעם",
+   "forma_he": "פַּ֣עַם",
+   "n": 11,
+   "ref": "yehoshua/6/3"
+  },
+  {
+   "forma": "פעמי",
+   "forma_he": "פַּעֲמֵ֖י",
+   "n": 7,
+   "ref": "shoftim/5/28"
+  }
+ ],
+ "morph": [
+  "HNcfpa",
+  "HR/Ncfsa",
+  "HTd/Ncfsa",
+  "HNcfda",
+  "HRd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,66 @@
+{
+ "strong": "H6565",
+ "he": "פרר",
+ "xlit": "pârar",
+ "pron": "paw-rar'",
+ "def_en": [
+  "1) to break, frustrate",
+  "1a) (Hiphil)",
+  "1a1) to break, violate",
+  "1a2) to frustrate, make ineffectual",
+  "1b) (Hophal)",
+  "1b1) to be frustrated",
+  "1b2) to be broken",
+  "1b3) to break",
+  "1c) (Pilpel) to break to bits, shatter",
+  "2) to split, divide",
+  "2a) (Qal) to split, crack through",
+  "2b) (Poel) to break apart",
+  "2c) (Hithpoel) to be split, be cracked through"
+ ],
+ "kjv": "[idiom] any ways, break (asunder), cast off, cause to cease, [idiom] clean, defeat, disannul, disappoint, dissolve, divide, make of none effect, fail, frustrate, bring (come) to nought, [idiom] utterly, make void.",
+ "expl": "to break up (usually figuratively), i.e. to violate, frustrate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "הפר",
+   "forma_he": "הֵפַֽר",
+   "n": 8,
+   "ref": "bereshit/17/14"
+  },
+  {
+   "forma": "להפר",
+   "forma_he": "לְהָפֵ֥ר",
+   "n": 7,
+   "ref": "vayikra/26/44"
+  },
+  {
+   "forma": "והפר",
+   "forma_he": "וְהֵפֵ֗ר",
+   "n": 5,
+   "ref": "bamidbar/30/9"
+  },
+  {
+   "forma": "הפרו",
+   "forma_he": "הֵפֵ֖רוּ",
+   "n": 4,
+   "ref": "yeshayahu/24/5"
+  },
+  {
+   "forma": "תפר",
+   "forma_he": "תָּפֵ֥ר",
+   "n": 4,
+   "ref": "yirmiyahu/14/21"
+  }
+ ],
+ "morph": [
+  "HR/Vhc",
+  "HVhp3ms",
+  "HVhp3cp",
+  "HC/Vhq3ms",
+  "HVha"
+ ],
+ "glosa_es": ""
+}

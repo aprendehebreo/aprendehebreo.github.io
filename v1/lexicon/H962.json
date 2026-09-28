@@ -1,0 +1,57 @@
+{
+ "strong": "H962",
+ "he": "בזז",
+ "xlit": "bâzaz",
+ "pron": "baw-zaz'",
+ "def_en": [
+  "1) to spoil, plunder, prey upon, seize",
+  "1a) (Qal) to spoil, plunder, despoil",
+  "1b) (Niphal) to be spoiled, plundered",
+  "1c) (Pual) to be taken as spoil"
+ ],
+ "kjv": "catch, gather, (take) for a prey, rob(-ber), spoil, take (away, spoil), [idiom] utterly.",
+ "expl": "to plunder",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "בזזו",
+   "forma_he": "בָּזָֽזוּ",
+   "n": 7,
+   "ref": "bamidbar/31/9"
+  },
+  {
+   "forma": "ויבזו",
+   "forma_he": "וַיָּבֹ֖זּוּ",
+   "n": 6,
+   "ref": "bereshit/34/27"
+  },
+  {
+   "forma": "ובזזו",
+   "forma_he": "וּבֻזָּֽזוּ",
+   "n": 3,
+   "ref": "yirmiyahu/50/37"
+  },
+  {
+   "forma": "יבזו",
+   "forma_he": "יָבֹֽזּוּ",
+   "n": 2,
+   "ref": "yeshayahu/10/2"
+  },
+  {
+   "forma": "ולבז",
+   "forma_he": "וְלָבֹ֣ז",
+   "n": 2,
+   "ref": "yeshayahu/10/6"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HC/Vqw3mp",
+  "HR/Vqc",
+  "HVqp1cp",
+  "HVqi3mp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,199 @@
+{
+ "id": 5,
+ "titulo": "Vocales: el sistema de niqqud",
+ "objetivos": [
+  "Reconocer los ocho signos vocálicos principales y su sonido.",
+  "Distinguir los tres jatuf, que solo se usan con las letras guturales.",
+  "Decidir cuándo el sheva se pronuncia (na) y cuándo es mudo (naj).",
+  "Entender la diferencia entre dagesh kal y dagesh jazak."
+ ],
+ "items": [
+  {
+   "id": "kamats",
+   "tipo": "niqqud",
+   "he": "טָ",
+   "es": "kamats",
+   "sonido": "a",
+   "nota": "Un trazo debajo de la letra, parecido a una T. Se lee a. En sílaba cerrada no acentuada puede sonar o (kamats jatuf)."
+  },
+  {
+   "id": "pataj",
+   "tipo": "niqqud",
+   "he": "טַ",
+   "es": "pataj",
+   "sonido": "a breve",
+   "nota": "Un trazo horizontal debajo de la letra. Se lee a, más corta que el kamats."
+  },
+  {
+   "id": "tsere",
+   "tipo": "niqqud",
+   "he": "טֵ",
+   "es": "tsere",
+   "sonido": "e",
+   "nota": "Dos puntos horizontales debajo de la letra. Se lee e (ey en algunas tradiciones)."
+  },
+  {
+   "id": "segol",
+   "tipo": "niqqud",
+   "he": "טֶ",
+   "es": "segol",
+   "sonido": "e breve",
+   "nota": "Tres puntos en triángulo debajo de la letra. Se lee e, más corta que el tsere."
+  },
+  {
+   "id": "jirik",
+   "tipo": "niqqud",
+   "he": "טִ",
+   "es": "jirik",
+   "sonido": "i",
+   "nota": "Un punto debajo de la letra. Se lee i. Cuando lo acompaña una yod (טִי) se llama jirik male."
+  },
+  {
+   "id": "jolam",
+   "tipo": "niqqud",
+   "he": "טֹ",
+   "es": "jolam",
+   "sonido": "o",
+   "nota": "Un punto arriba de la letra (jolam haser) o sobre una vav (טוֹ, jolam male). Se lee o."
+  },
+  {
+   "id": "kubuts",
+   "tipo": "niqqud",
+   "he": "טֻ",
+   "es": "kubuts",
+   "sonido": "u",
+   "nota": "Tres puntos en diagonal debajo de la letra. Se lee u."
+  },
+  {
+   "id": "shuruk",
+   "tipo": "niqqud",
+   "he": "טוּ",
+   "es": "shuruk",
+   "sonido": "u",
+   "nota": "Una vav con punto en el centro (וּ). Se lee u, igual que el kubuts, pero se escribe con letra."
+  },
+  {
+   "id": "jatuf_kamats",
+   "tipo": "niqqud",
+   "he": "עֳ",
+   "es": "jatuf kamats",
+   "sonido": "o breve",
+   "nota": "Kamats con dos puntos. Solo aparece en letras guturales (א ה ח ע) dentro de sílaba cerrada no acentuada."
+  },
+  {
+   "id": "jatuf_pataj",
+   "tipo": "niqqud",
+   "he": "אֲ",
+   "es": "jatuf pataj",
+   "sonido": "a breve (gutural)",
+   "nota": "Pataj con sheva. Se ve en אֲשֶׁר (asher, 'que'), bereshit/1/7."
+  },
+  {
+   "id": "jatuf_segol",
+   "tipo": "niqqud",
+   "he": "אֱ",
+   "es": "jatuf segol",
+   "sonido": "e breve (gutural)",
+   "nota": "Segol con sheva. Se ve en אֱלֹהִים (elohim, 'Dios'), bereshit/1/1."
+  },
+  {
+   "id": "sheva",
+   "tipo": "niqqud",
+   "he": "בְ",
+   "es": "sheva",
+   "sonido": "e muy breve o mudo",
+   "nota": "Dos puntos verticales. Se pronuncia (sheva na) al inicio de palabra y cuando sigue a otra sheva; es mudo (sheva naj) al final de palabra y cuando cierra una sílaba."
+  },
+  {
+   "id": "dagesh",
+   "tipo": "niqqud",
+   "he": "בּ",
+   "es": "dagesh",
+   "sonido": "(punto dentro de la letra)",
+   "nota": "En begadkefat (dagesh kal) cambia el sonido a oclusivo: ב se vuelve b. En cualquier otra letra (dagesh jazak) duplica la consonante: הַמֶּלֶךְ = hamélej."
+  },
+  {
+   "id": "bereshit",
+   "tipo": "palabra",
+   "he": "בְּרֵאשִׁית",
+   "es": "en el principio",
+   "xlit": "bereshít",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H7225. La primera palabra del Tanaj. Lleva sheva na al inicio (be-) y tsere en la segunda sílaba."
+  }
+ ],
+ "ejercicios": [
+  {
+   "id": "e5-1",
+   "tipo": "opcion",
+   "pregunta": "¿Qué vocal se escribe con dos puntos horizontales debajo de la letra?",
+   "opciones": [
+    "segol",
+    "tsere",
+    "jirik"
+   ],
+   "correcta": 1,
+   "explica": "El tsere es e; el segol es e breve (tres puntos); el jirik es una sola i."
+  },
+  {
+   "id": "e5-2",
+   "tipo": "opcion",
+   "pregunta": "¿Cómo se lee el shuruk?",
+   "opciones": [
+    "o",
+    "u",
+    "i"
+   ],
+   "correcta": 1,
+   "explica": "Shuruk es una vav con punto en medio: se lee u."
+  },
+  {
+   "id": "e5-3",
+   "tipo": "opcion",
+   "pregunta": "¿Con qué tipo de letras se usan los jatuf?",
+   "opciones": [
+    "Con las begadkefat",
+    "Con las guturales (א ה ח ע)",
+    "Con cualquier letra"
+   ],
+   "correcta": 1,
+   "explica": "Los tres jatuf solo aparecen junto a las guturales."
+  },
+  {
+   "id": "e5-4",
+   "tipo": "audio",
+   "pregunta": "Escucha el signo טַ. ¿Qué vocal es?",
+   "opciones": [
+    "pataj",
+    "kamats",
+    "segol"
+   ],
+   "correcta": 0,
+   "explica": "Pataj es el trazo horizontal único: se lee a breve."
+  },
+  {
+   "id": "e5-5",
+   "tipo": "escribir",
+   "pregunta": "Escribe la conjunción de la letra vav con jolam (que se lee o).",
+   "respuesta": "וֹ",
+   "explica": "El jolam male se escribe sobre una vav: וֹ."
+  },
+  {
+   "id": "e5-6",
+   "tipo": "audio",
+   "pregunta": "Escucha יוֹם. ¿Qué vocal lleva para leerse 'yom'?",
+   "opciones": [
+    "jolam",
+    "shuruk",
+    "kubuts"
+   ],
+   "correcta": 0,
+   "explica": "La ו con el punto arriba es jolam, y se lee o."
+  }
+ ],
+ "pasaje": "bereshit/1/1",
+ "html": "<h2>Los ocho signos principales</h2>\n<p>El niqqud es el sistema de puntos y trazos que fija la lectura. Todos se escriben debajo, arriba o dentro de la letra que vocalizan.</p>\n<table><tbody>\n<tr><th>Signo</th><th>Nombre</th><th>Sonido</th></tr>\n<tr><td>ָ</td><td>kamats</td><td>a</td></tr>\n<tr><td>ַ</td><td>pataj</td><td>a breve</td></tr>\n<tr><td>ֵ</td><td>tsere</td><td>e</td></tr>\n<tr><td>ֶ</td><td>segol</td><td>e breve</td></tr>\n<tr><td>ִ</td><td>jirik</td><td>i</td></tr>\n<tr><td>ֹ</td><td>jolam</td><td>o</td></tr>\n<tr><td>ֻ</td><td>kubuts</td><td>u</td></tr>\n<tr><td>וּ</td><td>shuruk</td><td>u</td></tr>\n</tbody></table>\n<p>Kamats, pataj, tsere, segol, jirik y kubuts se escriben debajo de la letra; el jolam, arriba. El shuruk es un caso especial: la vocal va dentro de la letra ו.</p>\n<h2>Los tres jatuf</h2>\n<p>Son combinaciones de una vocal corta con sheva. Solo se usan con las guturales, porque esas letras no admiten sheva mudo:</p>\n<ul>\n<li><strong>jatuf pataj</strong>: אֲ, como en אֲשֶׁר (asher).</li>\n<li><strong>jatuf segol</strong>: אֱ, como en אֱלֹהִים (elohim).</li>\n<li><strong>jatuf kamats</strong>: עֳ, se lee o breve.</li>\n</ul>\n<h2>Sheva na y sheva naj</h2>\n<p>El sheva (ְ) puede ser vocal o mudo:</p>\n<table><tbody>\n<tr><th>Caso</th><th>Nombre</th><th>Ejemplo</th></tr>\n<tr><td>Inicio de palabra</td><td>na (se pronuncia)</td><td>בְּרֵאשִׁית → be-re-shit</td></tr>\n<tr><td>Después de otra sheva</td><td>na</td><td>שְׁמַע → she-má</td></tr>\n<tr><td>Cuando cierra sílaba</td><td>naj (mudo)</td><td>se lee la consonante pegada a la anterior</td></tr>\n<tr><td>Final de palabra</td><td>naj (mudo)</td><td>no se pronuncia</td></tr>\n</tbody></table>\n<h2>Dagesh</h2>\n<p>Un punto dentro de la letra:</p>\n<ul>\n<li><strong>Dagesh kal</strong>: en begadkefat cambia el sonido a oclusivo (ב → b, כ → k, פ → p, ת → t, ג → g, ד → d).</li>\n<li><strong>Dagesh jazak</strong>: en cualquier letra excepto guturales duplica la consonante: הַמֶּלֶךְ (hamélej, &#x27;el rey&#x27;),</li>\n<p>bereshit/14/17.</p>\n</ul>\n<h2>Cómo se ve todo junto</h2>\n<p>בְּרֵאשִׁית (bereshít): sheva na en la ב, tsere en la ר, jirik en la ש, tsere en la א y una י sin vocal.</p>\n<h2>Consejo de estudio</h2>\n<p>Tapa el niqqud con el dedo y lee solo las consonantes; después destapa y compara. Ese ejercicio separa las dos capas del texto y es el que más rápido te hace leer de verdad.</p>",
+ "archivo": "05.md",
+ "items_total": 14,
+ "ejercicios_total": 6
+}

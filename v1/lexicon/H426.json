@@ -1,0 +1,58 @@
+{
+ "strong": "H426",
+ "he": "אלה",
+ "xlit": "ʼĕlâhh",
+ "pron": "el-aw'",
+ "def_en": [
+  "1) god, God",
+  "1a) god, heathen deity",
+  "1b) God (of Israel)"
+ ],
+ "kjv": "God, god.",
+ "expl": "God",
+ "etim": "(Aramaic) corresponding to ;",
+ "raices": [
+  "H433"
+ ],
+ "ocurrencias": 97,
+ "formas": [
+  {
+   "forma": "אלהא",
+   "forma_he": "אֱלָהָא֙",
+   "n": 29,
+   "ref": "daniel/2/20"
+  },
+  {
+   "forma": "אלה",
+   "forma_he": "אֵ֣לֶּה",
+   "n": 20,
+   "ref": "bereshit/2/4"
+  },
+  {
+   "forma": "אלהין",
+   "forma_he": "אֱלָהִ֔ין",
+   "n": 9,
+   "ref": "daniel/2/11"
+  },
+  {
+   "forma": "אלהך",
+   "forma_he": "אֱלָהָ֗ךְ",
+   "n": 8,
+   "ref": "daniel/6/17"
+  },
+  {
+   "forma": "לאלה",
+   "forma_he": "לָאֵ֨לֶּה֙",
+   "n": 5,
+   "ref": "bereshit/31/43"
+  }
+ ],
+ "morph": [
+  "ANcmsd/Td",
+  "ANcmsc",
+  "ANcmpa",
+  "ANcmsc/Sp2ms",
+  "ANcmsa"
+ ],
+ "glosa_es": ""
+}

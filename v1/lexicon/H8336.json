@@ -1,0 +1,58 @@
+{
+ "strong": "H8336",
+ "he": "שש",
+ "xlit": "shêsh",
+ "pron": "shaysh",
+ "def_en": [
+  "1) something bleached white, byssus, linen, fine linen",
+  "2) alabaster, similar stone, marble"
+ ],
+ "kjv": "[idiom] blue, fine (twined) linen, marble, silk.",
+ "expl": "bleached stuff, i.e. white linen or (by analogy) marble",
+ "etim": "or (for alliteration with ) ; for ;",
+ "raices": [
+  "H4897",
+  "H7893"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "שש",
+   "forma_he": "שֵׁ֥שׁ",
+   "n": 19,
+   "ref": "bereshit/7/6"
+  },
+  {
+   "forma": "ושש",
+   "forma_he": "וְשֵׁשׁ",
+   "n": 16,
+   "ref": "bereshit/8/13"
+  },
+  {
+   "forma": "השש",
+   "forma_he": "הַשֵּֽׁשׁ",
+   "n": 3,
+   "ref": "shemot/28/5"
+  },
+  {
+   "forma": "ובשש",
+   "forma_he": "וּבַשֵּׁ֖שׁ",
+   "n": 2,
+   "ref": "shemot/35/35"
+  },
+  {
+   "forma": "בשש",
+   "forma_he": "בֹשֵׁ֥שׁ",
+   "n": 1,
+   "ref": "shemot/32/1"
+  }
+ ],
+ "morph": [
+  "HAcfsa",
+  "HC/Acfsa",
+  "HTd/Ncmsa",
+  "HC/Rd/Ncmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

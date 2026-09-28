@@ -1,0 +1,62 @@
+{
+ "strong": "H7812",
+ "he": "שחה",
+ "xlit": "shâchâh",
+ "pron": "shaw-khaw'",
+ "def_en": [
+  "1) to bow down",
+  "1a) (Qal) to bow down",
+  "1b)(Hiphil) to depress (fig)",
+  "1c) (Hithpael)",
+  "1c1) to bow down, prostrate oneself",
+  "1c1a) before superior in homage",
+  "1c1b) before God in worship",
+  "1c1c) before false gods",
+  "1c1d) before angel"
+ ],
+ "kjv": "bow (self) down, crouch, fall down (flat), humbly beseech, do (make) obeisance, do reverence, make to stoop, worship.",
+ "expl": "to depress, i.e. prostrate (especially reflexive, in homage to royalty or God)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 175,
+ "formas": [
+  {
+   "forma": "וישתחו",
+   "forma_he": "וַיִּשְׁתַּ֖חוּ",
+   "n": 45,
+   "ref": "bereshit/18/2"
+  },
+  {
+   "forma": "וישתחוו",
+   "forma_he": "וְיִֽשְׁתַּחֲו֤וּ",
+   "n": 35,
+   "ref": "bereshit/27/29"
+  },
+  {
+   "forma": "להשתחות",
+   "forma_he": "לְהִשְׁתַּחֲוֺ֥ת",
+   "n": 14,
+   "ref": "bereshit/37/10"
+  },
+  {
+   "forma": "והשתחוו",
+   "forma_he": "וְהִשְׁתַּֽחֲוּוּ",
+   "n": 7,
+   "ref": "shemot/11/8"
+  },
+  {
+   "forma": "ותשתחו",
+   "forma_he": "וַתִּשְׁתַּ֖חוּ",
+   "n": 7,
+   "ref": "shmuel_a/25/23"
+  }
+ ],
+ "morph": [
+  "HC/Vtw3ms",
+  "HC/Vtw3mp",
+  "HR/Vtc",
+  "HC/Vvw3fs",
+  "HC/Vvw3mp"
+ ],
+ "glosa_es": "postrarse; adorar"
+}

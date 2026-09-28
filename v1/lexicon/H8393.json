@@ -1,0 +1,60 @@
+{
+ "strong": "H8393",
+ "he": "תבואה",
+ "xlit": "tᵉbûwʼâh",
+ "pron": "teb-oo-aw'",
+ "def_en": [
+  "1) produce, product, revenue",
+  "1a) product, yield, crops (of the earth usually)",
+  "1b) income, revenue",
+  "1c) gain (of wisdom) (fig)",
+  "1d) product of lips (fig)"
+ ],
+ "kjv": "fruit, gain, increase, revenue.",
+ "expl": "income, i.e. produce (literally or figuratively)",
+ "etim": "from ;",
+ "raices": [
+  "H935"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "תבואת",
+   "forma_he": "תְּבוּאַ֣ת",
+   "n": 10,
+   "ref": "vayikra/23/39"
+  },
+  {
+   "forma": "תבואתה",
+   "forma_he": "תְּבוּאָתָֽהּ",
+   "n": 9,
+   "ref": "shemot/23/10"
+  },
+  {
+   "forma": "תבואתך",
+   "forma_he": "תְּבוּאָ֣תְךָ֔",
+   "n": 4,
+   "ref": "devarim/14/28"
+  },
+  {
+   "forma": "תבואתו",
+   "forma_he": "תְּבוּאָת֑וֹ",
+   "n": 2,
+   "ref": "vayikra/19/25"
+  },
+  {
+   "forma": "התבואה",
+   "forma_he": "הַתְּבוּאָ֔ה",
+   "n": 2,
+   "ref": "vayikra/25/21"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp3fs",
+  "HNcfsc",
+  "HNcfpa",
+  "HNcfsc/Sp2ms",
+  "HNcfsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

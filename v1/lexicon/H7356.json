@@ -1,0 +1,59 @@
+{
+ "strong": "H7356",
+ "he": "רחם",
+ "xlit": "racham",
+ "pron": "rakh'-am",
+ "def_en": [
+  "n m",
+  "1) womb",
+  "n m abs pl intens",
+  "2) compassion"
+ ],
+ "kjv": "bowels, compassion, damsel, tender love, (great, tender) mercy, pity, womb.",
+ "expl": "compassion (in the plural); by extension, the womb (as cherishing the fetus); by implication, a maiden",
+ "etim": "from ;",
+ "raices": [
+  "H7355"
+ ],
+ "ocurrencias": 45,
+ "formas": [
+  {
+   "forma": "רחמיך",
+   "forma_he": "רַחֲמֶ֣יךָ",
+   "n": 8,
+   "ref": "tehilim/25/6"
+  },
+  {
+   "forma": "רחמיו",
+   "forma_he": "רַחֲמָיו֙",
+   "n": 6,
+   "ref": "bereshit/43/30"
+  },
+  {
+   "forma": "רחמים",
+   "forma_he": "רַחֲמִים֙",
+   "n": 4,
+   "ref": "bereshit/43/14"
+  },
+  {
+   "forma": "רחם",
+   "forma_he": "רֶ֖חֶם",
+   "n": 4,
+   "ref": "bereshit/20/18"
+  },
+  {
+   "forma": "לרחמים",
+   "forma_he": "לְרַחֲמִ֛ים",
+   "n": 4,
+   "ref": "mlakhim_a/8/50"
+  }
+ ],
+ "morph": [
+  "HNcmpc/Sp2ms",
+  "HNcmpc/Sp3ms",
+  "HR/Ncmpa",
+  "HNcmpa",
+  "HNcbsa"
+ ],
+ "glosa_es": ""
+}

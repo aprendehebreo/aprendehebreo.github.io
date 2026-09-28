@@ -1,0 +1,54 @@
+{
+ "strong": "H3532",
+ "he": "כבש",
+ "xlit": "kebes",
+ "pron": "keh-bes'",
+ "def_en": [
+  "1) lamb, sheep, young ram"
+ ],
+ "kjv": "lamb, sheep.",
+ "expl": "a ram (just old enough to butt)",
+ "etim": "from an unused root meaning to dominate;",
+ "raices": [],
+ "ocurrencias": 107,
+ "formas": [
+  {
+   "forma": "כבשים",
+   "forma_he": "כְּבָשִׂ֧ים",
+   "n": 42,
+   "ref": "shemot/29/38"
+  },
+  {
+   "forma": "כבש",
+   "forma_he": "כֶּ֛בֶשׂ",
+   "n": 21,
+   "ref": "vayikra/4/32"
+  },
+  {
+   "forma": "לכבש",
+   "forma_he": "לַכֶּ֖בֶשׂ",
+   "n": 10,
+   "ref": "shemot/29/40"
+  },
+  {
+   "forma": "ולכבשים",
+   "forma_he": "וְלַכְּבָשִׂ֛ים",
+   "n": 10,
+   "ref": "bamidbar/29/18"
+  },
+  {
+   "forma": "הכבש",
+   "forma_he": "הַכֶּ֥בֶשׂ",
+   "n": 9,
+   "ref": "shemot/29/39"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HC/Rd/Ncmpa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

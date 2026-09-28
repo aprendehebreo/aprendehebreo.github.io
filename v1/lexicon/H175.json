@@ -1,0 +1,54 @@
+{
+ "strong": "H175",
+ "he": "אהרון",
+ "xlit": "ʼAhărôwn",
+ "pron": "a-har-one'",
+ "def_en": [
+  "Aaron = \"light bringer\"",
+  "1) brother of Moses, a Levite and the first high priest"
+ ],
+ "kjv": "Aaron.",
+ "expl": "Aharon, the brother of Moses",
+ "etim": "of uncertain derivation;",
+ "raices": [],
+ "ocurrencias": 347,
+ "formas": [
+  {
+   "forma": "אהרן",
+   "forma_he": "אַהֲרֹ֤ן",
+   "n": 263,
+   "ref": "shemot/4/14"
+  },
+  {
+   "forma": "ואהרן",
+   "forma_he": "וְאַהֲרֹ֑ן",
+   "n": 50,
+   "ref": "shemot/4/29"
+  },
+  {
+   "forma": "לאהרן",
+   "forma_he": "לְאַֽהֲרֹ֔ן",
+   "n": 28,
+   "ref": "shemot/4/28"
+  },
+  {
+   "forma": "ולאהרן",
+   "forma_he": "וּֽלְאַהֲרֹ֗ן",
+   "n": 5,
+   "ref": "shemot/8/4"
+  },
+  {
+   "forma": "ובאהרן",
+   "forma_he": "וּֽבְאַהֲרֹ֗ן",
+   "n": 1,
+   "ref": "devarim/9/20"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Aarón"
+}

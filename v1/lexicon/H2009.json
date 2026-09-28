@@ -1,0 +1,56 @@
+{
+ "strong": "H2009",
+ "he": "הנה",
+ "xlit": "hinnêh",
+ "pron": "hin-nay'",
+ "def_en": [
+  "1) behold, lo, see, if"
+ ],
+ "kjv": "behold, lo, see.",
+ "expl": "lo!",
+ "etim": "prolongation for ;",
+ "raices": [
+  "H2005"
+ ],
+ "ocurrencias": 843,
+ "formas": [
+  {
+   "forma": "הנה",
+   "forma_he": "הִנֵּה֩",
+   "n": 448,
+   "ref": "bereshit/1/29"
+  },
+  {
+   "forma": "והנה",
+   "forma_he": "וְהִנֵּה",
+   "n": 360,
+   "ref": "bereshit/1/31"
+  },
+  {
+   "forma": "הנני",
+   "forma_he": "הִנְנִי֩",
+   "n": 11,
+   "ref": "bereshit/6/17"
+  },
+  {
+   "forma": "הנם",
+   "forma_he": "הִנֹּ֗ם",
+   "n": 8,
+   "ref": "yehoshua/15/8"
+  },
+  {
+   "forma": "והנם",
+   "forma_he": "וְהִנָּ֖ם",
+   "n": 7,
+   "ref": "bereshit/40/6"
+  }
+ ],
+ "morph": [
+  "HTm",
+  "HC/Tm",
+  "HTm/Sp1cs",
+  "HTm/Sp3mp",
+  "HC/Tm/Sp3mp"
+ ],
+ "glosa_es": "he aquí; mira"
+}

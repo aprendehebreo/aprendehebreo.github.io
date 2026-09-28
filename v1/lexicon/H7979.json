@@ -1,0 +1,58 @@
+{
+ "strong": "H7979",
+ "he": "שלחן",
+ "xlit": "shulchân",
+ "pron": "shool-khawn'",
+ "def_en": [
+  "1) table",
+  "1a) table",
+  "1a1) of king's table, private use, sacred uses"
+ ],
+ "kjv": "table.",
+ "expl": "a table (as spread out); by implication, a meal",
+ "etim": "from ;",
+ "raices": [
+  "H7971"
+ ],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "השלחן",
+   "forma_he": "הַשֻּׁלְחָֽן",
+   "n": 23,
+   "ref": "shemot/25/27"
+  },
+  {
+   "forma": "שלחן",
+   "forma_he": "שֻׁלְחָ֖ן",
+   "n": 13,
+   "ref": "shemot/25/23"
+  },
+  {
+   "forma": "שלחנות",
+   "forma_he": "שֻׁלְחָנ֔וֹת",
+   "n": 10,
+   "ref": "yeshayahu/28/8"
+  },
+  {
+   "forma": "שלחני",
+   "forma_he": "שַׁלְּחֻ֥נִי",
+   "n": 7,
+   "ref": "bereshit/24/54"
+  },
+  {
+   "forma": "שלחנך",
+   "forma_he": "שֻׁלְחָנֶ֑ךָ",
+   "n": 3,
+   "ref": "shmuel_b/19/29"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmpa",
+  "HNcmsc",
+  "HNcmsc/Sp1cs",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

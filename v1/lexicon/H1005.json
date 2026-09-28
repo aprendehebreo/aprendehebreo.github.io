@@ -1,0 +1,57 @@
+{
+ "strong": "H1005",
+ "he": "בית",
+ "xlit": "bayith",
+ "pron": "bah-yith",
+ "def_en": [
+  "1) house (of men)",
+  "2) house (of God)"
+ ],
+ "kjv": "house.",
+ "expl": "{a house (in the greatest variation of applications, especially family, etc.)}",
+ "etim": "(Aramaic) corresponding to",
+ "raices": [
+  "H1004"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "בית",
+   "forma_he": "בֵּֽית",
+   "n": 21,
+   "ref": "bereshit/12/15"
+  },
+  {
+   "forma": "לבית",
+   "forma_he": "לְבֵֽית",
+   "n": 5,
+   "ref": "bereshit/20/18"
+  },
+  {
+   "forma": "ביתא",
+   "forma_he": "בַּיְתָ֤א",
+   "n": 4,
+   "ref": "ezra/5/3"
+  },
+  {
+   "forma": "וביתה",
+   "forma_he": "וָבָֽיְתָה",
+   "n": 3,
+   "ref": "shmuel_b/5/9"
+  },
+  {
+   "forma": "ביתה",
+   "forma_he": "בֵּ֥יתָה",
+   "n": 3,
+   "ref": "bereshit/28/2"
+  }
+ ],
+ "morph": [
+  "ANcmsc",
+  "AR/Ncmsc",
+  "ANcmsd/Td",
+  "AR/Ncmsc/Sp3ms",
+  "AC/Ncmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

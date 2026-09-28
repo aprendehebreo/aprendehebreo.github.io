@@ -1,0 +1,59 @@
+{
+ "strong": "H2771",
+ "he": "חרן",
+ "xlit": "Chârân",
+ "pron": "kaw-rawn'",
+ "def_en": [
+  "Haran = \"mountaineer\"",
+  "n pr m",
+  "1) a son of Caleb by his concubine Ephah",
+  "n pr loc",
+  "2) the city to which Abraham migrated when he left Ur of the Chaldees and where he stayed until his father died before leaving for the promised land; located in Mesopotamia in Padan-aram at the foot of Mount Masius between the Khabour and the Euphrates"
+ ],
+ "kjv": "Haran.",
+ "expl": "Charan, the name of a man and also of a place",
+ "etim": "from ; parched;",
+ "raices": [
+  "H2787"
+ ],
+ "ocurrencias": 12,
+ "formas": [
+  {
+   "forma": "חרן",
+   "forma_he": "חָרָ֖ן",
+   "n": 5,
+   "ref": "bereshit/11/31"
+  },
+  {
+   "forma": "בחרן",
+   "forma_he": "בְּחָרָֽן",
+   "n": 2,
+   "ref": "bereshit/11/32"
+  },
+  {
+   "forma": "מחרן",
+   "forma_he": "מֵחָרָֽן",
+   "n": 2,
+   "ref": "bereshit/12/4"
+  },
+  {
+   "forma": "חרנה",
+   "forma_he": "חָרָֽנָה",
+   "n": 2,
+   "ref": "bereshit/27/43"
+  },
+  {
+   "forma": "וחרן",
+   "forma_he": "וְחָרָ֖ן",
+   "n": 1,
+   "ref": "divrei_hayamim_a/2/46"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

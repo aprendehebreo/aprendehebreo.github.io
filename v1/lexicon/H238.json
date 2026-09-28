@@ -1,0 +1,61 @@
+{
+ "strong": "H238",
+ "he": "אזן",
+ "xlit": "ʼâzan",
+ "pron": "aw-zan'",
+ "def_en": [
+  "1) to hear, listen",
+  "1a) (Hiphil)",
+  "1a1) to hear, listen, give ear",
+  "1a2) to be obedient, harken",
+  "1a3) to hear or listen to prayers (of God)"
+ ],
+ "kjv": "give (perceive by the) ear, hear(-ken). See .",
+ "expl": "to broaden out the ear (with the hand), i.e. (by implication) to listen",
+ "etim": "a primitive root; probably to expand; but used only as a denominative from ;",
+ "raices": [
+  "H241",
+  "H239"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "האזינה",
+   "forma_he": "הַאֲזִ֥ינָה",
+   "n": 16,
+   "ref": "bamidbar/23/18"
+  },
+  {
+   "forma": "האזינו",
+   "forma_he": "הַאֲזִ֥ינוּ",
+   "n": 11,
+   "ref": "devarim/32/1"
+  },
+  {
+   "forma": "והאזינו",
+   "forma_he": "וְהַֽאֲזִ֔ינוּ",
+   "n": 3,
+   "ref": "yeshayahu/8/9"
+  },
+  {
+   "forma": "האזנה",
+   "forma_he": "הַאְזֵ֖נָּה",
+   "n": 2,
+   "ref": "bereshit/4/23"
+  },
+  {
+   "forma": "יאזין",
+   "forma_he": "יַאֲזִ֣ין",
+   "n": 2,
+   "ref": "yeshayahu/42/23"
+  }
+ ],
+ "morph": [
+  "HVhv2ms/Sh",
+  "HVhv2mp",
+  "HC/Vhv2mp",
+  "HVhp3cp",
+  "HVhv2fp"
+ ],
+ "glosa_es": ""
+}

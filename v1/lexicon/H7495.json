@@ -1,0 +1,70 @@
+{
+ "strong": "H7495",
+ "he": "רפא",
+ "xlit": "râphâʼ",
+ "pron": "raw-faw'",
+ "def_en": [
+  "1) to heal, make healthful",
+  "1a) (Qal) to heal",
+  "1a1) of God",
+  "1a2) healer, physician (of men)",
+  "1a3) of hurts of nations involving restored favour (fig)",
+  "1a4) of individual distresses (fig)",
+  "1b) (Niphal) to be healed",
+  "1b1) literal (of persons)",
+  "1b2) of water, pottery",
+  "1b3) of national hurts (fig)",
+  "1b4) of personal distress (fig)",
+  "1c) (Piel) to heal",
+  "1c1) literal",
+  "1c2) of national defects or hurts (fig)",
+  "1d) (Hithpael) in order to get healed (infinitive)"
+ ],
+ "kjv": "cure, (cause to) heal, physician, repair, [idiom] thoroughly, make whole. See .",
+ "expl": "properly, to mend (by stitching), i.e. (figuratively) to cure",
+ "etim": "or ; a primitive root;",
+ "raices": [
+  "H7503"
+ ],
+ "ocurrencias": 69,
+ "formas": [
+  {
+   "forma": "ירפא",
+   "forma_he": "יְרַפֵּֽא",
+   "n": 5,
+   "ref": "shemot/21/19"
+  },
+  {
+   "forma": "נרפא",
+   "forma_he": "נִרְפָּ֥א",
+   "n": 4,
+   "ref": "vayikra/13/37"
+  },
+  {
+   "forma": "וירפא",
+   "forma_he": "וַיִּרְפָּ֨א",
+   "n": 3,
+   "ref": "bereshit/20/17"
+  },
+  {
+   "forma": "רפא",
+   "forma_he": "רְפָ֥א",
+   "n": 3,
+   "ref": "bamidbar/12/13"
+  },
+  {
+   "forma": "להתרפא",
+   "forma_he": "לְהִתְרַפֵּ֣א",
+   "n": 3,
+   "ref": "mlakhim_b/8/29"
+  }
+ ],
+ "morph": [
+  "HVNp3ms",
+  "HR/VNc",
+  "HVqi1cs",
+  "HR/Vtc",
+  "HVqi3ms"
+ ],
+ "glosa_es": ""
+}

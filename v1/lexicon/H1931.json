@@ -1,0 +1,62 @@
+{
+ "strong": "H1931",
+ "he": "הוא",
+ "xlit": "hûwʼ",
+ "pron": "hoo",
+ "def_en": [
+  "pron 3p s",
+  "1) he, she, it",
+  "1a) himself (with emphasis)",
+  "1b) resuming subj with emphasis",
+  "1c) (with minimum emphasis following predicate)",
+  "1d) (anticipating subj)",
+  "1e) (emphasising predicate)",
+  "1f) that, it (neuter) demons pron",
+  "2) that (with article)"
+ ],
+ "kjv": "he, as for her, him(-self), it, the same, she (herself), such, that (...it), these, they, this, those, which (is), who.",
+ "expl": "he (she or it); only expressed when emphatic or without a verb; also (intensively) self, or (especially with the article) the same; sometimes (as demonstrative) this or that; occasionally (instead of copula) as or are",
+ "etim": "of which the feminine (beyond the Pentateuch) is ; a primitive word, the third person pronoun singular;",
+ "raices": [],
+ "ocurrencias": 1889,
+ "formas": [
+  {
+   "forma": "הוא",
+   "forma_he": "ה֣וּא",
+   "n": 997,
+   "ref": "bereshit/2/11"
+  },
+  {
+   "forma": "ההוא",
+   "forma_he": "הַהִ֖וא",
+   "n": 371,
+   "ref": "bereshit/2/12"
+  },
+  {
+   "forma": "והוא",
+   "forma_he": "וְה֖וּא",
+   "n": 222,
+   "ref": "bereshit/3/16"
+  },
+  {
+   "forma": "היא",
+   "forma_he": "הִיא",
+   "n": 190,
+   "ref": "bereshit/14/2"
+  },
+  {
+   "forma": "ההיא",
+   "forma_he": "הַהִ֖יא",
+   "n": 69,
+   "ref": "devarim/13/16"
+  }
+ ],
+ "morph": [
+  "HPp3ms",
+  "HPp3fs",
+  "HTd/Pp3ms",
+  "HC/Pp3ms",
+  "HTd/Pp3fs"
+ ],
+ "glosa_es": "él; aquel"
+}

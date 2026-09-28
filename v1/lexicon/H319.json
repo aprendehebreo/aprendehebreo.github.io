@@ -1,0 +1,60 @@
+{
+ "strong": "H319",
+ "he": "אחרית",
+ "xlit": "ʼachărîyth",
+ "pron": "akh-ar-eeth'",
+ "def_en": [
+  "1) after part, end",
+  "1a) end, issue, event",
+  "1b) latter time (prophetic for future time)",
+  "1c) posterity",
+  "1d) last, hindermost"
+ ],
+ "kjv": "(last, latter) end (time), hinder (utter) -most, length, posterity, remnant, residue, reward.",
+ "expl": "the last or end, hence, the future; also posterity",
+ "etim": "from ;",
+ "raices": [
+  "H310"
+ ],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "באחרית",
+   "forma_he": "בְּאַחֲרִ֥ית",
+   "n": 16,
+   "ref": "bereshit/49/1"
+  },
+  {
+   "forma": "אחרית",
+   "forma_he": "אַחֲרִ֥ית",
+   "n": 12,
+   "ref": "devarim/11/12"
+  },
+  {
+   "forma": "ואחריתה",
+   "forma_he": "וְאַחֲרִיתָ֖הּ",
+   "n": 6,
+   "ref": "amos/8/10"
+  },
+  {
+   "forma": "באחריתך",
+   "forma_he": "בְּאַחֲרִיתֶֽךָ",
+   "n": 3,
+   "ref": "devarim/8/16"
+  },
+  {
+   "forma": "ואחריתך",
+   "forma_he": "וְאַחֲרִיתֵ֖ךְ",
+   "n": 3,
+   "ref": "yechezkel/23/25"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsc",
+  "HNcfsa",
+  "HC/Ncfsc/Sp3fs",
+  "HNcfsc",
+  "HR/Ncfsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

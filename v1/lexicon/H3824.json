@@ -1,0 +1,67 @@
+{
+ "strong": "H3824",
+ "he": "לבב",
+ "xlit": "lêbâb",
+ "pron": "lay-bawb'",
+ "def_en": [
+  "1) inner man, mind, will, heart, soul, understanding",
+  "1a) inner part, midst",
+  "1a1) midst (of things)",
+  "1a2) heart (of man)",
+  "1a3) soul, heart (of man)",
+  "1a4) mind, knowledge, thinking, reflection, memory",
+  "1a5) inclination, resolution, determination (of will)",
+  "1a6) conscience",
+  "1a7) heart (of moral character)",
+  "1a8) as seat of appetites",
+  "1a9) as seat of emotions and passions 1a10) as seat of courage"
+ ],
+ "kjv": "[phrase] bethink themselves, breast, comfortably, courage, ((faint), (tender-) heart(-ed), midst, mind, [idiom] unawares, understanding.",
+ "expl": "the heart (as the most interior organ);",
+ "etim": "from ; used also like",
+ "raices": [
+  "H3823",
+  "H3820"
+ ],
+ "ocurrencias": 252,
+ "formas": [
+  {
+   "forma": "לבב",
+   "forma_he": "לְבַ֨ב",
+   "n": 43,
+   "ref": "shemot/14/5"
+  },
+  {
+   "forma": "לבבך",
+   "forma_he": "לְבָבְךָ֙",
+   "n": 40,
+   "ref": "bereshit/20/6"
+  },
+  {
+   "forma": "לבבכם",
+   "forma_he": "לְבַבְכֶם֙",
+   "n": 35,
+   "ref": "bamidbar/15/39"
+  },
+  {
+   "forma": "לבבו",
+   "forma_he": "לְבָב֔וֹ",
+   "n": 26,
+   "ref": "devarim/2/30"
+  },
+  {
+   "forma": "לבבי",
+   "forma_he": "לְבָבִ֛י",
+   "n": 21,
+   "ref": "bereshit/20/5"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp2ms",
+  "HNcmsc/Sp2mp",
+  "HNcmsc/Sp3ms",
+  "HNcmsa",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": "corazón; interior"
+}

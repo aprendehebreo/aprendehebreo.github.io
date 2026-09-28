@@ -1,0 +1,57 @@
+{
+ "strong": "H6754",
+ "he": "צלם",
+ "xlit": "tselem",
+ "pron": "tseh'-lem",
+ "def_en": [
+  "1) image",
+  "1a) images (of tumours, mice, heathen gods)",
+  "1b) image, likeness (of resemblance)",
+  "1c) mere, empty, image, semblance (fig.)"
+ ],
+ "kjv": "image, vain shew.",
+ "expl": "a phantom, i.e. (figuratively) illusion, resemblance; hence, a representative figure, especially an idol",
+ "etim": "from an unused root meaning to shade;",
+ "raices": [],
+ "ocurrencias": 17,
+ "formas": [
+  {
+   "forma": "צלמי",
+   "forma_he": "צַלְמֵ֤י",
+   "n": 5,
+   "ref": "bamidbar/33/52"
+  },
+  {
+   "forma": "בצלם",
+   "forma_he": "בְּצֶ֥לֶם",
+   "n": 3,
+   "ref": "bereshit/1/27"
+  },
+  {
+   "forma": "וצלמי",
+   "forma_he": "וְצַלְמֵ֣י",
+   "n": 2,
+   "ref": "shmuel_a/6/5"
+  },
+  {
+   "forma": "צלמיו",
+   "forma_he": "צְלָמָיו֙",
+   "n": 2,
+   "ref": "mlakhim_b/11/18"
+  },
+  {
+   "forma": "בצלמנו",
+   "forma_he": "בְּצַלְמֵ֖נוּ",
+   "n": 1,
+   "ref": "bereshit/1/26"
+  }
+ ],
+ "morph": [
+  "HNcmpc",
+  "HR/Ncmsc/Sp3ms",
+  "HR/Ncmsc",
+  "HC/Ncmpc",
+  "HNcmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

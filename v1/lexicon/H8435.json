@@ -1,0 +1,60 @@
+{
+ "strong": "H8435",
+ "he": "תולדה",
+ "xlit": "tôwlᵉdâh",
+ "pron": "to-led-aw'",
+ "def_en": [
+  "1) descendants, results, proceedings, generations, genealogies",
+  "1a) account of men and their descendants",
+  "1a1) genealogical list of one's descendants",
+  "1a2) one's contemporaries",
+  "1a3) course of history (of creation etc)",
+  "1b) begetting or account of heaven (metaph)"
+ ],
+ "kjv": "birth, generations.",
+ "expl": "(plural only) descent, i.e. family; (figuratively) history",
+ "etim": "or ; from ;",
+ "raices": [
+  "H3205"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "תולדתם",
+   "forma_he": "תּוֹלְדֹתָ֥ם",
+   "n": 12,
+   "ref": "bamidbar/1/20"
+  },
+  {
+   "forma": "תולדת",
+   "forma_he": "תּוֹלְדֹ֖ת",
+   "n": 7,
+   "ref": "bereshit/5/1"
+  },
+  {
+   "forma": "לתלדותם",
+   "forma_he": "לְתֹלְדוֹתָ֑ם",
+   "n": 7,
+   "ref": "divrei_hayamim_a/5/7"
+  },
+  {
+   "forma": "תלדות",
+   "forma_he": "תֹּלְד֥וֹת",
+   "n": 3,
+   "ref": "bereshit/36/1"
+  },
+  {
+   "forma": "תולדות",
+   "forma_he": "תוֹלְד֧וֹת",
+   "n": 2,
+   "ref": "bereshit/2/4"
+  }
+ ],
+ "morph": [
+  "HNcfpc",
+  "HNcfpc/Sp3mp",
+  "HR/Ncfpc/Sp3mp",
+  "HR/Ncfpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H4284",
+ "he": "מחשבה",
+ "xlit": "machăshâbâh",
+ "pron": "makh-ash-aw-baw'",
+ "def_en": [
+  "1) thought, device",
+  "1a) thought",
+  "1b) device, plan, purpose",
+  "1c) invention"
+ ],
+ "kjv": "cunning (work), curious work, device(-sed), imagination, invented, means, purpose, thought.",
+ "expl": "a contrivance, i.e. (concretely) a texture, machine, or (abstractly) intention, plan (whether bad, a plot; or good, advice)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H2803"
+ ],
+ "ocurrencias": 56,
+ "formas": [
+  {
+   "forma": "מחשבות",
+   "forma_he": "מַֽחֲשָׁב֔וֹת",
+   "n": 22,
+   "ref": "shmuel_b/14/14"
+  },
+  {
+   "forma": "מחשבת",
+   "forma_he": "מַחְשְׁבֹ֣ת",
+   "n": 9,
+   "ref": "bereshit/6/5"
+  },
+  {
+   "forma": "מחשבתם",
+   "forma_he": "מַחְשְׁבֹתָ֣ם",
+   "n": 3,
+   "ref": "tehilim/56/6"
+  },
+  {
+   "forma": "מחשבתיו",
+   "forma_he": "מַחְשְׁבֹתָ֑יו",
+   "n": 2,
+   "ref": "yeshayahu/55/7"
+  },
+  {
+   "forma": "מחשבותיכם",
+   "forma_he": "מַחְשְׁב֣וֹתֵיכֶ֔ם",
+   "n": 2,
+   "ref": "yeshayahu/55/8"
+  }
+ ],
+ "morph": [
+  "HNcfpc",
+  "HNcfpa",
+  "HNcfpc/Sp3mp",
+  "HNcfsa",
+  "HNcfsc"
+ ],
+ "glosa_es": ""
+}

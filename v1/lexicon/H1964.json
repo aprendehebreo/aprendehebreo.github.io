@@ -1,0 +1,60 @@
+{
+ "strong": "H1964",
+ "he": "היכל",
+ "xlit": "hêykâl",
+ "pron": "hay-kawl'",
+ "def_en": [
+  "1) palace, temple, nave, sanctuary",
+  "1a) palace",
+  "1b) temple (palace of God as king)",
+  "1c) hall, nave (of Ezekiel's temple)",
+  "1d) temple (of heavenly temple)"
+ ],
+ "kjv": "palace, temple.",
+ "expl": "a large public building, such as a palace or temple",
+ "etim": "probably from (in the sense of capacity);",
+ "raices": [
+  "H3201"
+ ],
+ "ocurrencias": 80,
+ "formas": [
+  {
+   "forma": "היכל",
+   "forma_he": "הֵיכַ֥ל",
+   "n": 24,
+   "ref": "shmuel_a/1/9"
+  },
+  {
+   "forma": "ההיכל",
+   "forma_he": "הַהֵיכָ֥ל",
+   "n": 15,
+   "ref": "mlakhim_a/6/17"
+  },
+  {
+   "forma": "בהיכל",
+   "forma_he": "בְּהֵיכַ֣ל",
+   "n": 14,
+   "ref": "shmuel_a/3/3"
+  },
+  {
+   "forma": "להיכל",
+   "forma_he": "לַֽהֵיכָ֖ל",
+   "n": 4,
+   "ref": "mlakhim_a/6/5"
+  },
+  {
+   "forma": "מהיכל",
+   "forma_he": "מֵהֵיכַ֣ל",
+   "n": 3,
+   "ref": "mlakhim_b/23/4"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HR/Ncmsc",
+  "HRd/Ncmsa",
+  "HR/Ncmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

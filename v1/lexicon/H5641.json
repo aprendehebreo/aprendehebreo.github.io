@@ -1,0 +1,61 @@
+{
+ "strong": "H5641",
+ "he": "סתר",
+ "xlit": "çâthar",
+ "pron": "saw-thar'",
+ "def_en": [
+  "1) to hide, conceal",
+  "1a) (Niphal)",
+  "1a1) to hide oneself",
+  "1a2) to be hidden, be concealed",
+  "1b) (Piel) to hide carefully",
+  "1c) (Pual) to be hidden carefully, be concealed",
+  "1d) (Hiphil) to conceal, hide",
+  "1e) (Hithpael) to hide oneself carefully"
+ ],
+ "kjv": "be absent, keep close, conceal, hide (self), (keep) secret, [idiom] surely.",
+ "expl": "to hide (by covering), literally or figuratively",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "ויסתר",
+   "forma_he": "וַיַּסְתֵּ֤ר",
+   "n": 6,
+   "ref": "shemot/3/6"
+  },
+  {
+   "forma": "תסתר",
+   "forma_he": "תַּסְתֵּ֬ר",
+   "n": 6,
+   "ref": "tehilim/27/9"
+  },
+  {
+   "forma": "הסתר",
+   "forma_he": "הַסְתֵּ֨ר",
+   "n": 5,
+   "ref": "devarim/31/18"
+  },
+  {
+   "forma": "תסתיר",
+   "forma_he": "תַּסְתִּ֖יר",
+   "n": 5,
+   "ref": "tehilim/13/2"
+  },
+  {
+   "forma": "מסתתר",
+   "forma_he": "מִסְתַּתֵּ֨ר",
+   "n": 4,
+   "ref": "shmuel_a/23/19"
+  }
+ ],
+ "morph": [
+  "HVhi2ms",
+  "HVhj2ms",
+  "HVtrmsa",
+  "HVNp3fs",
+  "HVhp1cs"
+ ],
+ "glosa_es": ""
+}

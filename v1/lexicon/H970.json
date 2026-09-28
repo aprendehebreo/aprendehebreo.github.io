@@ -1,0 +1,56 @@
+{
+ "strong": "H970",
+ "he": "בחור",
+ "xlit": "bâchûwr",
+ "pron": "baw-khoor'",
+ "def_en": [
+  "1) youth, young man"
+ ],
+ "kjv": "(choice) young (man), chosen, [idiom] hole.",
+ "expl": "properly, selected, i.e. a youth (often collective)",
+ "etim": "or ; participle passive of ;",
+ "raices": [
+  "H977"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "בחור",
+   "forma_he": "בָּח֔וּר",
+   "n": 10,
+   "ref": "shemot/14/7"
+  },
+  {
+   "forma": "בחורים",
+   "forma_he": "בַּֽחוּרִ֑ים",
+   "n": 8,
+   "ref": "shmuel_b/16/5"
+  },
+  {
+   "forma": "בחורי",
+   "forma_he": "בְּחוּרֵ֣י",
+   "n": 5,
+   "ref": "shmuel_a/26/2"
+  },
+  {
+   "forma": "הבחורים",
+   "forma_he": "הַבַּחוּרִֽים",
+   "n": 3,
+   "ref": "shoftim/14/10"
+  },
+  {
+   "forma": "בחוריכם",
+   "forma_he": "בַּחוּרֵיכֶ֧ם",
+   "n": 3,
+   "ref": "shmuel_a/8/16"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpa",
+  "HNcmpc",
+  "HTd/Ncmpa",
+  "HNcmpc/Sp2mp"
+ ],
+ "glosa_es": ""
+}

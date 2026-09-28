@@ -1,0 +1,61 @@
+{
+ "strong": "H5341",
+ "he": "נצר",
+ "xlit": "nâtsar",
+ "pron": "naw-tsar'",
+ "def_en": [
+  "1) to guard, watch, watch over, keep",
+  "1a) (Qal)",
+  "1a1) to watch, guard, keep",
+  "1a2) to preserve, guard from dangers",
+  "1a3) to keep, observe, guard with fidelity",
+  "1a4) to guard, keep secret",
+  "1a5) to be kept close, be blockaded",
+  "1a6) watchman (participle)"
+ ],
+ "kjv": "besieged, hidden thing, keep(-er, -ing), monument, observe, preserve(-r), subtil, watcher(-man).",
+ "expl": "to guard, in a good sense (to protect, maintain, obey, etc.) or a bad one (to conceal, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "נצר",
+   "forma_he": "נֹצֵ֥ר",
+   "n": 11,
+   "ref": "shemot/34/7"
+  },
+  {
+   "forma": "ינצרו",
+   "forma_he": "יִנְצֹֽרוּ",
+   "n": 4,
+   "ref": "devarim/33/9"
+  },
+  {
+   "forma": "תצר",
+   "forma_he": "תָּ֨צַר֙",
+   "n": 3,
+   "ref": "devarim/2/9"
+  },
+  {
+   "forma": "נצרה",
+   "forma_he": "נֹֽצְרָ֔הּ",
+   "n": 3,
+   "ref": "yeshayahu/27/3"
+  },
+  {
+   "forma": "נצרתי",
+   "forma_he": "נָצָֽרְתִּי",
+   "n": 3,
+   "ref": "tehilim/119/22"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HVqi3mp",
+  "HVqrmpa",
+  "HVqv2ms",
+  "HVqi2ms/Sp1cs"
+ ],
+ "glosa_es": ""
+}

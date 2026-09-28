@@ -1,0 +1,71 @@
+{
+ "strong": "H5117",
+ "he": "נוח",
+ "xlit": "nûwach",
+ "pron": "noo'-akh",
+ "def_en": [
+  "1) to rest",
+  "1a) (Qal)",
+  "1a1) to rest, settle down and remain",
+  "1a2) to repose, have rest, be quiet",
+  "1b) (Hiph)",
+  "1b1) to cause to rest, give rest to, make quiet",
+  "1b2) to cause to rest, cause to alight, set down",
+  "1b3) to lay or set down, deposit, let lie, place",
+  "1b4) to let remain, leave",
+  "1b5) to leave, depart from",
+  "1b6) to abandon",
+  "1b7) to permit",
+  "1c) (Hoph)",
+  "1c1) to obtain rest, be granted rest",
+  "1c2) to be left, be placed",
+  "1c3) open space (subst)"
+ ],
+ "kjv": "cease, be confederate, lay, let down, (be) quiet, remain, (cause to, be at, give, have, make to) rest, set down. Compare .",
+ "expl": "to rest, i.e. settle down; used in a great variety of applications, literal and figurative, intransitive, transitive and causative (to dwell, stay, let fall, place, let alone, withdraw, give comfort, etc.)",
+ "etim": "a primitive root;",
+ "raices": [
+  "H3241"
+ ],
+ "ocurrencias": 67,
+ "formas": [
+  {
+   "forma": "ינוח",
+   "forma_he": "יָנ֗וּחַ",
+   "n": 7,
+   "ref": "shemot/23/12"
+  },
+  {
+   "forma": "הניח",
+   "forma_he": "הֵנִ֨יחַ",
+   "n": 7,
+   "ref": "yehoshua/22/4"
+  },
+  {
+   "forma": "וינח",
+   "forma_he": "וַיָּ֕נַח",
+   "n": 6,
+   "ref": "shemot/10/14"
+  },
+  {
+   "forma": "יניח",
+   "forma_he": "יָנִ֛יחַ",
+   "n": 4,
+   "ref": "shemot/17/11"
+  },
+  {
+   "forma": "והנחתי",
+   "forma_he": "וַהֲנִחֹ֥תִי",
+   "n": 3,
+   "ref": "shemot/33/14"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HC/Vhq1cs",
+  "HVhp3ms",
+  "HVhi3ms",
+  "HC/Vhw3ms"
+ ],
+ "glosa_es": ""
+}

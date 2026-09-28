@@ -1,0 +1,60 @@
+{
+ "strong": "H3766",
+ "he": "כרע",
+ "xlit": "kâraʻ",
+ "pron": "kaw-rah'",
+ "def_en": [
+  "1) to bend, kneel, bow, bow down, sink down to one's knees, kneel down to rest (of animals), kneel in reverence",
+  "1a) (Qal)",
+  "1a1) to bow",
+  "1a2) to bow down, crouch",
+  "1a3) to bow down over",
+  "1a4) to tilt, lean",
+  "1b) (Hiphil) to cause to bow"
+ ],
+ "kjv": "bow (down, self), bring down (low), cast down, couch, fall, feeble, kneeling, sink, smite (stoop) down, subdue, [idiom] very.",
+ "expl": "to bend the knee; by implication, to sink, to prostrate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "כרע",
+   "forma_he": "כָּרַ֨ע",
+   "n": 8,
+   "ref": "bereshit/49/9"
+  },
+  {
+   "forma": "כרעו",
+   "forma_he": "כָּרְע֥וּ",
+   "n": 5,
+   "ref": "shoftim/7/6"
+  },
+  {
+   "forma": "יכרע",
+   "forma_he": "יִכְרַ֥ע",
+   "n": 2,
+   "ref": "shoftim/7/5"
+  },
+  {
+   "forma": "תכריע",
+   "forma_he": "תַּכְרִ֥יעַ",
+   "n": 2,
+   "ref": "shmuel_b/22/40"
+  },
+  {
+   "forma": "ויכרע",
+   "forma_he": "וַיִּכְרַ֥ע",
+   "n": 2,
+   "ref": "mlakhim_b/1/13"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqp3cp",
+  "HVqi3ms",
+  "HVhi2ms",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": ""
+}

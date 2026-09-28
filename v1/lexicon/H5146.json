@@ -1,0 +1,43 @@
+{
+ "strong": "H5146",
+ "he": "נח",
+ "xlit": "Nôach",
+ "pron": "no'-akh",
+ "def_en": [
+  "Noah = \"rest\"",
+  "1) son of Lamech, father of Shem, Ham, and Japheth; builder of the ark which saved his family from the destruction of the world which God sent on the world by the flood; became the new seminal head of mankind because his family were the only survivors of the flood"
+ ],
+ "kjv": "Noah.",
+ "expl": "Noach, the patriarch of the flood",
+ "etim": "the same as ; rest;",
+ "raices": [
+  "H5118"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "נח",
+   "forma_he": "נֹ֖חַ",
+   "n": 41,
+   "ref": "bereshit/5/29"
+  },
+  {
+   "forma": "ונח",
+   "forma_he": "וְנֹ֕חַ",
+   "n": 3,
+   "ref": "bereshit/6/8"
+  },
+  {
+   "forma": "לנח",
+   "forma_he": "לְנֹ֗חַ",
+   "n": 2,
+   "ref": "bereshit/6/13"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H2734",
+ "he": "חרה",
+ "xlit": "chârâh",
+ "pron": "khaw-raw'",
+ "def_en": [
+  "1) to be hot, furious, burn, becomeangry, be kindled",
+  "1a) (Qal) to burn, kindle (anger)",
+  "1b) (Niphal) to be angry with, be incensed",
+  "1c) (Hiphil) to burn, kindle",
+  "1d) (Hithpael) to heat oneself in vexation"
+ ],
+ "kjv": "be angry, burn, be displeased, [idiom] earnestly, fret self, grieve, be (wax) hot, be incensed, kindle, [idiom] very, be wroth. See .",
+ "expl": "to glow or grow warm; figuratively (usually) to blaze up, of anger, zeal, jealousy",
+ "etim": "a primitive root (compare );",
+ "raices": [
+  "H2787",
+  "H8474"
+ ],
+ "ocurrencias": 90,
+ "formas": [
+  {
+   "forma": "ויחר",
+   "forma_he": "וַיִּ֤חַר",
+   "n": 49,
+   "ref": "bereshit/4/5"
+  },
+  {
+   "forma": "חרה",
+   "forma_he": "חָ֣רָה",
+   "n": 17,
+   "ref": "bereshit/4/6"
+  },
+  {
+   "forma": "יחר",
+   "forma_he": "יִ֤חַר",
+   "n": 7,
+   "ref": "bereshit/18/30"
+  },
+  {
+   "forma": "וחרה",
+   "forma_he": "וְחָרָ֣ה",
+   "n": 5,
+   "ref": "shemot/22/23"
+  },
+  {
+   "forma": "תתחר",
+   "forma_he": "תִּתְחַ֥ר",
+   "n": 4,
+   "ref": "tehilim/37/1"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HVqj3ms",
+  "HC/Vqq3ms",
+  "HVtj2ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "H3557",
+ "he": "כול",
+ "xlit": "kûwl",
+ "pron": "kool",
+ "def_en": [
+  "1) to seize, contain, measure",
+  "1a)(Qal) to measure, calculate",
+  "1b) (Pilpel) to sustain, maintain, contain",
+  "1b1) to sustain, support, nourish",
+  "1b2) to contain, hold in, restrain",
+  "1b3) to support, endure",
+  "1c) (Polpal) to be supplied",
+  "1d) (Hilpil) to contain, hold, hold in, endure",
+  "1d1) to contain",
+  "1d2) to sustain, endure"
+ ],
+ "kjv": "(be able to, can) abide, bear, comprehend, contain, feed, forbearing, guide, hold(-ing in), nourish(-er), be present, make provision, receive, sustain, provide sustenance (victuals).",
+ "expl": "properly, to keep in; hence, to measure; figuratively, to maintain (in various senses)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "וכלכלו",
+   "forma_he": "וְכִלְכְּל֥וּ",
+   "n": 3,
+   "ref": "mlakhim_a/4/7"
+  },
+  {
+   "forma": "יכיל",
+   "forma_he": "יָכִֽיל",
+   "n": 3,
+   "ref": "mlakhim_a/7/26"
+  },
+  {
+   "forma": "להכיל",
+   "forma_he": "לְהָכִ֖יל",
+   "n": 3,
+   "ref": "yechezkel/21/33"
+  },
+  {
+   "forma": "יכלכל",
+   "forma_he": "יְכַלְכֵּ֔ל",
+   "n": 3,
+   "ref": "zecharia/11/16"
+  },
+  {
+   "forma": "וכלכלתי",
+   "forma_he": "וְכִלְכַּלְתִּ֤י",
+   "n": 2,
+   "ref": "bereshit/45/11"
+  }
+ ],
+ "morph": [
+  "HR/Vhc",
+  "HVhi3ms",
+  "HVli3ms",
+  "HC/Vlq1cs",
+  "HC/Vlp3cp"
+ ],
+ "glosa_es": ""
+}

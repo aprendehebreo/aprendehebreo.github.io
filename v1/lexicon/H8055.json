@@ -1,0 +1,60 @@
+{
+ "strong": "H8055",
+ "he": "שמח",
+ "xlit": "sâmach",
+ "pron": "saw-makh'",
+ "def_en": [
+  "1) to rejoice, be glad",
+  "1a) (Qal)",
+  "1a1) to rejoice",
+  "1a2) to rejoice (arrogantly), exult (at)",
+  "1a3) to rejoice (religiously)",
+  "1b) (Piel) to cause to rejoice, gladden, make glad",
+  "1c) (Hiphil) to cause to rejoice, gladden, make glad"
+ ],
+ "kjv": "cheer up, be (make) glad, (have, make) joy(-ful), be (make) merry, (cause to, make to) rejoice, [idiom] very.",
+ "expl": "probably to brighten up, i.e. (figuratively) be (causatively, make) blithe or gleesome",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 158,
+ "formas": [
+  {
+   "forma": "ישמח",
+   "forma_he": "יִשְׂמַ֣ח",
+   "n": 31,
+   "ref": "yeshayahu/9/16"
+  },
+  {
+   "forma": "וישמחו",
+   "forma_he": "וַֽיִּשְׂמְח֖וּ",
+   "n": 19,
+   "ref": "shmuel_a/6/13"
+  },
+  {
+   "forma": "ישמחו",
+   "forma_he": "יִשְׂמָ֖חוּ",
+   "n": 14,
+   "ref": "yeshayahu/65/13"
+  },
+  {
+   "forma": "וישמח",
+   "forma_he": "וְיִשְׂמַ֥ח",
+   "n": 10,
+   "ref": "shoftim/9/19"
+  },
+  {
+   "forma": "שמחו",
+   "forma_he": "שִׂמְחוּ֙",
+   "n": 8,
+   "ref": "shoftim/9/19"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HC/Vqw3mp",
+  "HVqi3mp",
+  "HC/Vqi3mp",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": "alegrarse; gozarse"
+}

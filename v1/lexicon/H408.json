@@ -1,0 +1,48 @@
+{
+ "strong": "H408",
+ "he": "אל",
+ "xlit": "ʼal",
+ "pron": "al",
+ "def_en": [
+  "1) not, no, nor, neither, nothing (as wish or preference)",
+  "1a) do not, let not (with a verb)",
+  "1b) let there not be (with a verb understood)",
+  "1c) not, no (with substantive)",
+  "1d) nothing (as substantive)"
+ ],
+ "kjv": "nay, neither, [phrase] never, no, nor, not, nothing (worth), rather than.",
+ "expl": "not (the qualified negation, used as a deprecative); once (Job 24:25) as a noun, nothing",
+ "etim": "a negative particle (akin to );",
+ "raices": [
+  "H3808"
+ ],
+ "ocurrencias": 725,
+ "formas": [
+  {
+   "forma": "אל",
+   "forma_he": "אֶל",
+   "n": 576,
+   "ref": "bereshit/1/9"
+  },
+  {
+   "forma": "ואל",
+   "forma_he": "וְאֶל",
+   "n": 148,
+   "ref": "bereshit/3/16"
+  },
+  {
+   "forma": "לאל",
+   "forma_he": "לְאֵ֥ל",
+   "n": 1,
+   "ref": "bereshit/14/18"
+  }
+ ],
+ "morph": [
+  "HTn",
+  "HC/Tn",
+  "HR",
+  "HC/R",
+  "HR/Tn"
+ ],
+ "glosa_es": "no (prohibición)"
+}

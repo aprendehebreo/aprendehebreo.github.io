@@ -1,0 +1,60 @@
+{
+ "strong": "H6996",
+ "he": "קטן",
+ "xlit": "qâṭân",
+ "pron": "kaw-tawn'",
+ "def_en": [
+  "1) young, small, insignificant, unimportant",
+  "1a) small",
+  "1b) insignificant",
+  "1c) young",
+  "1d) unimportant"
+ ],
+ "kjv": "least, less(-er), little (one), small(-est, one, quantity, thing), young(-er, -est).",
+ "expl": "abbreviated, i.e. diminutive, literally (in quantity, size or number) or figuratively (in age or importance)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6962"
+ ],
+ "ocurrencias": 101,
+ "formas": [
+  {
+   "forma": "הקטן",
+   "forma_he": "הַקָּטֹן֙",
+   "n": 29,
+   "ref": "bereshit/1/16"
+  },
+  {
+   "forma": "קטן",
+   "forma_he": "קָטָ֑ן",
+   "n": 25,
+   "ref": "bereshit/44/20"
+  },
+  {
+   "forma": "קטנה",
+   "forma_he": "קְטַנָּ֖ה",
+   "n": 9,
+   "ref": "bamidbar/22/18"
+  },
+  {
+   "forma": "מקטן",
+   "forma_he": "מִקָּטֹ֖ן",
+   "n": 7,
+   "ref": "bereshit/19/11"
+  },
+  {
+   "forma": "הקטנה",
+   "forma_he": "הַקְּטַנָּ֖ה",
+   "n": 6,
+   "ref": "bereshit/29/16"
+  }
+ ],
+ "morph": [
+  "HTd/Aamsa",
+  "HAamsa",
+  "HAafsa",
+  "HR/Aamsa",
+  "HTd/Aafsa"
+ ],
+ "glosa_es": ""
+}

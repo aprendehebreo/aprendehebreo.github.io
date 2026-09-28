@@ -1,0 +1,57 @@
+{
+ "strong": "H953",
+ "he": "בור",
+ "xlit": "bôwr",
+ "pron": "bore",
+ "def_en": [
+  "1) pit, well, cistern"
+ ],
+ "kjv": "cistern, dungeon, fountain, pit, well.",
+ "expl": "a pit hole (especially one used as a cistern or a prison)",
+ "etim": "from (in the sense of );",
+ "raices": [
+  "H952",
+  "H877"
+ ],
+ "ocurrencias": 68,
+ "formas": [
+  {
+   "forma": "בור",
+   "forma_he": "בּ֗וֹר",
+   "n": 26,
+   "ref": "shemot/21/33"
+  },
+  {
+   "forma": "הבור",
+   "forma_he": "הַבּ֤וֹר",
+   "n": 16,
+   "ref": "bereshit/37/22"
+  },
+  {
+   "forma": "מבור",
+   "forma_he": "מִבּ֣וֹר",
+   "n": 6,
+   "ref": "shmuel_b/3/26"
+  },
+  {
+   "forma": "בבור",
+   "forma_he": "בַּבּ֑וֹר",
+   "n": 4,
+   "ref": "bereshit/37/29"
+  },
+  {
+   "forma": "והבור",
+   "forma_he": "וְהַבּ֣וֹר",
+   "n": 2,
+   "ref": "bereshit/37/24"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HR/Ncmsc",
+  "HRd/Ncmsa",
+  "HC/Td/Ncmsa"
+ ],
+ "glosa_es": ""
+}

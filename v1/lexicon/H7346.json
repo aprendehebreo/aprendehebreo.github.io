@@ -1,0 +1,44 @@
+{
+ "strong": "H7346",
+ "he": "רחבעם",
+ "xlit": "Rᵉchabʻâm",
+ "pron": "rekh-ab-awm'",
+ "def_en": [
+  "Rehoboam = \"a people has enlarged\"",
+  "1) son of Solomon and the 1st king of Judah after the split up of the kingdom of Israel"
+ ],
+ "kjv": "Rehoboam.",
+ "expl": "Rechabam, an Israelite king",
+ "etim": "from and ; a people has enlarged;",
+ "raices": [
+  "H7337",
+  "H5971"
+ ],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "רחבעם",
+   "forma_he": "רְחַבְעָ֥ם",
+   "n": 46,
+   "ref": "mlakhim_a/11/43"
+  },
+  {
+   "forma": "לרחבעם",
+   "forma_he": "לִרְחַבְעָ֖ם",
+   "n": 2,
+   "ref": "mlakhim_a/12/21"
+  },
+  {
+   "forma": "ורחבעם",
+   "forma_he": "וּרְחַבְעָם֙",
+   "n": 2,
+   "ref": "mlakhim_a/14/21"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

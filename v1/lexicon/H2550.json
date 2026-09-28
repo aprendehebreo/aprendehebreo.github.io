@@ -1,0 +1,54 @@
+{
+ "strong": "H2550",
+ "he": "חמל",
+ "xlit": "châmal",
+ "pron": "khaw-mal'",
+ "def_en": [
+  "1) (Qal) to spare, pity, have compassion on"
+ ],
+ "kjv": "have compassion, (have) pity, spare.",
+ "expl": "to commiserate; by implication, to spare",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "חמל",
+   "forma_he": "חָמַ֤ל",
+   "n": 6,
+   "ref": "shmuel_a/15/15"
+  },
+  {
+   "forma": "יחמל",
+   "forma_he": "יַחְמֹ֑ל",
+   "n": 6,
+   "ref": "yeshayahu/30/14"
+  },
+  {
+   "forma": "אחמול",
+   "forma_he": "אֶחְמ֧וֹל",
+   "n": 5,
+   "ref": "yirmiyahu/13/14"
+  },
+  {
+   "forma": "יחמול",
+   "forma_he": "יַחְמֽוֹל",
+   "n": 5,
+   "ref": "chavakuk/1/17"
+  },
+  {
+   "forma": "ויחמל",
+   "forma_he": "וַיַּחְמֹל֩",
+   "n": 4,
+   "ref": "shmuel_a/15/9"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVqi1cs",
+  "HVqp3ms",
+  "HC/Vqw3ms",
+  "HVqi2ms"
+ ],
+ "glosa_es": ""
+}

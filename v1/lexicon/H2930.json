@@ -1,0 +1,74 @@
+{
+ "strong": "H2930",
+ "he": "טמא",
+ "xlit": "ṭâmêʼ",
+ "pron": "taw-may'",
+ "def_en": [
+  "1) to be unclean, become unclean, become impure",
+  "1a) (Qal) to be or become unclean",
+  "1a1) sexually",
+  "1a2) religiously",
+  "1a3) ceremonially",
+  "1b) (Niphal)",
+  "1b1) to defile oneself, be defiled",
+  "1b1a) sexually",
+  "1b1b) by idolatry",
+  "1b1c) ceremonially",
+  "1b2) to be regarded as unclean",
+  "1c) (Piel)",
+  "1c1) to defile",
+  "1c1a) sexually",
+  "1c1b) religiously",
+  "1c1c) ceremonially",
+  "1c2) to pronounce unclean, declare unclean (ceremonially)",
+  "1c3) to profane (God's name)",
+  "1d) (Pual) to be defiled",
+  "1e) (Hithpael) to be unclean",
+  "1f) (Hothpael) to be defiled"
+ ],
+ "kjv": "defile (self), pollute (self), be (make, make self, pronounce) unclean, [idiom] utterly.",
+ "expl": "to be foul, especially in a ceremial or moral sense (contaminated)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 162,
+ "formas": [
+  {
+   "forma": "יטמא",
+   "forma_he": "יִטְמָ֖א",
+   "n": 39,
+   "ref": "vayikra/5/3"
+  },
+  {
+   "forma": "וטמא",
+   "forma_he": "וְטָמֵ֥א",
+   "n": 29,
+   "ref": "vayikra/11/25"
+  },
+  {
+   "forma": "טמא",
+   "forma_he": "טִמֵּא֙",
+   "n": 12,
+   "ref": "bereshit/34/5"
+  },
+  {
+   "forma": "תטמאו",
+   "forma_he": "תִּטַּמָּ֑אוּ",
+   "n": 7,
+   "ref": "vayikra/11/24"
+  },
+  {
+   "forma": "לטמאה",
+   "forma_he": "לְטָמְאָה",
+   "n": 7,
+   "ref": "vayikra/15/32"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HC/Vqq3ms",
+  "HVpp3ms",
+  "HR/Vqc",
+  "HVNp3fs"
+ ],
+ "glosa_es": "ser inmundo; contaminarse"
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H2796",
+ "he": "חרש",
+ "xlit": "chârâsh",
+ "pron": "khaw-rawsh'",
+ "def_en": [
+  "1) craftsman, artisan, engraver, graver, artificer",
+  "1a) graver, artificer",
+  "1b) skilful to destroy (warriors) (fig.)"
+ ],
+ "kjv": "artificer, ([phrase]) carpenter, craftsman, engraver, maker, [phrase] mason, skilful, ([phrase]) smith, worker, workman, such as wrought.",
+ "expl": "a fabricator or any material",
+ "etim": "from ;",
+ "raices": [
+  "H2790"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "חרש",
+   "forma_he": "חֹרֵ֥שׁ",
+   "n": 13,
+   "ref": "bereshit/4/22"
+  },
+  {
+   "forma": "וחרשי",
+   "forma_he": "וְחָרָשֵׁ֣י",
+   "n": 5,
+   "ref": "shmuel_b/5/11"
+  },
+  {
+   "forma": "חרשים",
+   "forma_he": "חֲרָשִׁ֖ים",
+   "n": 4,
+   "ref": "yeshayahu/3/3"
+  },
+  {
+   "forma": "לחרשי",
+   "forma_he": "לְחָרָשֵׁ֤י",
+   "n": 2,
+   "ref": "mlakhim_b/12/12"
+  },
+  {
+   "forma": "לחרשים",
+   "forma_he": "לֶחָ֣רָשִׁ֔ים",
+   "n": 2,
+   "ref": "mlakhim_b/22/6"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Ncmpc",
+  "HNcmpa",
+  "HNcmsc",
+  "HR/Ncmpc"
+ ],
+ "glosa_es": ""
+}

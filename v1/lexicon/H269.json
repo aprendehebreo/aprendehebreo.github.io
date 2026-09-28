@@ -1,0 +1,64 @@
+{
+ "strong": "H269",
+ "he": "אחות",
+ "xlit": "ʼâchôwth",
+ "pron": "aw-khoth'",
+ "def_en": [
+  "1) sister",
+  "1a) sister (same parents)",
+  "1b) half-sister (same father)",
+  "1c) relative",
+  "1c1)(metaph) of Israel's and Judah's relationship",
+  "1d) beloved",
+  "1d1) bride",
+  "1e) (fig.) of intimate connection",
+  "1f) another"
+ ],
+ "kjv": "(an-) other, sister, together.",
+ "expl": "a sister (used very widely (like brother), literally and figuratively)",
+ "etim": "irregular feminine of ;",
+ "raices": [
+  "H251"
+ ],
+ "ocurrencias": 119,
+ "formas": [
+  {
+   "forma": "אחות",
+   "forma_he": "אֲח֛וֹת",
+   "n": 19,
+   "ref": "bereshit/25/20"
+  },
+  {
+   "forma": "אחתי",
+   "forma_he": "אֲחֹ֣תִי",
+   "n": 15,
+   "ref": "bereshit/12/13"
+  },
+  {
+   "forma": "אחתו",
+   "forma_he": "אֲחֹתוֹ֒",
+   "n": 13,
+   "ref": "bereshit/24/30"
+  },
+  {
+   "forma": "אחותך",
+   "forma_he": "אֲחֽוֹתְךָ֤",
+   "n": 10,
+   "ref": "vayikra/18/9"
+  },
+  {
+   "forma": "אחותה",
+   "forma_he": "אֲחוֹתָ֖הּ",
+   "n": 10,
+   "ref": "yirmiyahu/3/7"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp1cs",
+  "HNcfsc/Sp3fs",
+  "HNcfsc",
+  "HNcfsc/Sp3ms",
+  "HNcfsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

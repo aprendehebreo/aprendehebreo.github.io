@@ -1,0 +1,59 @@
+{
+ "strong": "H7364",
+ "he": "רחץ",
+ "xlit": "râchats",
+ "pron": "raw-khats'",
+ "def_en": [
+  "1) to wash, wash off, wash away, bathe",
+  "1a) (Qal)",
+  "1a1) to wash, wash off, wash away",
+  "1a2) to wash, bathe (oneself)",
+  "1b) (Pual) to be washed",
+  "1c) (Hithpael) to wash oneself"
+ ],
+ "kjv": "bathe (self), wash (self).",
+ "expl": "to lave (the whole or a part of a thing)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "ורחץ",
+   "forma_he": "וְרָחַ֤ץ",
+   "n": 22,
+   "ref": "vayikra/14/8"
+  },
+  {
+   "forma": "ורחצו",
+   "forma_he": "וְרַחֲצ֖וּ",
+   "n": 6,
+   "ref": "bereshit/18/4"
+  },
+  {
+   "forma": "ורחצת",
+   "forma_he": "וְרָחַצְתָּ֥",
+   "n": 5,
+   "ref": "shemot/29/4"
+  },
+  {
+   "forma": "ירחץ",
+   "forma_he": "יִרְחַ֣ץ",
+   "n": 5,
+   "ref": "vayikra/1/9"
+  },
+  {
+   "forma": "רחץ",
+   "forma_he": "רָחַ֣ץ",
+   "n": 5,
+   "ref": "vayikra/8/21"
+  }
+ ],
+ "morph": [
+  "HC/Vqq3ms",
+  "HR/Vqc",
+  "HVqi3ms",
+  "HC/Vqw3ms",
+  "HC/Vqq2ms"
+ ],
+ "glosa_es": ""
+}

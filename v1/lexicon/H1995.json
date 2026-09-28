@@ -1,0 +1,61 @@
+{
+ "strong": "H1995",
+ "he": "המון",
+ "xlit": "hâmôwn",
+ "pron": "haw-mone'",
+ "def_en": [
+  "1) (Qal) murmur, roar, crowd, abundance, tumult, sound",
+  "1a) sound, murmur, rush, roar",
+  "1b) tumult, confusion",
+  "1c) crowd, multitude",
+  "1d) great number, abundance",
+  "1e) abundance, wealth"
+ ],
+ "kjv": "abundance, company, many, multitude, multiply, noise, riches, rumbling, sounding, store, tumult.",
+ "expl": "a noise, tumult, crowd; also disquietude, wealth",
+ "etim": "or ; (Ezekiel 5:7), from ;",
+ "raices": [
+  "H1993"
+ ],
+ "ocurrencias": 85,
+ "formas": [
+  {
+   "forma": "המון",
+   "forma_he": "הֲמ֥וֹן",
+   "n": 35,
+   "ref": "bereshit/17/4"
+  },
+  {
+   "forma": "ההמון",
+   "forma_he": "הֶהָמ֖וֹן",
+   "n": 17,
+   "ref": "shmuel_a/4/14"
+  },
+  {
+   "forma": "המונה",
+   "forma_he": "הֲמוֹנָֽהּ",
+   "n": 13,
+   "ref": "yechezkel/7/12"
+  },
+  {
+   "forma": "המונו",
+   "forma_he": "הֲמוֹנ֑וֹ",
+   "n": 3,
+   "ref": "shoftim/4/7"
+  },
+  {
+   "forma": "והמון",
+   "forma_he": "וַהֲמ֤וֹן",
+   "n": 2,
+   "ref": "yirmiyahu/49/32"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc/Sp3fs",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

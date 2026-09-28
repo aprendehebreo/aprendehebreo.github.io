@@ -1,0 +1,63 @@
+{
+ "strong": "H127",
+ "he": "אדמה",
+ "xlit": "ʼădâmâh",
+ "pron": "ad-aw-maw'",
+ "def_en": [
+  "1) ground, land",
+  "1a) ground (as general, tilled, yielding sustenance)",
+  "1b) piece of ground, a specific plot of land",
+  "1c) earth substance (for building or constructing)",
+  "1d) ground as earth's visible surface",
+  "1e) land, territory, country",
+  "1f) whole inhabited earth",
+  "1g) city in Naphtali"
+ ],
+ "kjv": "country, earth, ground, husband(-man) (-ry), land.",
+ "expl": "soil (from its general redness)",
+ "etim": "from ;",
+ "raices": [
+  "H119"
+ ],
+ "ocurrencias": 225,
+ "formas": [
+  {
+   "forma": "האדמה",
+   "forma_he": "הָֽאֲדָמָ֖ה",
+   "n": 113,
+   "ref": "bereshit/1/25"
+  },
+  {
+   "forma": "אדמת",
+   "forma_he": "אַדְמַ֤ת",
+   "n": 26,
+   "ref": "bereshit/47/20"
+  },
+  {
+   "forma": "אדמתם",
+   "forma_he": "אַדְמָתָֽם",
+   "n": 17,
+   "ref": "bereshit/47/22"
+  },
+  {
+   "forma": "אדמתך",
+   "forma_he": "אַדְמָ֣תְךָ֔",
+   "n": 12,
+   "ref": "shemot/23/19"
+  },
+  {
+   "forma": "אדמתו",
+   "forma_he": "אַדְמָת֖וֹ",
+   "n": 12,
+   "ref": "devarim/32/43"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsc",
+  "HNcfsc/Sp3mp",
+  "HNcfsc/Sp2ms",
+  "HNcfsc/Sp3ms"
+ ],
+ "glosa_es": "tierra; suelo; terreno"
+}

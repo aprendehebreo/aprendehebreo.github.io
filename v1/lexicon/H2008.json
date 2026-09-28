@@ -1,0 +1,36 @@
+{
+ "strong": "H2008",
+ "he": "הנה",
+ "xlit": "hênnâh",
+ "pron": "hane'-naw",
+ "def_en": [
+  "1) here, there, now, hither"
+ ],
+ "kjv": "here, hither(-to), now, on this (that) side, [phrase] since, this (that) way, thitherward, [phrase] thus far, to...fro, [phrase] yet.",
+ "expl": "hither or thither (but used both of place and time)",
+ "etim": "from ;",
+ "raices": [
+  "H2004"
+ ],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "הנה",
+   "forma_he": "הִנֵּה֩",
+   "n": 45,
+   "ref": "bereshit/1/29"
+  },
+  {
+   "forma": "והנה",
+   "forma_he": "וְהִנֵּה",
+   "n": 5,
+   "ref": "bereshit/1/31"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HC/D",
+  "HPp3fp"
+ ],
+ "glosa_es": ""
+}

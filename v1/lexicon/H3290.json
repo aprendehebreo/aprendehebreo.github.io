@@ -1,0 +1,56 @@
+{
+ "strong": "H3290",
+ "he": "יעקב",
+ "xlit": "Yaʻăqôb",
+ "pron": "yah-ak-obe'",
+ "def_en": [
+  "Jacob = \"heel holder\" or \"supplanter\"",
+  "1) son of Isaac, grandson of Abraham, and father of the 12 patriarchs of the tribes of Israel"
+ ],
+ "kjv": "Jacob.",
+ "expl": "Jaakob, the Israelitish patriarch",
+ "etim": "from ; heel-catcher (i.e. supplanter);",
+ "raices": [
+  "H6117"
+ ],
+ "ocurrencias": 349,
+ "formas": [
+  {
+   "forma": "יעקב",
+   "forma_he": "יַעֲקֹ֑ב",
+   "n": 269,
+   "ref": "bereshit/25/26"
+  },
+  {
+   "forma": "ליעקב",
+   "forma_he": "לְיַעֲקֹֽב",
+   "n": 36,
+   "ref": "bereshit/25/33"
+  },
+  {
+   "forma": "ויעקב",
+   "forma_he": "וְיַעֲקֹב֙",
+   "n": 14,
+   "ref": "bereshit/25/27"
+  },
+  {
+   "forma": "ביעקב",
+   "forma_he": "בְּיַעֲקֹ֔ב",
+   "n": 11,
+   "ref": "bereshit/49/7"
+  },
+  {
+   "forma": "וליעקב",
+   "forma_he": "וּֽלְיַעֲקֹֽב",
+   "n": 11,
+   "ref": "bereshit/50/24"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Jacob"
+}

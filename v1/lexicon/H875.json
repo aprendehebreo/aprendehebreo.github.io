@@ -1,0 +1,56 @@
+{
+ "strong": "H875",
+ "he": "באר",
+ "xlit": "bᵉʼêr",
+ "pron": "be-ayr'",
+ "def_en": [
+  "1) well, pit, spring"
+ ],
+ "kjv": "pit, well.",
+ "expl": "a pit; especially a well",
+ "etim": "from ;",
+ "raices": [
+  "H874"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "באר",
+   "forma_he": "בְּאֵ֥ר",
+   "n": 15,
+   "ref": "bereshit/21/19"
+  },
+  {
+   "forma": "הבאר",
+   "forma_he": "הַבְּאֵ֥ר",
+   "n": 13,
+   "ref": "bereshit/21/30"
+  },
+  {
+   "forma": "בארת",
+   "forma_he": "בֶּֽאֱרֹ֤ת",
+   "n": 3,
+   "ref": "bereshit/14/10"
+  },
+  {
+   "forma": "לבאר",
+   "forma_he": "לַבְּאֵ֔ר",
+   "n": 2,
+   "ref": "bereshit/16/14"
+  },
+  {
+   "forma": "הבארת",
+   "forma_he": "הַבְּאֵרֹ֗ת",
+   "n": 1,
+   "ref": "bereshit/26/15"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HNcfsc",
+  "HNcfpc",
+  "HRd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

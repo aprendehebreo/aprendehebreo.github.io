@@ -1,0 +1,56 @@
+{
+ "strong": "H2319",
+ "he": "חדש",
+ "xlit": "châdâsh",
+ "pron": "khaw-dawsh'",
+ "def_en": [
+  "1) new, new thing, fresh"
+ ],
+ "kjv": "fresh, new thing.",
+ "expl": "new",
+ "etim": "from ;",
+ "raices": [
+  "H2318"
+ ],
+ "ocurrencias": 53,
+ "formas": [
+  {
+   "forma": "חדש",
+   "forma_he": "חֹ֥דֶשׁ",
+   "n": 18,
+   "ref": "bereshit/29/14"
+  },
+  {
+   "forma": "חדשה",
+   "forma_he": "חֲדָשָׁ֖ה",
+   "n": 17,
+   "ref": "vayikra/23/16"
+  },
+  {
+   "forma": "חדשים",
+   "forma_he": "חֳדָשִׁ֗ים",
+   "n": 10,
+   "ref": "bereshit/38/24"
+  },
+  {
+   "forma": "החדשה",
+   "forma_he": "הַחֲדָשָׁ֖ה",
+   "n": 3,
+   "ref": "mlakhim_a/11/30"
+  },
+  {
+   "forma": "החדש",
+   "forma_he": "הַחֹ֣דֶשׁ",
+   "n": 2,
+   "ref": "bereshit/8/5"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAafsa",
+  "HAampa",
+  "HTd/Aafsa",
+  "HTd/Aamsa"
+ ],
+ "glosa_es": ""
+}

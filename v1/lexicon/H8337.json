@@ -1,0 +1,59 @@
+{
+ "strong": "H8337",
+ "he": "שש",
+ "xlit": "shêsh",
+ "pron": "shaysh",
+ "def_en": [
+  "1) six",
+  "1a) six (cardinal number)",
+  "1b) sixth (ordinal number)",
+  "1c) in combination with other numbers"
+ ],
+ "kjv": "six(-teen, -teenth), sixth.",
+ "expl": "six (as an overplus beyond five or the fingers of the hand); as ord. sixth",
+ "etim": "masculine ; a primitive number; compare",
+ "raices": [
+  "H7797"
+ ],
+ "ocurrencias": 215,
+ "formas": [
+  {
+   "forma": "שש",
+   "forma_he": "שֵׁ֥שׁ",
+   "n": 84,
+   "ref": "bereshit/7/6"
+  },
+  {
+   "forma": "ושש",
+   "forma_he": "וְשֵׁשׁ",
+   "n": 43,
+   "ref": "bereshit/8/13"
+  },
+  {
+   "forma": "ששה",
+   "forma_he": "שִׁשָּׁ֣ה",
+   "n": 29,
+   "ref": "bereshit/30/20"
+  },
+  {
+   "forma": "ששת",
+   "forma_he": "שֵׁ֥שֶׁת",
+   "n": 21,
+   "ref": "shemot/16/26"
+  },
+  {
+   "forma": "וששה",
+   "forma_he": "וְשִׁשָּׁ֣ה",
+   "n": 18,
+   "ref": "shemot/25/32"
+  }
+ ],
+ "morph": [
+  "HAcfsa",
+  "HC/Acfsa",
+  "HAcmsa",
+  "HAcmsc",
+  "HC/Acmsa"
+ ],
+ "glosa_es": "seis"
+}

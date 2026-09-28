@@ -1,0 +1,61 @@
+{
+ "strong": "H3467",
+ "he": "ישע",
+ "xlit": "yâshaʻ",
+ "pron": "yaw-shah'",
+ "def_en": [
+  "1) to save, be saved, be delivered",
+  "1a) (Niphal)",
+  "1a1) to be liberated, be saved, be delivered",
+  "1a2) to be saved (in battle), be victorious",
+  "1b) (Hiphil)",
+  "1b1) to save, deliver",
+  "1b2) to save from moral troubles",
+  "1b3) to give victory to"
+ ],
+ "kjv": "[idiom] at all, avenging, defend, deliver(-er), help, preserve, rescue, be safe, bring (having) salvation, save(-iour), get victory.",
+ "expl": "properly, to be open, wide or free, i.e. (by implication) to be safe; causatively, to free or succor",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 206,
+ "formas": [
+  {
+   "forma": "מושיע",
+   "forma_he": "מוֹשִׁ֖יעַ",
+   "n": 17,
+   "ref": "devarim/22/27"
+  },
+  {
+   "forma": "להושיע",
+   "forma_he": "לְהוֹשִׁ֥יעַ",
+   "n": 13,
+   "ref": "devarim/20/4"
+  },
+  {
+   "forma": "הושיעני",
+   "forma_he": "הוֹשִׁיעֵ֖נִי",
+   "n": 12,
+   "ref": "yirmiyahu/17/14"
+  },
+  {
+   "forma": "הושיעה",
+   "forma_he": "הוֹשִׁ֥יעָה",
+   "n": 10,
+   "ref": "shoftim/7/2"
+  },
+  {
+   "forma": "ויושע",
+   "forma_he": "וַיּ֨וֹשַׁע",
+   "n": 7,
+   "ref": "shemot/14/30"
+  }
+ ],
+ "morph": [
+  "HVhrmsa",
+  "HR/Vhc",
+  "HVhv2ms/Sp1cs",
+  "HC/Vhw3ms",
+  "HVhi3ms"
+ ],
+ "glosa_es": "salvar; librar"
+}

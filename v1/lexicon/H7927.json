@@ -1,0 +1,59 @@
+{
+ "strong": "H7927",
+ "he": "שכם",
+ "xlit": "Shᵉkem",
+ "pron": "shek-em'",
+ "def_en": [
+  "Shechem = \"back\" or \"shoulder\"",
+  "n pr m",
+  "1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival",
+  "n pr loc",
+  "2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+ ],
+ "kjv": "Shechem.",
+ "expl": "Shekem, a place in Palestine",
+ "etim": "the same as ; ridge;",
+ "raices": [
+  "H7926"
+ ],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "שכם",
+   "forma_he": "שְׁכֶ֣ם",
+   "n": 45,
+   "ref": "bereshit/9/23"
+  },
+  {
+   "forma": "בשכם",
+   "forma_he": "בִּשְׁכֶֽם",
+   "n": 8,
+   "ref": "bereshit/37/12"
+  },
+  {
+   "forma": "שכמה",
+   "forma_he": "שִׁכְמָ֛הּ",
+   "n": 7,
+   "ref": "bereshit/21/14"
+  },
+  {
+   "forma": "ושכם",
+   "forma_he": "וּשְׁכֶ֥ם",
+   "n": 2,
+   "ref": "bereshit/34/20"
+  },
+  {
+   "forma": "משכם",
+   "forma_he": "מִשְּׁכֶ֞ם",
+   "n": 1,
+   "ref": "yirmiyahu/41/5"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H374",
+ "he": "איפה",
+ "xlit": "ʼêyphâh",
+ "pron": "ay-faw'",
+ "def_en": [
+  "1) ephah",
+  "1a) a dry measure of quantity, equal to 3 seahs, 10 omers; the same as the liquid measure bath; (about 9 imperial gallons (40 l), rabbinical writings give sizes of one-half this amount)",
+  "1b) the receptacle for measuring or holding that amount"
+ ],
+ "kjv": "ephah, (divers) measure(-s).",
+ "expl": "an ephah or measure for grain; hence, a measure in general",
+ "etim": "or (shortened) ; of Egyptian derivation;",
+ "raices": [],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "האיפה",
+   "forma_he": "הָאֵיפָ֖ה",
+   "n": 13,
+   "ref": "shemot/16/36"
+  },
+  {
+   "forma": "איפה",
+   "forma_he": "אֵיפֹ֖ה",
+   "n": 8,
+   "ref": "bereshit/37/16"
+  },
+  {
+   "forma": "ואיפה",
+   "forma_he": "וְאֵיפָ֑ה",
+   "n": 7,
+   "ref": "devarim/25/14"
+  },
+  {
+   "forma": "לאיפה",
+   "forma_he": "לָאֵיפָֽה",
+   "n": 4,
+   "ref": "yechezkel/45/24"
+  },
+  {
+   "forma": "ואיפת",
+   "forma_he": "וְאֵיפַת",
+   "n": 3,
+   "ref": "shoftim/6/19"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HRd/Ncfsa",
+  "HC/Ncfsc"
+ ],
+ "glosa_es": ""
+}

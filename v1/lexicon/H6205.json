@@ -1,0 +1,56 @@
+{
+ "strong": "H6205",
+ "he": "ערפל",
+ "xlit": "ʻărâphel",
+ "pron": "ar-aw-fel'",
+ "def_en": [
+  "1) cloud, heavy or dark cloud, darkness, gross darkness, thick darkness"
+ ],
+ "kjv": "(gross, thick) dark (cloud, -ness).",
+ "expl": "gloom (as of a lowering sky)",
+ "etim": "probably from ;",
+ "raices": [
+  "H6201"
+ ],
+ "ocurrencias": 15,
+ "formas": [
+  {
+   "forma": "וערפל",
+   "forma_he": "וַעֲרָפֶֽל",
+   "n": 9,
+   "ref": "devarim/4/11"
+  },
+  {
+   "forma": "בערפל",
+   "forma_he": "בָּעֲרָפֶֽל",
+   "n": 2,
+   "ref": "mlakhim_a/8/12"
+  },
+  {
+   "forma": "הערפל",
+   "forma_he": "הָֽעֲרָפֶ֔ל",
+   "n": 1,
+   "ref": "shemot/20/21"
+  },
+  {
+   "forma": "והערפל",
+   "forma_he": "וְהָֽעֲרָפֶ֔ל",
+   "n": 1,
+   "ref": "devarim/5/22"
+  },
+  {
+   "forma": "לערפל",
+   "forma_he": "לַעֲרָפֶֽל",
+   "n": 1,
+   "ref": "yirmiyahu/13/16"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsa",
+  "HRd/Ncmsa",
+  "HTd/Ncmsa",
+  "HC/Td/Ncmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H2889",
+ "he": "טהור",
+ "xlit": "ṭâhôwr",
+ "pron": "taw-hore'",
+ "def_en": [
+  "1) pure, clean",
+  "1a) clean (ceremonially-of animals)",
+  "1b) pure (physically)",
+  "1c) pure, clean (morally, ethically)"
+ ],
+ "kjv": "clean, fair, pure(-ness).",
+ "expl": "pure (in a physical, chemical, ceremonial or moral sense)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H2891"
+ ],
+ "ocurrencias": 94,
+ "formas": [
+  {
+   "forma": "טהור",
+   "forma_he": "טָה֔וֹר",
+   "n": 59,
+   "ref": "shemot/25/11"
+  },
+  {
+   "forma": "הטהר",
+   "forma_he": "הַטָּהֹ֔ר",
+   "n": 5,
+   "ref": "bereshit/8/20"
+  },
+  {
+   "forma": "הטהרה",
+   "forma_he": "הַטְּהֹרָ֖ה",
+   "n": 4,
+   "ref": "shemot/31/8"
+  },
+  {
+   "forma": "הטהורה",
+   "forma_he": "הַטְּהוֹרָ֗ה",
+   "n": 3,
+   "ref": "bereshit/7/2"
+  },
+  {
+   "forma": "טהרה",
+   "forma_he": "טְהֹרָ֥ה",
+   "n": 3,
+   "ref": "bereshit/7/2"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HTd/Aamsa",
+  "HTd/Aafsa",
+  "HAafsa",
+  "HC/Td/Aamsa"
+ ],
+ "glosa_es": ""
+}

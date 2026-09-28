@@ -1,0 +1,191 @@
+{
+ "id": 6,
+ "titulo": "Sílabas y acentuación",
+ "objetivos": [
+  "Separar en sílabas cualquier palabra vocalizada.",
+  "Distinguir sílaba abierta de sílaba cerrada.",
+  "Ubicar el acento: mil'el (penúltima) y milra (última).",
+  "Leer en voz alta respetando el acento."
+ ],
+ "items": [
+  {
+   "id": "abierta",
+   "tipo": "gramatica",
+   "es": "Sílaba abierta (termina en vocal)",
+   "he": "תּוֹרָה",
+   "nota": "Estructura consonante + vocal. תּוֹרָה se parte to-rá: las dos sílabas son abiertas porque terminan en vocal.",
+   "ejemplo": {
+    "he": "תּוֹרָה",
+    "xlit": "instrucción, Torá",
+    "es": "torá",
+    "ref": "shemot/12/49"
+   }
+  },
+  {
+   "id": "cerrada",
+   "tipo": "gramatica",
+   "es": "Sílaba cerrada (termina en consonante)",
+   "he": "יָם",
+   "nota": "Estructura consonante + vocal + consonante. יָם es una sola sílaba cerrada: yam.",
+   "ejemplo": {
+    "he": "יָם",
+    "xlit": "mar",
+    "es": "yam",
+    "ref": "bereshit/14/3"
+   }
+  },
+  {
+   "id": "monosilabas",
+   "tipo": "gramatica",
+   "es": "Palabras de una sola sílaba",
+   "he": "דַּם",
+   "nota": "Llevan una sola sílaba y por lo tanto el acento es obligatorio en ella: דַּם (dam), הַר (har), עַם (am).",
+   "ejemplo": {
+    "he": "דַּם",
+    "xlit": "sangre",
+    "es": "dam",
+    "ref": "bereshit/9/6"
+   }
+  },
+  {
+   "id": "milel",
+   "tipo": "gramatica",
+   "es": "Mil'el: acento en la penúltima sílaba",
+   "he": "מֶלֶךְ",
+   "nota": "Muchos sustantivos son mil'el. מֶלֶךְ se lee mé-lej y no me-léj.",
+   "ejemplo": {
+    "he": "מֶלֶךְ",
+    "xlit": "rey",
+    "es": "mélej",
+    "ref": "bereshit/14/1"
+   }
+  },
+  {
+   "id": "milra",
+   "tipo": "gramatica",
+   "es": "Milra: acento en la última sílaba",
+   "he": "תּוֹרָה",
+   "nota": "Se marca con un signo de cantilación sobre la vocal acentuada. תּוֹרָה se lee to-rá y no tó-ra.",
+   "ejemplo": {
+    "he": "תּוֹרָה",
+    "xlit": "instrucción, Torá",
+    "es": "torá",
+    "ref": "shemot/12/49"
+   }
+  },
+  {
+   "id": "sheva_silaba",
+   "tipo": "gramatica",
+   "es": "Qué hace el sheva en la sílaba",
+   "he": "בְּרֵאשִׁית",
+   "nota": "Un sheva na abre una sílaba nueva (be-re-shít); un sheva naj cierra la sílaba anterior y no agrega vocal.",
+   "ejemplo": {
+    "he": "בְּרֵאשִׁית",
+    "xlit": "en el principio",
+    "es": "bereshít",
+    "ref": "bereshit/1/1"
+   }
+  },
+  {
+   "id": "he_final",
+   "tipo": "gramatica",
+   "es": "La he final no se pronuncia",
+   "he": "לָיְלָה",
+   "nota": "Al final de palabra la ה suele ser muda: indica que la palabra termina en vocal. לָיְלָה se lee láyla y תּוֹרָה se lee torá.",
+   "ejemplo": {
+    "he": "לָיְלָה",
+    "xlit": "noche",
+    "es": "láyla",
+    "ref": "bereshit/1/5"
+   }
+  },
+  {
+   "id": "sefer",
+   "tipo": "palabra",
+   "he": "סֵפֶר",
+   "es": "libro",
+   "xlit": "séfer",
+   "ref": "bereshit/5/1",
+   "nota": "Strong H5612. Dos sílabas: sé-fer. Primera abierta, segunda cerrada."
+  },
+  {
+   "id": "mayim",
+   "tipo": "palabra",
+   "he": "מַיִם",
+   "es": "aguas",
+   "xlit": "máyim",
+   "ref": "bereshit/1/6",
+   "nota": "Strong H4325. Dos sílabas: má-yim. La segunda cierra con ם final."
+  },
+  {
+   "id": "laila",
+   "tipo": "palabra",
+   "he": "לָיְלָה",
+   "es": "noche",
+   "xlit": "láyla",
+   "ref": "bereshit/1/5",
+   "nota": "Strong H3915. Dos sílabas: láy-la. La ה final es muda."
+  }
+ ],
+ "ejercicios": [
+  {
+   "id": "e6-1",
+   "tipo": "opcion",
+   "pregunta": "¿Cuál de estas sílabas es cerrada?",
+   "opciones": [
+    "תּוֹ (to)",
+    "רָה (ra)",
+    "יָם (yam)"
+   ],
+   "correcta": 2,
+   "explica": "יָם termina en consonante (ם final): es cerrada."
+  },
+  {
+   "id": "e6-2",
+   "tipo": "opcion",
+   "pregunta": "En תּוֹרָה, ¿dónde va el acento?",
+   "opciones": [
+    "En la primera sílaba (tó-ra)",
+    "En la segunda sílaba (to-rá)"
+   ],
+   "correcta": 1,
+   "explica": "תּוֹרָה es milra: el acento va en la última sílaba."
+  },
+  {
+   "id": "e6-3",
+   "tipo": "leer",
+   "pregunta": "¿Cuántas sílabas tiene מַיִם?",
+   "opciones": [
+    "Una",
+    "Dos",
+    "Tres"
+   ],
+   "correcta": 1,
+   "explica": "má-yim: dos sílabas. La ם final cierra la segunda."
+  },
+  {
+   "id": "e6-4",
+   "tipo": "audio",
+   "pregunta": "Escucha לֵב. ¿Cuál es la lectura correcta?",
+   "opciones": [
+    "lev (una sílaba cerrada)",
+    "le-vá (dos sílabas)",
+    "levé"
+   ],
+   "correcta": 0,
+   "explica": "לֵב es monosílaba cerrada: lev."
+  },
+  {
+   "id": "e6-5",
+   "tipo": "escribir",
+   "pregunta": "Escribe la palabra 'libro' (séfer).",
+   "respuesta": "סֵפֶר",
+   "explica": "סֵפֶר: samej con tsere, pe con segol, resh final."
+  }
+ ],
+ "pasaje": "devarim/6/5",
+ "html": "<h2>Cómo se parte una palabra</h2>\n<p>Cada sílaba hebrea empieza con una consonante y lleva una vocal:</p>\n<ul>\n<li><strong>Abierta</strong>: consonante + vocal (סֵ = se, רָה = ra). Termina en vocal.</li>\n<li><strong>Cerrada</strong>: consonante + vocal + consonante (פֶר = fer, יָם = yam). Termina en consonante.</li>\n<li><strong>Sheva naj</strong>: no forma sílaba; la consonante se pega a la sílaba anterior.</li>\n</ul>\n<table><tbody>\n<tr><th>Palabra</th><th>División</th><th>Tipo de sílabas</th></tr>\n<tr><td>תּוֹרָה</td><td>to-rá</td><td>abierta + abierta</td></tr>\n<tr><td>סֵפֶר</td><td>sé-fer</td><td>abierta + cerrada</td></tr>\n<tr><td>מַיִם</td><td>má-yim</td><td>abierta + cerrada</td></tr>\n<tr><td>לָיְלָה</td><td>láy-la</td><td>cerrada + abierta</td></tr>\n<tr><td>יָם</td><td>yam</td><td>cerrada (monosílaba)</td></tr>\n</tbody></table>\n<h2>El acento</h2>\n<table><tbody>\n<tr><th>Nombre</th><th>Posición</th><th>Ejemplo</th></tr>\n<tr><td>mil&#x27;el</td><td>penúltima sílaba</td><td>מֶלֶךְ (mé-lej), סֵפֶר (sé-fer), מַיִם (má-yim)</td></tr>\n<tr><td>milra</td><td>última sílaba</td><td>תּוֹרָה (to-rá), יָד (yad)</td></tr>\n<tr><td>monosílabas</td><td>única sílaba</td><td>דַּם, הַר, עַם, לֵב</td></tr>\n</tbody></table>\n<p>En el texto del códice el acento no se marca con un signo aparte: lo indican los <strong>te&#x27;amim</strong> (signos de cantilación) que verás en la lección 7. Al leer de corrido, el oído aprende el patrón: los sustantivos tienden a ser mil&#x27;el y muchas formas verbales, milra.</p>\n<h2>Cómo se oye un versículo</h2>\n<p>Shemá, devarim/6:5:</p>\n<p>וְאָ֣הַבְתָּ֔ אֵ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ בְּכָל־לְבָבְךָ֥ וּבְכָל־נַפְשְׁךָ֖ וּבְכָל־מְאֹדֶֽךָ׃</p>\n<p>Se lee marcando el acento de cada palabra: ve-ahavtá, et, YHWH, elohejá, bejol-levavjá, uvjol-nafshejá, uvjol-meodejá.</p>\n<h2>Consejo de estudio</h2>\n<p>Lee cada palabra marcando la sílaba acentuada con un golpe en la mesa. Si el golpe no cae donde debe, vuelve a leer la palabra: el acento cambia el significado en hebreo y no es un adorno.</p>",
+ "archivo": "06.md",
+ "items_total": 10,
+ "ejercicios_total": 5
+}

@@ -1,0 +1,49 @@
+{
+ "strong": "H3458",
+ "he": "ישמעאל",
+ "xlit": "Yishmâʻêʼl",
+ "pron": "yish-maw-ale'",
+ "def_en": [
+  "Ishmael = \"God will hear\"",
+  "1) son of Abraham and Sarah's handmaid Hagar and the progenitor of the Arabian peoples",
+  "2) son of Nethaniah and the murderer of Gedaliah",
+  "3) a Benjamite, one of the sons of Azel a descendant of Saul through Meribbaal or Mephibosheth",
+  "4) a Judaite, father of Zebadiah",
+  "5) a Judaite, son of Johanan and one of the captains who aided Jehoiada in restoring Joash to the throne",
+  "6) a priest of the family of Pashur with a foreign wife whom he was forced to put away by Ezra"
+ ],
+ "kjv": "Ishmael.",
+ "expl": "Jishmael, the name of Abraham's oldest son, and of five Israelites",
+ "etim": "from and ; God will hear;",
+ "raices": [
+  "H8085",
+  "H410"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "ישמעאל",
+   "forma_he": "יִשְׁמָעֵ֔אל",
+   "n": 37,
+   "ref": "bereshit/16/11"
+  },
+  {
+   "forma": "וישמעאל",
+   "forma_he": "וְיִשְׁמָעֵ֣אל",
+   "n": 9,
+   "ref": "bereshit/17/25"
+  },
+  {
+   "forma": "ולישמעאל",
+   "forma_he": "וּֽלְיִשְׁמָעֵ֘אל",
+   "n": 2,
+   "ref": "bereshit/17/20"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

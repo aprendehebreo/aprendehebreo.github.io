@@ -1,0 +1,58 @@
+{
+ "strong": "H8313",
+ "he": "שרף",
+ "xlit": "sâraph",
+ "pron": "saw-raf'",
+ "def_en": [
+  "1) to burn",
+  "1a) (Qal) to burn",
+  "1b) (Niphal) to be burned",
+  "1c) (Piel) burner, burning (participle)",
+  "1d) (Pual) to be burnt up, be burned"
+ ],
+ "kjv": "(cause to, make a) burn((-ing), up) kindle, [idiom] utterly.",
+ "expl": "to be (causatively, set) on fire",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 117,
+ "formas": [
+  {
+   "forma": "שרף",
+   "forma_he": "שָׂרַ֔ף",
+   "n": 17,
+   "ref": "vayikra/4/21"
+  },
+  {
+   "forma": "וישרף",
+   "forma_he": "וַיִּשְׂרֹ֣ף",
+   "n": 11,
+   "ref": "shemot/32/20"
+  },
+  {
+   "forma": "ישרף",
+   "forma_he": "יִשָּׂרֵֽף",
+   "n": 8,
+   "ref": "vayikra/4/12"
+  },
+  {
+   "forma": "שרפו",
+   "forma_he": "שָׂרְפ֖וּ",
+   "n": 8,
+   "ref": "bamidbar/31/10"
+  },
+  {
+   "forma": "תשרף",
+   "forma_he": "תִּשְׂרֹ֣ף",
+   "n": 7,
+   "ref": "shemot/29/14"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HC/Vqw3ms",
+  "HVqp3cp",
+  "HC/Vqw3mp",
+  "HVNi3ms"
+ ],
+ "glosa_es": ""
+}

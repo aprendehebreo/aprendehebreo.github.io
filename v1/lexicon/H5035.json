@@ -1,0 +1,59 @@
+{
+ "strong": "H5035",
+ "he": "נבל",
+ "xlit": "nebel",
+ "pron": "neh'-bel",
+ "def_en": [
+  "1) a skin-bag, jar, pitcher",
+  "1a) skin-bottle, skin",
+  "1b) jar, pitcher (earthen)",
+  "2) harp, lute, guitar, musical instrument"
+ ],
+ "kjv": "bottle, pitcher, psaltery, vessel, viol.",
+ "expl": "a skin-bag for liquids (from collapsing when empty); hence, a vase (as similar in shape when full); also a lyre (as having a body of like form)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5034"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "נבל",
+   "forma_he": "נָבֹ֣ל",
+   "n": 8,
+   "ref": "shemot/18/18"
+  },
+  {
+   "forma": "בנבלים",
+   "forma_he": "בִּנְבָלִ֖ים",
+   "n": 5,
+   "ref": "divrei_hayamim_a/15/20"
+  },
+  {
+   "forma": "נבלים",
+   "forma_he": "נְבָלִ֥ים",
+   "n": 4,
+   "ref": "nechemia/12/27"
+  },
+  {
+   "forma": "ונבל",
+   "forma_he": "וְנֵ֣בֶל",
+   "n": 3,
+   "ref": "shmuel_a/1/24"
+  },
+  {
+   "forma": "ובנבלים",
+   "forma_he": "וּבִנְבָלִים֙",
+   "n": 3,
+   "ref": "shmuel_b/6/5"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmpa",
+  "HNcmpa",
+  "HC/R/Ncmpa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

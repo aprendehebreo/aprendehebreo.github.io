@@ -1,0 +1,58 @@
+{
+ "strong": "H2677",
+ "he": "חצי",
+ "xlit": "chêtsîy",
+ "pron": "khay-tsee'",
+ "def_en": [
+  "1) half",
+  "1a) half",
+  "1b) middle"
+ ],
+ "kjv": "half, middle, mid(-night), midst, part, two parts.",
+ "expl": "the half or middle",
+ "etim": "from lemma חָעָה ayin, corrected to חָצָה",
+ "raices": [
+  "H2673"
+ ],
+ "ocurrencias": 123,
+ "formas": [
+  {
+   "forma": "וחצי",
+   "forma_he": "וַחֲצִ֣י",
+   "n": 44,
+   "ref": "shemot/24/6"
+  },
+  {
+   "forma": "חצי",
+   "forma_he": "חֲצִ֣י",
+   "n": 32,
+   "ref": "shemot/24/6"
+  },
+  {
+   "forma": "בחצי",
+   "forma_he": "בַּחֲצִ֣י",
+   "n": 8,
+   "ref": "shemot/12/29"
+  },
+  {
+   "forma": "ולחצי",
+   "forma_he": "וְלַחֲצִ֣י",
+   "n": 7,
+   "ref": "bamidbar/32/33"
+  },
+  {
+   "forma": "לחצי",
+   "forma_he": "לַחֲצִ֖י",
+   "n": 7,
+   "ref": "devarim/3/13"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HC/Ncmsc",
+  "HC/Ncmsa",
+  "HR/Ncmsc",
+  "HC/R/Ncmsc"
+ ],
+ "glosa_es": ""
+}

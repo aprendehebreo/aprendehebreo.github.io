@@ -1,0 +1,58 @@
+{
+ "strong": "H1644",
+ "he": "גרש",
+ "xlit": "gârash",
+ "pron": "gaw-rash'",
+ "def_en": [
+  "1) to drive out, expel, cast out, drive away, divorce, put away, thrust away, trouble, cast up",
+  "1a) (Qal) to thrust out, cast out",
+  "1b) (Niphal) to be driven away, be tossed",
+  "1c) (Piel) to drive out, drive away",
+  "1d) (Pual) to be thrust out"
+ ],
+ "kjv": "cast up (out), divorced (woman), drive away (forth, out), expel, [idiom] surely put away, trouble, thrust out.",
+ "expl": "to drive out from a possession; especially to expatriate or divorce",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "ויגרש",
+   "forma_he": "וַיְגָ֖רֶשׁ",
+   "n": 7,
+   "ref": "bereshit/3/24"
+  },
+  {
+   "forma": "גרש",
+   "forma_he": "גָּרֵ֛שׁ",
+   "n": 4,
+   "ref": "bereshit/21/10"
+  },
+  {
+   "forma": "וגרושה",
+   "forma_he": "וּגְרוּשָׁה֙",
+   "n": 4,
+   "ref": "vayikra/21/14"
+  },
+  {
+   "forma": "אגרשנו",
+   "forma_he": "אֲגָרְשֶׁ֛נּוּ",
+   "n": 2,
+   "ref": "shemot/23/29"
+  },
+  {
+   "forma": "ויגרשו",
+   "forma_he": "וַיְגָרְשׁ֣וּ",
+   "n": 2,
+   "ref": "shoftim/11/2"
+  }
+ ],
+ "morph": [
+  "HC/Vpw3ms",
+  "HC/Vqsfsa",
+  "HVpv2ms",
+  "HVpi1cs/Sp3ms",
+  "HVpp2ms"
+ ],
+ "glosa_es": ""
+}

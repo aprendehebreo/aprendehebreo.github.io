@@ -1,0 +1,65 @@
+{
+ "strong": "H1121",
+ "he": "בן",
+ "xlit": "bên",
+ "pron": "bane",
+ "def_en": [
+  "1) son, grandson, child, member of a group",
+  "1a) son, male child",
+  "1b) grandson",
+  "1c) children (pl. - male and female)",
+  "1d) youth, young men (pl.)",
+  "1e) young (of animals)",
+  "1f) sons (as characterisation, i.e. sons of injustice [for un- righteous men] or sons of God [for angels]",
+  "1g) people (of a nation) (pl.)",
+  "1h) of lifeless things, i.e. sparks, stars, arrows (fig.)",
+  "1i) a member of a guild, order, class"
+ ],
+ "kjv": "[phrase] afflicted, age, (Ahoh-) (Ammon-) (Hachmon-) (Lev-) ite, (anoint-) ed one, appointed to, ([phrase]) arrow, (Assyr-) (Babylon-) (Egypt-) (Grec-) ian, one born, bough, branch, breed, [phrase] (young) bullock, [phrase] (young) calf, [idiom] came up in, child, colt, [idiom] common, [idiom] corn, daughter, [idiom] of first, [phrase] firstborn, foal, [phrase] very fruitful, [phrase] postage, [idiom] in, [phrase] kid, [phrase] lamb, ([phrase]) man, meet, [phrase] mighty, [phrase] nephew, old, ([phrase]) people, [phrase] rebel, [phrase] robber, [idiom] servant born, [idiom] soldier, son, [phrase] spark, [phrase] steward, [phrase] stranger, [idiom] surely, them of, [phrase] tumultuous one, [phrase] valiant(-est), whelp, worthy, young (one), youth.",
+ "expl": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+ "etim": "from ;",
+ "raices": [
+  "H1129"
+ ],
+ "ocurrencias": 4942,
+ "formas": [
+  {
+   "forma": "בני",
+   "forma_he": "בְנֵי",
+   "n": 1684,
+   "ref": "bereshit/6/2"
+  },
+  {
+   "forma": "בן",
+   "forma_he": "בֵּ֔ן",
+   "n": 1598,
+   "ref": "bereshit/4/25"
+  },
+  {
+   "forma": "בנו",
+   "forma_he": "בְּנ֥וֹ",
+   "n": 240,
+   "ref": "bereshit/4/17"
+  },
+  {
+   "forma": "ובני",
+   "forma_he": "וּבְנֵ֖י",
+   "n": 214,
+   "ref": "bereshit/10/3"
+  },
+  {
+   "forma": "לבני",
+   "forma_he": "לִבְנֵי",
+   "n": 200,
+   "ref": "bereshit/23/7"
+  }
+ ],
+ "morph": [
+  "HNcmpc",
+  "HNcmsc",
+  "HR/Ncmpc",
+  "HNcmsc/Sp3ms",
+  "HC/Ncmpc"
+ ],
+ "glosa_es": "hijo; descendiente"
+}

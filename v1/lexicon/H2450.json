@@ -1,0 +1,62 @@
+{
+ "strong": "H2450",
+ "he": "חכם",
+ "xlit": "châkâm",
+ "pron": "khaw-kawm'",
+ "def_en": [
+  "1) wise, wise (man)",
+  "1a) skilful (in technical work)",
+  "1b) wise (in administration)",
+  "1c) shrewd, crafty, cunning, wily, subtle",
+  "1d) learned, shrewd (class of men)",
+  "1e) prudent",
+  "1f) wise (ethically and religiously)"
+ ],
+ "kjv": "cunning (man), subtil, (un-), wise((hearted), man).",
+ "expl": "wise, (i.e. intelligent, skilful or artful)",
+ "etim": "from ;",
+ "raices": [
+  "H2449"
+ ],
+ "ocurrencias": 137,
+ "formas": [
+  {
+   "forma": "חכם",
+   "forma_he": "חֲכַם",
+   "n": 57,
+   "ref": "shemot/31/6"
+  },
+  {
+   "forma": "חכמים",
+   "forma_he": "חֲכָמִ֧ים",
+   "n": 32,
+   "ref": "devarim/1/13"
+  },
+  {
+   "forma": "לחכם",
+   "forma_he": "לְ֝חָכָ֗ם",
+   "n": 8,
+   "ref": "mishlei/9/8"
+  },
+  {
+   "forma": "החכם",
+   "forma_he": "הֶֽחָכָם֙",
+   "n": 6,
+   "ref": "yirmiyahu/9/11"
+  },
+  {
+   "forma": "וחכם",
+   "forma_he": "וְחָכָ֑ם",
+   "n": 5,
+   "ref": "bereshit/41/33"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HAamsc",
+  "HC/Aamsa",
+  "HAampc"
+ ],
+ "glosa_es": ""
+}

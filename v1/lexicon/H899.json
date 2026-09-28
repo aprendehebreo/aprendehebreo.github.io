@@ -1,0 +1,57 @@
+{
+ "strong": "H899",
+ "he": "בגד",
+ "xlit": "beged",
+ "pron": "behg'-ed",
+ "def_en": [
+  "1) treachery, deceit",
+  "2) (CLBL) garment, clothing (used indiscriminately)"
+ ],
+ "kjv": "apparel, cloth(-es, ing), garment, lap, rag, raiment, robe, [idiom] very (treacherously), vesture, wardrobe.",
+ "expl": "a covering, i.e. clothing; also treachery or pillage",
+ "etim": "from ;",
+ "raices": [
+  "H898"
+ ],
+ "ocurrencias": 218,
+ "formas": [
+  {
+   "forma": "בגדיו",
+   "forma_he": "בְּגָדָ֖יו",
+   "n": 51,
+   "ref": "bereshit/27/27"
+  },
+  {
+   "forma": "בגדי",
+   "forma_he": "בִּגְדֵ֨י",
+   "n": 39,
+   "ref": "bereshit/27/15"
+  },
+  {
+   "forma": "בגדים",
+   "forma_he": "בְּגָדִ֣ים",
+   "n": 23,
+   "ref": "vayikra/6/4"
+  },
+  {
+   "forma": "בגד",
+   "forma_he": "בגד",
+   "n": 17,
+   "ref": "bereshit/30/11"
+  },
+  {
+   "forma": "בגדו",
+   "forma_he": "בִּגְדוֹ֙",
+   "n": 11,
+   "ref": "bereshit/39/12"
+  }
+ ],
+ "morph": [
+  "HNcmpc/Sp3ms",
+  "HNcmpc",
+  "HNcmpa",
+  "HNcmsc/Sp3ms",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": "ropa; vestidura"
+}

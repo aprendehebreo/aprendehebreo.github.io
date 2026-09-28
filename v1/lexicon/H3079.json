@@ -1,0 +1,44 @@
+{
+ "strong": "H3079",
+ "he": "יהויקים",
+ "xlit": "Yᵉhôwyâqîym",
+ "pron": "yeh-ho-yaw-keem'",
+ "def_en": [
+  "Jehoiakim = \"Jehovah raises up\"",
+  "1) son of Josiah and the third from the last king of Judah; subject vassel of Nebuchadnezzar who reigned for 11 years before he died a violent death either in combat or by the hands of his own subjects"
+ ],
+ "kjv": "Jehoiakim. Compare .",
+ "expl": "Jehojakim, a Jewish king",
+ "etim": "from abbreviated and ; Jehovah will raise;",
+ "raices": [
+  "H3068",
+  "H6965",
+  "H3113"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "יהויקים",
+   "forma_he": "יְהוֹיָקִ֑ים",
+   "n": 31,
+   "ref": "mlakhim_b/23/34"
+  },
+  {
+   "forma": "ליהויקים",
+   "forma_he": "לִיהוֹיָקִ֥ים",
+   "n": 5,
+   "ref": "yirmiyahu/25/1"
+  },
+  {
+   "forma": "יהויקם",
+   "forma_he": "יְהוֹיָקִ֥ם",
+   "n": 1,
+   "ref": "yirmiyahu/27/1"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

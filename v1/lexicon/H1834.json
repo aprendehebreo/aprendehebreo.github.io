@@ -1,0 +1,53 @@
+{
+ "strong": "H1834",
+ "he": "דמשק",
+ "xlit": "Dammeseq",
+ "pron": "dam-meh'-sek",
+ "def_en": [
+  "Damascus = \"silent is the sackcloth weaver\"",
+  "1) an ancient trading city, capital of Syria, located in the plain east of Hermon, 130 (205 km) miles northeast of Jerusalem"
+ ],
+ "kjv": "Damascus.",
+ "expl": "Damascus, a city of Syria",
+ "etim": "or ; or ; of foreign origin;",
+ "raices": [],
+ "ocurrencias": 45,
+ "formas": [
+  {
+   "forma": "דמשק",
+   "forma_he": "דַּמֶּ֥שֶׂק",
+   "n": 25,
+   "ref": "bereshit/15/2"
+  },
+  {
+   "forma": "דרמשק",
+   "forma_he": "דַּרְמֶ֔שֶׂק",
+   "n": 5,
+   "ref": "divrei_hayamim_a/18/5"
+  },
+  {
+   "forma": "בדמשק",
+   "forma_he": "בְּדַמָּֽשֶׂק",
+   "n": 4,
+   "ref": "mlakhim_a/11/24"
+  },
+  {
+   "forma": "מדמשק",
+   "forma_he": "מִדַּמֶּ֗שֶׂק",
+   "n": 4,
+   "ref": "mlakhim_b/16/11"
+  },
+  {
+   "forma": "לדמשק",
+   "forma_he": "לְדַמָּֽשֶׂק",
+   "n": 3,
+   "ref": "bereshit/14/15"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

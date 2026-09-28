@@ -1,0 +1,59 @@
+{
+ "strong": "H7004",
+ "he": "קטרת",
+ "xlit": "qᵉṭôreth",
+ "pron": "ket-o'-reth",
+ "def_en": [
+  "1) incense, smoke, odour of (burning) sacrifice",
+  "1a) sweet smoke of sacrifice",
+  "1b) incense",
+  "1c) perfume"
+ ],
+ "kjv": "(sweet) incense, perfume.",
+ "expl": "a fumigation",
+ "etim": "from ;",
+ "raices": [
+  "H6999"
+ ],
+ "ocurrencias": 60,
+ "formas": [
+  {
+   "forma": "קטרת",
+   "forma_he": "קְטֹ֑רֶת",
+   "n": 36,
+   "ref": "shemot/30/1"
+  },
+  {
+   "forma": "הקטרת",
+   "forma_he": "הַקְּטֹֽרֶת",
+   "n": 13,
+   "ref": "shemot/30/27"
+  },
+  {
+   "forma": "וקטרת",
+   "forma_he": "וּקְטֹ֣רֶת",
+   "n": 4,
+   "ref": "bamidbar/4/16"
+  },
+  {
+   "forma": "ולקטרת",
+   "forma_he": "וְלִקְטֹ֖רֶת",
+   "n": 3,
+   "ref": "shemot/25/6"
+  },
+  {
+   "forma": "וקטרתי",
+   "forma_he": "וּקְטָרְתִּ֔י",
+   "n": 2,
+   "ref": "yechezkel/16/18"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HTd/Ncfsa",
+  "HNcfsc",
+  "HC/R/Ncfsc",
+  "HC/Ncfsc"
+ ],
+ "glosa_es": ""
+}

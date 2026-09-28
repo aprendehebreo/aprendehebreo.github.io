@@ -1,0 +1,68 @@
+{
+ "strong": "H7462",
+ "he": "רעה",
+ "xlit": "râʻâh",
+ "pron": "raw-aw'",
+ "def_en": [
+  "1) to pasture, tend, graze, feed",
+  "1a) (Qal)",
+  "1a1) to tend, pasture",
+  "1a1a) to shepherd",
+  "1a1b) of ruler, teacher (fig)",
+  "1a1c) of people as flock (fig)",
+  "1a1d) shepherd, herdsman (subst)",
+  "1a2) to feed, graze",
+  "1a2a) of cows, sheep etc (literal)",
+  "1a2b) of idolater, Israel as flock (fig)",
+  "1b) (Hiphil) shepherd, shepherdess",
+  "2) to associate with, be a friend of (meaning probable)",
+  "2a) (Qal) to associate with",
+  "2b) (Hithpael) to be companions",
+  "3) (Piel) to be a special friend"
+ ],
+ "kjv": "[idiom] break, companion, keep company with, devour, eat up, evil entreat, feed, use as a friend, make friendship with, herdman, keep (sheep) (-er), pastor, [phrase] shearing house, shepherd, wander, waste.",
+ "expl": "to tend a flock; i.e. pasture it; intransitively, to graze (literally or figuratively); generally to rule; by extension, to associate with (as a friend)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 164,
+ "formas": [
+  {
+   "forma": "רעה",
+   "forma_he": "רֹ֣עֵה",
+   "n": 30,
+   "ref": "bereshit/4/2"
+  },
+  {
+   "forma": "הרעים",
+   "forma_he": "הָרֹעִ֖ים",
+   "n": 22,
+   "ref": "shemot/2/17"
+  },
+  {
+   "forma": "רעים",
+   "forma_he": "רָעִ֖ים",
+   "n": 16,
+   "ref": "bereshit/13/13"
+  },
+  {
+   "forma": "ירעו",
+   "forma_he": "יִרְע֔וּ",
+   "n": 9,
+   "ref": "shemot/34/3"
+  },
+  {
+   "forma": "ורעה",
+   "forma_he": "וְרָעָ֣ה",
+   "n": 7,
+   "ref": "devarim/15/9"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HTd/Vqrmpa",
+  "HVqrmpa",
+  "HR/Vqc",
+  "HVqi3mp"
+ ],
+ "glosa_es": "pastorear; apacentar; pastor"
+}

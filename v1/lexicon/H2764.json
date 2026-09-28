@@ -1,0 +1,58 @@
+{
+ "strong": "H2764",
+ "he": "חרם",
+ "xlit": "chêrem",
+ "pron": "khay'-rem",
+ "def_en": [
+  "1) a thing devoted, thing dedicated, ban, devotion",
+  "2) a net, thing perforated",
+  "3) have been utterly destroyed, (appointed to) utter destruction"
+ ],
+ "kjv": "(ac-) curse(-d, -d thing), dedicated thing, things which should have been utterly destroyed, (appointed to) utter destruction, devoted (thing), net.",
+ "expl": "physical (as shutting in) a net (either literally or figuratively); usually a doomed object; abstractly extermination",
+ "etim": "or (Zechariah 14:11) ; from ;",
+ "raices": [
+  "H2763"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "חרם",
+   "forma_he": "חָרֻ֖ם",
+   "n": 11,
+   "ref": "vayikra/21/18"
+  },
+  {
+   "forma": "החרם",
+   "forma_he": "הַחֵ֑רֶם",
+   "n": 9,
+   "ref": "vayikra/27/21"
+  },
+  {
+   "forma": "בחרם",
+   "forma_he": "בַּחֵ֑רֶם",
+   "n": 4,
+   "ref": "yehoshua/7/1"
+  },
+  {
+   "forma": "לחרם",
+   "forma_he": "לְחֵ֔רֶם",
+   "n": 3,
+   "ref": "yehoshua/6/18"
+  },
+  {
+   "forma": "חרמי",
+   "forma_he": "חֶרְמִ֖י",
+   "n": 2,
+   "ref": "mlakhim_a/20/42"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HR/Ncmsa",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

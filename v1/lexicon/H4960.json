@@ -1,0 +1,58 @@
+{
+ "strong": "H4960",
+ "he": "משתה",
+ "xlit": "mishteh",
+ "pron": "mish-teh'",
+ "def_en": [
+  "1) feast, drink, banquet",
+  "1a) feast, banquet",
+  "1b) drink"
+ ],
+ "kjv": "banquet, drank, drink, feast((-ed), -ing).",
+ "expl": "drink, by implication, drinking (the act); also (by implication) a banquet or (generally) feast",
+ "etim": "from ;",
+ "raices": [
+  "H8354"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "משתה",
+   "forma_he": "מִשְׁתֶּ֔ה",
+   "n": 25,
+   "ref": "bereshit/19/3"
+  },
+  {
+   "forma": "המשתה",
+   "forma_he": "הַמִּשְׁתֶּה֙",
+   "n": 9,
+   "ref": "shoftim/14/12"
+  },
+  {
+   "forma": "משתיהם",
+   "forma_he": "מִשְׁתֵּיהֶ֑ם",
+   "n": 3,
+   "ref": "yeshayahu/5/12"
+  },
+  {
+   "forma": "במשתה",
+   "forma_he": "בְּמִשְׁתֵּ֣ה",
+   "n": 2,
+   "ref": "ester/5/6"
+  },
+  {
+   "forma": "ומשתה",
+   "forma_he": "וּמִשְׁתֶּ֖ה",
+   "n": 2,
+   "ref": "ester/9/19"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

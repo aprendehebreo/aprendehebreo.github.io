@@ -1,0 +1,42 @@
+{
+ "strong": "H4970",
+ "he": "מתי",
+ "xlit": "mâthay",
+ "pron": "maw-thah'ee",
+ "def_en": [
+  "1) when?",
+  "1a) with prep",
+  "1a1) against when?, until when?, how long?, after how long?"
+ ],
+ "kjv": "long, when.",
+ "expl": "properly, extent (of time); but used only adverbially (especially with other particle prefixes), when (either relative or interrogative)",
+ "etim": "from an unused root meaning to extend;",
+ "raices": [],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "מתי",
+   "forma_he": "מֵתִ֖י",
+   "n": 41,
+   "ref": "bereshit/23/4"
+  },
+  {
+   "forma": "למתי",
+   "forma_he": "לְמָתַ֣י",
+   "n": 1,
+   "ref": "shemot/8/5"
+  },
+  {
+   "forma": "ומתי",
+   "forma_he": "וָמַֽתִּי",
+   "n": 1,
+   "ref": "bereshit/19/19"
+  }
+ ],
+ "morph": [
+  "HTi",
+  "HR/Ti",
+  "HC/Ti"
+ ],
+ "glosa_es": ""
+}

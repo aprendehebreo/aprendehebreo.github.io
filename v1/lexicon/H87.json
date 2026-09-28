@@ -1,0 +1,56 @@
+{
+ "strong": "H87",
+ "he": "אברם",
+ "xlit": "ʼAbrâm",
+ "pron": "ab-rawm'",
+ "def_en": [
+  "Abram = \"exalted father\"",
+  "1) original name of Abraham"
+ ],
+ "kjv": "Abram.",
+ "expl": "Abram, the original name of Abraham",
+ "etim": "contracted from ; high father;",
+ "raices": [
+  "H48"
+ ],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "אברם",
+   "forma_he": "אַבְרָ֔ם",
+   "n": 50,
+   "ref": "bereshit/11/26"
+  },
+  {
+   "forma": "לאברם",
+   "forma_he": "לְאַבְרָ֔ם",
+   "n": 6,
+   "ref": "bereshit/12/18"
+  },
+  {
+   "forma": "ואברם",
+   "forma_he": "וְאַבְרָ֗ם",
+   "n": 3,
+   "ref": "bereshit/12/4"
+  },
+  {
+   "forma": "ולאברם",
+   "forma_he": "וּלְאַבְרָ֥ם",
+   "n": 1,
+   "ref": "bereshit/12/16"
+  },
+  {
+   "forma": "באברם",
+   "forma_he": "בְּאַבְרָ֔ם",
+   "n": 1,
+   "ref": "nechemia/9/7"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

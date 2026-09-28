@@ -1,0 +1,73 @@
+{
+ "strong": "H7043",
+ "he": "קלל",
+ "xlit": "qâlal",
+ "pron": "kaw-lal'",
+ "def_en": [
+  "1) to be slight, be swift, be trifling, be of little account, be light",
+  "1a) (Qal)",
+  "1a1) to be slight, be abated (of water)",
+  "1a2) to be swift",
+  "1a3) to be trifling, be of little account",
+  "1b) (Niphal)",
+  "1b1) to be swift, show oneself swift",
+  "1b2) to appear trifling, be too trifling, be insignificant",
+  "1b3) to be lightly esteemed",
+  "1c) (Piel)",
+  "1c1) to make despicable",
+  "1c2) to curse",
+  "1d) (Pual) to be cursed",
+  "1e) (Hiphil)",
+  "1e1) to make light, lighten",
+  "1e2) to treat with contempt, bring contempt or dishonour",
+  "1f) (Pilpel)",
+  "1f1) to shake",
+  "1f2) to whet",
+  "1g) (Hithpalpel) to shake oneself, be moved to and fro"
+ ],
+ "kjv": "abate, make bright, bring into contempt, (ac-) curse, despise, (be) ease(-y, -ier), (be a, make, make somewhat, move, seem a, set) light(-en, -er, -ly, -ly afflict, -ly esteem, thing), [idiom] slight(-ly), be swift(-er), (be, be more, make, re-) vile, whet.",
+ "expl": "to be (causatively, make) light, literally (swift, small, sharp, etc.) or figuratively (easy, trifling, vile, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "הקל",
+   "forma_he": "הַקֹּל֙",
+   "n": 7,
+   "ref": "bereshit/27/22"
+  },
+  {
+   "forma": "יקלל",
+   "forma_he": "יְקַלֵּ֧ל",
+   "n": 6,
+   "ref": "vayikra/20/9"
+  },
+  {
+   "forma": "קלו",
+   "forma_he": "קַ֥לּוּ",
+   "n": 5,
+   "ref": "bereshit/8/11"
+  },
+  {
+   "forma": "תקלל",
+   "forma_he": "תְקַלֵּ֑ל",
+   "n": 5,
+   "ref": "shemot/22/27"
+  },
+  {
+   "forma": "ויקלל",
+   "forma_he": "וַיְקַלֵּ֔ל",
+   "n": 5,
+   "ref": "vayikra/24/11"
+  }
+ ],
+ "morph": [
+  "HVhv2ms",
+  "HVqp3cp",
+  "HVpi3ms",
+  "HC/Vpw3ms",
+  "HR/Vpc"
+ ],
+ "glosa_es": ""
+}

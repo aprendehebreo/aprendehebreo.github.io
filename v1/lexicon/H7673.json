@@ -1,0 +1,65 @@
+{
+ "strong": "H7673",
+ "he": "שבת",
+ "xlit": "shâbath",
+ "pron": "shaw-bath'",
+ "def_en": [
+  "1) to cease, desist, rest",
+  "1a) (Qal)",
+  "1a1) to cease",
+  "1a2) to rest, desist (from labour)",
+  "1b) (Niphal) to cease",
+  "1c) (Hiphil)",
+  "1c1) to cause to cease, put an end to",
+  "1c2) to exterminate, destroy",
+  "1c3) to cause to desist from",
+  "1c4) to remove",
+  "1c5) to cause to fail",
+  "2) (Qal) to keep or observe the sabbath"
+ ],
+ "kjv": "(cause to, let, make to) cease, celebrate, cause (make) to fail, keep (sabbath), suffer to be lacking, leave, put away (down), (make to) rest, rid, still, take away.",
+ "expl": "to repose, i.e. desist from exertion; used in many implied relations (causative, figurative or specific)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "והשבתי",
+   "forma_he": "וְהִשְׁבַּתִּ֞י",
+   "n": 13,
+   "ref": "vayikra/26/6"
+  },
+  {
+   "forma": "שבת",
+   "forma_he": "שָׁבַת֙",
+   "n": 7,
+   "ref": "bereshit/2/3"
+  },
+  {
+   "forma": "תשבת",
+   "forma_he": "תִּשְׁבֹּ֑ת",
+   "n": 6,
+   "ref": "shemot/23/12"
+  },
+  {
+   "forma": "וישבת",
+   "forma_he": "וַיִּשְׁבֹּת֙",
+   "n": 5,
+   "ref": "bereshit/2/2"
+  },
+  {
+   "forma": "השבתי",
+   "forma_he": "הִשְׁבַּֽתִּי",
+   "n": 4,
+   "ref": "yeshayahu/16/10"
+  }
+ ],
+ "morph": [
+  "HC/Vhq1cs",
+  "HVqp3ms",
+  "HVhp1cs",
+  "HVqi2ms",
+  "HVqi3fs"
+ ],
+ "glosa_es": ""
+}

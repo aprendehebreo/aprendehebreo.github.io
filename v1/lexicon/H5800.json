@@ -1,0 +1,64 @@
+{
+ "strong": "H5800",
+ "he": "עזב",
+ "xlit": "ʻâzab",
+ "pron": "aw-zab'",
+ "def_en": [
+  "1) to leave, loose, forsake",
+  "1a) (Qal) to leave",
+  "1a1) to depart from, leave behind, leave, let alone",
+  "1a2) to leave, abandon, forsake, neglect, apostatise",
+  "1a3) to let loose, set free, let go, free",
+  "1b) (Niphal)",
+  "1b1) to be left to",
+  "1b2) to be forsaken",
+  "1c) (Pual) to be deserted",
+  "2) to restore, repair",
+  "2a) (Qal) to repair"
+ ],
+ "kjv": "commit self, fail, forsake, fortify, help, leave (destitute, off), refuse, [idiom] surely.",
+ "expl": "to loosen, i.e. relinquish, permit, etc.",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 215,
+ "formas": [
+  {
+   "forma": "עזבו",
+   "forma_he": "עָזְב֖וּ",
+   "n": 22,
+   "ref": "bereshit/50/8"
+  },
+  {
+   "forma": "ויעזב",
+   "forma_he": "וַיַּעֲזֹ֣ב",
+   "n": 15,
+   "ref": "bereshit/39/6"
+  },
+  {
+   "forma": "עזב",
+   "forma_he": "עָזַ֥ב",
+   "n": 13,
+   "ref": "bereshit/24/27"
+  },
+  {
+   "forma": "ויעזבו",
+   "forma_he": "וַיַּעַזְב֤וּ",
+   "n": 12,
+   "ref": "yehoshua/8/17"
+  },
+  {
+   "forma": "תעזב",
+   "forma_he": "תַּעֲזֹ֖ב",
+   "n": 11,
+   "ref": "shemot/23/5"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HVqp3ms",
+  "HVqi3ms"
+ ],
+ "glosa_es": "dejar; abandonar"
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H1280",
+ "he": "בריח",
+ "xlit": "bᵉrîyach",
+ "pron": "ber-ee'-akh",
+ "def_en": [
+  "1) bar",
+  "1a) of wood",
+  "1b) of city gates",
+  "2) of tribulation, a fortress, of the earth as a prison (fig.)"
+ ],
+ "kjv": "bar, fugitive.",
+ "expl": "a bolt",
+ "etim": "from ;",
+ "raices": [
+  "H1272"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "ובריחיו",
+   "forma_he": "וּבְרִיחָ֖יו",
+   "n": 7,
+   "ref": "bamidbar/3/36"
+  },
+  {
+   "forma": "בריחם",
+   "forma_he": "בְרִיחִ֖ם",
+   "n": 5,
+   "ref": "shemot/26/26"
+  },
+  {
+   "forma": "ובריח",
+   "forma_he": "וּבְרִ֑יחַ",
+   "n": 5,
+   "ref": "devarim/3/5"
+  },
+  {
+   "forma": "בריח",
+   "forma_he": "בְּרֵ֖יחַ",
+   "n": 3,
+   "ref": "vayikra/26/31"
+  },
+  {
+   "forma": "לבריחם",
+   "forma_he": "לַבְּרִיחִ֑ם",
+   "n": 2,
+   "ref": "shemot/26/29"
+  }
+ ],
+ "morph": [
+  "HC/Ncmpc/Sp3ms",
+  "HNcmpa",
+  "HNcmpc/Sp3ms",
+  "HC/Ncmsa",
+  "HNcmpc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

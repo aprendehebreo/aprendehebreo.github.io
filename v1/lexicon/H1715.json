@@ -1,0 +1,56 @@
+{
+ "strong": "H1715",
+ "he": "דגן",
+ "xlit": "dâgân",
+ "pron": "daw-gawn'",
+ "def_en": [
+  "1) wheat, cereal, grain, corn"
+ ],
+ "kjv": "corn (floor), wheat.",
+ "expl": "properly, increase, i.e. grain",
+ "etim": "from ;",
+ "raices": [
+  "H1711"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "דגן",
+   "forma_he": "דָּגָ֖ן",
+   "n": 17,
+   "ref": "bereshit/27/28"
+  },
+  {
+   "forma": "הדגן",
+   "forma_he": "הַדָּגָן֙",
+   "n": 8,
+   "ref": "yechezkel/36/29"
+  },
+  {
+   "forma": "דגנך",
+   "forma_he": "דְּגָ֨נְךָ֜",
+   "n": 6,
+   "ref": "devarim/7/13"
+  },
+  {
+   "forma": "ודגן",
+   "forma_he": "וְדָגָ֥ן",
+   "n": 4,
+   "ref": "bereshit/27/37"
+  },
+  {
+   "forma": "דגנם",
+   "forma_he": "דְּגָנָ֖ם",
+   "n": 2,
+   "ref": "tehilim/4/8"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp2ms",
+  "HC/Ncmsa",
+  "HNcmsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

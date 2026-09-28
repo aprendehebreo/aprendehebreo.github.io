@@ -1,0 +1,65 @@
+{
+ "strong": "H6437",
+ "he": "פנה",
+ "xlit": "pânâh",
+ "pron": "paw-naw'",
+ "def_en": [
+  "1) to turn",
+  "1a) (Qal)",
+  "1a1) to turn toward or from or away",
+  "1a2) to turn and do",
+  "1a3) to turn, decline (of day)",
+  "1a4) to turn toward, approach (of evening)",
+  "1a5) to turn and look, look, look back or at or after or for",
+  "1b) (Piel) to turn away, put out of the way, make clear, clear away",
+  "1c) (Hiphil)",
+  "1c1) to turn",
+  "1c2) to make a turn, show signs of turning, turn back",
+  "1d) (Hophal) to be turned back"
+ ],
+ "kjv": "appear, at (even-) tide, behold, cast out, come on, [idiom] corner, dawning, empty, go away, lie, look, mark, pass away, prepare, regard, (have) respect (to), (re-) turn (aside, away, back, face, self), [idiom] right (early).",
+ "expl": "to turn; by implication, to face, i.e. appear, look, etc.",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 135,
+ "formas": [
+  {
+   "forma": "ויפן",
+   "forma_he": "וַיִּ֤פֶן",
+   "n": 16,
+   "ref": "shemot/2/12"
+  },
+  {
+   "forma": "פנו",
+   "forma_he": "פְּנ֨וּ",
+   "n": 14,
+   "ref": "bamidbar/14/25"
+  },
+  {
+   "forma": "פנה",
+   "forma_he": "פֹנֶ֤ה",
+   "n": 14,
+   "ref": "devarim/29/17"
+  },
+  {
+   "forma": "ויפנו",
+   "forma_he": "וַיִּפְנ֤וּ",
+   "n": 13,
+   "ref": "bereshit/18/22"
+  },
+  {
+   "forma": "פנים",
+   "forma_he": "פָּנִ֣ים",
+   "n": 9,
+   "ref": "bereshit/32/31"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HVqrmpa",
+  "HVqv2mp",
+  "HVqi3ms"
+ ],
+ "glosa_es": ""
+}

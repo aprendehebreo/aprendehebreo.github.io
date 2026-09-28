@@ -1,0 +1,60 @@
+{
+ "strong": "H1835",
+ "he": "דן",
+ "xlit": "Dân",
+ "pron": "dawn",
+ "def_en": [
+  "Dan = \"a judge\"",
+  "1) the 5th son of Jacob, the 1st of Bilhah, Rachel's handmaid",
+  "2) the tribe descended from Dan, the son of Jacob",
+  "n pr loc",
+  "3) a city in Dan, the most northern landmark of Palestine"
+ ],
+ "kjv": "Daniel",
+ "expl": "Dan, one of the sons of Jacob; also the tribe descended from him, and its territory; likewise a place in Palestine colonized by them",
+ "etim": "from ; judge;",
+ "raices": [
+  "H1777"
+ ],
+ "ocurrencias": 70,
+ "formas": [
+  {
+   "forma": "דן",
+   "forma_he": "דָּֽן",
+   "n": 55,
+   "ref": "bereshit/14/14"
+  },
+  {
+   "forma": "מדן",
+   "forma_he": "מְדָ֖ן",
+   "n": 8,
+   "ref": "bereshit/25/2"
+  },
+  {
+   "forma": "לדן",
+   "forma_he": "לְדָ֕ן",
+   "n": 2,
+   "ref": "bamidbar/1/12"
+  },
+  {
+   "forma": "בדן",
+   "forma_he": "בְּדָ֔ן",
+   "n": 2,
+   "ref": "shmuel_a/12/11"
+  },
+  {
+   "forma": "ולדן",
+   "forma_he": "וּלְדָ֣ן",
+   "n": 1,
+   "ref": "devarim/33/22"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/R/Np",
+  "HC/Np",
+  "HR/R/Np"
+ ],
+ "glosa_es": ""
+}

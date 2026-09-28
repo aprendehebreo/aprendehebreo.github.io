@@ -1,0 +1,59 @@
+{
+ "strong": "H748",
+ "he": "ארך",
+ "xlit": "ʼârak",
+ "pron": "aw-rak'",
+ "def_en": [
+  "1) to be long, prolong",
+  "1a) (Qal) to be long",
+  "1b) (Hiphil)",
+  "1b1) to prolong (days)",
+  "1b2) to make long (tent cords)",
+  "1b3) to grow long, continue long"
+ ],
+ "kjv": "defer, draw out, lengthen, (be, become, make, pro-) long, [phrase] (out-, over-) live, tarry (long).",
+ "expl": "to be (causative, make) long (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 34,
+ "formas": [
+  {
+   "forma": "יאריך",
+   "forma_he": "יַאֲרִ֨יךְ",
+   "n": 5,
+   "ref": "devarim/17/20"
+  },
+  {
+   "forma": "תאריכו",
+   "forma_he": "תַּאֲרִ֤יכוּ",
+   "n": 3,
+   "ref": "devarim/11/9"
+  },
+  {
+   "forma": "האריכו",
+   "forma_he": "הֶאֱרִ֤יכוּ",
+   "n": 3,
+   "ref": "yehoshua/24/31"
+  },
+  {
+   "forma": "תאריכן",
+   "forma_he": "תַאֲרִיכֻ֤ן",
+   "n": 2,
+   "ref": "devarim/4/26"
+  },
+  {
+   "forma": "אאריך",
+   "forma_he": "אַאֲרִ֣יךְ",
+   "n": 2,
+   "ref": "yeshayahu/48/9"
+  }
+ ],
+ "morph": [
+  "HVhi3ms",
+  "HVhi3mp/Sn",
+  "HVhi2mp",
+  "HVhp3cp",
+  "HVhi2mp/Sn"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H565",
+ "he": "אמרה",
+ "xlit": "ʼimrâh",
+ "pron": "im-raw'",
+ "def_en": [
+  "1) utterance, speech, word",
+  "1a) word of God, the Torah"
+ ],
+ "kjv": "commandment, speech, word.",
+ "expl": "{something said}",
+ "etim": "or ; feminine of , and meaning the same",
+ "raices": [
+  "H561"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "אמרתך",
+   "forma_he": "אִמְרָתֶ֔ךָ",
+   "n": 13,
+   "ref": "devarim/33/9"
+  },
+  {
+   "forma": "אמרתי",
+   "forma_he": "אִמְרָתִ֑י",
+   "n": 5,
+   "ref": "bereshit/4/23"
+  },
+  {
+   "forma": "אמרת",
+   "forma_he": "אָמַ֨רְתָּ֙",
+   "n": 5,
+   "ref": "bereshit/12/19"
+  },
+  {
+   "forma": "כאמרתך",
+   "forma_he": "כְּאִמְרָתֶֽךָ",
+   "n": 5,
+   "ref": "tehilim/119/41"
+  },
+  {
+   "forma": "אמרות",
+   "forma_he": "אֹמְר֗וֹת",
+   "n": 2,
+   "ref": "yirmiyahu/38/22"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp2ms",
+  "HR/Ncfsc/Sp2ms",
+  "HNcfsc/Sp1cs",
+  "HNcfsc",
+  "HNcfsc/Sp2fs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H7617",
+ "he": "שבה",
+ "xlit": "shâbâh",
+ "pron": "shaw-baw'",
+ "def_en": [
+  "1) to take captive",
+  "1a) (Qal)",
+  "1a1) to take captive",
+  "1a2) captive (participle)",
+  "1a3) to lead captive",
+  "1b) (Niphal) to be taken captive"
+ ],
+ "kjv": "(bring away, carry, carry away, lead, lead away, take) captive(-s), drive (take) away.",
+ "expl": "to transport into captivity",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "וישבו",
+   "forma_he": "וַיָּשֻׁ֧בוּ",
+   "n": 9,
+   "ref": "bereshit/8/3"
+  },
+  {
+   "forma": "נשבו",
+   "forma_he": "נִשְׁבּֽוּ",
+   "n": 5,
+   "ref": "shmuel_a/30/3"
+  },
+  {
+   "forma": "שבו",
+   "forma_he": "שְׁבוּ",
+   "n": 4,
+   "ref": "bereshit/22/5"
+  },
+  {
+   "forma": "שביהם",
+   "forma_he": "שֹֽׁבֵיהֶם֙",
+   "n": 4,
+   "ref": "mlakhim_a/8/46"
+  },
+  {
+   "forma": "נשבה",
+   "forma_he": "נִשְׁבָּ֖ה",
+   "n": 3,
+   "ref": "bereshit/14/14"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3mp",
+  "HVqrmpc/Sp3mp",
+  "HVNp3cp",
+  "HVqp3cp",
+  "HVNp3ms"
+ ],
+ "glosa_es": ""
+}

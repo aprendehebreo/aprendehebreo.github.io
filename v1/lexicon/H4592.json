@@ -1,0 +1,58 @@
+{
+ "strong": "H4592",
+ "he": "מעט",
+ "xlit": "mᵉʻaṭ",
+ "pron": "meh-at'",
+ "def_en": [
+  "1) littleness, few, a little, fewness",
+  "1a) little, small, littleness, fewness, too little, yet a little",
+  "1b) like a little, within a little, almost, just, hardly, shortly, little worth"
+ ],
+ "kjv": "almost (some, very) few(-er, -est), lightly, little (while), (very) small (matter, thing), some, soon, [idiom] very.",
+ "expl": "a little or few (often adverbial or compar.)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H4591"
+ ],
+ "ocurrencias": 101,
+ "formas": [
+  {
+   "forma": "מעט",
+   "forma_he": "מְעַט",
+   "n": 60,
+   "ref": "bereshit/18/4"
+  },
+  {
+   "forma": "כמעט",
+   "forma_he": "כִּ֠מְעַט",
+   "n": 18,
+   "ref": "bereshit/26/10"
+  },
+  {
+   "forma": "המעט",
+   "forma_he": "הַמְעַט֙",
+   "n": 11,
+   "ref": "bereshit/30/15"
+  },
+  {
+   "forma": "ומעט",
+   "forma_he": "וּמְעַ֣ט",
+   "n": 3,
+   "ref": "bereshit/43/11"
+  },
+  {
+   "forma": "למעט",
+   "forma_he": "לִמְעָֽט",
+   "n": 3,
+   "ref": "bamidbar/26/56"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HR/Ncmsa",
+  "HTi/Ncmsa",
+  "HD"
+ ],
+ "glosa_es": ""
+}

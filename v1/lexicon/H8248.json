@@ -1,0 +1,62 @@
+{
+ "strong": "H8248",
+ "he": "שקה",
+ "xlit": "shâqâh",
+ "pron": "shaw-kaw'",
+ "def_en": [
+  "1) to give to drink, irrigate, drink, water, cause to drink water",
+  "1a) (Hiphil)",
+  "1a1) to water, irrigate",
+  "1a2) to water, give drink to",
+  "1b) (Pual) to be watered",
+  "1c) (Niphal) variant"
+ ],
+ "kjv": "cause to (give, give to, let, make to) drink, drown, moisten, water. See , .",
+ "expl": "to quaff, i.e. (causatively) to irrigate or furnish apotion to",
+ "etim": "a primitive root;",
+ "raices": [
+  "H7937",
+  "H8354"
+ ],
+ "ocurrencias": 62,
+ "formas": [
+  {
+   "forma": "להשקות",
+   "forma_he": "לְהַשְׁק֖וֹת",
+   "n": 5,
+   "ref": "bereshit/2/10"
+  },
+  {
+   "forma": "וישק",
+   "forma_he": "וַיִּשַּׁק",
+   "n": 5,
+   "ref": "bereshit/27/27"
+  },
+  {
+   "forma": "והשקה",
+   "forma_he": "וְהִשְׁקָ֖ה",
+   "n": 4,
+   "ref": "bereshit/2/6"
+  },
+  {
+   "forma": "השקיני",
+   "forma_he": "הַשְׁקִֽינִי",
+   "n": 3,
+   "ref": "bereshit/24/43"
+  },
+  {
+   "forma": "ישקו",
+   "forma_he": "יַשְׁק֖וּ",
+   "n": 3,
+   "ref": "bereshit/29/2"
+  }
+ ],
+ "morph": [
+  "HR/Vhc",
+  "HC/Vhw3ms",
+  "HC/Vhq2ms",
+  "HC/Vhq3ms",
+  "HVhv2fs/Sp1cs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H433",
+ "he": "אלוה",
+ "xlit": "ʼĕlôwahh",
+ "pron": "el-o'-ah",
+ "def_en": [
+  "1) God",
+  "2) false god"
+ ],
+ "kjv": "God, god. See .",
+ "expl": "a deity or the Deity",
+ "etim": "rarely (shortened) ; probably prolonged (emphatic) from ;",
+ "raices": [
+  "H410",
+  "H430"
+ ],
+ "ocurrencias": 60,
+ "formas": [
+  {
+   "forma": "אלוה",
+   "forma_he": "אֱל֣וֹהַ",
+   "n": 49,
+   "ref": "devarim/32/15"
+  },
+  {
+   "forma": "אלוהי",
+   "forma_he": "אֱלוֹהֵ֥י",
+   "n": 3,
+   "ref": "tehilim/18/47"
+  },
+  {
+   "forma": "אלה",
+   "forma_he": "אֵ֣לֶּה",
+   "n": 2,
+   "ref": "bereshit/2/4"
+  },
+  {
+   "forma": "לאלוה",
+   "forma_he": "לֶ֭אֱלוֹהַּ",
+   "n": 2,
+   "ref": "iyov/12/4"
+  },
+  {
+   "forma": "מאלוה",
+   "forma_he": "מֵאֱל֣וֹהַ",
+   "n": 1,
+   "ref": "iyov/4/17"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HR/Ncmsa",
+  "HNcmpc/Sp1cs",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

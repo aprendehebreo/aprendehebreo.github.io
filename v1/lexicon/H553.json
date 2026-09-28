@@ -1,0 +1,58 @@
+{
+ "strong": "H553",
+ "he": "אמץ",
+ "xlit": "ʼâmats",
+ "pron": "aw-mats'",
+ "def_en": [
+  "1) to be strong, alert, courageous, brave, stout, bold, solid, hard",
+  "1a) (Qal) to be strong, brave, bold",
+  "1b) (Piel) to strengthen, secure (for oneself), harden (heart), make firm, make obstinate, assure",
+  "1c) (Hithpael) to be determined, to make oneself alert, strengthen oneself, confirm oneself, persist in, prove superior to",
+  "1d) (Hiphil) to exhibit strength, be strong, feel strong"
+ ],
+ "kjv": "confirm, be courageous (of good courage, stedfastly minded, strong, stronger), establish, fortify, harden, increase, prevail, strengthen (self), make strong (obstinate, speed).",
+ "expl": "to be alert, physically (on foot) or mentally (in courage)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "ואמץ",
+   "forma_he": "וְאִמֵּץ֙",
+   "n": 9,
+   "ref": "devarim/2/30"
+  },
+  {
+   "forma": "אמצו",
+   "forma_he": "אָמְצ֖וּ",
+   "n": 4,
+   "ref": "shmuel_b/22/18"
+  },
+  {
+   "forma": "ויאמץ",
+   "forma_he": "וַיְאַמֶּץ",
+   "n": 4,
+   "ref": "yeshayahu/44/14"
+  },
+  {
+   "forma": "ואמצו",
+   "forma_he": "וְאִמְצ֔וּ",
+   "n": 3,
+   "ref": "devarim/31/6"
+  },
+  {
+   "forma": "יאמץ",
+   "forma_he": "יֶֽאֱמָ֔ץ",
+   "n": 2,
+   "ref": "bereshit/25/23"
+  }
+ ],
+ "morph": [
+  "HC/Vqv2ms",
+  "HC/Vqv2mp",
+  "HVqp3cp",
+  "HVpi2ms",
+  "HVtp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "H7892",
+ "he": "שיר",
+ "xlit": "shîyr",
+ "pron": "sheer",
+ "def_en": [
+  "n m",
+  "1) song",
+  "1a) lyric song",
+  "1b) religious song",
+  "1c) song of Levitical choirs",
+  "n f",
+  "2) song",
+  "2a) song, ode"
+ ],
+ "kjv": "musical(-ick), [idiom] sing(-er, -ing), song.",
+ "expl": "a song; abstractly, singing",
+ "etim": "or feminine ; from ;",
+ "raices": [
+  "H7891"
+ ],
+ "ocurrencias": 91,
+ "formas": [
+  {
+   "forma": "שיר",
+   "forma_he": "שִׁ֑יר",
+   "n": 52,
+   "ref": "shoftim/5/12"
+  },
+  {
+   "forma": "השירה",
+   "forma_he": "הַשִּׁירָ֤ה",
+   "n": 10,
+   "ref": "shemot/15/1"
+  },
+  {
+   "forma": "השיר",
+   "forma_he": "הַשִּׁיר",
+   "n": 5,
+   "ref": "yeshayahu/26/1"
+  },
+  {
+   "forma": "בשיר",
+   "forma_he": "בַּשִּׁ֖יר",
+   "n": 4,
+   "ref": "yeshayahu/24/9"
+  },
+  {
+   "forma": "שירו",
+   "forma_he": "שִׁ֤ירוּ",
+   "n": 2,
+   "ref": "shemot/15/21"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HNcbsc",
+  "HTd/Ncbsa",
+  "HNcbsc/Sp3ms",
+  "HR/Ncbsc"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H4758",
+ "he": "מראה",
+ "xlit": "marʼeh",
+ "pron": "mar-eh'",
+ "def_en": [
+  "1) sight, appearance, vision",
+  "1a) sight, phenomenon, spectacle, appearance, vision",
+  "1b) what is seen",
+  "1c) a vision (supernatural)",
+  "1d) sight, vision (power of seeing)"
+ ],
+ "kjv": "[idiom] apparently, appearance(-reth), [idiom] as soon as beautiful(-ly), countenance, fair, favoured, form, goodly, to look (up) on (to), look(-eth), pattern, to see, seem, sight, visage, vision.",
+ "expl": "a view (the act of seeing); also an appearance (the thing seen), whether (real) a shape (especially if handsome, comeliness; often plural the looks), or (mental) a vision",
+ "etim": "from ;",
+ "raices": [
+  "H7200"
+ ],
+ "ocurrencias": 104,
+ "formas": [
+  {
+   "forma": "מראה",
+   "forma_he": "מַרְאֶ֖ה",
+   "n": 25,
+   "ref": "bereshit/12/11"
+  },
+  {
+   "forma": "כמראה",
+   "forma_he": "כְּמַרְאֵ֥ה",
+   "n": 24,
+   "ref": "vayikra/13/43"
+  },
+  {
+   "forma": "ומראה",
+   "forma_he": "וּמַרְאֵה֙",
+   "n": 9,
+   "ref": "shemot/24/17"
+  },
+  {
+   "forma": "המראה",
+   "forma_he": "הַמַּרְאֶה֙",
+   "n": 8,
+   "ref": "bereshit/41/4"
+  },
+  {
+   "forma": "מראהו",
+   "forma_he": "מַרְאֵ֨הוּ֙",
+   "n": 8,
+   "ref": "vayikra/13/30"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HTd/Ncmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

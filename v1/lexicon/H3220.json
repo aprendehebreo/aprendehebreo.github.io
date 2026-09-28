@@ -1,0 +1,62 @@
+{
+ "strong": "H3220",
+ "he": "ים",
+ "xlit": "yâm",
+ "pron": "yawm",
+ "def_en": [
+  "1) sea",
+  "1a) Mediterranean Sea",
+  "1b) Red Sea",
+  "1c) Dead Sea",
+  "1d) Sea of Galilee",
+  "1e) sea (general)",
+  "1f) mighty river (Nile)",
+  "1g) the sea (the great basin in the temple court)",
+  "1h) seaward, west, westward"
+ ],
+ "kjv": "sea ([idiom] -faring man, (-shore)), south, west (-ern, side, -ward).",
+ "expl": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
+ "etim": "from an unused root meaning to roar;",
+ "raices": [],
+ "ocurrencias": 396,
+ "formas": [
+  {
+   "forma": "הים",
+   "forma_he": "הַיָּ֜ם",
+   "n": 140,
+   "ref": "bereshit/1/26"
+  },
+  {
+   "forma": "ים",
+   "forma_he": "יָ֥ם",
+   "n": 91,
+   "ref": "bereshit/14/3"
+  },
+  {
+   "forma": "ימה",
+   "forma_he": "יָ֥מָּה",
+   "n": 48,
+   "ref": "bereshit/28/14"
+  },
+  {
+   "forma": "בים",
+   "forma_he": "בַּיָּ֑ם",
+   "n": 28,
+   "ref": "shemot/14/28"
+  },
+  {
+   "forma": "ימים",
+   "forma_he": "יַמִּ֑ים",
+   "n": 21,
+   "ref": "bereshit/1/10"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmsa/Sd",
+  "HNcmsc",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": "mar"
+}

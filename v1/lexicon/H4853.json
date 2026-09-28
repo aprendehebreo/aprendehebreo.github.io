@@ -1,0 +1,65 @@
+{
+ "strong": "H4853",
+ "he": "משא",
+ "xlit": "massâʼ",
+ "pron": "mas-saw'",
+ "def_en": [
+  "n m",
+  "1) load, bearing, tribute, burden, lifting",
+  "1a) load, burden",
+  "1b) lifting, uplifting, that to which the soul lifts itself up",
+  "1c) bearing, carrying",
+  "1d) tribute, that which is carried or brought or borne",
+  "2) utterance, oracle, burden",
+  "Massa = \"burden\"",
+  "n pr m",
+  "3) (BDB) a son of Ishmael"
+ ],
+ "kjv": "burden, carry away, prophecy, [idiom] they set, song, tribute.",
+ "expl": "a burden; specifically, tribute, or (abstractly) porterage; figuratively, an utterance, chiefly adoom, especially singing; mental, desire",
+ "etim": "from ;",
+ "raices": [
+  "H5375"
+ ],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "משא",
+   "forma_he": "מַשָּׂ֥א",
+   "n": 38,
+   "ref": "bamidbar/4/15"
+  },
+  {
+   "forma": "המשא",
+   "forma_he": "הַמַּשָּׂ֖א",
+   "n": 9,
+   "ref": "mlakhim_b/9/25"
+  },
+  {
+   "forma": "משאם",
+   "forma_he": "מַשָּׂאָ֔ם",
+   "n": 4,
+   "ref": "bamidbar/4/27"
+  },
+  {
+   "forma": "משאו",
+   "forma_he": "מַשָּׂא֔וֹ",
+   "n": 3,
+   "ref": "shemot/23/5"
+  },
+  {
+   "forma": "במשא",
+   "forma_he": "בְּמַשָּׂ֣א",
+   "n": 3,
+   "ref": "bamidbar/11/17"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HR/Ncmsa",
+  "HNcmsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

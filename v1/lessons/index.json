@@ -1,0 +1,173 @@
+{
+ "total": 12,
+ "lecciones": [
+  {
+   "id": 1,
+   "titulo": "Qué es el hebreo",
+   "objetivos": [
+    "Reconocer que el hebreo se escribe y se lee de derecha a izquierda.",
+    "Saber que el alfabeto tiene 22 consonantes y que cinco cambian de forma al final de palabra.",
+    "Entender para qué sirve la gematria (letras con valor numérico).",
+    "Leer dos palabras reales del primer versículo del Tanaj."
+   ],
+   "items": 8,
+   "ejercicios": 5,
+   "pasaje": "bereshit/1/1",
+   "archivo": "01.json"
+  },
+  {
+   "id": 2,
+   "titulo": "Alef-bet I: de א a י",
+   "objetivos": [
+    "Identificar las diez primeras letras por su nombre, sonido y forma.",
+    "Escribir cada letra con el trazo correcto (empezando por la derecha).",
+    "Recordar el valor de gematria del 1 al 10.",
+    "Entender que ו y י también funcionan como vocales (madres de lectura)."
+   ],
+   "items": 13,
+   "ejercicios": 5,
+   "pasaje": "bereshit/1/1",
+   "archivo": "02.json"
+  },
+  {
+   "id": 3,
+   "titulo": "Alef-bet II: de כ a ת",
+   "objetivos": [
+    "Completar las 22 letras con sus nombres, sonidos y valores de gematria del 20 al 400.",
+    "Reconocer las cinco formas finales dentro de una palabra.",
+    "Distinguir el dagesh suave (kal) del dagesh fuerte (jazak) en las letras begadkefat.",
+    "Leer la palabra תּוֹרָה y saber de dónde sale su nombre."
+   ],
+   "items": 15,
+   "ejercicios": 5,
+   "pasaje": "bereshit/1/1",
+   "archivo": "03.json"
+  },
+  {
+   "id": 4,
+   "titulo": "Primeras palabras de una sílaba",
+   "objetivos": [
+    "Leer de corrido palabras de una sola sílaba tomadas del Tanaj.",
+    "Reconocer la letra final sofit dentro de una palabra real.",
+    "Distinguir la vocal de la consonante al leer una palabra corta.",
+    "Construir un vocabulario base de doce palabras frecuentes."
+   ],
+   "items": 12,
+   "ejercicios": 5,
+   "pasaje": "bereshit/1/5",
+   "archivo": "04.json"
+  },
+  {
+   "id": 5,
+   "titulo": "Vocales: el sistema de niqqud",
+   "objetivos": [
+    "Reconocer los ocho signos vocálicos principales y su sonido.",
+    "Distinguir los tres jatuf, que solo se usan con las letras guturales.",
+    "Decidir cuándo el sheva se pronuncia (na) y cuándo es mudo (naj).",
+    "Entender la diferencia entre dagesh kal y dagesh jazak."
+   ],
+   "items": 14,
+   "ejercicios": 6,
+   "pasaje": "bereshit/1/1",
+   "archivo": "05.json"
+  },
+  {
+   "id": 6,
+   "titulo": "Sílabas y acentuación",
+   "objetivos": [
+    "Separar en sílabas cualquier palabra vocalizada.",
+    "Distinguir sílaba abierta de sílaba cerrada.",
+    "Ubicar el acento: mil'el (penúltima) y milra (última).",
+    "Leer en voz alta respetando el acento."
+   ],
+   "items": 10,
+   "ejercicios": 5,
+   "pasaje": "devarim/6/5",
+   "archivo": "06.json"
+  },
+  {
+   "id": 7,
+   "titulo": "La puntuación del códice",
+   "objetivos": [
+    "Reconocer maqef, sof pasuq, paseq y los marcadores de párrafo.",
+    "Saber qué son los te'amim y para qué sirven.",
+    "Usar los campos he y he_plain de la API según lo que necesites.",
+    "Leer un versículo completo con todas sus marcas."
+   ],
+   "items": 10,
+   "ejercicios": 5,
+   "pasaje": "bereshit/1/1",
+   "archivo": "07.json"
+  },
+  {
+   "id": 8,
+   "titulo": "100 palabras = la mitad del Tanaj",
+   "objetivos": [
+    "Entender por qué la frecuencia de uso decide qué vocabulario estudiar.",
+    "Memorizar los diez lemas más frecuentes del Tanaj.",
+    "Usar un plan de repaso espaciado para no olvidar lo aprendido.",
+    "Leer los datos de cobertura de la lista del curso."
+   ],
+   "items": 13,
+   "ejercicios": 5,
+   "pasaje": "bereshit/1",
+   "archivo": "08.json"
+  },
+  {
+   "id": 9,
+   "titulo": "Sustantivos: género, número y constructo",
+   "objetivos": [
+    "Clasificar sustantivos en masculino y femenino aunque no lo parezca.",
+    "Formar y reconocer plurales en ִים y וֹת.",
+    "Entender el estado constructo ('X de Y').",
+    "Leer sustantivos con el artículo הַ y su dagesh."
+   ],
+   "items": 13,
+   "ejercicios": 6,
+   "pasaje": "tehilim/23",
+   "archivo": "09.json"
+  },
+  {
+   "id": 10,
+   "titulo": "Verbos I: raíz, qal y tiempos",
+   "objetivos": [
+    "Reconocer la raíz de tres consonantes detrás de cualquier forma verbal.",
+    "Distinguir el perfecto del imperfecto y del wayyiqtol.",
+    "Leer el código morfológico de la API, por ejemplo HVqp3ms.",
+    "Identificar verbos qal frecuentes en el texto del Tanaj."
+   ],
+   "items": 13,
+   "ejercicios": 6,
+   "pasaje": "bereshit/1/3",
+   "archivo": "10.json"
+  },
+  {
+   "id": 11,
+   "titulo": "Leer el Tanaj: tres pasajes",
+   "objetivos": [
+    "Leer de corrido Bereshit 1, Devarim 6 y Tehilim 23 con ayuda.",
+    "Reconocer las palabras ya estudiadas dentro de un versículo completo.",
+    "Usar la API para escuchar, comparar he y he_plain y verificar un versículo.",
+    "Perder el miedo al texto seguido."
+   ],
+   "items": 15,
+   "ejercicios": 6,
+   "pasaje": "bereshit/1",
+   "archivo": "11.json"
+  },
+  {
+   "id": 12,
+   "titulo": "Berajot y Shemá: frases de uso diario",
+   "objetivos": [
+    "Leer la fórmula de bendición y el Shemá en hebreo.",
+    "Usar las palabras del Shemá en la lectura diaria.",
+    "Repasar las 22 letras, el niqqud y el vocabulario de las once lecciones anteriores.",
+    "Elegir un plan de lectura propio para los siguientes meses."
+   ],
+   "items": 14,
+   "ejercicios": 5,
+   "pasaje": "devarim/6/4",
+   "archivo": "12.json"
+  }
+ ]
+}

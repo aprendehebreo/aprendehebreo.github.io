@@ -1,0 +1,58 @@
+{
+ "strong": "H7704",
+ "he": "שדה",
+ "xlit": "sâdeh",
+ "pron": "saw-deh'",
+ "def_en": [
+  "1) field, land",
+  "1a) cultivated field",
+  "1b) of home of wild beasts",
+  "1c) plain (opposed to mountain)",
+  "1d) land (opposed to sea)"
+ ],
+ "kjv": "country, field, ground, land, soil, [idiom] wild.",
+ "expl": "a field (as flat)",
+ "etim": "or ; from an unused root meaning to spread out;",
+ "raices": [],
+ "ocurrencias": 334,
+ "formas": [
+  {
+   "forma": "השדה",
+   "forma_he": "הַשָּׂדֶ֗ה",
+   "n": 131,
+   "ref": "bereshit/2/5"
+  },
+  {
+   "forma": "בשדה",
+   "forma_he": "בַּשָּׂדֶ֔ה",
+   "n": 86,
+   "ref": "bereshit/4/8"
+  },
+  {
+   "forma": "שדה",
+   "forma_he": "שְׂדֵ֖ה",
+   "n": 47,
+   "ref": "bereshit/14/7"
+  },
+  {
+   "forma": "שדי",
+   "forma_he": "שַׁדַּ֔י",
+   "n": 17,
+   "ref": "bereshit/17/1"
+  },
+  {
+   "forma": "שדהו",
+   "forma_he": "שָׂדֵ֑הוּ",
+   "n": 6,
+   "ref": "bereshit/23/9"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": "campo; labranza"
+}

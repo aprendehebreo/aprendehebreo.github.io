@@ -1,0 +1,57 @@
+{
+ "strong": "H929",
+ "he": "בהמה",
+ "xlit": "bᵉhêmâh",
+ "pron": "be-hay-maw'",
+ "def_en": [
+  "1) beast, cattle, animal",
+  "1a) beasts (coll of all animals)",
+  "1b) cattle, livestock (of domestic animals)",
+  "1c) wild beasts"
+ ],
+ "kjv": "beast, cattle.",
+ "expl": "properly, a dumb beast; especially any large quadruped or animal (often collective)",
+ "etim": "from an unused root (probably meaning to be mute);",
+ "raices": [],
+ "ocurrencias": 190,
+ "formas": [
+  {
+   "forma": "הבהמה",
+   "forma_he": "הַבְּהֵמָה֙",
+   "n": 43,
+   "ref": "bereshit/1/25"
+  },
+  {
+   "forma": "בהמה",
+   "forma_he": "בְּהֵמָ֥ה",
+   "n": 41,
+   "ref": "bereshit/1/24"
+  },
+  {
+   "forma": "ובהמה",
+   "forma_he": "וּבְהֵמָה֙",
+   "n": 17,
+   "ref": "vayikra/27/28"
+  },
+  {
+   "forma": "ובבהמה",
+   "forma_he": "וּבַבְּהֵמָה֙",
+   "n": 13,
+   "ref": "bereshit/1/26"
+  },
+  {
+   "forma": "בבהמה",
+   "forma_he": "בַּבְּהֵמָ֛ה",
+   "n": 10,
+   "ref": "bereshit/9/10"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HC/Rd/Ncfsa",
+  "HRd/Ncfsa"
+ ],
+ "glosa_es": "bestia; ganado; animal"
+}

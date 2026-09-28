@@ -1,0 +1,61 @@
+{
+ "strong": "H2932",
+ "he": "טמאה",
+ "xlit": "ṭumʼâh",
+ "pron": "toom-aw'",
+ "def_en": [
+  "1) uncleanness",
+  "1a) sexual",
+  "1b) of filthy mass",
+  "1c) ethical and religious",
+  "1d) ritual",
+  "1e) local (of nations)"
+ ],
+ "kjv": "filthiness, unclean(-ness).",
+ "expl": "religious impurity",
+ "etim": "from ;",
+ "raices": [
+  "H2930"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "טמאתו",
+   "forma_he": "טֻמְאָת֔וֹ",
+   "n": 5,
+   "ref": "vayikra/5/3"
+  },
+  {
+   "forma": "טמאתה",
+   "forma_he": "טֻמְאָתָ֗הּ",
+   "n": 5,
+   "ref": "vayikra/15/25"
+  },
+  {
+   "forma": "מטמאת",
+   "forma_he": "מִטֻּמְאֹת֙",
+   "n": 3,
+   "ref": "vayikra/16/16"
+  },
+  {
+   "forma": "טמאה",
+   "forma_he": "טְמֵאָ֗ה",
+   "n": 3,
+   "ref": "vayikra/5/2"
+  },
+  {
+   "forma": "בטמאת",
+   "forma_he": "בְּטֻמְאַ֣ת",
+   "n": 2,
+   "ref": "vayikra/5/3"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsc",
+  "HNcfsc/Sp3ms",
+  "HNcfsc/Sp3fs",
+  "HR/Ncfsc/Sp3mp",
+  "HNcfsa"
+ ],
+ "glosa_es": ""
+}

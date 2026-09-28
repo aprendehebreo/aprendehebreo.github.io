@@ -1,0 +1,61 @@
+{
+ "strong": "H8147",
+ "he": "שנים",
+ "xlit": "shᵉnayim",
+ "pron": "shen-ah'-yim",
+ "def_en": [
+  "1) two",
+  "1a) two (the cardinal number)",
+  "1a1) two, both, double, twice",
+  "1b) second (the ordinal number)",
+  "1c) in combination with other numbers",
+  "1d) both (a dual number)"
+ ],
+ "kjv": "both, couple, double, second, twain, [phrase] twelfth, [phrase] twelve, [phrase] twenty (sixscore) thousand, twice, two.",
+ "expl": "two; also (as ordinal) twofold",
+ "etim": "dual of ; feminine ;",
+ "raices": [
+  "H8145"
+ ],
+ "ocurrencias": 769,
+ "formas": [
+  {
+   "forma": "שנים",
+   "forma_he": "שָׁנִ֖ים",
+   "n": 157,
+   "ref": "bereshit/5/6"
+  },
+  {
+   "forma": "שני",
+   "forma_he": "שֵׁנִֽי",
+   "n": 145,
+   "ref": "bereshit/1/8"
+  },
+  {
+   "forma": "שתי",
+   "forma_he": "שְׁתֵּ֣י",
+   "n": 94,
+   "ref": "bereshit/4/19"
+  },
+  {
+   "forma": "שתים",
+   "forma_he": "שְׁתֵּ֤ים",
+   "n": 75,
+   "ref": "bereshit/5/8"
+  },
+  {
+   "forma": "ושנים",
+   "forma_he": "וְשָׁנִֽים",
+   "n": 61,
+   "ref": "bereshit/1/14"
+  }
+ ],
+ "morph": [
+  "HAcmda",
+  "HAcmdc",
+  "HAcfdc",
+  "HAcfda",
+  "HC/Acmda"
+ ],
+ "glosa_es": "dos"
+}

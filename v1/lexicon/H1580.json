@@ -1,0 +1,60 @@
+{
+ "strong": "H1580",
+ "he": "גמל",
+ "xlit": "gâmal",
+ "pron": "gaw-mal'",
+ "def_en": [
+  "1) to deal fully with, recompense",
+  "1a) (Qal)",
+  "1a1) to deal out to, do to",
+  "1a2) to deal bountifully with",
+  "1a3) to recompense, repay, requite",
+  "2) (Qal) to wean a child (Niphal) to be weaned",
+  "3) (Qal) to ripen, bear ripe (almonds)"
+ ],
+ "kjv": "bestow on, deal bountifully, do (good), recompense, requite, reward, ripen, [phrase] serve, mean, yield.",
+ "expl": "to treat a person (well or ill), i.e. benefit or requite; by implication (of toil), to ripen, i.e. (specifically) to wean",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "גמל",
+   "forma_he": "גָּמָ֑ל",
+   "n": 6,
+   "ref": "mlakhim_b/8/9"
+  },
+  {
+   "forma": "יגמלני",
+   "forma_he": "יִגְמְלֵ֣נִי",
+   "n": 3,
+   "ref": "shmuel_b/19/37"
+  },
+  {
+   "forma": "ויגמל",
+   "forma_he": "וַיִּגָּמַ֑ל",
+   "n": 2,
+   "ref": "bereshit/21/8"
+  },
+  {
+   "forma": "גמלנו",
+   "forma_he": "גָּמַ֖לְנוּ",
+   "n": 2,
+   "ref": "bereshit/50/15"
+  },
+  {
+   "forma": "גמלך",
+   "forma_he": "גָּמְלֵ֣ךְ",
+   "n": 2,
+   "ref": "shmuel_a/1/23"
+  }
+ ],
+ "morph": [
+  "HVqi3ms/Sp1cs",
+  "HVqp3ms",
+  "HVqp3fs/Sp3ms",
+  "HVqrmsa",
+  "HVqrmpa"
+ ],
+ "glosa_es": ""
+}

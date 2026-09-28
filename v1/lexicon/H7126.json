@@ -1,0 +1,58 @@
+{
+ "strong": "H7126",
+ "he": "קרב",
+ "xlit": "qârab",
+ "pron": "kaw-rab'",
+ "def_en": [
+  "1) to come near, approach, enter into, draw near",
+  "1a) (Qal) to approach, draw near",
+  "1b) (Niphal) to be brought near",
+  "1c) (Piel) to cause to approach, bring near, cause to draw near",
+  "1d) (Hiphil) to bring near, bring, present"
+ ],
+ "kjv": "(cause to) approach, (cause to) bring (forth, near), (cause to) come (near, nigh), (cause to) draw near (nigh), go (near), be at hand, join, be near, offer, present, produce, make ready, stand, take.",
+ "expl": "to approach (causatively, bring near) for whatever purpose",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 283,
+ "formas": [
+  {
+   "forma": "ויקרב",
+   "forma_he": "וַיַּקְרֵ֣ב",
+   "n": 24,
+   "ref": "vayikra/8/6"
+  },
+  {
+   "forma": "והקריב",
+   "forma_he": "וְהִקְרִ֨יב",
+   "n": 22,
+   "ref": "vayikra/1/13"
+  },
+  {
+   "forma": "קרבו",
+   "forma_he": "קִרְבּֽוֹ",
+   "n": 15,
+   "ref": "shemot/12/9"
+  },
+  {
+   "forma": "תקריב",
+   "forma_he": "תַּקְרִ֔יב",
+   "n": 13,
+   "ref": "shemot/29/4"
+  },
+  {
+   "forma": "והקרבתם",
+   "forma_he": "וְהִקְרַבְתֶּ֥ם",
+   "n": 13,
+   "ref": "vayikra/23/8"
+  }
+ ],
+ "morph": [
+  "HC/Vhq3ms",
+  "HC/Vhw3ms",
+  "HVhi2ms",
+  "HR/Vhc",
+  "HC/Vhq2mp"
+ ],
+ "glosa_es": "acercar; ofrecer"
+}

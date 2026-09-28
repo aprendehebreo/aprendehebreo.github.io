@@ -1,0 +1,53 @@
+{
+ "strong": "H7431",
+ "he": "רמש",
+ "xlit": "remes",
+ "pron": "reh'-mes",
+ "def_en": [
+  "1) creeping things, moving things, creeping organism",
+  "1a) creeping things",
+  "1b) gliding things (of sea animals)",
+  "1c) moving things (of all animals)"
+ ],
+ "kjv": "that creepeth, creeping (moving) thing.",
+ "expl": "a reptile or any other rapidly moving animal",
+ "etim": "from ;",
+ "raices": [
+  "H7430"
+ ],
+ "ocurrencias": 17,
+ "formas": [
+  {
+   "forma": "רמש",
+   "forma_he": "רֶ֥מֶשׂ",
+   "n": 8,
+   "ref": "bereshit/1/25"
+  },
+  {
+   "forma": "הרמש",
+   "forma_he": "הָרֶ֖מֶשׂ",
+   "n": 6,
+   "ref": "bereshit/1/26"
+  },
+  {
+   "forma": "ורמש",
+   "forma_he": "וָרֶ֛מֶשׂ",
+   "n": 2,
+   "ref": "bereshit/1/24"
+  },
+  {
+   "forma": "כרמש",
+   "forma_he": "כְּרֶ֖מֶשׂ",
+   "n": 1,
+   "ref": "chavakuk/1/14"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc",
+  "HC/Ncmsa",
+  "HC/Ncmsc"
+ ],
+ "glosa_es": ""
+}

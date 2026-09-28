@@ -1,0 +1,68 @@
+{
+ "strong": "H5608",
+ "he": "ספר",
+ "xlit": "çâphar",
+ "pron": "saw-far'",
+ "def_en": [
+  "v",
+  "1) to count, recount, relate",
+  "1a) (Qal)",
+  "1a1) to count (things)",
+  "1a2) to number, take account of, reckon",
+  "1b) (Niphal) to be counted, be numbered",
+  "1c) (Piel) to recount, rehearse, declare",
+  "1c1) to recount (something), rehearse",
+  "1c2) to talk",
+  "1c3) to count exactly or accurately",
+  "1d) (Pual) to be recounted, be rehearsed, be related",
+  "n m",
+  "2) enumerator, muster-officer, secretary, scribe",
+  "2a) enumerator, muster-officer, secretary",
+  "2b) learned man, scribe"
+ ],
+ "kjv": "commune, (ac-) count; declare, number, [phrase] penknife, reckon, scribe, shew forth, speak, talk, tell (out), writer.",
+ "expl": "properly, to score with a mark as a tally or record, i.e. (by implication) to inscribe, and also to enumerate; intensively, to recount, i.e. celebrate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 161,
+ "formas": [
+  {
+   "forma": "הספר",
+   "forma_he": "הַסֵּ֔פֶר",
+   "n": 27,
+   "ref": "mlakhim_b/5/6"
+  },
+  {
+   "forma": "ויספר",
+   "forma_he": "וַיְסַפֵּ֥ר",
+   "n": 13,
+   "ref": "bereshit/24/66"
+  },
+  {
+   "forma": "ספר",
+   "forma_he": "סֵ֔פֶר",
+   "n": 12,
+   "ref": "bereshit/5/1"
+  },
+  {
+   "forma": "יספר",
+   "forma_he": "יִסָּפֵ֖ר",
+   "n": 11,
+   "ref": "bereshit/16/10"
+  },
+  {
+   "forma": "ספרו",
+   "forma_he": "סַפְּרוּ",
+   "n": 10,
+   "ref": "bereshit/40/8"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HC/Vpw3ms",
+  "HNcmsa",
+  "HVpi3mp",
+  "HVNi3ms"
+ ],
+ "glosa_es": "contar; narrar; escribir"
+}

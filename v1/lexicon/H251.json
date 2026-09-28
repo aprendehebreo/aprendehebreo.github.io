@@ -1,0 +1,59 @@
+{
+ "strong": "H251",
+ "he": "אח",
+ "xlit": "ʼâch",
+ "pron": "awkh",
+ "def_en": [
+  "1) brother",
+  "1a) brother of same parents",
+  "1b) half-brother (same father)",
+  "1c) relative, kinship, same tribe",
+  "1d) each to the other (reciprocal relationship)",
+  "1e) (fig.) of resemblance"
+ ],
+ "kjv": "another, brother(-ly); kindred, like, other. Compare also the proper names beginning with 'Ah-' or 'Ahi-'.",
+ "expl": "a brother (used in the widest sense of literal relationship and metaphorical affinity or resemblance (like father))",
+ "etim": "a primitive word;",
+ "raices": [],
+ "ocurrencias": 630,
+ "formas": [
+  {
+   "forma": "אחיו",
+   "forma_he": "אָחִ֖יו",
+   "n": 161,
+   "ref": "bereshit/4/2"
+  },
+  {
+   "forma": "אחי",
+   "forma_he": "אָחִ֖י",
+   "n": 93,
+   "ref": "bereshit/4/9"
+  },
+  {
+   "forma": "אחיך",
+   "forma_he": "אָחִ֑יךָ",
+   "n": 74,
+   "ref": "bereshit/4/9"
+  },
+  {
+   "forma": "ואחיו",
+   "forma_he": "וְאֶחָיו֙",
+   "n": 57,
+   "ref": "bereshit/44/14"
+  },
+  {
+   "forma": "אחיהם",
+   "forma_he": "אֲחֵיהֶ֛ם",
+   "n": 41,
+   "ref": "bereshit/48/6"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3ms",
+  "HNcmpc/Sp3ms",
+  "HC/Ncmpc/Sp3ms",
+  "HNcmsc/Sp2ms",
+  "HNcmpc/Sp3mp"
+ ],
+ "glosa_es": "hermano"
+}

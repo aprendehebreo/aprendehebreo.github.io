@@ -1,0 +1,59 @@
+{
+ "strong": "H7716",
+ "he": "שה",
+ "xlit": "seh",
+ "pron": "seh",
+ "def_en": [
+  "1) one of a flock, lamb, sheep, goat, young sheep, young goat",
+  "1a) sheep, goat",
+  "1b) flock (collective)"
+ ],
+ "kjv": "(lesser, small) cattle, ewe, goat, lamb, sheep. Compare .",
+ "expl": "a member of a flock, i.e. a sheep or goat",
+ "etim": "or ; probably from through the idea of pushing out to graze;",
+ "raices": [
+  "H7582",
+  "H2089"
+ ],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "שה",
+   "forma_he": "שֶׂ֣ה",
+   "n": 24,
+   "ref": "bereshit/30/32"
+  },
+  {
+   "forma": "ושה",
+   "forma_he": "וָשֶֽׂה",
+   "n": 8,
+   "ref": "shemot/34/19"
+  },
+  {
+   "forma": "השה",
+   "forma_he": "הַשֶּׂ֖ה",
+   "n": 5,
+   "ref": "bereshit/22/7"
+  },
+  {
+   "forma": "לשה",
+   "forma_he": "לַשֶּׂ֥ה",
+   "n": 3,
+   "ref": "bamidbar/15/11"
+  },
+  {
+   "forma": "בשה",
+   "forma_he": "בְשֶׂ֔ה",
+   "n": 2,
+   "ref": "shemot/13/13"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HC/Ncbsa",
+  "HR/Ncbsa",
+  "HTd/Ncbsa",
+  "HRd/Ncbsa"
+ ],
+ "glosa_es": ""
+}

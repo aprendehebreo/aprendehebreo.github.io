@@ -1,0 +1,52 @@
+{
+ "strong": "H7141",
+ "he": "קרח",
+ "xlit": "Qôrach",
+ "pron": "ko'rakh",
+ "def_en": [
+  "Korah = \"bald\"",
+  "1) son of Izhar, grandson of Kohath, great grandson of Levi and leader of the rebellion of the Israelites against Moses and Aaron while in the wilderness; punished and died by an earthquake and flames of fire",
+  "2) the 3rd son of Esau by Aholibamah and one of the dukes of Edom",
+  "3) son of Eliphaz by Adah, duke of Edom, and nephew of 1",
+  "4) one of the 'sons' of Hebron"
+ ],
+ "kjv": "Korah.",
+ "expl": "Korach, the name of two Edomites and three Israelites",
+ "etim": "from ; ice;",
+ "raices": [
+  "H7139"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "קרח",
+   "forma_he": "קֹ֑רַח",
+   "n": 34,
+   "ref": "bereshit/36/5"
+  },
+  {
+   "forma": "לקרח",
+   "forma_he": "לְקֹ֔רַח",
+   "n": 1,
+   "ref": "bamidbar/16/32"
+  },
+  {
+   "forma": "כקרח",
+   "forma_he": "כְקֹ֨רַח֙",
+   "n": 1,
+   "ref": "bamidbar/17/5"
+  },
+  {
+   "forma": "וקרח",
+   "forma_he": "וְקֶ֣רַח",
+   "n": 1,
+   "ref": "bereshit/31/40"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

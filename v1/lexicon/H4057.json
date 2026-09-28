@@ -1,0 +1,62 @@
+{
+ "strong": "H4057",
+ "he": "מדבר",
+ "xlit": "midbâr",
+ "pron": "mid-bawr'",
+ "def_en": [
+  "1) wilderness",
+  "1a) pasture",
+  "1b) uninhabited land, wilderness",
+  "1c) large tracts of wilderness (around cities)",
+  "1d) wilderness (fig.)",
+  "2) mouth",
+  "2a) mouth (as organ of speech)"
+ ],
+ "kjv": "desert, south, speech, wilderness.",
+ "expl": "a pasture (i.e. open field, whither cattle are driven); by implication, a desert; also speech (including its organs)",
+ "etim": "from in the sense of driving;",
+ "raices": [
+  "H1696"
+ ],
+ "ocurrencias": 271,
+ "formas": [
+  {
+   "forma": "במדבר",
+   "forma_he": "בַּמִּדְבָּ֑ר",
+   "n": 141,
+   "ref": "bereshit/16/7"
+  },
+  {
+   "forma": "מדבר",
+   "forma_he": "מְדַבֵּ֛ר",
+   "n": 45,
+   "ref": "bereshit/27/6"
+  },
+  {
+   "forma": "המדבר",
+   "forma_he": "הַמִּדְבָּֽר",
+   "n": 35,
+   "ref": "bereshit/14/6"
+  },
+  {
+   "forma": "ממדבר",
+   "forma_he": "מִמִּדְבַּר",
+   "n": 13,
+   "ref": "shemot/17/1"
+  },
+  {
+   "forma": "המדברה",
+   "forma_he": "הַמִּדְבָּ֑רָה",
+   "n": 12,
+   "ref": "shemot/4/27"
+  }
+ ],
+ "morph": [
+  "HRd/Ncmsa",
+  "HR/Ncmsc",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc"
+ ],
+ "glosa_es": "desierto; yermo"
+}

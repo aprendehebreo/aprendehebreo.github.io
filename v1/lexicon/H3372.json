@@ -1,0 +1,64 @@
+{
+ "strong": "H3372",
+ "he": "ירא",
+ "xlit": "yârêʼ",
+ "pron": "yaw-ray'",
+ "def_en": [
+  "1) to fear, revere, be afraid",
+  "1a) (Qal)",
+  "1a1) to fear, be afraid",
+  "1a2) to stand in awe of, be awed",
+  "1a3) to fear, reverence, honour, respect",
+  "1b) (Niphal)",
+  "1b1) to be fearful, be dreadful, be feared",
+  "1b2) to cause astonishment and awe, be held in awe",
+  "1b3) to inspire reverence or godly fear or awe",
+  "1c) (Piel) to make afraid, terrify",
+  "2) (TWOT) to shoot, pour"
+ ],
+ "kjv": "affright, be (make) afraid, dread(-ful), (put in) fear(-ful, -fully, -ing), (be had in) reverence(-end), [idiom] see, terrible (act, -ness, thing).",
+ "expl": "to fear; morally, to revere; caus. to frighten",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 329,
+ "formas": [
+  {
+   "forma": "תירא",
+   "forma_he": "תִּירָ֣א",
+   "n": 51,
+   "ref": "bereshit/15/1"
+  },
+  {
+   "forma": "תיראו",
+   "forma_he": "תִּירָ֗אוּ",
+   "n": 39,
+   "ref": "bereshit/43/23"
+  },
+  {
+   "forma": "ירא",
+   "forma_he": "יָרֵ֖א",
+   "n": 23,
+   "ref": "bereshit/19/30"
+  },
+  {
+   "forma": "וייראו",
+   "forma_he": "וַיִּֽירְא֥וּ",
+   "n": 22,
+   "ref": "bereshit/20/8"
+  },
+  {
+   "forma": "נורא",
+   "forma_he": "נּוֹרָ֖א",
+   "n": 16,
+   "ref": "bereshit/28/17"
+  }
+ ],
+ "morph": [
+  "HVqj2ms",
+  "HVqj2mp",
+  "HC/Vqw3mp",
+  "HVNrmsa",
+  "HVqi2mp"
+ ],
+ "glosa_es": "temer; tener miedo"
+}

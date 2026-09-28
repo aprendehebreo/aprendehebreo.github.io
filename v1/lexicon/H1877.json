@@ -1,0 +1,42 @@
+{
+ "strong": "H1877",
+ "he": "דשא",
+ "xlit": "desheʼ",
+ "pron": "deh'-sheh",
+ "def_en": [
+  "1) grass, new grass, green herb, vegetation, young"
+ ],
+ "kjv": "(tender) grass, green, (tender) herb.",
+ "expl": "a sprout; by analogy, grass",
+ "etim": "from ;",
+ "raices": [
+  "H1876"
+ ],
+ "ocurrencias": 15,
+ "formas": [
+  {
+   "forma": "דשא",
+   "forma_he": "דֶּ֔שֶׁא",
+   "n": 13,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "כדשא",
+   "forma_he": "כַּדֶּ֣שֶׁא",
+   "n": 1,
+   "ref": "yeshayahu/66/14"
+  },
+  {
+   "forma": "דשה",
+   "forma_he": "דָשָׁ֔ה",
+   "n": 1,
+   "ref": "yirmiyahu/50/11"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HVqrfsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H2205",
+ "he": "זקן",
+ "xlit": "zâqên",
+ "pron": "zaw-kane'",
+ "def_en": [
+  "1) old",
+  "1a) old (of humans)",
+  "1b) elder (of those having authority)"
+ ],
+ "kjv": "aged, ancient (man), elder(-est), old (man, men and...women), senator.",
+ "expl": "old",
+ "etim": "from ;",
+ "raices": [
+  "H2204"
+ ],
+ "ocurrencias": 179,
+ "formas": [
+  {
+   "forma": "זקני",
+   "forma_he": "זִקְנֵ֣י",
+   "n": 62,
+   "ref": "bereshit/50/7"
+  },
+  {
+   "forma": "זקן",
+   "forma_he": "זָקֵֽן",
+   "n": 21,
+   "ref": "bereshit/18/12"
+  },
+  {
+   "forma": "הזקנים",
+   "forma_he": "הַזְּקֵנִ֤ים",
+   "n": 21,
+   "ref": "shemot/24/14"
+  },
+  {
+   "forma": "זקנים",
+   "forma_he": "זְקֵנִ֔ים",
+   "n": 13,
+   "ref": "bereshit/18/11"
+  },
+  {
+   "forma": "מזקני",
+   "forma_he": "מִזִּקְנֵ֣י",
+   "n": 10,
+   "ref": "shemot/17/5"
+  }
+ ],
+ "morph": [
+  "HAampc",
+  "HTd/Aampa",
+  "HAamsa",
+  "HR/Aampc",
+  "HAampa"
+ ],
+ "glosa_es": "anciano; viejo"
+}

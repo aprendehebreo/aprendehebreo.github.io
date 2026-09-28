@@ -1,0 +1,64 @@
+{
+ "strong": "H6327",
+ "he": "פוץ",
+ "xlit": "pûwts",
+ "pron": "poots",
+ "def_en": [
+  "1) to scatter, be dispersed, be scattered",
+  "1a) (Qal) to be dispersed, be scattered",
+  "1b) (Niphal)",
+  "1b1) to be scattered",
+  "1b2) to be spread abroad",
+  "1c) (Hiphil) to scatter",
+  "1d) Hithpael) scatter",
+  "2) (Qal) to flow, overflow",
+  "3) to break",
+  "3a) (Polel) to shatter",
+  "3b) (Pilpel) to dash to pieces"
+ ],
+ "kjv": "break (dash, shake) in (to) pieces, cast (abroad), disperse (selves), drive, retire, scatter (abroad), spread abroad.",
+ "expl": "to dash in pieces, literally or figuratively (especially to disperse)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 68,
+ "formas": [
+  {
+   "forma": "נפצו",
+   "forma_he": "נָפֹ֔צוּ",
+   "n": 7,
+   "ref": "bereshit/10/18"
+  },
+  {
+   "forma": "ויפץ",
+   "forma_he": "וַיָּ֨פֶץ",
+   "n": 3,
+   "ref": "bereshit/11/8"
+  },
+  {
+   "forma": "ויפצו",
+   "forma_he": "וְיָפֻ֨צוּ֙",
+   "n": 3,
+   "ref": "bamidbar/10/35"
+  },
+  {
+   "forma": "והפיץ",
+   "forma_he": "וְהֵפִ֧יץ",
+   "n": 3,
+   "ref": "devarim/4/27"
+  },
+  {
+   "forma": "ואפיצם",
+   "forma_he": "וַאֲפִיצֵ֖ם",
+   "n": 2,
+   "ref": "bereshit/49/7"
+  }
+ ],
+ "morph": [
+  "HVNp3cp",
+  "HC/Vhq1cs",
+  "HC/Vhw3ms",
+  "HC/Vhq3ms",
+  "HVNp2mp"
+ ],
+ "glosa_es": ""
+}

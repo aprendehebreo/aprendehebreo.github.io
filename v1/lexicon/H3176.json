@@ -1,0 +1,59 @@
+{
+ "strong": "H3176",
+ "he": "יחל",
+ "xlit": "yâchal",
+ "pron": "yaw-chal'",
+ "def_en": [
+  "1) to wait, hope, expect",
+  "1a) (Niphal) to wait",
+  "1b) (Piel)",
+  "1b1) to wait, await, tarry",
+  "1b2) to wait for, hope for",
+  "1c) (Hiphil) to wait, tarry, wait for, hope for"
+ ],
+ "kjv": "(cause to, have, make to) hope, be pained, stay, tarry, trust, wait.",
+ "expl": "to wait; by implication, to be patient, hope",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "יחלתי",
+   "forma_he": "יִחָֽלְתִּי",
+   "n": 5,
+   "ref": "tehilim/119/43"
+  },
+  {
+   "forma": "איחל",
+   "forma_he": "אֲיַחֵ֑ל",
+   "n": 4,
+   "ref": "tehilim/71/14"
+  },
+  {
+   "forma": "אוחיל",
+   "forma_he": "אוֹחִ֥יל",
+   "n": 3,
+   "ref": "mlakhim_b/6/33"
+  },
+  {
+   "forma": "ויחלו",
+   "forma_he": "וַיָּחֵ֡לּוּ",
+   "n": 3,
+   "ref": "shoftim/20/31"
+  },
+  {
+   "forma": "הוחלתי",
+   "forma_he": "הוֹחָ֑לְתִּי",
+   "n": 3,
+   "ref": "tehilim/38/16"
+  }
+ ],
+ "morph": [
+  "HVpp1cs",
+  "HVhi1cs",
+  "HVpi1cs",
+  "HVhp1cs",
+  "HVhv2fs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H4581",
+ "he": "מעוז",
+ "xlit": "mâʻôwz",
+ "pron": "maw-oze'",
+ "def_en": [
+  "1) place or means of safety, protection, refuge, stronghold",
+  "1a) place of safety, fastness, harbour, stronghold",
+  "1b) refuge (of God) (fig.)",
+  "1c) human protection (fig.)"
+ ],
+ "kjv": "force, fort(-ress), rock, strength(-en), ([idiom] most) strong (hold).",
+ "expl": "a fortified place; figuratively, a defence",
+ "etim": "(also ); or (also ; from ;",
+ "raices": [
+  "H5810"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "מעוז",
+   "forma_he": "מָע֥וֹז",
+   "n": 11,
+   "ref": "yeshayahu/23/4"
+  },
+  {
+   "forma": "מעוזי",
+   "forma_he": "מָעוּזִּ֖י",
+   "n": 3,
+   "ref": "shmuel_b/22/33"
+  },
+  {
+   "forma": "המעוז",
+   "forma_he": "הַמָּע֛וֹז",
+   "n": 2,
+   "ref": "shoftim/6/26"
+  },
+  {
+   "forma": "מעזו",
+   "forma_he": "מָעֻזּ֗וֹ",
+   "n": 2,
+   "ref": "yeshayahu/17/9"
+  },
+  {
+   "forma": "במעוז",
+   "forma_he": "בְּמָע֣וֹז",
+   "n": 2,
+   "ref": "yeshayahu/30/2"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmsa",
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp3ms",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

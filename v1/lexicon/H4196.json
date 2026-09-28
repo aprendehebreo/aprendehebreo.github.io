@@ -1,0 +1,56 @@
+{
+ "strong": "H4196",
+ "he": "מזבח",
+ "xlit": "mizbêach",
+ "pron": "miz-bay'-akh",
+ "def_en": [
+  "1) altar"
+ ],
+ "kjv": "altar.",
+ "expl": "an altar",
+ "etim": "from ;",
+ "raices": [
+  "H2076"
+ ],
+ "ocurrencias": 403,
+ "formas": [
+  {
+   "forma": "המזבח",
+   "forma_he": "הַמִּזְבֵּ֔חַ",
+   "n": 158,
+   "ref": "bereshit/13/4"
+  },
+  {
+   "forma": "מזבח",
+   "forma_he": "מִזְבֵּ֖חַ",
+   "n": 114,
+   "ref": "bereshit/8/20"
+  },
+  {
+   "forma": "המזבחה",
+   "forma_he": "הַמִּזְבֵּֽחָה",
+   "n": 32,
+   "ref": "shemot/29/13"
+  },
+  {
+   "forma": "למזבח",
+   "forma_he": "לַמִּזְבֵּ֔חַ",
+   "n": 13,
+   "ref": "shemot/27/6"
+  },
+  {
+   "forma": "מזבחות",
+   "forma_he": "מִזְבְּח֖וֹת",
+   "n": 11,
+   "ref": "mlakhim_b/21/5"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HNcmsa",
+  "HTd/Ncmsa/Sd",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": "altar"
+}

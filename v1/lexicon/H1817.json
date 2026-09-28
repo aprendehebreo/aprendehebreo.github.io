@@ -1,0 +1,63 @@
+{
+ "strong": "H1817",
+ "he": "דלת",
+ "xlit": "deleth",
+ "pron": "deh'-leth",
+ "def_en": [
+  "1) door, gate",
+  "1a) a door",
+  "1b) a gate",
+  "1c) (fig.)",
+  "1c1) of chest lid",
+  "1c2) of crocodile jaws",
+  "1c3) of doors of the heavens",
+  "1c4) of an easily-accessible woman"
+ ],
+ "kjv": "door (two-leaved), gate, leaf, lid. (Psalm 141:3).",
+ "expl": "something swinging, i.e. the valve of adoor",
+ "etim": "from ;",
+ "raices": [
+  "H1802"
+ ],
+ "ocurrencias": 89,
+ "formas": [
+  {
+   "forma": "דלתות",
+   "forma_he": "דַּלְת֧וֹת",
+   "n": 24,
+   "ref": "shoftim/3/23"
+  },
+  {
+   "forma": "הדלת",
+   "forma_he": "הַדָּֽלֶת",
+   "n": 16,
+   "ref": "bereshit/19/9"
+  },
+  {
+   "forma": "דלתים",
+   "forma_he": "דְּלָתַ֣יִם",
+   "n": 8,
+   "ref": "devarim/3/5"
+  },
+  {
+   "forma": "דלתתיו",
+   "forma_he": "דַּלְתֹתָ֑יו",
+   "n": 6,
+   "ref": "nechemia/3/1"
+  },
+  {
+   "forma": "לדלתות",
+   "forma_he": "לְדַלְתוֹת֩",
+   "n": 3,
+   "ref": "mlakhim_a/7/50"
+  }
+ ],
+ "morph": [
+  "HNcfpc",
+  "HTd/Ncfsa",
+  "HNcfda",
+  "HNcfpc/Sp3ms",
+  "HNcfpa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H6925",
+ "he": "קדם",
+ "xlit": "qŏdâm",
+ "pron": "kod-awm'",
+ "def_en": [
+  "1) before, in front of",
+  "1a) before",
+  "1b) from before"
+ ],
+ "kjv": "before, [idiom] from, [idiom] I (thought), [idiom] me, [phrase] of, [idiom] it pleased, presence.",
+ "expl": "before",
+ "etim": "(Aramaic) or ; (Aramaic) (Daniel 7:13), corresponding to ;",
+ "raices": [
+  "H6924"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "קדם",
+   "forma_he": "קֶֽדֶם",
+   "n": 20,
+   "ref": "bereshit/25/6"
+  },
+  {
+   "forma": "קדמי",
+   "forma_he": "קֳדָמָ֑י",
+   "n": 8,
+   "ref": "daniel/2/6"
+  },
+  {
+   "forma": "קדמוהי",
+   "forma_he": "קָֽדָמ֥וֹהִי",
+   "n": 7,
+   "ref": "daniel/4/5"
+  },
+  {
+   "forma": "קדמיה",
+   "forma_he": "קָֽדָמַ֔יהּ",
+   "n": 3,
+   "ref": "daniel/7/7"
+  },
+  {
+   "forma": "קדמיך",
+   "forma_he": "קדמיך",
+   "n": 2,
+   "ref": "daniel/5/23"
+  }
+ ],
+ "morph": [
+  "AR",
+  "AR/Sp1cs",
+  "AR/Sp3ms",
+  "AR/Sp2ms",
+  "AR/Sp3fs"
+ ],
+ "glosa_es": ""
+}

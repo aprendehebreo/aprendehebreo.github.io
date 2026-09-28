@@ -1,0 +1,63 @@
+{
+ "strong": "H4150",
+ "he": "מועד",
+ "xlit": "môwʻêd",
+ "pron": "mo-ade'",
+ "def_en": [
+  "1) appointed place, appointed time, meeting",
+  "1a) appointed time",
+  "1a1) appointed time (general)",
+  "1a2) sacred season, set feast, appointed season",
+  "1b) appointed meeting",
+  "1c) appointed place",
+  "1d) appointed sign or signal",
+  "1e) tent of meeting"
+ ],
+ "kjv": "appointed (sign, time), (place of, solemn) assembly, congregation, (set, solemn) feast, (appointed, due) season, solemn(-ity), synogogue, (set) time (appointed).",
+ "expl": "properly, an appointment, i.e. a fixed time or season; specifically, a festival; conventionally ayear; by implication, an assembly (as convened for a definite purpose); technically the congregation; by extension, the place of meeting; also a signal (as appointed beforehand)",
+ "etim": "or ; or (feminine) ; (2 Chronicles 8:13), from ;",
+ "raices": [
+  "H3259"
+ ],
+ "ocurrencias": 223,
+ "formas": [
+  {
+   "forma": "מועד",
+   "forma_he": "מוֹעֵ֣ד",
+   "n": 161,
+   "ref": "shemot/9/5"
+  },
+  {
+   "forma": "למועד",
+   "forma_he": "לַמּוֹעֵ֣ד",
+   "n": 18,
+   "ref": "bereshit/17/21"
+  },
+  {
+   "forma": "מועדי",
+   "forma_he": "מוֹעֲדֵ֣י",
+   "n": 8,
+   "ref": "vayikra/23/2"
+  },
+  {
+   "forma": "במועדו",
+   "forma_he": "בְּמוֹעֲדֽוֹ",
+   "n": 4,
+   "ref": "bamidbar/9/2"
+  },
+  {
+   "forma": "המועד",
+   "forma_he": "הַמּוֹעֵ֖ד",
+   "n": 3,
+   "ref": "shmuel_b/20/5"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HNcmpc",
+  "HR/Ncmsc/Sp3ms",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": "tiempo señalado; fiesta"
+}

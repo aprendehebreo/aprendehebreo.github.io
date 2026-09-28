@@ -1,0 +1,60 @@
+{
+ "strong": "H5656",
+ "he": "עבדה",
+ "xlit": "ʻăbôdâh",
+ "pron": "ab-o-daw'",
+ "def_en": [
+  "1) labour, service",
+  "1a) labour, work",
+  "1b) labour (of servant or slave)",
+  "1c) labour, service (of captives or subjects)",
+  "1d) service (of God)"
+ ],
+ "kjv": "act, bondage, [phrase] bondservant, effect, labour, ministering(-try), office, service(-ile, -itude), tillage, use, work, [idiom] wrought.",
+ "expl": "work of any kind",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5647"
+ ],
+ "ocurrencias": 145,
+ "formas": [
+  {
+   "forma": "עבדת",
+   "forma_he": "עֲבֹדַ֖ת",
+   "n": 29,
+   "ref": "shemot/30/16"
+  },
+  {
+   "forma": "עבדה",
+   "forma_he": "עֲבֹדָ֖ה",
+   "n": 18,
+   "ref": "shemot/1/14"
+  },
+  {
+   "forma": "העבדה",
+   "forma_he": "הָעֲבֹדָ֖ה",
+   "n": 13,
+   "ref": "shemot/2/23"
+  },
+  {
+   "forma": "עבדתם",
+   "forma_he": "עֲבֹ֣דָתָ֔ם",
+   "n": 12,
+   "ref": "shemot/1/14"
+  },
+  {
+   "forma": "עבדתו",
+   "forma_he": "עֲבֹדָת֑וֹ",
+   "n": 12,
+   "ref": "shemot/27/19"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsa",
+  "HTd/Ncfsa",
+  "HR/Ncfsc",
+  "HNcfsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

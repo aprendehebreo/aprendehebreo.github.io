@@ -1,0 +1,56 @@
+{
+ "strong": "H6726",
+ "he": "ציון",
+ "xlit": "Tsîyôwn",
+ "pron": "tsee-yone'",
+ "def_en": [
+  "Zion = \"parched place\"",
+  "1) another name for Jerusalem especially in the prophetic books"
+ ],
+ "kjv": "Zion.",
+ "expl": "Tsijon (as a permanent capital), a mountain of Jerusalem",
+ "etim": "the same (regularly) as lemma צִיוּן missing dagesh, corrected to צִיּוּן",
+ "raices": [
+  "H6725"
+ ],
+ "ocurrencias": 153,
+ "formas": [
+  {
+   "forma": "ציון",
+   "forma_he": "צִיּ֑וֹן",
+   "n": 106,
+   "ref": "shmuel_b/5/7"
+  },
+  {
+   "forma": "בציון",
+   "forma_he": "בְּצִיּ֗וֹן",
+   "n": 26,
+   "ref": "yeshayahu/4/3"
+  },
+  {
+   "forma": "מציון",
+   "forma_he": "מִצִּיּוֹן֙",
+   "n": 12,
+   "ref": "yeshayahu/2/3"
+  },
+  {
+   "forma": "לציון",
+   "forma_he": "לְצִיּ֖וֹן",
+   "n": 5,
+   "ref": "yeshayahu/41/27"
+  },
+  {
+   "forma": "ולציון",
+   "forma_he": "וּלְצִיּ֖וֹן",
+   "n": 2,
+   "ref": "zecharia/1/14"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/R/Np",
+  "HNp/Sd"
+ ],
+ "glosa_es": "Sion"
+}

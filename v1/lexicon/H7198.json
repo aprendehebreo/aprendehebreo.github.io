@@ -1,0 +1,61 @@
+{
+ "strong": "H7198",
+ "he": "קשת",
+ "xlit": "qesheth",
+ "pron": "keh'-sheth",
+ "def_en": [
+  "1) bow",
+  "1a) bow (for hunting, battle)",
+  "1b) bowmen, archers",
+  "1c) bow (fig. of might)",
+  "1d) rainbow"
+ ],
+ "kjv": "[idiom] arch(-er), [phrase] arrow, bow(-man, -shot).",
+ "expl": "a bow, forshooting (hence, figuratively, strength) or the iris",
+ "etim": "from in the original sense (of ) of bending;",
+ "raices": [
+  "H7185",
+  "H6983"
+ ],
+ "ocurrencias": 76,
+ "formas": [
+  {
+   "forma": "קשת",
+   "forma_he": "קֶ֔שֶׁת",
+   "n": 33,
+   "ref": "bereshit/21/16"
+  },
+  {
+   "forma": "בקשת",
+   "forma_he": "בַּקָּ֑שֶׁת",
+   "n": 8,
+   "ref": "shmuel_a/31/3"
+  },
+  {
+   "forma": "קשתו",
+   "forma_he": "קַשְׁתּ֔וֹ",
+   "n": 7,
+   "ref": "bereshit/49/24"
+  },
+  {
+   "forma": "הקשת",
+   "forma_he": "הַקֶּ֖שֶׁת",
+   "n": 5,
+   "ref": "bereshit/9/14"
+  },
+  {
+   "forma": "וקשתות",
+   "forma_he": "וּקְשָׁת֖וֹת",
+   "n": 2,
+   "ref": "yeshayahu/13/18"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfsc",
+  "HNcfsc/Sp3ms",
+  "HRd/Ncfsa",
+  "HTd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

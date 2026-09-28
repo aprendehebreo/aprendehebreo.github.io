@@ -1,0 +1,72 @@
+{
+ "strong": "H3513",
+ "he": "כבד",
+ "xlit": "kâbad",
+ "pron": "kaw-bad'",
+ "def_en": [
+  "1) to be heavy, be weighty, be grievous, be hard, be rich, be honourable, be glorious, be burdensome, be honoured",
+  "1a) (Qal)",
+  "1a1) to be heavy",
+  "1a2) to be heavy, be insensible, be dull",
+  "1a3) to be honoured",
+  "1b) (Niphal)",
+  "1b1) to be made heavy, be honoured, enjoy honour, be made abundant",
+  "1b2) to get oneself glory or honour, gain glory",
+  "1c) (Piel)",
+  "1c1) to make heavy, make dull, make insensible",
+  "1c2) to make honourable, honour, glorify",
+  "1d) (Pual) to be made honourable, be honoured",
+  "1e) (Hiphil)",
+  "1e1) to make heavy",
+  "1e2) to make heavy, make dull, make unresponsive",
+  "1e3) to cause to be honoured",
+  "1f) (Hithpael)",
+  "1f1) to make oneself heavy, make oneself dense, make oneself numerous",
+  "1f2) to honour oneself"
+ ],
+ "kjv": "abounding with, more grievously afflict, boast, be chargeable, [idiom] be dim, glorify, be (make) glorious (things), glory, (very) great, be grievous, harden, be (make) heavy, be heavier, lay heavily, (bring to, come to, do, get, be had in) honour (self), (be) honourable (man), lade, [idiom] more be laid, make self many, nobles, prevail, promote (to honour), be rich, be (go) sore, stop.",
+ "expl": "to be heavy, i.e. in a bad sense (burdensome, severe, dull) or in a good sense (numerous, rich, honorable; causatively, to make weighty (in the same two senses)",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 116,
+ "formas": [
+  {
+   "forma": "נכבד",
+   "forma_he": "נִכְבָּ֔ד",
+   "n": 9,
+   "ref": "bereshit/34/19"
+  },
+  {
+   "forma": "יכבד",
+   "forma_he": "יִכְבַּ֣ד",
+   "n": 9,
+   "ref": "yeshayahu/66/5"
+  },
+  {
+   "forma": "כבד",
+   "forma_he": "כָבֵ֥ד",
+   "n": 7,
+   "ref": "bereshit/12/10"
+  },
+  {
+   "forma": "כבדה",
+   "forma_he": "כָבְדָ֖ה",
+   "n": 6,
+   "ref": "bereshit/18/20"
+  },
+  {
+   "forma": "ותכבד",
+   "forma_he": "וַתִּכְבַּד֙",
+   "n": 5,
+   "ref": "shoftim/1/35"
+  }
+ ],
+ "morph": [
+  "HVNrmsa",
+  "HVqp3fs",
+  "HVhp3ms",
+  "HVpa",
+  "HC/Vqw3fs"
+ ],
+ "glosa_es": ""
+}

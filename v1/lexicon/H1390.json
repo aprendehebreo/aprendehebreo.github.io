@@ -1,0 +1,59 @@
+{
+ "strong": "H1390",
+ "he": "גבעה",
+ "xlit": "Gibʻâh",
+ "pron": "ghib-aw'",
+ "def_en": [
+  "Gibeah = \"hill\"",
+  "1) a city in the mountain district of Judah",
+  "2) a city of Benjamin, birthplace of king Saul",
+  "3) a city in Kirjath-jearim of Ephraim"
+ ],
+ "kjv": "Gibeah, the hill.",
+ "expl": "Gibah; the name of three places in Palestine",
+ "etim": "the same as ;",
+ "raices": [
+  "H1389"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "הגבעה",
+   "forma_he": "הַגִּבְעָ֔ה",
+   "n": 15,
+   "ref": "shemot/17/9"
+  },
+  {
+   "forma": "בגבעה",
+   "forma_he": "בַגִּבְעָ֖ה",
+   "n": 7,
+   "ref": "shoftim/19/13"
+  },
+  {
+   "forma": "הגבעתה",
+   "forma_he": "הַגִּבְעָ֨תָה֙",
+   "n": 4,
+   "ref": "shoftim/20/4"
+  },
+  {
+   "forma": "גבעת",
+   "forma_he": "גִּבְעֹ֣ת",
+   "n": 4,
+   "ref": "bereshit/49/26"
+  },
+  {
+   "forma": "גבעה",
+   "forma_he": "גִּבְעָ֣ה",
+   "n": 3,
+   "ref": "yehoshua/15/57"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HRd/Np",
+  "HNp",
+  "HR/Np",
+  "HTd/Np/Sd"
+ ],
+ "glosa_es": ""
+}

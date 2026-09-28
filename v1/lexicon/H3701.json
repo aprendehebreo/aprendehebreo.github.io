@@ -1,0 +1,61 @@
+{
+ "strong": "H3701",
+ "he": "כסף",
+ "xlit": "keçeph",
+ "pron": "keh'-sef",
+ "def_en": [
+  "1) silver, money",
+  "1a) silver",
+  "1a1) as metal",
+  "1a2) as ornament",
+  "1a3) as colour",
+  "1b) money, shekels, talents"
+ ],
+ "kjv": "money, price, silver(-ling).",
+ "expl": "silver (from its pale color); by implication, money",
+ "etim": "from ;",
+ "raices": [
+  "H3700"
+ ],
+ "ocurrencias": 403,
+ "formas": [
+  {
+   "forma": "כסף",
+   "forma_he": "כֶּ֨סֶף֙",
+   "n": 207,
+   "ref": "bereshit/17/12"
+  },
+  {
+   "forma": "הכסף",
+   "forma_he": "הַכֶּ֕סֶף",
+   "n": 73,
+   "ref": "bereshit/23/16"
+  },
+  {
+   "forma": "וכסף",
+   "forma_he": "וְכֶ֣סֶף",
+   "n": 32,
+   "ref": "bereshit/24/35"
+  },
+  {
+   "forma": "בכסף",
+   "forma_he": "בַּכֶּ֖סֶף",
+   "n": 28,
+   "ref": "bereshit/13/2"
+  },
+  {
+   "forma": "כספו",
+   "forma_he": "כַּסְפּ֔וֹ",
+   "n": 9,
+   "ref": "bereshit/17/23"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HC/Ncmsa",
+  "HR/Ncmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": "plata; dinero"
+}

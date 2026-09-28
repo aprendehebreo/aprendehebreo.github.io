@@ -1,0 +1,61 @@
+{
+ "strong": "H8179",
+ "he": "שער",
+ "xlit": "shaʻar",
+ "pron": "shah'-ar",
+ "def_en": [
+  "1) gate",
+  "1a) gate (of entrance)",
+  "1b) gate (of space inside gate, i.e. marketplace, public meeting place)",
+  "1b1) city, town",
+  "1c) gate (of palace, royal castle, temple, court of tabernacle)",
+  "1d) heaven"
+ ],
+ "kjv": "city, door, gate, port ([idiom] -er).",
+ "expl": "an opening, i.e. door or gate",
+ "etim": "from in its original sense;",
+ "raices": [
+  "H8176"
+ ],
+ "ocurrencias": 375,
+ "formas": [
+  {
+   "forma": "שער",
+   "forma_he": "שַׁ֥עַר",
+   "n": 112,
+   "ref": "bereshit/22/17"
+  },
+  {
+   "forma": "השער",
+   "forma_he": "הַשַּׁ֜עַר",
+   "n": 59,
+   "ref": "yehoshua/2/5"
+  },
+  {
+   "forma": "בשער",
+   "forma_he": "בְּשַֽׁעַר",
+   "n": 52,
+   "ref": "bereshit/19/1"
+  },
+  {
+   "forma": "בשעריך",
+   "forma_he": "בִּשְׁעָרֶֽיךָ",
+   "n": 19,
+   "ref": "shemot/20/10"
+  },
+  {
+   "forma": "שערי",
+   "forma_he": "שַׁעֲרֵ֣י",
+   "n": 16,
+   "ref": "shmuel_a/17/52"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HR/Ncmsc",
+  "HRd/Ncmsa",
+  "HR/Ncmpc/Sp2ms"
+ ],
+ "glosa_es": "puerta; portal"
+}

@@ -1,0 +1,77 @@
+{
+ "strong": "H3559",
+ "he": "כון",
+ "xlit": "kûwn",
+ "pron": "koon",
+ "def_en": [
+  "1) to be firm, be stable, be established",
+  "1a) (Niphal)",
+  "1a1) to be set up, be established, be fixed",
+  "1a1a) to be firmly established",
+  "1a1b) to be established, be stable, be secure, be enduring",
+  "1a1c) to be fixed, be securely determined",
+  "1a2) to be directed aright, be fixed aright, be steadfast (moral sense)",
+  "1a3) to prepare, be ready",
+  "1a4) to be prepared, be arranged, be settled",
+  "1b) (Hiphil)",
+  "1b1) to establish, set up, accomplish, do, make firm",
+  "1b2) to fix, make ready, prepare, provide, provide for, furnish",
+  "1b3) to direct toward (moral sense)",
+  "1b4) to arrange, order",
+  "1c) (Hophal)",
+  "1c1) to be established, be fastened",
+  "1c2) to be prepared, be ready",
+  "1d) (Polel)",
+  "1d1) to set up, establish",
+  "1d2) to constitute, make",
+  "1d3) to fix",
+  "1d4) to direct",
+  "1e) (Pulal) to be established, be prepared",
+  "1f) (Hithpolel) to be established, be restored"
+ ],
+ "kjv": "certain(-ty), confirm, direct, faithfulness, fashion, fasten, firm, be fitted, be fixed, frame, be meet, ordain, order, perfect, (make) preparation, prepare (self), provide, make provision, (be, make) ready, right, set (aright, fast, forth), be stable, (e-) stablish, stand, tarry, [idiom] very deed.",
+ "expl": "properly, to be erect (i.e. stand perpendicular); hence (causatively) to set up, in a great variety of applications, whether literal (establish, fix, prepare, apply), or figurative (appoint, render sure, proper or prosperous)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 219,
+ "formas": [
+  {
+   "forma": "נכון",
+   "forma_he": "נָכ֤וֹן",
+   "n": 31,
+   "ref": "bereshit/41/32"
+  },
+  {
+   "forma": "הכין",
+   "forma_he": "הָכִ֖ין",
+   "n": 19,
+   "ref": "yehoshua/4/3"
+  },
+  {
+   "forma": "הכינו",
+   "forma_he": "הָכִ֥ינוּ",
+   "n": 13,
+   "ref": "yehoshua/1/11"
+  },
+  {
+   "forma": "תכון",
+   "forma_he": "תִכּ֖וֹן",
+   "n": 9,
+   "ref": "shmuel_a/20/31"
+  },
+  {
+   "forma": "והכן",
+   "forma_he": "וְהָכֵ֔ן",
+   "n": 7,
+   "ref": "bereshit/43/16"
+  }
+ ],
+ "morph": [
+  "HVNrmsa",
+  "HVhp3ms",
+  "HVNi3fs",
+  "HVhp1cs",
+  "HVhi3ms"
+ ],
+ "glosa_es": "estar firme; preparar; establecido"
+}

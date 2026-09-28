@@ -1,0 +1,59 @@
+{
+ "strong": "H5027",
+ "he": "נבט",
+ "xlit": "nâbaṭ",
+ "pron": "naw-bat'",
+ "def_en": [
+  "1) to look, regard",
+  "1a) (Piel) to look",
+  "1b) (Hiphil)",
+  "1b1) tolook",
+  "1b2) to regard, show regard to, pay attention to, consider",
+  "1b3) to look upon, regard, show regard to"
+ ],
+ "kjv": "(cause to) behold, consider, look (down), regard, have respect, see.",
+ "expl": "to scan, i.e. look intently at; by implication, to regard with pleasure, favor or care",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 70,
+ "formas": [
+  {
+   "forma": "הבט",
+   "forma_he": "הַבֶּט",
+   "n": 7,
+   "ref": "bereshit/15/5"
+  },
+  {
+   "forma": "הביט",
+   "forma_he": "הִבִּ֥יט",
+   "n": 6,
+   "ref": "bamidbar/23/21"
+  },
+  {
+   "forma": "הביטו",
+   "forma_he": "הַבִּ֥יטוּ",
+   "n": 6,
+   "ref": "yeshayahu/42/18"
+  },
+  {
+   "forma": "תביט",
+   "forma_he": "תַּבִּ֣יט",
+   "n": 5,
+   "ref": "bereshit/19/17"
+  },
+  {
+   "forma": "יביט",
+   "forma_he": "יַבִּ֑יט",
+   "n": 5,
+   "ref": "bamidbar/12/8"
+  }
+ ],
+ "morph": [
+  "HVhv2ms",
+  "HVhi3ms",
+  "HC/Vhw3ms",
+  "HVhi1cs",
+  "HVhv2mp"
+ ],
+ "glosa_es": ""
+}

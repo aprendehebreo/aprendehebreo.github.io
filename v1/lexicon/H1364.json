@@ -1,0 +1,62 @@
+{
+ "strong": "H1364",
+ "he": "גבה",
+ "xlit": "gâbôahh",
+ "pron": "gaw-bo'-ah",
+ "def_en": [
+  "adj",
+  "1) high, exalted",
+  "1a) high, tall",
+  "1b) high (in position)",
+  "1c) proud, haughty",
+  "n m",
+  "2) loftiness"
+ ],
+ "kjv": "haughty, height, high(-er), lofty, proud, [idiom] exceeding proudly.",
+ "expl": "elevated (or elated), powerful, arrogant",
+ "etim": "or ; (fully) from ;",
+ "raices": [
+  "H1361"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "גבה",
+   "forma_he": "גָּבֹ֖הַּ",
+   "n": 16,
+   "ref": "shmuel_a/9/2"
+  },
+  {
+   "forma": "גבהה",
+   "forma_he": "גְבֹהָ֖ה",
+   "n": 7,
+   "ref": "devarim/3/5"
+  },
+  {
+   "forma": "הגבהים",
+   "forma_he": "הַגְּבֹהִ֔ים",
+   "n": 3,
+   "ref": "bereshit/7/19"
+  },
+  {
+   "forma": "הגבהות",
+   "forma_he": "הַגְּבֹה֣וֹת",
+   "n": 3,
+   "ref": "devarim/28/52"
+  },
+  {
+   "forma": "גבהים",
+   "forma_he": "גְבֹהִ֖ים",
+   "n": 1,
+   "ref": "yeshayahu/5/15"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAafsa",
+  "HTd/Aampa",
+  "HTd/Aafpa",
+  "HAamsc"
+ ],
+ "glosa_es": ""
+}

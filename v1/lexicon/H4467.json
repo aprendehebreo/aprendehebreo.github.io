@@ -1,0 +1,59 @@
+{
+ "strong": "H4467",
+ "he": "ממלכה",
+ "xlit": "mamlâkâh",
+ "pron": "mam-law-kaw'",
+ "def_en": [
+  "1) kingdom, dominion, reign, sovereignty",
+  "1a) kingdom, realm",
+  "1b) sovereignty, dominion",
+  "1c) reign"
+ ],
+ "kjv": "kingdom, king's, reign, royal.",
+ "expl": "dominion, i.e. (abstractly) the estate (rule) or (concretely) the country (realm)",
+ "etim": "from ;",
+ "raices": [
+  "H4427"
+ ],
+ "ocurrencias": 117,
+ "formas": [
+  {
+   "forma": "ממלכות",
+   "forma_he": "מַמְלְכ֥וֹת",
+   "n": 37,
+   "ref": "devarim/28/25"
+  },
+  {
+   "forma": "הממלכה",
+   "forma_he": "הַמַּמְלָכָ֑ה",
+   "n": 23,
+   "ref": "yehoshua/10/2"
+  },
+  {
+   "forma": "ממלכת",
+   "forma_he": "מַמְלֶ֥כֶת",
+   "n": 12,
+   "ref": "shemot/19/6"
+  },
+  {
+   "forma": "ממלכה",
+   "forma_he": "מַמְלָכָ֖ה",
+   "n": 9,
+   "ref": "yeshayahu/19/2"
+  },
+  {
+   "forma": "הממלכות",
+   "forma_he": "הַמַּמְלָכ֔וֹת",
+   "n": 8,
+   "ref": "devarim/3/21"
+  }
+ ],
+ "morph": [
+  "HNcfpc",
+  "HTd/Ncfsa",
+  "HNcfpa",
+  "HNcfsc",
+  "HNcfsa"
+ ],
+ "glosa_es": ""
+}

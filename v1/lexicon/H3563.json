@@ -1,0 +1,59 @@
+{
+ "strong": "H3563",
+ "he": "כוס",
+ "xlit": "kôwç",
+ "pron": "koce",
+ "def_en": [
+  "n f",
+  "1) cup",
+  "n m",
+  "2) a kind of owl (an unclean bird)"
+ ],
+ "kjv": "cup, (small) owl. Compare .",
+ "expl": "a cup (as a container), often figuratively, a lot (as if a potion); also some unclean bird, probably an owl (perhaps from the cup-like cavity of its eye)",
+ "etim": "from an unused root meaning to hold together;",
+ "raices": [
+  "H3599"
+ ],
+ "ocurrencias": 34,
+ "formas": [
+  {
+   "forma": "כוס",
+   "forma_he": "כּ֣וֹס",
+   "n": 18,
+   "ref": "bereshit/40/11"
+  },
+  {
+   "forma": "הכוס",
+   "forma_he": "הַכּ֖וֹס",
+   "n": 7,
+   "ref": "bereshit/40/11"
+  },
+  {
+   "forma": "וכוס",
+   "forma_he": "וְכ֥וֹס",
+   "n": 1,
+   "ref": "bereshit/40/11"
+  },
+  {
+   "forma": "ומכסו",
+   "forma_he": "וּמִכֹּס֤וֹ",
+   "n": 1,
+   "ref": "shmuel_b/12/3"
+  },
+  {
+   "forma": "וכסות",
+   "forma_he": "וְכֹס֑וֹת",
+   "n": 1,
+   "ref": "yirmiyahu/35/5"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HTd/Ncmsa",
+  "HC/Ncfsc"
+ ],
+ "glosa_es": ""
+}

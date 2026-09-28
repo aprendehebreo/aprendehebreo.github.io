@@ -1,0 +1,61 @@
+{
+ "strong": "H2534",
+ "he": "חמה",
+ "xlit": "chêmâh",
+ "pron": "khay-maw'",
+ "def_en": [
+  "1) heat, rage, hot displeasure, indignation, anger, wrath, poison, bottles",
+  "1a) heat",
+  "1a1) fever",
+  "1a2) venom, poison (fig.)",
+  "1b) burning anger, rage"
+ ],
+ "kjv": "anger, bottles, hot displeasure, furious(-ly, -ry), heat, indignation, poison, rage, wrath(-ful). See .",
+ "expl": "heat; figuratively, anger, poison (from its fever)",
+ "etim": "or (Daniel 11:44) ; from ;",
+ "raices": [
+  "H3179",
+  "H2529"
+ ],
+ "ocurrencias": 124,
+ "formas": [
+  {
+   "forma": "חמתי",
+   "forma_he": "חֲמָתִי֙",
+   "n": 26,
+   "ref": "bamidbar/25/11"
+  },
+  {
+   "forma": "חמה",
+   "forma_he": "חֹמָ֔ה",
+   "n": 21,
+   "ref": "shemot/14/22"
+  },
+  {
+   "forma": "חמת",
+   "forma_he": "חֲמַ֥ת",
+   "n": 20,
+   "ref": "bereshit/27/44"
+  },
+  {
+   "forma": "בחמה",
+   "forma_he": "בְּחֵמָֽה",
+   "n": 7,
+   "ref": "mlakhim_b/5/12"
+  },
+  {
+   "forma": "ובחמה",
+   "forma_he": "וּבְחֵמָ֖ה",
+   "n": 6,
+   "ref": "devarim/29/27"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp1cs",
+  "HNcfsa",
+  "HNcfsc",
+  "HR/Ncfsa",
+  "HC/R/Ncfsa"
+ ],
+ "glosa_es": ""
+}

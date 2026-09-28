@@ -1,0 +1,74 @@
+{
+ "strong": "H4100",
+ "he": "מה",
+ "xlit": "mâh",
+ "pron": "maw",
+ "def_en": [
+  "interr pron",
+  "1) what, how, of what kind",
+  "1a) (interrogative)",
+  "1a1) what?",
+  "1a2) of what kind",
+  "1a3) what? (rhetorical)",
+  "1a4) whatsoever, whatever, what",
+  "1b) (adverb)",
+  "1b1) how, how now",
+  "1b2) why",
+  "1b3) how! (exclamation)",
+  "1c) (with prep)",
+  "1c1) wherein?, whereby?, wherewith?, by what means?",
+  "1c2) because of what?",
+  "1c3) the like of what?",
+  "1c3a) how much?, how many?, how often?",
+  "1c3b) for how long?",
+  "1c4) for what reason?, why?, to what purpose?",
+  "1c5) until when?, how long?, upon what?, wherefore?",
+  "indef pron",
+  "2) anything, aught, what may"
+ ],
+ "kjv": "how (long, oft, (-soever)), (no-) thing, what (end, good, purpose, thing), whereby(-fore, -in, -to, -with), (for) why.",
+ "expl": "properly, interrogative what? (including how? why? when?); but also exclamation, what! (including how!), or indefinitely what (including whatever, and even relatively, that which); often used with prefixes in various adverbial or conjunctive senses",
+ "etim": "or ; or ; or ; also ; a primitive particle;",
+ "raices": [],
+ "ocurrencias": 750,
+ "formas": [
+  {
+   "forma": "מה",
+   "forma_he": "מַה",
+   "n": 448,
+   "ref": "bereshit/2/19"
+  },
+  {
+   "forma": "למה",
+   "forma_he": "לָ֚מָּה",
+   "n": 143,
+   "ref": "bereshit/4/6"
+  },
+  {
+   "forma": "ומה",
+   "forma_he": "וּמֶֽה",
+   "n": 80,
+   "ref": "bereshit/20/9"
+  },
+  {
+   "forma": "ולמה",
+   "forma_he": "וְלָ֖מָּה",
+   "n": 34,
+   "ref": "bereshit/4/6"
+  },
+  {
+   "forma": "במה",
+   "forma_he": "בַּמָּ֥ה",
+   "n": 23,
+   "ref": "bereshit/15/8"
+  }
+ ],
+ "morph": [
+  "HTi",
+  "HR/Ti",
+  "HC/Ti",
+  "HC/R/Ti",
+  "HTr/R/Ti"
+ ],
+ "glosa_es": "qué; cómo"
+}

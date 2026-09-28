@@ -1,0 +1,48 @@
+{
+ "strong": "H3667",
+ "he": "כנען",
+ "xlit": "Kᵉnaʻan",
+ "pron": "ken-ah'-an",
+ "def_en": [
+  "Canaan = \"lowland\"",
+  "n pr m",
+  "1) the 4th son of Ham and the progenitor of the Phoenicians and of the various nations who peopled the seacoast of Palestine",
+  "n pr loc",
+  "2) the land west of the Jordan peopled by the descendants of Canaan and subsequently conquered by the Israelites under Joshua",
+  "n m",
+  "3) merchant, trader"
+ ],
+ "kjv": "Canaan, merchant, traffick.",
+ "expl": "Kenaan, a son a Ham; also the country inhabited by him",
+ "etim": "from ; humiliated;",
+ "raices": [
+  "H3665"
+ ],
+ "ocurrencias": 94,
+ "formas": [
+  {
+   "forma": "כנען",
+   "forma_he": "כְנָֽעַן",
+   "n": 89,
+   "ref": "bereshit/9/18"
+  },
+  {
+   "forma": "וכנען",
+   "forma_he": "וּכְנָֽעַן",
+   "n": 4,
+   "ref": "bereshit/10/6"
+  },
+  {
+   "forma": "כנעניה",
+   "forma_he": "כִּנְעָנֶ֖יהָ",
+   "n": 1,
+   "ref": "yeshayahu/23/8"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HNcmpc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

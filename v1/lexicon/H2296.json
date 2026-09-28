@@ -1,0 +1,58 @@
+{
+ "strong": "H2296",
+ "he": "חגר",
+ "xlit": "châgar",
+ "pron": "khaw-gar'",
+ "def_en": [
+  "1) to gird, gird on, gird oneself, put on a belt",
+  "1a)(Qal)",
+  "1a1) to gird",
+  "1a2) to gird on, bind on",
+  "1a3) to gird oneself"
+ ],
+ "kjv": "be able to put on, be afraid, appointed, gird, restrain, [idiom] on every side.",
+ "expl": "to gird on (as a belt, armor, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "ויחגר",
+   "forma_he": "וַיַּחְגֹּ֤ר",
+   "n": 6,
+   "ref": "vayikra/8/7"
+  },
+  {
+   "forma": "חגור",
+   "forma_he": "חָג֖וּר",
+   "n": 6,
+   "ref": "shoftim/18/11"
+  },
+  {
+   "forma": "חגרו",
+   "forma_he": "חֲגֹרֽוֹ",
+   "n": 5,
+   "ref": "shmuel_a/18/4"
+  },
+  {
+   "forma": "חגר",
+   "forma_he": "חֹגֵ֖ר",
+   "n": 4,
+   "ref": "mlakhim_a/20/11"
+  },
+  {
+   "forma": "ויחגרו",
+   "forma_he": "וַֽיַּחְגְּרוּ֙",
+   "n": 3,
+   "ref": "shmuel_a/25/13"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqsmsa",
+  "HVqv2mp",
+  "HVqv2ms",
+  "HVqsmpa"
+ ],
+ "glosa_es": ""
+}

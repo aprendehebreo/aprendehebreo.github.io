@@ -1,0 +1,66 @@
+{
+ "strong": "H5462",
+ "he": "סגר",
+ "xlit": "çâgar",
+ "pron": "saw-gar'",
+ "def_en": [
+  "1) to shut, close",
+  "1a) (Qal)",
+  "1a1) to shut",
+  "1a2) to close, close up",
+  "1a3) closed up, closely joined, shut up",
+  "1b) (Niphal)",
+  "1b1) to be shut up",
+  "1b2) to be shut or closed",
+  "1c) (Piel) to shut up, deliver up",
+  "1d) (Pual) to be shut up",
+  "1e) (Hiphil)",
+  "1e1) to deliver up",
+  "1e2) to shut up, imprison"
+ ],
+ "kjv": "close up, deliver (up), give over (up), inclose, [idiom] pure, repair, shut (in, self, out, up, up together), stop, [idiom] straitly.",
+ "expl": "to shut up; figuratively, to surrender",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 91,
+ "formas": [
+  {
+   "forma": "סגור",
+   "forma_he": "סָג֑וּר",
+   "n": 13,
+   "ref": "mlakhim_a/6/20"
+  },
+  {
+   "forma": "סגר",
+   "forma_he": "סָגַ֥ר",
+   "n": 10,
+   "ref": "bereshit/19/6"
+  },
+  {
+   "forma": "ויסגר",
+   "forma_he": "וַיִּסְגֹּ֥ר",
+   "n": 9,
+   "ref": "bereshit/2/21"
+  },
+  {
+   "forma": "סגרו",
+   "forma_he": "סָגָֽרוּ",
+   "n": 6,
+   "ref": "bereshit/19/10"
+  },
+  {
+   "forma": "והסגיר",
+   "forma_he": "וְהִסְגִּ֧יר",
+   "n": 5,
+   "ref": "vayikra/13/4"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HC/Vhq3ms",
+  "HVqsmsa"
+ ],
+ "glosa_es": ""
+}

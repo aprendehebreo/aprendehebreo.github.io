@@ -1,0 +1,62 @@
+{
+ "strong": "H8597",
+ "he": "תפארה",
+ "xlit": "tiphʼârâh",
+ "pron": "tif-aw-raw'",
+ "def_en": [
+  "1) beauty, splendour, glory",
+  "1a) beauty, finery (of garments, jewels)",
+  "1b) glory",
+  "1b1) of rank, renown",
+  "1b2) as attribute of God",
+  "1c) honour (or nation Israel)",
+  "1d) glorying, boasting (of individual)"
+ ],
+ "kjv": "beauty(-iful), bravery, comely, fair, glory(-ious), honour, majesty.",
+ "expl": "ornament (abstractly or concretely, literally or figuratively)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6286"
+ ],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "תפארת",
+   "forma_he": "תִּפְאֶ֧רֶת",
+   "n": 15,
+   "ref": "yeshayahu/3/18"
+  },
+  {
+   "forma": "תפארתך",
+   "forma_he": "תִּֽפְאַרְתְּךָ֗",
+   "n": 8,
+   "ref": "shoftim/4/9"
+  },
+  {
+   "forma": "ולתפארת",
+   "forma_he": "וּלְתִפְאָֽרֶת",
+   "n": 7,
+   "ref": "shemot/28/2"
+  },
+  {
+   "forma": "תפארתו",
+   "forma_he": "תִפְאַרְתּ֑וֹ",
+   "n": 3,
+   "ref": "yeshayahu/28/1"
+  },
+  {
+   "forma": "ותפארת",
+   "forma_he": "וְתִפְאֶ֛רֶת",
+   "n": 3,
+   "ref": "zecharia/12/7"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfsc",
+  "HC/R/Ncfsa",
+  "HNcfsc/Sp2fs",
+  "HNcfsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

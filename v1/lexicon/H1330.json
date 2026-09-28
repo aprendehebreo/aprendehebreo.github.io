@@ -1,0 +1,54 @@
+{
+ "strong": "H1330",
+ "he": "בתולה",
+ "xlit": "bᵉthûwlâh",
+ "pron": "beth-oo-law'",
+ "def_en": [
+  "1) virgin"
+ ],
+ "kjv": "maid, virgin.",
+ "expl": "a virgin (from her privacy); sometimes (by continuation) a bride; also (figuratively) a city or state",
+ "etim": "feminine passive participle of an unused root meaning to separate;",
+ "raices": [],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "בתולה",
+   "forma_he": "בְּתוּלָ֕ה",
+   "n": 14,
+   "ref": "bereshit/24/16"
+  },
+  {
+   "forma": "בתולת",
+   "forma_he": "בְּתוּלַ֣ת",
+   "n": 14,
+   "ref": "devarim/22/19"
+  },
+  {
+   "forma": "בתולות",
+   "forma_he": "בְתוּלֽוֹת",
+   "n": 5,
+   "ref": "yeshayahu/23/4"
+  },
+  {
+   "forma": "הבתולת",
+   "forma_he": "הַבְּתוּלֹֽת",
+   "n": 4,
+   "ref": "shemot/22/16"
+  },
+  {
+   "forma": "ובתולה",
+   "forma_he": "וּבְתוּלָֽה",
+   "n": 3,
+   "ref": "yirmiyahu/51/22"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfsc",
+  "HNcfpa",
+  "HTd/Ncfpa",
+  "HC/Ncfsa"
+ ],
+ "glosa_es": ""
+}

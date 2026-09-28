@@ -1,0 +1,72 @@
+{
+ "strong": "H539",
+ "he": "אמן",
+ "xlit": "ʼâman",
+ "pron": "aw-man'",
+ "def_en": [
+  "1) to support, confirm, be faithful",
+  "1a) (Qal)",
+  "1a1) to support, confirm, be faithful, uphold, nourish",
+  "1a1a) foster-father (subst.)",
+  "1a1b) foster-mother, nurse",
+  "1a1c) pillars, supporters of the door",
+  "1b) (Niphal)",
+  "1b1) to be established, be faithful, be carried, make firm",
+  "1b1a) to be carried by a nurse",
+  "1b1b) made firm, sure, lasting",
+  "1b1c) confirmed, established, sure",
+  "1b1d) verified, confirmed",
+  "1b1e) reliable, faithful, trusty",
+  "1c) (Hiphil)",
+  "1c1) to stand firm, to trust, to be certain, to believe in",
+  "1c1a) stand firm",
+  "1c1b) trust, believe"
+ ],
+ "kjv": "hence, assurance, believe, bring up, establish, [phrase] fail, be faithful (of long continuance, stedfast, sure, surely, trusty, verified), nurse, (-ing father), (put), trust, turn to the right.",
+ "expl": "properly, to build up or support; to foster as a parent or nurse; figuratively to render (or be) firm or faithful, to trust or believe, to be permanent or quiet; morally to be true or certain;",
+ "etim": "a primitive root; (Isaiah 30:21; interchangeable with , to go to the right hand)",
+ "raices": [
+  "H541"
+ ],
+ "ocurrencias": 108,
+ "formas": [
+  {
+   "forma": "נאמן",
+   "forma_he": "נֶאֱמָ֥ן",
+   "n": 14,
+   "ref": "bamidbar/12/7"
+  },
+  {
+   "forma": "יאמינו",
+   "forma_he": "יַאֲמִ֣ינוּ",
+   "n": 7,
+   "ref": "shemot/4/1"
+  },
+  {
+   "forma": "האמינו",
+   "forma_he": "הֶאֱמִ֔ינוּ",
+   "n": 7,
+   "ref": "mlakhim_b/17/14"
+  },
+  {
+   "forma": "יאמין",
+   "forma_he": "יַאֲמִ֣ין",
+   "n": 6,
+   "ref": "mishlei/14/15"
+  },
+  {
+   "forma": "יאמן",
+   "forma_he": "יֵאָ֤מֶן",
+   "n": 5,
+   "ref": "mlakhim_a/8/26"
+  }
+ ],
+ "morph": [
+  "HVNrmsa",
+  "HVhi3mp",
+  "HVhi3ms",
+  "HVhp1cs",
+  "HVhp3cp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,65 @@
+{
+ "strong": "H7650",
+ "he": "שבע",
+ "xlit": "shâbaʻ",
+ "pron": "shaw-bah'",
+ "def_en": [
+  "1) to swear, adjure",
+  "1a) (Qal) sworn (participle)",
+  "1b) (Niphal)",
+  "1b1) to swear, take an oath",
+  "1b2) to swear (of Jehovah by Himself)",
+  "1b3) to curse",
+  "1c) (Hiphil)",
+  "1c1) to cause to take an oath",
+  "1c2) to adjure"
+ ],
+ "kjv": "adjure, charge (by an oath, with an oath), feed to the full (by mistake for ), take an oath, [idiom] straitly, (cause to, make to) swear.",
+ "expl": "to seven oneself, i.e. swear (as if by repeating a declaration seven times)",
+ "etim": "a primitive root; properly to be complete, but used only as a denominative from ;",
+ "raices": [
+  "H7651",
+  "H7646"
+ ],
+ "ocurrencias": 186,
+ "formas": [
+  {
+   "forma": "נשבע",
+   "forma_he": "נִֽשְׁבַּֽע",
+   "n": 45,
+   "ref": "bereshit/24/7"
+  },
+  {
+   "forma": "נשבעתי",
+   "forma_he": "נִשְׁבַּ֖עְתִּי",
+   "n": 27,
+   "ref": "bereshit/22/16"
+  },
+  {
+   "forma": "וישבע",
+   "forma_he": "וַיִּשָּׁ֣בַֽע",
+   "n": 24,
+   "ref": "bereshit/24/9"
+  },
+  {
+   "forma": "נשבעת",
+   "forma_he": "נִשְׁבַּ֣עְתָּ",
+   "n": 8,
+   "ref": "shemot/32/13"
+  },
+  {
+   "forma": "נשבעו",
+   "forma_he": "נִשְׁבְּע֖וּ",
+   "n": 7,
+   "ref": "bereshit/21/31"
+  }
+ ],
+ "morph": [
+  "HVNp3ms",
+  "HVNp1cs",
+  "HC/VNw3ms",
+  "HVNp2ms",
+  "HVNp3cp"
+ ],
+ "glosa_es": "jurar"
+}

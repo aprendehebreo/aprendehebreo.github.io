@@ -1,0 +1,45 @@
+{
+ "strong": "H3119",
+ "he": "יומם",
+ "xlit": "yôwmâm",
+ "pron": "yo-mawm'",
+ "def_en": [
+  "adv",
+  "1) by day, in the daytime",
+  "subst",
+  "2) daytime"
+ ],
+ "kjv": "daily, (by, in the) day(-time).",
+ "expl": "daily",
+ "etim": "from ;",
+ "raices": [
+  "H3117"
+ ],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "יומם",
+   "forma_he": "יוֹמָ֜ם",
+   "n": 47,
+   "ref": "shemot/13/21"
+  },
+  {
+   "forma": "ויומם",
+   "forma_he": "וְיוֹמָ֔ם",
+   "n": 3,
+   "ref": "devarim/28/66"
+  },
+  {
+   "forma": "ביומם",
+   "forma_he": "בְּיוֹמָם֙",
+   "n": 1,
+   "ref": "nechemia/9/19"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HC/D",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

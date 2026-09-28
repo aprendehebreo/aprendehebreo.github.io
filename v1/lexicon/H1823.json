@@ -1,0 +1,59 @@
+{
+ "strong": "H1823",
+ "he": "דמות",
+ "xlit": "dᵉmûwth",
+ "pron": "dem-ooth'",
+ "def_en": [
+  "n f",
+  "1) likeness, similitude",
+  "adv",
+  "2) in the likeness of, like as"
+ ],
+ "kjv": "fashion, like (-ness, as), manner, similitude.",
+ "expl": "resemblance; concretely, model, shape; adverbially, like",
+ "etim": "from ;",
+ "raices": [
+  "H1819"
+ ],
+ "ocurrencias": 25,
+ "formas": [
+  {
+   "forma": "דמות",
+   "forma_he": "דְּמ֧וּת",
+   "n": 13,
+   "ref": "mlakhim_b/16/10"
+  },
+  {
+   "forma": "ודמות",
+   "forma_he": "וּדְמ֣וּת",
+   "n": 7,
+   "ref": "yechezkel/1/10"
+  },
+  {
+   "forma": "כדמות",
+   "forma_he": "כִּדְמ֥וּת",
+   "n": 2,
+   "ref": "tehilim/58/5"
+  },
+  {
+   "forma": "כדמותנו",
+   "forma_he": "כִּדְמוּתֵ֑נוּ",
+   "n": 1,
+   "ref": "bereshit/1/26"
+  },
+  {
+   "forma": "בדמות",
+   "forma_he": "בִּדְמ֥וּת",
+   "n": 1,
+   "ref": "bereshit/5/1"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HC/Ncfsc",
+  "HNcfsa",
+  "HR/Ncfsc",
+  "HC/Ncfsa"
+ ],
+ "glosa_es": ""
+}

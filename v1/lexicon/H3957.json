@@ -1,0 +1,56 @@
+{
+ "strong": "H3957",
+ "he": "לשכה",
+ "xlit": "lishkâh",
+ "pron": "lish-kaw'",
+ "def_en": [
+  "1) room, chamber, hall, cell"
+ ],
+ "kjv": "chamber, parlour. Compare .",
+ "expl": "a room in a building (whether for storage, eating, or lodging)",
+ "etim": "from an unused root of uncertain meaning;",
+ "raices": [
+  "H5393"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "הלשכות",
+   "forma_he": "הַלְּשָׁכ֑וֹת",
+   "n": 17,
+   "ref": "yirmiyahu/35/2"
+  },
+  {
+   "forma": "לשכות",
+   "forma_he": "לְשָׁכוֹת֙",
+   "n": 10,
+   "ref": "yechezkel/40/17"
+  },
+  {
+   "forma": "לשכת",
+   "forma_he": "לִשְׁכַּת֙",
+   "n": 6,
+   "ref": "mlakhim_b/23/11"
+  },
+  {
+   "forma": "בלשכת",
+   "forma_he": "בְּלִשְׁכַּ֡ת",
+   "n": 5,
+   "ref": "yirmiyahu/36/10"
+  },
+  {
+   "forma": "הלשכה",
+   "forma_he": "הַלִּשְׁכָּ֗ה",
+   "n": 3,
+   "ref": "yechezkel/40/45"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfpa",
+  "HNcfpa",
+  "HNcfsc",
+  "HR/Ncfsc",
+  "HNcfpc"
+ ],
+ "glosa_es": ""
+}

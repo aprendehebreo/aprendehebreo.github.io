@@ -1,0 +1,80 @@
+{
+ "strong": "H6031",
+ "he": "ענה",
+ "xlit": "ʻânâh",
+ "pron": "aw-naw'",
+ "def_en": [
+  "1) (Qal) to be occupied, be busied with",
+  "2) to afflict, oppress, humble, be afflicted, be bowed down",
+  "2a) (Qal)",
+  "2a1) to be put down, become low",
+  "2a2) to be depressed, be downcast",
+  "2a3) to be afflicted",
+  "2a4) to stoop",
+  "2b) (Niphal)",
+  "2b1) to humble oneself, bow down",
+  "2b2) to be afflicted, be humbled",
+  "2c) (Piel)",
+  "2c1) to humble, mishandle, afflict",
+  "2c2) to humble, be humiliated",
+  "2c3) to afflict",
+  "2d4) to humble, weaken oneself",
+  "2d) (Pual)",
+  "2d1) to be afflicted",
+  "2d2) to be humbled",
+  "2e) (Hiphil) to afflict",
+  "2f) (Hithpael)",
+  "2f1) to humble oneself",
+  "2f2) to be afflicted"
+ ],
+ "kjv": "abase self, afflict(-ion, self), answer (by mistake for ), chasten self, deal hardly with, defile, exercise, force, gentleness, humble (self), hurt, ravish, sing (by mistake for ), speak (by mistake for ), submit self, weaken, [idiom] in any wise.",
+ "expl": "to depress literally or figuratively, transitive or intransitive (in various applications, as follows)",
+ "etim": "a primitive root (possibly rather identical with through the idea of looking down or browbeating);",
+ "raices": [
+  "H6030",
+  "H6030",
+  "H6030",
+  "H6030"
+ ],
+ "ocurrencias": 83,
+ "formas": [
+  {
+   "forma": "ענה",
+   "forma_he": "עֲנָ֔ה",
+   "n": 7,
+   "ref": "bereshit/36/2"
+  },
+  {
+   "forma": "וענו",
+   "forma_he": "וְעִנּ֣וּ",
+   "n": 4,
+   "ref": "bereshit/15/13"
+  },
+  {
+   "forma": "ועניתם",
+   "forma_he": "וְעִנִּיתֶ֖ם",
+   "n": 4,
+   "ref": "vayikra/16/31"
+  },
+  {
+   "forma": "ענו",
+   "forma_he": "ענו",
+   "n": 4,
+   "ref": "bamidbar/12/3"
+  },
+  {
+   "forma": "תענה",
+   "forma_he": "תְּעַנֶּ֣ה",
+   "n": 3,
+   "ref": "bereshit/31/50"
+  }
+ ],
+ "morph": [
+  "HVpp3ms",
+  "HC/Vpq2mp",
+  "HVpp3cp",
+  "HR/Vpc/Sp3ms",
+  "HVpi2ms"
+ ],
+ "glosa_es": ""
+}

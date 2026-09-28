@@ -1,0 +1,55 @@
+{
+ "strong": "H898",
+ "he": "בגד",
+ "xlit": "bâgad",
+ "pron": "baw-gad'",
+ "def_en": [
+  "1) to act treacherously, deceitfully, deal treacherously",
+  "1a) (Qal) to act or deal treacherously, faithlessly, deceitfully, offend"
+ ],
+ "kjv": "deal deceitfully (treacherously, unfaithfully), offend, transgress(-or), (depart), treacherous (dealer, -ly, man), unfaithful(-ly, man), [idiom] very.",
+ "expl": "to cover (with a garment); figuratively, to act covertly; by implication, to pillage",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "בגדו",
+   "forma_he": "בִּגְדוֹ֙",
+   "n": 9,
+   "ref": "bereshit/39/12"
+  },
+  {
+   "forma": "בגדים",
+   "forma_he": "בְּגָדִ֣ים",
+   "n": 6,
+   "ref": "vayikra/6/4"
+  },
+  {
+   "forma": "בוגד",
+   "forma_he": "בּוֹגֵד֙",
+   "n": 4,
+   "ref": "yeshayahu/21/2"
+  },
+  {
+   "forma": "בוגדים",
+   "forma_he": "בּוֹגְדִ֖ים",
+   "n": 3,
+   "ref": "yeshayahu/24/16"
+  },
+  {
+   "forma": "בגדה",
+   "forma_he": "בֹּֽגֵדָ֤ה",
+   "n": 3,
+   "ref": "yirmiyahu/3/8"
+  }
+ ],
+ "morph": [
+  "HVqrmpa",
+  "HVqp3cp",
+  "HVqrmsa",
+  "HC/Vqw3mp",
+  "HVqp2mp"
+ ],
+ "glosa_es": ""
+}

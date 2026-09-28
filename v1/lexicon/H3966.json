@@ -1,0 +1,66 @@
+{
+ "strong": "H3966",
+ "he": "מאד",
+ "xlit": "mᵉʼôd",
+ "pron": "meh-ode'",
+ "def_en": [
+  "adv",
+  "1) exceedingly, much",
+  "subst",
+  "2) might, force, abundance",
+  "n m",
+  "3) muchness, force, abundance, exceedingly",
+  "3a) force, might",
+  "3b) exceedingly, greatly, very (idioms showing magnitude or degree)",
+  "3b1) exceedingly",
+  "3b2) up to abundance, to a great degree, exceedingly",
+  "3b3) with muchness, muchness"
+ ],
+ "kjv": "diligently, especially, exceeding(-ly), far, fast, good, great(-ly), [idiom] louder and louder, might(-ily, -y), (so) much, quickly, (so) sore, utterly, very ([phrase] much, sore), well.",
+ "expl": "properly, vehemence, i.e. (with or without preposition) vehemently; by implication, wholly, speedily, etc. (often with other words as an intensive or superlative; especially when repeated)",
+ "etim": "from the same as ;",
+ "raices": [
+  "H181"
+ ],
+ "ocurrencias": 300,
+ "formas": [
+  {
+   "forma": "מאד",
+   "forma_he": "מְאֹ֑ד",
+   "n": 291,
+   "ref": "bereshit/1/31"
+  },
+  {
+   "forma": "במאד",
+   "forma_he": "בִּמְאֹ֥ד",
+   "n": 6,
+   "ref": "bereshit/17/2"
+  },
+  {
+   "forma": "מאדך",
+   "forma_he": "מְאֹדֶֽךָ",
+   "n": 1,
+   "ref": "devarim/6/5"
+  },
+  {
+   "forma": "מאדו",
+   "forma_he": "מְאֹד֔וֹ",
+   "n": 1,
+   "ref": "mlakhim_b/23/25"
+  },
+  {
+   "forma": "למאד",
+   "forma_he": "לִמְאֹֽד",
+   "n": 1,
+   "ref": "divrei_hayamim_b/16/14"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HR/D",
+  "HNcmsc/Sp2ms",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": "mucho; muy"
+}

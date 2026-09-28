@@ -1,0 +1,66 @@
+{
+ "strong": "H3129",
+ "he": "יונתן",
+ "xlit": "Yôwnâthân",
+ "pron": "yo-naw-thawn'",
+ "def_en": [
+  "Jonathan or Jehonathan = \"Jehovah has given\"",
+  "1) a son of king Saul and a friend of David",
+  "2) a son of the high priest Abiathar and the last descendant of Eli of whom we hear",
+  "3) one of David's mighty warriors",
+  "4) a Levite and father of Zechariah, a priest who blew the trumpet at the dedication of the wall",
+  "5) a son of Kareah and a brother of Johanan; a Judaite captain after the fall of Jerusalem",
+  "6) another Judaite",
+  "7) father of Ebed in the time of Ezra",
+  "8) son of Asahel in the time of Ezra",
+  "9) a priest of the family of Melicu in the time of Nehemiah",
+  "10) son of Joiada and his successor to the high priesthood in the time of Nehemiah"
+ ],
+ "kjv": "Jonathan.",
+ "expl": "Jonathan, the name of ten Israelites",
+ "etim": "a form of ;",
+ "raices": [
+  "H3083"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "יונתן",
+   "forma_he": "י֣וֹנָתָ֔ן",
+   "n": 32,
+   "ref": "shmuel_a/13/2"
+  },
+  {
+   "forma": "ויונתן",
+   "forma_he": "וְיוֹנָתָ֣ן",
+   "n": 7,
+   "ref": "shmuel_a/13/16"
+  },
+  {
+   "forma": "ויהונתן",
+   "forma_he": "וִ֠יהוֹנָתָן",
+   "n": 2,
+   "ref": "shoftim/18/30"
+  },
+  {
+   "forma": "וליונתן",
+   "forma_he": "וּלְיוֹנָתָ֖ן",
+   "n": 1,
+   "ref": "shmuel_a/13/22"
+  },
+  {
+   "forma": "ביונתן",
+   "forma_he": "בְּיוֹנָתָ֥ן",
+   "n": 1,
+   "ref": "shmuel_a/14/39"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HC/R/Np",
+  "HR/Np",
+  "HTi/Np"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H4481",
+ "he": "מן",
+ "xlit": "min",
+ "pron": "min",
+ "def_en": [
+  "1) from, out of, by, by reason of, at, more than",
+  "1a) from, out of (of place)",
+  "1b) from, by, as a result of, by reason of, at, according to, (of source)",
+  "1c) from (of time)",
+  "1d) beyond, more than (in comparisons)"
+ ],
+ "kjv": "according, after, [phrase] because, [phrase] before, by, for, from, [idiom] him, [idiom] more than, (out) of, part, since, [idiom] these, to, upon, [phrase] when.",
+ "expl": "{properly, a part of; hence (prepositionally), from or out of}",
+ "etim": "(Aramaic) corresponding to",
+ "raices": [
+  "H4480"
+ ],
+ "ocurrencias": 116,
+ "formas": [
+  {
+   "forma": "מן",
+   "forma_he": "מִן",
+   "n": 73,
+   "ref": "bereshit/2/6"
+  },
+  {
+   "forma": "ומן",
+   "forma_he": "וּמִן",
+   "n": 8,
+   "ref": "bereshit/6/20"
+  },
+  {
+   "forma": "ומני",
+   "forma_he": "וּמַנִּ֗י",
+   "n": 6,
+   "ref": "daniel/2/49"
+  },
+  {
+   "forma": "מנך",
+   "forma_he": "מִנָּ֔ךְ",
+   "n": 5,
+   "ref": "daniel/2/23"
+  },
+  {
+   "forma": "מנהון",
+   "forma_he": "מנהון",
+   "n": 5,
+   "ref": "daniel/2/33"
+  }
+ ],
+ "morph": [
+  "AR",
+  "AC/R",
+  "AR/Sp2ms",
+  "AR/Sp3mp",
+  "AC/R/Sp1cs"
+ ],
+ "glosa_es": ""
+}

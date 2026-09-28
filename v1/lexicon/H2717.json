@@ -1,0 +1,66 @@
+{
+ "strong": "H2717",
+ "he": "חרב",
+ "xlit": "chârab",
+ "pron": "khaw-rab'",
+ "def_en": [
+  "1) to be waste, lay waste, make desolate, be desolate, be in ruins",
+  "1a) (Qal) to be waste, be desolate",
+  "1b) (Niphal)",
+  "1b1) to be made desolate",
+  "1b2) desolate (participle)",
+  "1c) (Hiphil) to lay waste, make desolate",
+  "1d) (Hophal) to be laid waste",
+  "2) to be dry, be dried up",
+  "2a) (Qal) to be dried, be dried up",
+  "2b) (Pual) to be dried",
+  "2c) (Hiphil) to dry up",
+  "2d) (Hophal) to be dried up",
+  "3) to attack, smite down, slay, fight"
+ ],
+ "kjv": "decay, (be) desolate, destroy(-er), (be) dry (up), slay, [idiom] surely, (lay, lie, make) waste.",
+ "expl": "to parch (through drought) i.e. (by analogy,) to desolate, destroy, kill",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "חרבו",
+   "forma_he": "חָֽרְב֥וּ",
+   "n": 6,
+   "ref": "bereshit/8/13"
+  },
+  {
+   "forma": "יחרבו",
+   "forma_he": "יֶחֱרָֽבוּ",
+   "n": 3,
+   "ref": "yeshayahu/60/12"
+  },
+  {
+   "forma": "החריבו",
+   "forma_he": "הֶחֱרִ֜יבוּ",
+   "n": 2,
+   "ref": "mlakhim_b/19/17"
+  },
+  {
+   "forma": "ואחרב",
+   "forma_he": "וְאַחְרִב֙",
+   "n": 2,
+   "ref": "mlakhim_b/19/24"
+  },
+  {
+   "forma": "יחרב",
+   "forma_he": "יֶחֱרַ֥ב",
+   "n": 2,
+   "ref": "yeshayahu/19/5"
+  }
+ ],
+ "morph": [
+  "HVqi3mp",
+  "HVqp3cp",
+  "HVPp3cp",
+  "HVhp3cp",
+  "HC/Vhi1cs"
+ ],
+ "glosa_es": ""
+}

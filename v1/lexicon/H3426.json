@@ -1,0 +1,59 @@
+{
+ "strong": "H3426",
+ "he": "יש",
+ "xlit": "yêsh",
+ "pron": "yaysh",
+ "def_en": [
+  "1) being, existence, substance, there is or are",
+  "1a) substance",
+  "1b) existence",
+  "1c) there is or are"
+ ],
+ "kjv": "(there) are, (he, it, shall, there, there may, there shall, there should) be, thou do, had, hast, (which) hath, (I, shalt, that) have, (he, it, there) is, substance, it (there) was, (there) were, ye will, thou wilt, wouldest.",
+ "expl": "there is or are (or any other form of the verb to be, as may suit the connection)",
+ "etim": "perhaps from an unused root meaning to stand out, or exist; entity; used adverbially or as a copula for the substantive verb ();",
+ "raices": [
+  "H1961"
+ ],
+ "ocurrencias": 138,
+ "formas": [
+  {
+   "forma": "יש",
+   "forma_he": "יֵ֛שׁ",
+   "n": 90,
+   "ref": "bereshit/18/24"
+  },
+  {
+   "forma": "היש",
+   "forma_he": "הֲיֵ֧שׁ",
+   "n": 19,
+   "ref": "bereshit/24/23"
+  },
+  {
+   "forma": "ויש",
+   "forma_he": "וְיֶשׁ",
+   "n": 19,
+   "ref": "bereshit/47/6"
+  },
+  {
+   "forma": "ישנו",
+   "forma_he": "יֶשְׁנ֜וֹ",
+   "n": 4,
+   "ref": "devarim/29/14"
+  },
+  {
+   "forma": "ישך",
+   "forma_he": "יֶשְׁךָ",
+   "n": 3,
+   "ref": "bereshit/24/42"
+  }
+ ],
+ "morph": [
+  "HTm",
+  "HTi/Tm",
+  "HC/Tm",
+  "HTm/Sp3ms",
+  "HTm/Sp2ms"
+ ],
+ "glosa_es": ""
+}

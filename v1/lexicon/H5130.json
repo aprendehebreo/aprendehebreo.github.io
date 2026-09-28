@@ -1,0 +1,65 @@
+{
+ "strong": "H5130",
+ "he": "נוף",
+ "xlit": "nûwph",
+ "pron": "noof",
+ "def_en": [
+  "1) to move to and fro, wave, besprinkle",
+  "1a) (Qal) to besprinkle, sprinkle",
+  "1b) (Polel) to wave, brandish (in threat)",
+  "1c) (Hiphil) to swing, wield, wave",
+  "1c1) to wield",
+  "1c2) to wave or shake (the hand)",
+  "1c2a) to wave (hand)",
+  "1c2b) to shake or brandish against",
+  "1c2c) to swing to and fro",
+  "1c3) to wave (an offering), offer",
+  "1c4) to shed abroad",
+  "1d) (Hophal) to be waved"
+ ],
+ "kjv": "lift up, move, offer, perfume, send, shake, sift, strike, wave.",
+ "expl": "to quiver (i.e. vibrate up and down, or rock to and fro); used in a great variety of applications (including sprinkling, beckoning, rubbing, bastinadoing, sawing, waving, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "והניף",
+   "forma_he": "וְהֵנִ֥יף",
+   "n": 9,
+   "ref": "vayikra/14/12"
+  },
+  {
+   "forma": "והנפת",
+   "forma_he": "וְהֵנַפְתָּ֥",
+   "n": 4,
+   "ref": "shemot/29/24"
+  },
+  {
+   "forma": "הניף",
+   "forma_he": "הֵנִ֛יף",
+   "n": 3,
+   "ref": "shemot/35/22"
+  },
+  {
+   "forma": "תניף",
+   "forma_he": "תָנִ֔יף",
+   "n": 3,
+   "ref": "devarim/23/26"
+  },
+  {
+   "forma": "להניף",
+   "forma_he": "לְהָנִ֥יף",
+   "n": 2,
+   "ref": "vayikra/7/30"
+  }
+ ],
+ "morph": [
+  "HC/Vhq3ms",
+  "HC/Vhq2ms",
+  "HVhp3ms",
+  "HR/Vhc",
+  "HVhi2ms"
+ ],
+ "glosa_es": ""
+}

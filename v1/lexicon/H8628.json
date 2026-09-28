@@ -1,0 +1,61 @@
+{
+ "strong": "H8628",
+ "he": "תקע",
+ "xlit": "tâqaʻ",
+ "pron": "taw-kah'",
+ "def_en": [
+  "1) to blow, clap, strike, sound, thrust, give a blow, blast",
+  "1a) (Qal)",
+  "1a1) to thrust, drive (of weapon)",
+  "1a2) to give a blast, give a blow",
+  "1a3) to strike or clap hands",
+  "1b) (Niphal)",
+  "1b1) to be blown, blast (of horn)",
+  "1b2) to strike or pledge oneself"
+ ],
+ "kjv": "blow (a trumpet), cast, clap, fasten, pitch (tent), smite, sound, strike, [idiom] suretiship, thrust.",
+ "expl": "to clatter, i.e. slap (the hands together), clang (an instrument); by analogy, to drive (a nail or tent-pin, a dart, etc.); by implication, to become bondsman by handclasping)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 70,
+ "formas": [
+  {
+   "forma": "תקעו",
+   "forma_he": "תקעו",
+   "n": 15,
+   "ref": "yehoshua/6/9"
+  },
+  {
+   "forma": "ויתקעו",
+   "forma_he": "וַֽיִּתְקְע֖וּ",
+   "n": 6,
+   "ref": "yehoshua/6/20"
+  },
+  {
+   "forma": "ויתקע",
+   "forma_he": "וַיִּתְקַ֥ע",
+   "n": 6,
+   "ref": "shoftim/3/27"
+  },
+  {
+   "forma": "ותקעתם",
+   "forma_he": "וּתְקַעְתֶּ֖ם",
+   "n": 5,
+   "ref": "bamidbar/10/5"
+  },
+  {
+   "forma": "תקע",
+   "forma_he": "תָּקַ֤ע",
+   "n": 4,
+   "ref": "bereshit/31/25"
+  }
+ ],
+ "morph": [
+  "HVqv2mp",
+  "HVqp3cp",
+  "HC/Vqw3mp",
+  "HC/Vqw3ms",
+  "HC/Vqq2mp"
+ ],
+ "glosa_es": ""
+}

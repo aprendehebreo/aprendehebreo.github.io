@@ -1,0 +1,56 @@
+{
+ "strong": "H4310",
+ "he": "מי",
+ "xlit": "mîy",
+ "pron": "me",
+ "def_en": [
+  "1) who?, whose?, whom?, would that, whoever, whosoever"
+ ],
+ "kjv": "any (man), [idiom] he, [idiom] him, [phrase] O that! what, which, who(-m, -se, -soever), [phrase] would to God.",
+ "expl": "who? (occasionally, by a peculiar idiom, of things); also (indefinitely) whoever; often used in oblique construction with prefix or suffix",
+ "etim": "an interrogative pronoun of persons, as is of things,",
+ "raices": [
+  "H4100"
+ ],
+ "ocurrencias": 423,
+ "formas": [
+  {
+   "forma": "מי",
+   "forma_he": "מִ֚י",
+   "n": 333,
+   "ref": "bereshit/3/11"
+  },
+  {
+   "forma": "ומי",
+   "forma_he": "וּמֵ֣י",
+   "n": 65,
+   "ref": "bereshit/7/10"
+  },
+  {
+   "forma": "למי",
+   "forma_he": "לְמִי",
+   "n": 17,
+   "ref": "bereshit/32/18"
+  },
+  {
+   "forma": "ולמי",
+   "forma_he": "וּלְמִ֖י",
+   "n": 3,
+   "ref": "bereshit/32/18"
+  },
+  {
+   "forma": "ממי",
+   "forma_he": "מִמֵּ֣י",
+   "n": 3,
+   "ref": "bereshit/9/11"
+  }
+ ],
+ "morph": [
+  "HTi",
+  "HC/Ti",
+  "HR/Ti",
+  "HC/R/Ti",
+  "HR/Tr/R/Ti"
+ ],
+ "glosa_es": "quién"
+}

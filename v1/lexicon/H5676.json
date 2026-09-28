@@ -1,0 +1,58 @@
+{
+ "strong": "H5676",
+ "he": "עבר",
+ "xlit": "ʻêber",
+ "pron": "ay'-ber",
+ "def_en": [
+  "1) region beyond or across, side",
+  "1a) region across or beyond",
+  "1b) side, opposite side"
+ ],
+ "kjv": "[idiom] against, beyond, by, [idiom] from, over, passage, quarter, (other, this) side, straight.",
+ "expl": "properly, a region across; but used only adverbially (with or without a preposition) on the opposite side (especially of the Jordan; ususally meaning the east)",
+ "etim": "from ;",
+ "raices": [
+  "H5674"
+ ],
+ "ocurrencias": 92,
+ "formas": [
+  {
+   "forma": "בעבר",
+   "forma_he": "בַּעֲבֻ֛ר",
+   "n": 33,
+   "ref": "bereshit/27/10"
+  },
+  {
+   "forma": "מעבר",
+   "forma_he": "מַעֲבַ֥ר",
+   "n": 27,
+   "ref": "bereshit/32/23"
+  },
+  {
+   "forma": "עבר",
+   "forma_he": "עֵ֔בֶר",
+   "n": 17,
+   "ref": "bereshit/10/21"
+  },
+  {
+   "forma": "ומעבר",
+   "forma_he": "וּמֵעֵ֜בֶר",
+   "n": 3,
+   "ref": "yehoshua/20/8"
+  },
+  {
+   "forma": "לעבר",
+   "forma_he": "לַעֲבֹר֙",
+   "n": 3,
+   "ref": "bamidbar/22/18"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HR/Ncmsa",
+  "HNcmsc",
+  "HC/R/Ncmsa",
+  "HR/Td/Ncmsa"
+ ],
+ "glosa_es": ""
+}

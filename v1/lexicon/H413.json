@@ -1,0 +1,63 @@
+{
+ "strong": "H413",
+ "he": "אל",
+ "xlit": "ʼêl",
+ "pron": "ale",
+ "def_en": [
+  "1) to, toward, unto (of motion)",
+  "2) into (limit is actually entered)",
+  "2a) in among",
+  "3) toward (of direction, not necessarily physical motion)",
+  "4) against (motion or direction of a hostile character)",
+  "5) in addition to, to",
+  "6) concerning, in regard to, in reference to, on account of",
+  "7) according to (rule or standard)",
+  "8) at, by, against (of one's presence)",
+  "9) in between, in within, to within, unto (idea of motion to)"
+ ],
+ "kjv": "about, according to, after, against, among, as for, at, because(-fore, -side), both...and, by, concerning, for, from, [idiom] hath, in(-to), near, (out) of, over, through, to(-ward), under, unto, upon, whether, with(-in).",
+ "expl": "near, with or among; often in general, to",
+ "etim": "(but only used in the shortened constructive form ); a primitive particle; properly, denoting motion towards, but occasionally used of a quiescent position, i.e.",
+ "raices": [],
+ "ocurrencias": 5516,
+ "formas": [
+  {
+   "forma": "אל",
+   "forma_he": "אֶל",
+   "n": 3541,
+   "ref": "bereshit/1/9"
+  },
+  {
+   "forma": "אלי",
+   "forma_he": "אֵלַ֖י",
+   "n": 452,
+   "ref": "bereshit/4/10"
+  },
+  {
+   "forma": "אליו",
+   "forma_he": "אֵלָיו֙",
+   "n": 431,
+   "ref": "bereshit/8/9"
+  },
+  {
+   "forma": "ואל",
+   "forma_he": "וְאֶל",
+   "n": 335,
+   "ref": "bereshit/3/16"
+  },
+  {
+   "forma": "אליך",
+   "forma_he": "אֵלֶ֖יךָ",
+   "n": 253,
+   "ref": "bereshit/6/20"
+  }
+ ],
+ "morph": [
+  "HR",
+  "HR/Sp1cs",
+  "HR/Sp3ms",
+  "HC/R",
+  "HR/Sp3mp"
+ ],
+ "glosa_es": "hacia; a; para"
+}

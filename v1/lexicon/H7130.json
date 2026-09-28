@@ -1,0 +1,62 @@
+{
+ "strong": "H7130",
+ "he": "קרב",
+ "xlit": "qereb",
+ "pron": "keh'-reb",
+ "def_en": [
+  "1) midst, among, inner part, middle",
+  "1a) inward part",
+  "1a1) physical sense",
+  "1a2) as seat of thought and emotion",
+  "1a3) as faculty of thought and emotion",
+  "1b) in the midst, among, from among (of a number of persons)",
+  "1c) entrails (of sacrificial animals)"
+ ],
+ "kjv": "[idiom] among, [idiom] before, bowels, [idiom] unto charge, [phrase] eat (up), [idiom] heart, [idiom] him, [idiom] in, inward ([idiom] -ly, part, -s, thought), midst, [phrase] out of, purtenance, [idiom] therein, [idiom] through, [idiom] within self.",
+ "expl": "properly, the nearest part, i.e. the center, whether literal, figurative or adverbial (especially with preposition)",
+ "etim": "from ;",
+ "raices": [
+  "H7126"
+ ],
+ "ocurrencias": 227,
+ "formas": [
+  {
+   "forma": "בקרב",
+   "forma_he": "בְּקֶ֣רֶב",
+   "n": 51,
+   "ref": "bereshit/45/6"
+  },
+  {
+   "forma": "בקרבך",
+   "forma_he": "בְּקִרְבְּךָ֗",
+   "n": 26,
+   "ref": "shemot/33/3"
+  },
+  {
+   "forma": "בקרבו",
+   "forma_he": "בְּקִרְבּֽוֹ",
+   "n": 23,
+   "ref": "bereshit/24/3"
+  },
+  {
+   "forma": "מקרב",
+   "forma_he": "מִקֶּ֥רֶב",
+   "n": 20,
+   "ref": "shemot/31/14"
+  },
+  {
+   "forma": "מקרבך",
+   "forma_he": "מִקִּרְבֶּֽךָ",
+   "n": 16,
+   "ref": "shemot/23/25"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HR/Ncmsc/Sp2ms",
+  "HR/Ncmsc/Sp3ms",
+  "HR/Ncmsc/Sp3fs",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": "medio; interior; entre"
+}

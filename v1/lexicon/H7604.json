@@ -1,0 +1,64 @@
+{
+ "strong": "H7604",
+ "he": "שאר",
+ "xlit": "shâʼar",
+ "pron": "shaw-ar'",
+ "def_en": [
+  "1) to remain, be left over, be left behind",
+  "1a) (Qal) to remain",
+  "1b) (Niphal)",
+  "1b1) to be left over, be left alive, survive",
+  "1b1a) remainder, remnant (participle)",
+  "1b2) to be left behind",
+  "1c) (Hiphil)",
+  "1c1) to leave over, spare",
+  "1c2) to leave or keep over",
+  "1c3) to have left",
+  "1c4) to leave (as a gift)"
+ ],
+ "kjv": "leave, (be) left, let, remain, remnant, reserve, the rest.",
+ "expl": "properly, to swell up, i.e. be (causatively, make) redundant",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 133,
+ "formas": [
+  {
+   "forma": "השאיר",
+   "forma_he": "הִשְׁאִ֖יר",
+   "n": 22,
+   "ref": "shemot/10/12"
+  },
+  {
+   "forma": "הנשארים",
+   "forma_he": "הַנִּשְׁאָרִ֛ים",
+   "n": 21,
+   "ref": "devarim/7/20"
+  },
+  {
+   "forma": "נשאר",
+   "forma_he": "נִשְׁאָ֗ר",
+   "n": 20,
+   "ref": "bereshit/42/38"
+  },
+  {
+   "forma": "נשארו",
+   "forma_he": "נִשְׁאָֽרוּ",
+   "n": 9,
+   "ref": "yehoshua/11/22"
+  },
+  {
+   "forma": "הנשאר",
+   "forma_he": "הַנִּשְׁאָ֖ר",
+   "n": 7,
+   "ref": "bereshit/32/9"
+  }
+ ],
+ "morph": [
+  "HVhp3ms",
+  "HTd/VNrmpa",
+  "HVNp3ms",
+  "HVNp3cp",
+  "HTd/VNrmsa"
+ ],
+ "glosa_es": ""
+}

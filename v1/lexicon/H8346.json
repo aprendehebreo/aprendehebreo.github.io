@@ -1,0 +1,42 @@
+{
+ "strong": "H8346",
+ "he": "ששים",
+ "xlit": "shishshîym",
+ "pron": "shish-sheem'",
+ "def_en": [
+  "1) sixty, three score"
+ ],
+ "kjv": "sixty, three score.",
+ "expl": "sixty",
+ "etim": "multiple of ;",
+ "raices": [
+  "H8337"
+ ],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "ששים",
+   "forma_he": "שִׁשִּׁ֥ים",
+   "n": 32,
+   "ref": "bereshit/25/26"
+  },
+  {
+   "forma": "וששים",
+   "forma_he": "וְשִׁשִּׁ֣ים",
+   "n": 26,
+   "ref": "bereshit/5/15"
+  },
+  {
+   "forma": "ובששים",
+   "forma_he": "וּבְשִׁשִּׁ֥ים",
+   "n": 1,
+   "ref": "divrei_hayamim_b/12/3"
+  }
+ ],
+ "morph": [
+  "HAcbpa",
+  "HC/Acbpa",
+  "HC/R/Acbpa"
+ ],
+ "glosa_es": ""
+}

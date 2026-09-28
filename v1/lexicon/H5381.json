@@ -1,0 +1,58 @@
+{
+ "strong": "H5381",
+ "he": "נשג",
+ "xlit": "nâsag",
+ "pron": "naw-sag'",
+ "def_en": [
+  "1) to reach, overtake, take hold upon",
+  "1a) (Hiphil)",
+  "1a1) to overtake",
+  "1a2) to reach, attain to, cause to reach",
+  "1a3) to be able to secure, reach, have enough"
+ ],
+ "kjv": "ability, be able, attain (unto), (be able to, can) get, lay at, put, reach, remove, wax rich, [idiom] surely, (over-) take (hold of, on, upon).",
+ "expl": "to reach (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "תשיג",
+   "forma_he": "תַשִּׂ֨יג",
+   "n": 12,
+   "ref": "vayikra/5/11"
+  },
+  {
+   "forma": "ישיגו",
+   "forma_he": "יַשִּׂ֔יגוּ",
+   "n": 3,
+   "ref": "yeshayahu/35/10"
+  },
+  {
+   "forma": "וישג",
+   "forma_he": "וַיַּשֵּׂ֥ג",
+   "n": 2,
+   "ref": "bereshit/31/25"
+  },
+  {
+   "forma": "השיגו",
+   "forma_he": "הִשִּׂ֗יגוּ",
+   "n": 2,
+   "ref": "bereshit/47/9"
+  },
+  {
+   "forma": "וישיגו",
+   "forma_he": "וַיַּשִּׂ֤יגוּ",
+   "n": 2,
+   "ref": "shemot/14/9"
+  }
+ ],
+ "morph": [
+  "HVhi3fs",
+  "HC/Vhw3mp",
+  "HC/Vhq3cp/Sp2ms",
+  "HVhi3mp",
+  "HVhp3cp"
+ ],
+ "glosa_es": ""
+}

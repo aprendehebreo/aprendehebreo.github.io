@@ -1,0 +1,62 @@
+{
+ "strong": "H802",
+ "he": "אשה",
+ "xlit": "ʼishshâh",
+ "pron": "ish-shaw'",
+ "def_en": [
+  "1) woman, wife, female",
+  "1a) woman (opposite of man)",
+  "1b) wife (woman married to a man)",
+  "1c) female (of animals)",
+  "1d) each, every (pronoun)"
+ ],
+ "kjv": "(adulter) ess, each, every, female, [idiom] many, [phrase] none, one, [phrase] together, wife, woman. Often unexpressed in English.",
+ "expl": "a woman",
+ "etim": "feminine of or ; irregular plural, ;(used in the same wide sense as )",
+ "raices": [
+  "H376",
+  "H582",
+  "H582"
+ ],
+ "ocurrencias": 781,
+ "formas": [
+  {
+   "forma": "אשה",
+   "forma_he": "אִשָּׁ֔ה",
+   "n": 147,
+   "ref": "bereshit/2/23"
+  },
+  {
+   "forma": "האשה",
+   "forma_he": "הָ֣אִשָּׁ֔ה",
+   "n": 103,
+   "ref": "bereshit/3/1"
+  },
+  {
+   "forma": "אשת",
+   "forma_he": "אֵֽשֶׁת",
+   "n": 98,
+   "ref": "bereshit/11/29"
+  },
+  {
+   "forma": "אשתו",
+   "forma_he": "אִשְׁתּ֖וֹ",
+   "n": 66,
+   "ref": "bereshit/3/20"
+  },
+  {
+   "forma": "לאשה",
+   "forma_he": "לְאִשָּׁ֑ה",
+   "n": 58,
+   "ref": "bereshit/2/22"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HTd/Ncfsa",
+  "HNcfsc",
+  "HNcfsc/Sp3ms",
+  "HR/Ncfsa"
+ ],
+ "glosa_es": "mujer; esposa"
+}

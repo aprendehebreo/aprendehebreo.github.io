@@ -1,0 +1,71 @@
+{
+ "strong": "H5234",
+ "he": "נכר",
+ "xlit": "nâkar",
+ "pron": "naw-kar'",
+ "def_en": [
+  "1) to recognise, acknowledge, know, respect, discern, regard",
+  "1a) (Niphal) to be recognised",
+  "1b) (Piel) to regard",
+  "1c) (Hiphil)",
+  "1c1) to regard, observe, pay attention to, pay regard to, notice",
+  "1c2) to recognise (as formerly known), perceive",
+  "1c3) to be willing to recognise or acknowledge, acknowledge with honour",
+  "1c4) to be acquainted with",
+  "1c5) to distinguish, understand",
+  "1d) (Hithpael) to make oneself known",
+  "2) to act or treat as foreign or strange, disguise, misconstrue",
+  "2a) (Niphal) to disguise oneself",
+  "2b) (Piel)",
+  "2b1) to treat as foreign (profane)",
+  "2b2) to misconstrue",
+  "2c) (Hithpael)",
+  "2c1) to act as alien",
+  "2c2) to disguise oneself"
+ ],
+ "kjv": "acknowledge, [idiom] could, deliver, discern, dissemble, estrange, feign self to be another, know, take knowledge (notice), perceive, regard, (have) respect, behave (make) self strange(-ly).",
+ "expl": "properly, to scrutinize, i.e. look intently at; hence (with recognition implied), to acknowledge, be acquainted with, care for, respect, revere, or (with suspicion implied), to disregard, ignore, be strange toward, reject, resign, dissimulate (as if ignorant or disowning)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "הכר",
+   "forma_he": "הַֽכֶּר",
+   "n": 5,
+   "ref": "bereshit/31/32"
+  },
+  {
+   "forma": "יכיר",
+   "forma_he": "יַכִּ֗יר",
+   "n": 5,
+   "ref": "devarim/21/17"
+  },
+  {
+   "forma": "הכירו",
+   "forma_he": "הִכִּיר֔וֹ",
+   "n": 4,
+   "ref": "bereshit/27/23"
+  },
+  {
+   "forma": "ויכר",
+   "forma_he": "וַיַּכֵּ֣ר",
+   "n": 4,
+   "ref": "bereshit/38/26"
+  },
+  {
+   "forma": "יכירנו",
+   "forma_he": "יַכִּירָ֑נוּ",
+   "n": 3,
+   "ref": "yeshayahu/63/16"
+  }
+ ],
+ "morph": [
+  "HVhi3ms",
+  "HC/Vhw3ms",
+  "HVhv2ms",
+  "HVhp3cp",
+  "HVhp3cp/Sp3ms"
+ ],
+ "glosa_es": ""
+}

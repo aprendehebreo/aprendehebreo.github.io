@@ -1,0 +1,63 @@
+{
+ "strong": "H8210",
+ "he": "שפך",
+ "xlit": "shâphak",
+ "pron": "shaw-fak'",
+ "def_en": [
+  "1) to pour, pour out, spill",
+  "1a) (Qal)",
+  "1a1) to pour, pour out",
+  "1a2) to shed (blood)",
+  "1a3) to pour out (anger or heart) (fig)",
+  "1b) (Niphal) to be poured out, be shed",
+  "1c) (Pual) to be poured out, be shed",
+  "1d) (Hithpael)",
+  "1d1) to be poured out",
+  "1d2) to pour out oneself"
+ ],
+ "kjv": "cast (up), gush out, pour (out), shed(-der, out), slip.",
+ "expl": "to spill forth (blood, a libation, liquid metal; or even a solid, i.e. to mound up); also (figuratively) to expend (life, soul, complaint, money, etc.); intensively, to sprawl out",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 117,
+ "formas": [
+  {
+   "forma": "שפך",
+   "forma_he": "שֹׁפֵךְ֙",
+   "n": 18,
+   "ref": "bereshit/9/6"
+  },
+  {
+   "forma": "ישפך",
+   "forma_he": "יִשָּׁפֵ֑ךְ",
+   "n": 12,
+   "ref": "bereshit/9/6"
+  },
+  {
+   "forma": "לשפך",
+   "forma_he": "לִשְׁפֹּ֖ךְ",
+   "n": 8,
+   "ref": "yeshayahu/59/7"
+  },
+  {
+   "forma": "שפכו",
+   "forma_he": "שֹׁפְכֽוֹ",
+   "n": 7,
+   "ref": "bamidbar/35/33"
+  },
+  {
+   "forma": "שפכת",
+   "forma_he": "שָׁפַ֥כְתְּ",
+   "n": 6,
+   "ref": "yeshayahu/57/6"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HVqi3ms",
+  "HVqp3ms",
+  "HVqv2ms",
+  "HC/Vqq1cs"
+ ],
+ "glosa_es": ""
+}

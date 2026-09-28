@@ -1,0 +1,80 @@
+{
+ "strong": "H3045",
+ "he": "ידע",
+ "xlit": "yâdaʻ",
+ "pron": "yaw-dah'",
+ "def_en": [
+  "1) to know",
+  "1a) (Qal)",
+  "1a1) to know",
+  "1a1a) to know, learn to know",
+  "1a1b) to perceive",
+  "1a1c) to perceive and see, find out and discern",
+  "1a1d) to discriminate, distinguish",
+  "1a1e) to know by experience",
+  "1a1f) to recognise, admit, acknowledge, confess",
+  "1a1g) to consider",
+  "1a2) to know, be acquainted with",
+  "1a3) to know (a person carnally)",
+  "1a4) to know how, be skilful in",
+  "1a5) to have knowledge, be wise",
+  "1b) (Niphal)",
+  "1b1) to be made known, be or become known, be revealed",
+  "1b2) to make oneself known",
+  "1b3) to be perceived",
+  "1b4) to be instructed",
+  "1c) (Piel) to cause to know",
+  "1d) (Poal) to cause to know",
+  "1e) (Pual)",
+  "1e1) to be known",
+  "1e2) known, one known, acquaintance (participle)",
+  "1f) (Hiphil) to make known, declare",
+  "1g) (Hophal) to be made known",
+  "1h) (Hithpael) to make oneself known, reveal oneself"
+ ],
+ "kjv": "acknowledge, acquaintance(-ted with), advise, answer, appoint, assuredly, be aware, (un-) awares, can(-not), certainly, comprehend, consider, [idiom] could they, cunning, declare, be diligent, (can, cause to) discern, discover, endued with, familiar friend, famous, feel, can have, be (ig-) norant, instruct, kinsfolk, kinsman, (cause to let, make) know, (come to give, have, take) knowledge, have (knowledge), (be, make, make to be, make self) known, [phrase] be learned, [phrase] lie by man, mark, perceive, privy to, [idiom] prognosticator, regard, have respect, skilful, shew, can (man of) skill, be sure, of a surety, teach, (can) tell, understand, have (understanding), [idiom] will be, wist, wit, wot.",
+ "expl": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 953,
+ "formas": [
+  {
+   "forma": "ידע",
+   "forma_he": "יֹדֵ֣עַ",
+   "n": 109,
+   "ref": "bereshit/3/5"
+  },
+  {
+   "forma": "ידעתי",
+   "forma_he": "יָדַ֔עְתִּי",
+   "n": 90,
+   "ref": "bereshit/4/9"
+  },
+  {
+   "forma": "וידעו",
+   "forma_he": "וַיֵּ֣דְע֔וּ",
+   "n": 72,
+   "ref": "bereshit/3/7"
+  },
+  {
+   "forma": "ידעו",
+   "forma_he": "יָדְעוּ֙",
+   "n": 66,
+   "ref": "bereshit/19/8"
+  },
+  {
+   "forma": "ידעת",
+   "forma_he": "יָדַ֔עְתָּ",
+   "n": 63,
+   "ref": "bereshit/30/26"
+  }
+ ],
+ "morph": [
+  "HVqp1cs",
+  "HVqp3ms",
+  "HVqp2ms",
+  "HC/Vqq3cp",
+  "HVqp3cp"
+ ],
+ "glosa_es": "saber; conocer"
+}

@@ -1,0 +1,69 @@
+{
+ "strong": "H4390",
+ "he": "מלא",
+ "xlit": "mâlêʼ",
+ "pron": "maw-lay'",
+ "def_en": [
+  "1) to fill, be full",
+  "1a) (Qal)",
+  "1a1) to be full",
+  "1a1a) fulness, abundance (participle)",
+  "1a1b) to be full, be accomplished, be ended",
+  "1a2) to consecrate, fill the hand",
+  "1b) (Niphal)",
+  "1b1) to be filled, be armed, be satisfied",
+  "1b2) to be accomplished, be ended",
+  "1c) (Piel)",
+  "1c1) to fill",
+  "1c2) to satisfy",
+  "1c3) to fulfil, accomplish, complete",
+  "1c4) to confirm",
+  "1d) (Pual) to be filled",
+  "1e) (Hithpael) to mass themselves against"
+ ],
+ "kjv": "accomplish, confirm, [phrase] consecrate, be at an end, be expired, be fenced, fill, fulfil, (be, become, [idiom] draw, give in, go) full(-ly, -ly set, tale), (over-) flow, fulness, furnish, gather (selves, together), presume, replenish, satisfy, set, space, take a (hand-) full, [phrase] have wholly.",
+ "expl": "to fill or (intransitively) be full of, in a wide application (literally and figuratively)",
+ "etim": "or ; (Esther 7:5), a primitive root;",
+ "raices": [],
+ "ocurrencias": 250,
+ "formas": [
+  {
+   "forma": "מלא",
+   "forma_he": "מָלֵ֜א",
+   "n": 45,
+   "ref": "bereshit/23/9"
+  },
+  {
+   "forma": "מלאו",
+   "forma_he": "מָלְא֖וּ",
+   "n": 28,
+   "ref": "bereshit/29/21"
+  },
+  {
+   "forma": "מלאה",
+   "forma_he": "מָלְאָ֥ה",
+   "n": 18,
+   "ref": "bereshit/6/13"
+  },
+  {
+   "forma": "וימלא",
+   "forma_he": "וַיְמַלֵּ֖א",
+   "n": 18,
+   "ref": "bereshit/29/28"
+  },
+  {
+   "forma": "ומלאו",
+   "forma_he": "וּמִלְא֤וּ",
+   "n": 14,
+   "ref": "bereshit/1/22"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HVqp3ms",
+  "HVqp3fs",
+  "HVpp3ms",
+  "HR/Vpc"
+ ],
+ "glosa_es": "llenar; cumplir"
+}

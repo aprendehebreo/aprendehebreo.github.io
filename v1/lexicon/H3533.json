@@ -1,0 +1,61 @@
+{
+ "strong": "H3533",
+ "he": "כבש",
+ "xlit": "kâbash",
+ "pron": "kaw-bash'",
+ "def_en": [
+  "1) to subject, subdue, force, keep under, bring into bondage",
+  "1a) (Qal)",
+  "1a1) to bring into bondage, make subservient",
+  "1a2) to subdue, force, violate",
+  "1a3) to subdue, dominate, tread down",
+  "1b) (Niphal) to be subdued",
+  "1c) (Piel) to subdue",
+  "1d) (Hiphil) to bring into bondage"
+ ],
+ "kjv": "bring into bondage, force, keep under, subdue, bring into subjection.",
+ "expl": "to tread down; hence, negatively, to disregard; positively, to conquer, subjugate, violate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 15,
+ "formas": [
+  {
+   "forma": "ונכבשה",
+   "forma_he": "וְנִכְבְּשָׁ֨ה",
+   "n": 3,
+   "ref": "bamidbar/32/22"
+  },
+  {
+   "forma": "וכבשה",
+   "forma_he": "וְכִבְשֻׁ֑הָ",
+   "n": 1,
+   "ref": "bereshit/1/28"
+  },
+  {
+   "forma": "נכבשה",
+   "forma_he": "נִכְבְּשָׁ֖ה",
+   "n": 1,
+   "ref": "yehoshua/18/1"
+  },
+  {
+   "forma": "כבש",
+   "forma_he": "כֶּ֛בֶשׂ",
+   "n": 1,
+   "ref": "vayikra/4/32"
+  },
+  {
+   "forma": "ויכבישום",
+   "forma_he": "ויכבישום",
+   "n": 1,
+   "ref": "yirmiyahu/34/11"
+  }
+ ],
+ "morph": [
+  "HC/VNq3fs",
+  "HR/Vqc",
+  "HC/Vqv2mp/Sp3fs",
+  "HVNp3fs",
+  "HVpp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H2583",
+ "he": "חנה",
+ "xlit": "chânâh",
+ "pron": "khaw-naw'",
+ "def_en": [
+  "1) to decline, incline, encamp, bend down, lay siege against",
+  "1a) (Qal)",
+  "1a1) to decline",
+  "1a2) to encamp"
+ ],
+ "kjv": "abide (in tents), camp, dwell, encamp, grow to an end, lie, pitch (tent), rest in tent.",
+ "expl": "properly, to incline; by implication, to decline (of the slanting rays of evening); specifically, to pitch atent; gen. to encamp (for abode or siege)",
+ "etim": "a primitive root (compare );",
+ "raices": [
+  "H2603"
+ ],
+ "ocurrencias": 143,
+ "formas": [
+  {
+   "forma": "ויחנו",
+   "forma_he": "וַיַּחֲנ֣וּ",
+   "n": 81,
+   "ref": "shemot/13/20"
+  },
+  {
+   "forma": "יחנו",
+   "forma_he": "יַחֲנֽוּ",
+   "n": 14,
+   "ref": "bamidbar/1/50"
+  },
+  {
+   "forma": "ויחן",
+   "forma_he": "וַיִּ֥חַן",
+   "n": 10,
+   "ref": "bereshit/26/17"
+  },
+  {
+   "forma": "חנה",
+   "forma_he": "חֹנֶ֥ה",
+   "n": 6,
+   "ref": "shemot/18/5"
+  },
+  {
+   "forma": "חנים",
+   "forma_he": "חֹנִ֣ים",
+   "n": 5,
+   "ref": "shemot/14/9"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3mp",
+  "HVqi3mp",
+  "HC/Vqw3ms",
+  "HVqrmpa",
+  "HC/Td/Vqrmpa"
+ ],
+ "glosa_es": ""
+}

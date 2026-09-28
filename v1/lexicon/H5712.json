@@ -1,0 +1,57 @@
+{
+ "strong": "H5712",
+ "he": "עדה",
+ "xlit": "ʻêdâh",
+ "pron": "ay-daw'",
+ "def_en": [
+  "1) congregation, gathering"
+ ],
+ "kjv": "assembly, company, congregation, multitude, people, swarm. Compare .",
+ "expl": "a stated assemblage (specifically, a concourse, or generally, a family or crowd)",
+ "etim": "feminine of in the original sense of fixture;",
+ "raices": [
+  "H5707",
+  "H5713"
+ ],
+ "ocurrencias": 149,
+ "formas": [
+  {
+   "forma": "העדה",
+   "forma_he": "הָֽעֵדָ֔ה",
+   "n": 78,
+   "ref": "shemot/16/22"
+  },
+  {
+   "forma": "עדת",
+   "forma_he": "עֲדַ֤ת",
+   "n": 42,
+   "ref": "shemot/12/3"
+  },
+  {
+   "forma": "בעדת",
+   "forma_he": "בַּעֲדַת",
+   "n": 6,
+   "ref": "bamidbar/26/9"
+  },
+  {
+   "forma": "לעדה",
+   "forma_he": "לְעֵדָ֔ה",
+   "n": 3,
+   "ref": "bereshit/21/30"
+  },
+  {
+   "forma": "עדתך",
+   "forma_he": "עֲדָ֣תְךָ֔",
+   "n": 3,
+   "ref": "bamidbar/16/11"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsc",
+  "HR/Ncfsc",
+  "HRd/Ncfsa",
+  "HNcfsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H2656",
+ "he": "חפץ",
+ "xlit": "chêphets",
+ "pron": "khay'-fets",
+ "def_en": [
+  "1) delight, pleasure",
+  "1a) delight",
+  "1b) desire, longing",
+  "1c) the good pleasure",
+  "1d) that in which one takes delight"
+ ],
+ "kjv": "acceptable, delight(-some), desire, things desired, matter, pleasant(-ure), purpose, willingly.",
+ "expl": "pleasure; hence (abstractly) desire; concretely, a valuable thing; hence (by extension) a matter (as something in mind)",
+ "etim": "from ;",
+ "raices": [
+  "H2654"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "חפץ",
+   "forma_he": "חָפֵ֖ץ",
+   "n": 15,
+   "ref": "bereshit/34/19"
+  },
+  {
+   "forma": "חפצו",
+   "forma_he": "חֶפְצֽוֹ",
+   "n": 5,
+   "ref": "mlakhim_a/5/24"
+  },
+  {
+   "forma": "חפצי",
+   "forma_he": "חֶפְצִ֔י",
+   "n": 4,
+   "ref": "mlakhim_a/5/23"
+  },
+  {
+   "forma": "החפץ",
+   "forma_he": "הַחֵ֤פֶץ",
+   "n": 3,
+   "ref": "shmuel_a/15/22"
+  },
+  {
+   "forma": "חפצך",
+   "forma_he": "חֶפְצְךָ֔",
+   "n": 2,
+   "ref": "mlakhim_a/5/22"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp1cs",
+  "HTi/Ncmsa",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

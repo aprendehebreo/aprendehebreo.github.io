@@ -1,0 +1,59 @@
+{
+ "strong": "H727",
+ "he": "ארון",
+ "xlit": "ʼârôwn",
+ "pron": "aw-rone'",
+ "def_en": [
+  "1) chest, ark",
+  "1a) money chest",
+  "1b) Ark of the Covenant",
+  "2)(TWOT) coffin"
+ ],
+ "kjv": "ark, chest, coffin.",
+ "expl": "a box",
+ "etim": "or ; from (in the sense of gathering);",
+ "raices": [
+  "H717"
+ ],
+ "ocurrencias": 202,
+ "formas": [
+  {
+   "forma": "ארון",
+   "forma_he": "אֲר֖וֹן",
+   "n": 123,
+   "ref": "shemot/25/10"
+  },
+  {
+   "forma": "הארון",
+   "forma_he": "הָאָר֥וֹן",
+   "n": 30,
+   "ref": "yehoshua/3/14"
+  },
+  {
+   "forma": "הארן",
+   "forma_he": "הָאָרֹ֑ן",
+   "n": 19,
+   "ref": "shemot/25/14"
+  },
+  {
+   "forma": "וארון",
+   "forma_he": "וַאֲר֨וֹן",
+   "n": 9,
+   "ref": "bamidbar/10/33"
+  },
+  {
+   "forma": "לארון",
+   "forma_he": "לָאָר֡וֹן",
+   "n": 9,
+   "ref": "yehoshua/8/33"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HTd/Ncbsa",
+  "HRd/Ncbsa",
+  "HC/Ncbsc",
+  "HR/Ncbsc"
+ ],
+ "glosa_es": "arca"
+}

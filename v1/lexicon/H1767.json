@@ -1,0 +1,56 @@
+{
+ "strong": "H1767",
+ "he": "די",
+ "xlit": "day",
+ "pron": "dahee",
+ "def_en": [
+  "1) sufficiency, enough",
+  "1a) enough",
+  "1b) for, according to the abundance of, out of the abundance of, as often as"
+ ],
+ "kjv": "able, according to, after (ability), among, as (oft as), (more than) enough, from, in, since, (much as is) sufficient(-ly), too much, very, when.",
+ "expl": "enough (as noun or adverb), used chiefly with preposition in phrases",
+ "etim": "of uncertain derivation;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "מדי",
+   "forma_he": "מִדֵּ֤י",
+   "n": 14,
+   "ref": "shemot/36/5"
+  },
+  {
+   "forma": "די",
+   "forma_he": "דֵּ֣י",
+   "n": 8,
+   "ref": "vayikra/5/7"
+  },
+  {
+   "forma": "בדי",
+   "forma_he": "בַדֵּ֖י",
+   "n": 6,
+   "ref": "shemot/25/13"
+  },
+  {
+   "forma": "כדי",
+   "forma_he": "כְּדֵ֥י",
+   "n": 4,
+   "ref": "vayikra/25/26"
+  },
+  {
+   "forma": "דים",
+   "forma_he": "דַיָּ֛ם",
+   "n": 3,
+   "ref": "shemot/36/7"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HNcmsc",
+  "HNcmsc/Sp3mp",
+  "HC/R/Ncmsc",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

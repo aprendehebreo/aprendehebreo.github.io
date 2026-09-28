@@ -1,0 +1,43 @@
+{
+ "strong": "H4069",
+ "he": "מדוע",
+ "xlit": "maddûwaʻ",
+ "pron": "mad-doo'-ah",
+ "def_en": [
+  "1) why?, on what account?, wherefore?"
+ ],
+ "kjv": "how, wherefore, why.",
+ "expl": "what (is) known?; i.e. (by implication) (adverbially) why?",
+ "etim": "or ; from and the passive participle of ;",
+ "raices": [
+  "H4100",
+  "H3045"
+ ],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "מדוע",
+   "forma_he": "מַדּ֖וּעַ",
+   "n": 61,
+   "ref": "bereshit/26/27"
+  },
+  {
+   "forma": "ומדוע",
+   "forma_he": "וּמַדּ֨וּעַ֙",
+   "n": 10,
+   "ref": "bamidbar/12/8"
+  },
+  {
+   "forma": "מדע",
+   "forma_he": "מַדֻּ֛עַ",
+   "n": 1,
+   "ref": "yechezkel/18/19"
+  }
+ ],
+ "morph": [
+  "HTi",
+  "HC/Ti",
+  "HC/D"
+ ],
+ "glosa_es": ""
+}

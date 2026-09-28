@@ -1,0 +1,58 @@
+{
+ "strong": "H6343",
+ "he": "פחד",
+ "xlit": "pachad",
+ "pron": "pakh'-ad",
+ "def_en": [
+  "1) terror, dread",
+  "1a) dread",
+  "1b) object of dread"
+ ],
+ "kjv": "dread(-ful), fear, (thing) great (fear, -ly feared), terror.",
+ "expl": "a (sudden) alarm (properly, the object feared, by implication, the feeling)",
+ "etim": "from ;",
+ "raices": [
+  "H6342"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "פחד",
+   "forma_he": "פַּֽחַד",
+   "n": 24,
+   "ref": "shmuel_a/11/7"
+  },
+  {
+   "forma": "מפחד",
+   "forma_he": "מִפַּ֤חַד",
+   "n": 7,
+   "ref": "devarim/28/67"
+  },
+  {
+   "forma": "ופחד",
+   "forma_he": "וּפַ֤חַד",
+   "n": 4,
+   "ref": "bereshit/31/42"
+  },
+  {
+   "forma": "פחדכם",
+   "forma_he": "פַּחְדְּכֶ֨ם",
+   "n": 3,
+   "ref": "devarim/11/25"
+  },
+  {
+   "forma": "הפחד",
+   "forma_he": "הַפַּ֨חַד֙",
+   "n": 2,
+   "ref": "yeshayahu/24/18"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HR/Ncmsa",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,64 @@
+{
+ "strong": "H4191",
+ "he": "מות",
+ "xlit": "mûwth",
+ "pron": "mooth",
+ "def_en": [
+  "1) to die, kill, have one executed",
+  "1a)(Qal)",
+  "1a1) to die",
+  "1a2) to die (as penalty), be put to death",
+  "1a3) to die, perish (of a nation)",
+  "1a4) to die prematurely (by neglect of wise moral conduct)",
+  "1b) (Polel) to kill, put to death, dispatch",
+  "1c) (Hiphil) to kill, put to death",
+  "1d) (Hophal)",
+  "1d1) to be killed, be put to death",
+  "1d1a) to die prematurely"
+ ],
+ "kjv": "[idiom] at all, [idiom] crying, (be) dead (body, man, one), (put to, worthy of) death, destroy(-er), (cause to, be like to, must) die, kill, necro(-mancer), [idiom] must needs, slay, [idiom] surely, [idiom] very suddenly, [idiom] in (no) wise.",
+ "expl": "to die (literally or figuratively); causatively, to kill",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 839,
+ "formas": [
+  {
+   "forma": "וימת",
+   "forma_he": "וַיָּמֹֽת",
+   "n": 134,
+   "ref": "bereshit/5/5"
+  },
+  {
+   "forma": "מת",
+   "forma_he": "מֵת֙",
+   "n": 70,
+   "ref": "bereshit/20/3"
+  },
+  {
+   "forma": "ימות",
+   "forma_he": "יָמ֥וּת",
+   "n": 67,
+   "ref": "bereshit/38/11"
+  },
+  {
+   "forma": "יומת",
+   "forma_he": "יוּמָֽת",
+   "n": 50,
+   "ref": "bereshit/26/11"
+  },
+  {
+   "forma": "מות",
+   "forma_he": "מ֥וֹת",
+   "n": 49,
+   "ref": "bereshit/2/17"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HVqa",
+  "HVHi3ms",
+  "HVqp3ms"
+ ],
+ "glosa_es": "morir"
+}

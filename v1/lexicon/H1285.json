@@ -1,0 +1,70 @@
+{
+ "strong": "H1285",
+ "he": "ברית",
+ "xlit": "bᵉrîyth",
+ "pron": "ber-eeth'",
+ "def_en": [
+  "1) covenant, alliance, pledge",
+  "1a) between men",
+  "1a1) treaty, alliance, league (man to man)",
+  "1a2) constitution, ordinance (monarch to subjects)",
+  "1a3) agreement, pledge (man to man)",
+  "1a4) alliance (of friendship)",
+  "1a5) alliance (of marriage)",
+  "1b) between God and man",
+  "1b1) alliance (of friendship)",
+  "1b2) covenant (divine ordinance with signs or pledges)",
+  "2) (phrases)",
+  "2a) covenant making",
+  "2b) covenant keeping",
+  "2c) covenant violation"
+ ],
+ "kjv": "confederacy, (con-) feder(-ate), covenant, league.",
+ "expl": "a compact (because made by passing between pieces of flesh)",
+ "etim": "from (in the sense of cutting (like ));",
+ "raices": [
+  "H1262",
+  "H1254"
+ ],
+ "ocurrencias": 284,
+ "formas": [
+  {
+   "forma": "ברית",
+   "forma_he": "בְּרִ֔ית",
+   "n": 131,
+   "ref": "bereshit/9/13"
+  },
+  {
+   "forma": "בריתי",
+   "forma_he": "בְּרִיתִ֖י",
+   "n": 47,
+   "ref": "bereshit/6/18"
+  },
+  {
+   "forma": "הברית",
+   "forma_he": "הַבְּרִית֙",
+   "n": 47,
+   "ref": "bereshit/9/12"
+  },
+  {
+   "forma": "בריתו",
+   "forma_he": "בְּרִית֔וֹ",
+   "n": 17,
+   "ref": "shemot/2/24"
+  },
+  {
+   "forma": "בריתך",
+   "forma_he": "בְרִֽיתְךָ֙",
+   "n": 10,
+   "ref": "shmuel_b/3/12"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsa",
+  "HNcfsc/Sp1cs",
+  "HTd/Ncfsa",
+  "HNcfsc/Sp3ms"
+ ],
+ "glosa_es": "pacto; alianza"
+}

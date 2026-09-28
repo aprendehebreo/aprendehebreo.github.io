@@ -1,0 +1,60 @@
+{
+ "strong": "H4116",
+ "he": "מהר",
+ "xlit": "mâhar",
+ "pron": "maw-har'",
+ "def_en": [
+  "1)(Qal) to hasten",
+  "1a) (Niphal) to be hurried, be anxious",
+  "1a) hasty, precipitate, impetuous",
+  "1b) (Piel)",
+  "1b1) to hasten, make haste",
+  "1b2) hasten (used as adverb with another verb)",
+  "1b3) to hasten, prepare quickly, do quickly, bring quickly"
+ ],
+ "kjv": "be carried headlong, fearful, (cause to make, in, make) haste(-n, -ily), (be) hasty, (fetch, make ready) [idiom] quickly, rash, [idiom] shortly, (be so) [idiom] soon, make speed, [idiom] speedily, [idiom] straightway, [idiom] suddenly, swift.",
+ "expl": "properly, to be liquid or flow easily, i.e. (by implication); to hurry (in a good or a bad sense); often used (with another verb) adverbially, promptly",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 64,
+ "formas": [
+  {
+   "forma": "וימהר",
+   "forma_he": "וַיְמַהֵ֧ר",
+   "n": 9,
+   "ref": "bereshit/18/6"
+  },
+  {
+   "forma": "ותמהר",
+   "forma_he": "וַתְּמַהֵ֗ר",
+   "n": 8,
+   "ref": "bereshit/24/18"
+  },
+  {
+   "forma": "וימהרו",
+   "forma_he": "וַֽיְמַהֲר֗וּ",
+   "n": 8,
+   "ref": "bereshit/44/11"
+  },
+  {
+   "forma": "מהרו",
+   "forma_he": "מַהֲרוּ֮",
+   "n": 8,
+   "ref": "bereshit/45/9"
+  },
+  {
+   "forma": "מהר",
+   "forma_he": "מַהֵר֙",
+   "n": 6,
+   "ref": "bereshit/19/22"
+  }
+ ],
+ "morph": [
+  "HC/Vpw3ms",
+  "HC/Vpw3fs",
+  "HC/Vpw3mp",
+  "HVpv2ms",
+  "HVpv2mp"
+ ],
+ "glosa_es": ""
+}

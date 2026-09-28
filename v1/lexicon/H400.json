@@ -1,0 +1,60 @@
+{
+ "strong": "H400",
+ "he": "אכל",
+ "xlit": "ʼôkel",
+ "pron": "o'-kel",
+ "def_en": [
+  "1) food",
+  "1a) cereal",
+  "1b) meat",
+  "2) food supply",
+  "3) meal, dinner"
+ ],
+ "kjv": "eating, food, meal(-time), meat, prey, victuals.",
+ "expl": "food",
+ "etim": "from ;",
+ "raices": [
+  "H398"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "אכל",
+   "forma_he": "אָכֹ֥ל",
+   "n": 27,
+   "ref": "bereshit/2/16"
+  },
+  {
+   "forma": "אכלם",
+   "forma_he": "אָכְלָ֖ם",
+   "n": 5,
+   "ref": "bereshit/14/11"
+  },
+  {
+   "forma": "אכלו",
+   "forma_he": "אָֽכְל֣וּ",
+   "n": 5,
+   "ref": "bereshit/14/24"
+  },
+  {
+   "forma": "האכל",
+   "forma_he": "הָאֹ֤כֶל",
+   "n": 3,
+   "ref": "bereshit/41/36"
+  },
+  {
+   "forma": "ולאכלכם",
+   "forma_he": "וּֽלְאָכְלְכֶ֛ם",
+   "n": 1,
+   "ref": "bereshit/47/24"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp3mp",
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

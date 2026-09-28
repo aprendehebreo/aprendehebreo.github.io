@@ -1,0 +1,50 @@
+{
+ "strong": "H74",
+ "he": "אבנר",
+ "xlit": "ʼAbnêr",
+ "pron": "ab-nare'",
+ "def_en": [
+  "Abner = \"my father is a lamp\"",
+  "1) Saul's cousin and army captain, treacherously slain by Joab"
+ ],
+ "kjv": "Abner.",
+ "expl": "Abner, an Israelite",
+ "etim": "or (fully) ; from and ; father of light (i.e. enlightening);",
+ "raices": [
+  "H1",
+  "H5216"
+ ],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "אבנר",
+   "forma_he": "אַבְנֵ֖ר",
+   "n": 50,
+   "ref": "shmuel_a/14/51"
+  },
+  {
+   "forma": "ואבנר",
+   "forma_he": "וְאַבְנֵ֥ר",
+   "n": 7,
+   "ref": "shmuel_a/26/5"
+  },
+  {
+   "forma": "לאבנר",
+   "forma_he": "לְאַבְנֵ֨ר",
+   "n": 5,
+   "ref": "shmuel_b/3/8"
+  },
+  {
+   "forma": "אבינר",
+   "forma_he": "אֲבִינֵ֔ר",
+   "n": 1,
+   "ref": "shmuel_a/14/50"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

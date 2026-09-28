@@ -1,0 +1,66 @@
+{
+ "strong": "H1980",
+ "he": "הלך",
+ "xlit": "hâlak",
+ "pron": "haw-lak'",
+ "def_en": [
+  "1) to go, walk, come",
+  "1a) (Qal)",
+  "1a1) to go, walk, come, depart, proceed, move, go away",
+  "1a2) to die, live, manner of life (fig.)",
+  "1b) (Piel)",
+  "1b1) to walk",
+  "1b2) to walk (fig.)",
+  "1c) (Hithpael)",
+  "1c1) to traverse",
+  "1c2) to walk about",
+  "1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+ ],
+ "kjv": "(all) along, apace, behave (self), come, (on) continually, be conversant, depart, [phrase] be eased, enter, exercise (self), [phrase] follow, forth, forward, get, go (about, abroad, along, away, forward, on, out, up and down), [phrase] greater, grow, be wont to haunt, lead, march, [idiom] more and more, move (self), needs, on, pass (away), be at the point, quite, run (along), [phrase] send, speedily, spread, still, surely, [phrase] tale-bearer, [phrase] travel(-ler), walk (abroad, on, to and fro, up and down, to places), wander, wax, (way-) faring man, [idiom] be weak, whirl.",
+ "expl": "to walk (in a great variety of applications, literally and figuratively)",
+ "etim": "akin to ; a primitive root;",
+ "raices": [
+  "H3212"
+ ],
+ "ocurrencias": 511,
+ "formas": [
+  {
+   "forma": "הלך",
+   "forma_he": "הֹלֵ֥ךְ",
+   "n": 117,
+   "ref": "bereshit/18/16"
+  },
+  {
+   "forma": "הלכו",
+   "forma_he": "הָלְכ֖וּ",
+   "n": 51,
+   "ref": "bereshit/14/24"
+  },
+  {
+   "forma": "הולך",
+   "forma_he": "הוֹלֵ֣ךְ",
+   "n": 41,
+   "ref": "bereshit/15/2"
+  },
+  {
+   "forma": "הלוך",
+   "forma_he": "הָל֣וֹךְ",
+   "n": 35,
+   "ref": "bereshit/8/3"
+  },
+  {
+   "forma": "הלכת",
+   "forma_he": "הָלַ֔כְתָּ",
+   "n": 18,
+   "ref": "bereshit/31/30"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HVqp3ms",
+  "HVqp3cp",
+  "HVqa",
+  "HTd/Vqrmpa"
+ ],
+ "glosa_es": "caminar; andar; ir"
+}

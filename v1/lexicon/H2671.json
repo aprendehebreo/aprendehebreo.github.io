@@ -1,0 +1,57 @@
+{
+ "strong": "H2671",
+ "he": "חץ",
+ "xlit": "chêts",
+ "pron": "khayts",
+ "def_en": [
+  "1) arrow"
+ ],
+ "kjv": "[phrase] archer, arrow, dart, shaft, staff, wound.",
+ "expl": "properly, a piercer, i.e. an arrow; by implication, a wound; figuratively, (of God) thunderbolt; the shaft of aspear",
+ "etim": "from ; also by interchange for",
+ "raices": [
+  "H2686",
+  "H6086"
+ ],
+ "ocurrencias": 45,
+ "formas": [
+  {
+   "forma": "חץ",
+   "forma_he": "חֵץ",
+   "n": 7,
+   "ref": "mlakhim_b/13/17"
+  },
+  {
+   "forma": "חצי",
+   "forma_he": "חֲצִ֣י",
+   "n": 6,
+   "ref": "shemot/24/6"
+  },
+  {
+   "forma": "חציו",
+   "forma_he": "חֶצְיֽוֹ",
+   "n": 5,
+   "ref": "shemot/38/4"
+  },
+  {
+   "forma": "חציך",
+   "forma_he": "חִצֶּ֨יךָ֙",
+   "n": 4,
+   "ref": "chavakuk/3/11"
+  },
+  {
+   "forma": "חצים",
+   "forma_he": "חִצִּֽים",
+   "n": 3,
+   "ref": "bereshit/49/23"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpc/Sp3ms",
+  "HNcmpc/Sp2ms",
+  "HNcmpa",
+  "HC/Ncmpa"
+ ],
+ "glosa_es": ""
+}

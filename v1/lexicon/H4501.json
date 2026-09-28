@@ -1,0 +1,57 @@
+{
+ "strong": "H4501",
+ "he": "מנורה",
+ "xlit": "mᵉnôwrâh",
+ "pron": "men-o-raw'",
+ "def_en": [
+  "1) lamp stand"
+ ],
+ "kjv": "candlestick.",
+ "expl": "a chandelier",
+ "etim": "or ; feminine of (in the original sense of );",
+ "raices": [
+  "H4500",
+  "H5216"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "המנרה",
+   "forma_he": "הַמְּנֹרָֽה",
+   "n": 14,
+   "ref": "shemot/25/33"
+  },
+  {
+   "forma": "המנורה",
+   "forma_he": "הַמְּנוֹרָה֙",
+   "n": 4,
+   "ref": "shemot/25/31"
+  },
+  {
+   "forma": "מנרה",
+   "forma_he": "מְנֹרָ֗ה",
+   "n": 4,
+   "ref": "shemot/25/32"
+  },
+  {
+   "forma": "מנרת",
+   "forma_he": "מְנֹרַ֖ת",
+   "n": 3,
+   "ref": "shemot/25/31"
+  },
+  {
+   "forma": "המנרות",
+   "forma_he": "הַ֠מְּנֹרוֹת",
+   "n": 3,
+   "ref": "mlakhim_a/7/49"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HNcfsc",
+  "HTd/Ncfpa",
+  "HC/Ncfsa"
+ ],
+ "glosa_es": ""
+}

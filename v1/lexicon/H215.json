@@ -1,0 +1,67 @@
+{
+ "strong": "H215",
+ "he": "אור",
+ "xlit": "ʼôwr",
+ "pron": "ore",
+ "def_en": [
+  "1) to be or become light, shine",
+  "1a) (Qal)",
+  "1a1) to become light (day)",
+  "1a2) to shine (of the sun)",
+  "1a3) to become bright",
+  "1b) (Niphal)",
+  "1b1) to be illuminated",
+  "1b2) to become lighted up",
+  "1c) (Hiphil)",
+  "1c1) to give light, shine (of sun, moon, and stars)",
+  "1c2) to illumine, light up, cause to shine, shine",
+  "1c3) to kindle, light (candle, wood)",
+  "1c4) lighten (of the eyes, his law, etc)",
+  "1c5) to make shine (of the face)"
+ ],
+ "kjv": "[idiom] break of day, glorious, kindle, (be, en-, give, show) light (-en, -ened), set on fire, shine.",
+ "expl": "to be (causative, make) luminous (literally and metaphorically)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "להאיר",
+   "forma_he": "לְהָאִ֖יר",
+   "n": 7,
+   "ref": "bereshit/1/15"
+  },
+  {
+   "forma": "יאיר",
+   "forma_he": "יָאִֽיר",
+   "n": 5,
+   "ref": "bamidbar/32/41"
+  },
+  {
+   "forma": "ויאר",
+   "forma_he": "וַיָּ֖אֶר",
+   "n": 3,
+   "ref": "shemot/14/20"
+  },
+  {
+   "forma": "האירה",
+   "forma_he": "הֵאִ֥ירָה",
+   "n": 3,
+   "ref": "yechezkel/43/2"
+  },
+  {
+   "forma": "והאר",
+   "forma_he": "וְהָאֵ֥ר",
+   "n": 3,
+   "ref": "tehilim/80/4"
+  }
+ ],
+ "morph": [
+  "HR/Vhc",
+  "HVhi3ms",
+  "HC/Vhv2ms",
+  "HC/Vhw3ms",
+  "HVhj3ms"
+ ],
+ "glosa_es": ""
+}

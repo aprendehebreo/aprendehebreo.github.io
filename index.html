@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aprende hebreo bíblico — curso para principiantes</title>
+<meta name="description" content="Curso gratis de hebreo bíblico para hispanohablantes: alef-bet, niqqud, las 100 palabras más frecuentes del Tanaj y lectura guiada, con audio y API JSON abierta.">
+<meta name="theme-color" content="#0b3b60">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#vista">Saltar al contenido</a>
+
+<header>
+  <div class="brand">
+    <a href="#/" class="logo">א</a>
+    <div>
+      <strong>Aprende hebreo bíblico</strong>
+      <small>de cero a leer el Tanaj · <span id="progreso-mini">—</span></small>
+    </div>
+  </div>
+  <nav aria-label="Secciones">
+    <a href="#/">Curso</a>
+    <a href="#/alefbet">Alef-bet</a>
+    <a href="#/niqqud">Niqqud</a>
+    <a href="#/vocab">Vocabulario</a>
+    <a href="#/repaso">Repaso <span id="pendientes" class="pill">0</span></a>
+    <a href="#/leer">Leer</a>
+    <a href="#/progreso">Progreso</a>
+  </nav>
+</header>
+
+<main id="vista" aria-live="polite"></main>
+
+<footer>
+  <p>Curso abierto. Hebreo: Westminster Leningrad Codex (morphhb) CC BY 4.0 ·
+     Léxico: Strong (dominio público) · Español: Reina-Valera 1909 (dominio público) ·
+     Letras y signos: Unicode Character Database ·
+     Audio: edge-tts (voces he-IL de Microsoft Edge).</p>
+  <p>API JSON: <a href="v1/index.json">v1/index.json</a> ·
+     <a href="api.html">documentación</a> ·
+     texto bíblico completo en <a href="https://avisonofgod.github.io/">el lector del Tanaj</a>.</p>
+  <p id="estado" aria-live="polite"></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

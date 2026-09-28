@@ -1,0 +1,57 @@
+{
+ "strong": "H5387",
+ "he": "נשיא",
+ "xlit": "nâsîyʼ",
+ "pron": "naw-see'",
+ "def_en": [
+  "1) one lifted up, chief, prince, captain, leader",
+  "2) rising mist, vapour"
+ ],
+ "kjv": "captain, chief, cloud, governor, prince, ruler, vapour.",
+ "expl": "properly, an exalted one, i.e. a king or sheik; also a rising mist",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5375"
+ ],
+ "ocurrencias": 134,
+ "formas": [
+  {
+   "forma": "נשיא",
+   "forma_he": "נְשִׂ֨יא",
+   "n": 40,
+   "ref": "bereshit/23/6"
+  },
+  {
+   "forma": "נשיאי",
+   "forma_he": "נְשִׂיאֵ֣י",
+   "n": 22,
+   "ref": "shemot/16/22"
+  },
+  {
+   "forma": "ונשיא",
+   "forma_he": "וְנָשִׂ֥יא",
+   "n": 20,
+   "ref": "shemot/22/27"
+  },
+  {
+   "forma": "הנשיא",
+   "forma_he": "הַנָּשִׂ֞יא",
+   "n": 11,
+   "ref": "yechezkel/12/10"
+  },
+  {
+   "forma": "לנשיא",
+   "forma_he": "לְנָשִׂ֨יא",
+   "n": 8,
+   "ref": "bamidbar/17/21"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpc",
+  "HC/Ncmsa",
+  "HTd/Ncmpa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H40",
+ "he": "אבימלך",
+ "xlit": "ʼĂbîymelek",
+ "pron": "ab-ee-mel'-ek",
+ "def_en": [
+  "Abimelech = \"Melek is father\" or \"my father is king\"",
+  "1) king of Gerar in Abraham's time",
+  "2) king of Gath in David's time; maybe title of Philistine kings",
+  "3) son of Gideon by a concubine",
+  "4) priest, son of Abiathar"
+ ],
+ "kjv": "Abimelech.",
+ "expl": "Abimelek, the name of two Philistine kings and of two Israelites",
+ "etim": "from and ; father of (the) king;",
+ "raices": [
+  "H1",
+  "H4428"
+ ],
+ "ocurrencias": 67,
+ "formas": [
+  {
+   "forma": "אבימלך",
+   "forma_he": "אֲבִימֶ֨לֶךְ֙",
+   "n": 53,
+   "ref": "bereshit/20/2"
+  },
+  {
+   "forma": "ואבימלך",
+   "forma_he": "וַאֲבִימֶ֕לֶךְ",
+   "n": 5,
+   "ref": "bereshit/20/4"
+  },
+  {
+   "forma": "לאבימלך",
+   "forma_he": "לַאֲבִימֶ֑לֶךְ",
+   "n": 5,
+   "ref": "bereshit/21/27"
+  },
+  {
+   "forma": "באבימלך",
+   "forma_he": "בַּאֲבִימֶ֔לֶךְ",
+   "n": 3,
+   "ref": "shoftim/9/19"
+  },
+  {
+   "forma": "מאבימלך",
+   "forma_he": "מֵאֲבִימֶ֔לֶךְ",
+   "n": 1,
+   "ref": "shoftim/9/20"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H1537",
+ "he": "גלגל",
+ "xlit": "Gilgâl",
+ "pron": "ghil-gawl'",
+ "def_en": [
+  "Gilgal = \"a wheel, rolling\"",
+  "1) the first site of an Israelite camp west of the Jordan, east of Jericho, here Samuel was judge, and Saul was made king; later used for illicit worship",
+  "2) dwelling place of prophets in northern Israel about four miles (7 km) from Shiloh and Bethel",
+  "3) a region conquered by Joshua, site unsure"
+ ],
+ "kjv": "Gilgal. See also .",
+ "expl": "Gilgal, the name of three places in Palestine",
+ "etim": "the same as (with the article as a properly, noun);",
+ "raices": [
+  "H1536",
+  "H1019"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "הגלגל",
+   "forma_he": "הַגִּלְגָּ֔ל",
+   "n": 21,
+   "ref": "devarim/11/30"
+  },
+  {
+   "forma": "בגלגל",
+   "forma_he": "בַּגִּלְגָּ֔ל",
+   "n": 10,
+   "ref": "yehoshua/4/19"
+  },
+  {
+   "forma": "הגלגלה",
+   "forma_he": "הַגִּלְגָּ֣לָה",
+   "n": 6,
+   "ref": "yehoshua/10/6"
+  },
+  {
+   "forma": "והגלגל",
+   "forma_he": "וְהַגִּלְגָּ֖ל",
+   "n": 2,
+   "ref": "shmuel_a/7/16"
+  },
+  {
+   "forma": "גלגל",
+   "forma_he": "גִּלְגָּ֔ל",
+   "n": 1,
+   "ref": "yehoshua/5/9"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HRd/Np",
+  "HTd/Np/Sd",
+  "HNp",
+  "HC/Td/Np"
+ ],
+ "glosa_es": ""
+}

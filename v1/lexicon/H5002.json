@@ -1,0 +1,44 @@
+{
+ "strong": "H5002",
+ "he": "נאם",
+ "xlit": "nᵉʼum",
+ "pron": "neh-oom'",
+ "def_en": [
+  "1) (Qal) utterance, declaration (of prophet)",
+  "1a) utterance, declaration, revelation (of prophet in ecstatic state)",
+  "1b) utterance, declaration (elsewhere always preceding divine name)"
+ ],
+ "kjv": "(hath) said, saith.",
+ "expl": "an oracle",
+ "etim": "from ;",
+ "raices": [
+  "H5001"
+ ],
+ "ocurrencias": 376,
+ "formas": [
+  {
+   "forma": "נאם",
+   "forma_he": "נְאֻם",
+   "n": 372,
+   "ref": "bereshit/22/16"
+  },
+  {
+   "forma": "ונאם",
+   "forma_he": "וּנְאֻ֥ם",
+   "n": 3,
+   "ref": "bamidbar/24/3"
+  },
+  {
+   "forma": "נאום",
+   "forma_he": "נְאֻום",
+   "n": 1,
+   "ref": "yirmiyahu/7/30"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HC/Ncmsc",
+  "HNcmsa"
+ ],
+ "glosa_es": "dicho; oráculo"
+}

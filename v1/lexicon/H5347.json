@@ -1,0 +1,51 @@
+{
+ "strong": "H5347",
+ "he": "נקבה",
+ "xlit": "nᵉqêbâh",
+ "pron": "nek-ay-baw'",
+ "def_en": [
+  "1) female",
+  "1a) woman, female child",
+  "1b) female animal"
+ ],
+ "kjv": "female.",
+ "expl": "female (from the sexual form)",
+ "etim": "from ;",
+ "raices": [
+  "H5344"
+ ],
+ "ocurrencias": 22,
+ "formas": [
+  {
+   "forma": "נקבה",
+   "forma_he": "נָקְבָ֧ה",
+   "n": 11,
+   "ref": "bereshit/30/28"
+  },
+  {
+   "forma": "ונקבה",
+   "forma_he": "וּנְקֵבָ֖ה",
+   "n": 6,
+   "ref": "bereshit/1/27"
+  },
+  {
+   "forma": "ולנקבה",
+   "forma_he": "וְלַנְּקֵבָ֑ה",
+   "n": 4,
+   "ref": "vayikra/15/33"
+  },
+  {
+   "forma": "לנקבה",
+   "forma_he": "לַנְּקֵבָֽה",
+   "n": 1,
+   "ref": "vayikra/12/7"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HC/Rd/Ncfsa",
+  "HRd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

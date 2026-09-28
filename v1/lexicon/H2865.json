@@ -1,0 +1,63 @@
+{
+ "strong": "H2865",
+ "he": "חתת",
+ "xlit": "châthath",
+ "pron": "khaw-thath'",
+ "def_en": [
+  "1) to be shattered, be dismayed, be broken, be abolished, be afraid",
+  "1a) (Qal)",
+  "1a1) to be shattered, be broken",
+  "1a2) to be dismayed",
+  "1b) (Niphal) to be broken, be dismayed",
+  "1c) (Piel) to be shattered, be dismayed, be scared",
+  "1d) (Hiphil)",
+  "1d1) to cause to be dismayed",
+  "1d2) to dismay, terrify",
+  "1d3) to shatter"
+ ],
+ "kjv": "abolish, affright, be (make) afraid, amaze, beat down, discourage, (cause to) dismay, go down, scare, terrify.",
+ "expl": "properly, to prostrate; hence, to break down, either (literally) by violence, or (figuratively) by confusion and fear",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "תחת",
+   "forma_he": "תַּ֣חַת",
+   "n": 12,
+   "ref": "bereshit/4/25"
+  },
+  {
+   "forma": "וחתו",
+   "forma_he": "וָחֹ֔תּוּ",
+   "n": 7,
+   "ref": "yeshayahu/8/9"
+  },
+  {
+   "forma": "תחתו",
+   "forma_he": "תֵּחָ֑תּוּ",
+   "n": 6,
+   "ref": "yehoshua/10/25"
+  },
+  {
+   "forma": "חתו",
+   "forma_he": "חַ֖תּוּ",
+   "n": 5,
+   "ref": "mlakhim_b/19/26"
+  },
+  {
+   "forma": "יחת",
+   "forma_he": "יֵחַ֥ת",
+   "n": 3,
+   "ref": "yeshayahu/7/8"
+  }
+ ],
+ "morph": [
+  "HVNj2ms",
+  "HVNj2mp",
+  "HVqp3cp",
+  "HC/Vqq3cp",
+  "HC/Vqv2mp"
+ ],
+ "glosa_es": ""
+}

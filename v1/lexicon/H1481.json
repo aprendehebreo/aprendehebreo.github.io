@@ -1,0 +1,69 @@
+{
+ "strong": "H1481",
+ "he": "גור",
+ "xlit": "gûwr",
+ "pron": "goor",
+ "def_en": [
+  "1) to sojourn, abide, dwell in, dwell with, remain, inhabit, be a stranger, be continuing, surely",
+  "1a) (Qal)",
+  "1a1) to sojourn, dwell for a time",
+  "1a2) to abide, stay, temporarily dwell",
+  "1b) (Hithpolel)",
+  "1b1) to seek hospitality with",
+  "1b2) to assemble oneself",
+  "2) to stir up trouble, strife, quarrel, gather together",
+  "2a) (Qal)",
+  "2a1) to stir up strife",
+  "2a2) to quarrel",
+  "2b) (Hithpolel) to excite oneself",
+  "3) to dread, fear, stand in awe, be afraid",
+  "3a) (Qal)",
+  "3a1) to fear, be afraid",
+  "3a2) to be in awe, stand in awe"
+ ],
+ "kjv": "abide, assemble, be afraid, dwell, fear, gather (together), inhabitant, remain, sojourn, stand in awe, (be) stranger, [idiom] surely.",
+ "expl": "properly, to turn aside from the road (for a lodging or any other purpose), i.e. sojourn (as a guest); also to shrink, fear (as in a strange place); also to gather forhostility (as afraid)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 98,
+ "formas": [
+  {
+   "forma": "לגור",
+   "forma_he": "לָג֣וּר",
+   "n": 18,
+   "ref": "bereshit/12/10"
+  },
+  {
+   "forma": "יגור",
+   "forma_he": "יָג֨וּר",
+   "n": 14,
+   "ref": "shemot/12/48"
+  },
+  {
+   "forma": "הגר",
+   "forma_he": "הָגָֽר",
+   "n": 14,
+   "ref": "bereshit/16/1"
+  },
+  {
+   "forma": "גר",
+   "forma_he": "גֵ֣ר",
+   "n": 10,
+   "ref": "bereshit/15/13"
+  },
+  {
+   "forma": "יגורו",
+   "forma_he": "יָג֤וּרוּ",
+   "n": 7,
+   "ref": "yeshayahu/16/4"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HVqi3ms",
+  "HTd/Vqrmsa",
+  "HVqrmsa",
+  "HVqi3mp"
+ ],
+ "glosa_es": ""
+}

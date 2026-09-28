@@ -1,0 +1,63 @@
+{
+ "strong": "H226",
+ "he": "אות",
+ "xlit": "ʼôwth",
+ "pron": "oth",
+ "def_en": [
+  "1) sign, signal",
+  "1a) a distinguishing mark",
+  "1b) banner",
+  "1c) remembrance",
+  "1d) miraculous sign",
+  "1e) omen",
+  "1f) warning",
+  "2) token, ensign, standard, miracle, proof"
+ ],
+ "kjv": "mark, miracle, (en-) sign, token.",
+ "expl": "a signal (literally or figuratively), as aflag, beacon, monument, omen, prodigy, evidence, etc.",
+ "etim": "probably from (in the sense of appearing);",
+ "raices": [
+  "H225"
+ ],
+ "ocurrencias": 79,
+ "formas": [
+  {
+   "forma": "אות",
+   "forma_he": "א֔וֹת",
+   "n": 17,
+   "ref": "bereshit/4/15"
+  },
+  {
+   "forma": "לאות",
+   "forma_he": "לְא֣וֹת",
+   "n": 14,
+   "ref": "bereshit/9/13"
+  },
+  {
+   "forma": "האות",
+   "forma_he": "הָא֔וֹת",
+   "n": 9,
+   "ref": "shemot/3/12"
+  },
+  {
+   "forma": "האתות",
+   "forma_he": "הָאֹת֜וֹת",
+   "n": 6,
+   "ref": "shemot/4/9"
+  },
+  {
+   "forma": "האתת",
+   "forma_he": "הָאֹתֹֽת",
+   "n": 4,
+   "ref": "shemot/4/17"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HTd/Ncbsa",
+  "HR/Ncbsa",
+  "HTd/Ncbpa",
+  "HR/Ncbpa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H1410",
+ "he": "גד",
+ "xlit": "Gâd",
+ "pron": "gawd",
+ "def_en": [
+  "Gad = \"troop\"",
+  "1) seventh son of Jacob by Zilpah, Leah's handmaid, and full brother of Asher.",
+  "2) the tribe descended from Gad",
+  "3) a prophet during the time of David; appears to have joined David when in the hold; reappears in connection with the punishment for taking a census; also assisted in the arrangements for the musical service of the \"house of God\""
+ ],
+ "kjv": "Gad.",
+ "expl": "Gad, a son of Jacob, including his tribe and its territory; also a prophet",
+ "etim": "from ;",
+ "raices": [
+  "H1464"
+ ],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "גד",
+   "forma_he": "גָ֑ד",
+   "n": 67,
+   "ref": "bereshit/30/11"
+  },
+  {
+   "forma": "וגד",
+   "forma_he": "וְגָ֡ד",
+   "n": 2,
+   "ref": "yehoshua/18/7"
+  },
+  {
+   "forma": "לגד",
+   "forma_he": "לְגָ֕ד",
+   "n": 1,
+   "ref": "bamidbar/1/14"
+  },
+  {
+   "forma": "ולגד",
+   "forma_he": "וּלְגָ֣ד",
+   "n": 1,
+   "ref": "devarim/33/20"
+  },
+  {
+   "forma": "הגד",
+   "forma_he": "הֻגֵּ֨ד",
+   "n": 1,
+   "ref": "yehoshua/9/24"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np",
+  "HTd/Np"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,69 @@
+{
+ "strong": "H1254",
+ "he": "ברא",
+ "xlit": "bârâʼ",
+ "pron": "baw-raw'",
+ "def_en": [
+  "1) to create, shape, form",
+  "1a) (Qal) to shape, fashion, create (always with God as subject)",
+  "1a1) of heaven and earth",
+  "1a2) of individual man",
+  "1a3) of new conditions and circumstances",
+  "1a4) of transformations",
+  "1b) (Niphal) to be created",
+  "1b1) of heaven and earth",
+  "1b2) of birth",
+  "1b3) of something new",
+  "1b4) of miracles",
+  "1c) (Piel)",
+  "1c1) to cut down",
+  "1c2) to cut out",
+  "2) to be fat",
+  "2a) (Hiphil) to make yourselves fat"
+ ],
+ "kjv": "choose, create (creator), cut down, dispatch, do, make (fat).",
+ "expl": "(absolutely) to create; (qualified) to cut down (a wood), select, feed (as formative processes)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "ברא",
+   "forma_he": "בָּרָ֣א",
+   "n": 11,
+   "ref": "bereshit/1/1"
+  },
+  {
+   "forma": "בורא",
+   "forma_he": "בּוֹרֵא֙",
+   "n": 8,
+   "ref": "yeshayahu/40/28"
+  },
+  {
+   "forma": "בראתי",
+   "forma_he": "בָּרָ֨אתִי֙",
+   "n": 4,
+   "ref": "bereshit/6/7"
+  },
+  {
+   "forma": "וברא",
+   "forma_he": "וּבָרָ֣א",
+   "n": 3,
+   "ref": "yeshayahu/4/5"
+  },
+  {
+   "forma": "ויברא",
+   "forma_he": "וַיִּבְרָ֣א",
+   "n": 2,
+   "ref": "bereshit/1/21"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqrmsa",
+  "HVqp1cs",
+  "HC/Vqrmsa",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H4519",
+ "he": "מנשה",
+ "xlit": "Mᵉnashsheh",
+ "pron": "men-ash-sheh'",
+ "def_en": [
+  "Manasseh = \"causing to forget\"",
+  "1) the eldest son of Joseph and progenitor of the tribe of Manasseh",
+  "1a) the tribe descended from Manasseh",
+  "1b) the territory occupied by the tribe of Manasseh",
+  "2) son of king Hezekiah of Judah and himself king of Judah; he was the immediate and direct cause for the exile",
+  "3) a descendant of Pahath-moab who put away a foreign wife in the time of Ezra",
+  "4) a descendant of Hashum who put away a foreign wife in the time of Ezra"
+ ],
+ "kjv": "Manasseh.",
+ "expl": "Menashsheh, a grandson of Jacob, also the tribe descended from him, and its territory",
+ "etim": "from ; causing to forget;",
+ "raices": [
+  "H5382"
+ ],
+ "ocurrencias": 146,
+ "formas": [
+  {
+   "forma": "מנשה",
+   "forma_he": "מְנַשֶּׁ֑ה",
+   "n": 113,
+   "ref": "bereshit/41/51"
+  },
+  {
+   "forma": "המנשה",
+   "forma_he": "הַֽמְנַשֶּׁ֑ה",
+   "n": 12,
+   "ref": "devarim/3/13"
+  },
+  {
+   "forma": "ומנשה",
+   "forma_he": "וּמְנַשֶּׁ֔ה",
+   "n": 11,
+   "ref": "bereshit/48/5"
+  },
+  {
+   "forma": "למנשה",
+   "forma_he": "לִמְנַשֶּׁ֕ה",
+   "n": 5,
+   "ref": "bamidbar/1/10"
+  },
+  {
+   "forma": "וכמנשה",
+   "forma_he": "וְכִמְנַשֶּׁ֑ה",
+   "n": 1,
+   "ref": "bereshit/48/20"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HTd/Np",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

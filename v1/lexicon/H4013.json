@@ -1,0 +1,56 @@
+{
+ "strong": "H4013",
+ "he": "מבצר",
+ "xlit": "mibtsâr",
+ "pron": "mib-tsawr'",
+ "def_en": [
+  "1) fortification, fortress, fortified city, stronghold"
+ ],
+ "kjv": "(de-, most) fenced, fortress, (most) strong (hold).",
+ "expl": "a fortification, castle, or fortified city; figuratively, a defender",
+ "etim": "also (in plural) feminine (Daniel 11:l5) ; from ;",
+ "raices": [
+  "H1219"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "מבצר",
+   "forma_he": "מִבְצָֽר",
+   "n": 16,
+   "ref": "bereshit/36/42"
+  },
+  {
+   "forma": "מבצריך",
+   "forma_he": "מִבְצָרֶ֗יךָ",
+   "n": 6,
+   "ref": "yirmiyahu/5/17"
+  },
+  {
+   "forma": "המבצר",
+   "forma_he": "הַמִּבְצָ֔ר",
+   "n": 5,
+   "ref": "bamidbar/32/17"
+  },
+  {
+   "forma": "מבצריו",
+   "forma_he": "מִבְצָרָ֣יו",
+   "n": 2,
+   "ref": "tehilim/89/41"
+  },
+  {
+   "forma": "במבצרים",
+   "forma_he": "בְּמִבְצָרִֽים",
+   "n": 1,
+   "ref": "bamidbar/13/19"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmpc/Sp2ms",
+  "HNcmpc/Sp2fs",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

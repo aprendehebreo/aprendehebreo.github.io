@@ -1,0 +1,66 @@
+{
+ "strong": "H8269",
+ "he": "שר",
+ "xlit": "sar",
+ "pron": "sar",
+ "def_en": [
+  "1) prince, ruler, leader, chief, chieftain, official, captain",
+  "1a) chieftain, leader",
+  "1b) vassal, noble, official (under king)",
+  "1c) captain, general, commander (military)",
+  "1d) chief, head, overseer (of other official classes)",
+  "1e) heads, princes (of religious office)",
+  "1f) elders (of representative leaders of people)",
+  "1g) merchant-princes (of rank and dignity)",
+  "1h) patron-angel",
+  "1i) Ruler of rulers (of God)",
+  "1j) warden"
+ ],
+ "kjv": "captain (that had rule), chief (captain), general, governor, keeper, lord,(-task-)master, prince(-ipal), ruler, steward.",
+ "expl": "a head person (of any rank or class)",
+ "etim": "from ;",
+ "raices": [
+  "H8323"
+ ],
+ "ocurrencias": 421,
+ "formas": [
+  {
+   "forma": "שרי",
+   "forma_he": "שָׂרָ֔י",
+   "n": 133,
+   "ref": "bereshit/11/29"
+  },
+  {
+   "forma": "שר",
+   "forma_he": "שַׂר",
+   "n": 85,
+   "ref": "bereshit/21/22"
+  },
+  {
+   "forma": "ושרי",
+   "forma_he": "וְשָׂרַי֙",
+   "n": 33,
+   "ref": "bereshit/16/1"
+  },
+  {
+   "forma": "השרים",
+   "forma_he": "הַשָּׂרִ֖ים",
+   "n": 33,
+   "ref": "shmuel_b/18/5"
+  },
+  {
+   "forma": "שרים",
+   "forma_he": "שָׂרִ֗ים",
+   "n": 21,
+   "ref": "bamidbar/21/18"
+  }
+ ],
+ "morph": [
+  "HNcmpc",
+  "HNcmsc",
+  "HTd/Ncmpa",
+  "HC/Ncmpc",
+  "HNcmpa"
+ ],
+ "glosa_es": "príncipe; jefe; oficial"
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H3068",
+ "he": "יהוה",
+ "xlit": "Yᵉhôvâh",
+ "pron": "yeh-ho-vaw'",
+ "def_en": [
+  "Jehovah = \"the existing One\"",
+  "1) the proper name of the one true God",
+  "1a) unpronounced except with the vowel pointings of H0136"
+ ],
+ "kjv": "Jehovah, the Lord. Compare , .",
+ "expl": "Jehovah, Jewish national name of God",
+ "etim": "from ; (the) self-Existent or Eternal;",
+ "raices": [
+  "H1961",
+  "H3050",
+  "H3069"
+ ],
+ "ocurrencias": 6521,
+ "formas": [
+  {
+   "forma": "יהוה",
+   "forma_he": "יְהוָ֥ה",
+   "n": 5701,
+   "ref": "bereshit/2/4"
+  },
+  {
+   "forma": "ליהוה",
+   "forma_he": "לַֽיהוָֽה",
+   "n": 577,
+   "ref": "bereshit/4/3"
+  },
+  {
+   "forma": "ביהוה",
+   "forma_he": "בַּֽיהוָ֑ה",
+   "n": 105,
+   "ref": "bereshit/15/6"
+  },
+  {
+   "forma": "ויהוה",
+   "forma_he": "וַֽיהוָ֞ה",
+   "n": 100,
+   "ref": "bereshit/13/14"
+  },
+  {
+   "forma": "מיהוה",
+   "forma_he": "מֵיְהוָ֖ה",
+   "n": 24,
+   "ref": "bereshit/18/14"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np",
+  "HTi/Np"
+ ],
+ "glosa_es": "YHVH; el Señor"
+}

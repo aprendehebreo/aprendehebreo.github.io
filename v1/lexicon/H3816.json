@@ -1,0 +1,54 @@
+{
+ "strong": "H3816",
+ "he": "לאם",
+ "xlit": "lᵉʼôm",
+ "pron": "leh-ome'",
+ "def_en": [
+  "1) a people, nation"
+ ],
+ "kjv": "nation, people.",
+ "expl": "a community",
+ "etim": "or ; from an unused root meaning to gather;",
+ "raices": [],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "לאמים",
+   "forma_he": "לְאֻמִּ֔ים",
+   "n": 17,
+   "ref": "bereshit/25/23"
+  },
+  {
+   "forma": "ולאמים",
+   "forma_he": "וּלְאֻמִּֽים",
+   "n": 8,
+   "ref": "bereshit/25/3"
+  },
+  {
+   "forma": "אמים",
+   "forma_he": "אֵמִֽים",
+   "n": 4,
+   "ref": "devarim/2/11"
+  },
+  {
+   "forma": "ולאם",
+   "forma_he": "וּלְאֹם֙",
+   "n": 1,
+   "ref": "bereshit/25/23"
+  },
+  {
+   "forma": "מלאם",
+   "forma_he": "מִלְאֹ֣ם",
+   "n": 1,
+   "ref": "bereshit/25/23"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HC/Ncmpa",
+  "HNcmsa",
+  "HC/Ncmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

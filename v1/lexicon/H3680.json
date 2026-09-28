@@ -1,0 +1,68 @@
+{
+ "strong": "H3680",
+ "he": "כסה",
+ "xlit": "kâçâh",
+ "pron": "kaw-saw'",
+ "def_en": [
+  "1) to cover, conceal, hide",
+  "1a) (Qal) conceal, covered (participle)",
+  "1b) (Niphal) to be covered",
+  "1c) (Piel)",
+  "1c1) to cover, clothe",
+  "1c2) to cover, conceal",
+  "1c3) to cover (for protection)",
+  "1c4) to cover over, spread over",
+  "1c5) to cover, overwhelm",
+  "1d) (Pual)",
+  "1d1) to be covered",
+  "1d2) to be clothed",
+  "1e) (Hithpael) to cover oneself, clothe oneself"
+ ],
+ "kjv": "clad self, close, clothe, conceal, cover (self), (flee to) hide, overwhelm. Compare .",
+ "expl": "properly, to plump, i.e. fill up hollows; by implication, to cover (for clothing or secrecy)",
+ "etim": "a primitive root;",
+ "raices": [
+  "H3780"
+ ],
+ "ocurrencias": 153,
+ "formas": [
+  {
+   "forma": "לכסות",
+   "forma_he": "לְכַסּ֖וֹת",
+   "n": 11,
+   "ref": "shemot/28/42"
+  },
+  {
+   "forma": "כסה",
+   "forma_he": "כִּסָּ֤ה",
+   "n": 11,
+   "ref": "bamidbar/9/15"
+  },
+  {
+   "forma": "יכסה",
+   "forma_he": "יְכַסֶּ֣ה",
+   "n": 10,
+   "ref": "yeshayahu/6/2"
+  },
+  {
+   "forma": "המכסה",
+   "forma_he": "הַֽמְכַסֶּ֤ה",
+   "n": 9,
+   "ref": "bereshit/18/17"
+  },
+  {
+   "forma": "ותכס",
+   "forma_he": "וַתְּכַ֤ס",
+   "n": 7,
+   "ref": "bereshit/38/14"
+  }
+ ],
+ "morph": [
+  "HR/Vpc",
+  "HVpp3ms",
+  "HVpi3ms",
+  "HTd/Vprmsa",
+  "HC/Vpw3fs"
+ ],
+ "glosa_es": "cubrir; tapar"
+}

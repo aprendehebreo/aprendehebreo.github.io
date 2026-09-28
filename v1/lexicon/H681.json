@@ -1,0 +1,62 @@
+{
+ "strong": "H681",
+ "he": "אצל",
+ "xlit": "ʼêtsel",
+ "pron": "ay'-tsel",
+ "def_en": [
+  "n m",
+  "1) beside, by, near, nearness, joining, proximity",
+  "subst",
+  "2) (BDB)",
+  "2a) conjunction, proximity",
+  "2b) beside, in proximity, contiguous to, from beside"
+ ],
+ "kjv": "at, (hard) by, (from) (beside), near (unto), toward, with. See also .",
+ "expl": "a side; (as a preposition) near",
+ "etim": "from (in the sense of joining);",
+ "raices": [
+  "H680",
+  "H1018"
+ ],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "אצל",
+   "forma_he": "אֵ֥צֶל",
+   "n": 39,
+   "ref": "bereshit/41/3"
+  },
+  {
+   "forma": "אצלו",
+   "forma_he": "אֶצְל֖וֹ",
+   "n": 5,
+   "ref": "yechezkel/39/15"
+  },
+  {
+   "forma": "אצלי",
+   "forma_he": "אֶצְלִ֔י",
+   "n": 4,
+   "ref": "bereshit/39/15"
+  },
+  {
+   "forma": "אצלה",
+   "forma_he": "אֶצְלָ֖הּ",
+   "n": 3,
+   "ref": "bereshit/39/10"
+  },
+  {
+   "forma": "אצלם",
+   "forma_he": "אֶצְלָ֑ם",
+   "n": 3,
+   "ref": "yechezkel/1/19"
+  }
+ ],
+ "morph": [
+  "HR",
+  "HR/Sp3ms",
+  "HR/Sp1cs",
+  "HR/Sp3fs",
+  "HR/Sp3mp"
+ ],
+ "glosa_es": ""
+}

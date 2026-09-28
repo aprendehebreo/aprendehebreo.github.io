@@ -1,0 +1,71 @@
+{
+ "strong": "H1875",
+ "he": "דרש",
+ "xlit": "dârash",
+ "pron": "daw-rash'",
+ "def_en": [
+  "1) to resort to, seek, seek with care, enquire, require",
+  "1a) (Qal)",
+  "1a1) to resort to, frequent (a place), (tread a place)",
+  "1a2) to consult, enquire of, seek",
+  "1a2a) of God",
+  "1a2b) of heathen gods, necromancers",
+  "1a3) to seek deity in prayer and worship",
+  "1a3a) God",
+  "1a3b) heathen deities",
+  "1a4) to seek (with a demand), demand, require",
+  "1a5) to investigate, enquire",
+  "1a6) to ask for, require, demand",
+  "1a7) to practice, study, follow, seek with application",
+  "1a8) to seek with care, care for",
+  "1b) (Niphal)",
+  "1b1) to allow oneself to be enquired of, consulted (only of God)",
+  "1b2) to be sought, be sought out",
+  "1b3) to be required (of blood)"
+ ],
+ "kjv": "ask, [idiom] at all, care for, [idiom] diligently, inquire, make inquisition, (necro-) mancer, question, require, search, seek (for, out), [idiom] surely.",
+ "expl": "properly, to tread or frequent; usually to follow (for pursuit or search); by implication, to seek or ask; specifically to worship",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 165,
+ "formas": [
+  {
+   "forma": "דרש",
+   "forma_he": "דָּרֹ֥שׁ",
+   "n": 19,
+   "ref": "vayikra/10/16"
+  },
+  {
+   "forma": "דרשו",
+   "forma_he": "דִרְשׁ֗וּ",
+   "n": 19,
+   "ref": "mlakhim_b/1/2"
+  },
+  {
+   "forma": "לדרש",
+   "forma_he": "לִדְרֹ֥שׁ",
+   "n": 17,
+   "ref": "bereshit/25/22"
+  },
+  {
+   "forma": "לדרוש",
+   "forma_he": "לִדְר֣וֹשׁ",
+   "n": 14,
+   "ref": "shmuel_a/9/9"
+  },
+  {
+   "forma": "אדרש",
+   "forma_he": "אֶדְרֹ֔שׁ",
+   "n": 10,
+   "ref": "bereshit/9/5"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HVqrmsa",
+  "HVqv2mp",
+  "HVqi1cs",
+  "HVqp3ms"
+ ],
+ "glosa_es": "buscar; consultar; inquirir"
+}

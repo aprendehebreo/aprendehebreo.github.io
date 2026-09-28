@@ -1,0 +1,70 @@
+{
+ "strong": "H310",
+ "he": "אחר",
+ "xlit": "ʼachar",
+ "pron": "akh-ar'",
+ "def_en": [
+  "1) after the following part, behind (of place), hinder, afterwards (of time)",
+  "1a) as an adverb",
+  "1a1) behind (of place)",
+  "1a2) afterwards (of time)",
+  "1b) as a preposition",
+  "1b1) behind, after (of place)",
+  "1b2) after (of time)",
+  "1b3) besides",
+  "1c) as a conjunction",
+  "1c) after that",
+  "1d) as a substantive",
+  "1d1) hinder part",
+  "1e) with other prepositions",
+  "1e1) from behind",
+  "1e2) from following after"
+ ],
+ "kjv": "after (that, -ward), again, at, away from, back (from, -side), behind, beside, by, follow (after, -ing), forasmuch, from, hereafter, hinder end, [phrase] out (over) live, [phrase] persecute, posterity, pursuing, remnant, seeing, since, thence(-forth), when, with.",
+ "expl": "properly, the hind part; generally used as an adverb or conjunction, after (in various senses)",
+ "etim": "from ;",
+ "raices": [
+  "H309"
+ ],
+ "ocurrencias": 718,
+ "formas": [
+  {
+   "forma": "אחרי",
+   "forma_he": "אַֽחֲרֵי֙",
+   "n": 299,
+   "ref": "bereshit/5/4"
+  },
+  {
+   "forma": "אחריו",
+   "forma_he": "אַחֲרָֽיו",
+   "n": 81,
+   "ref": "bereshit/17/19"
+  },
+  {
+   "forma": "אחר",
+   "forma_he": "אַחֵ֔ר",
+   "n": 51,
+   "ref": "bereshit/4/25"
+  },
+  {
+   "forma": "ואחרי",
+   "forma_he": "וְאַחֲרֵי",
+   "n": 47,
+   "ref": "bereshit/15/14"
+  },
+  {
+   "forma": "אחריהם",
+   "forma_he": "אַחֲרֵיהֶֽם",
+   "n": 47,
+   "ref": "bereshit/41/23"
+  }
+ ],
+ "morph": [
+  "HR",
+  "HR/Sp3ms",
+  "HC/R",
+  "HR/Sp3mp",
+  "HC/D"
+ ],
+ "glosa_es": "después de; detrás de"
+}

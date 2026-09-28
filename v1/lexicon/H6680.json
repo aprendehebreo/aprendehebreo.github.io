@@ -1,0 +1,64 @@
+{
+ "strong": "H6680",
+ "he": "צוה",
+ "xlit": "tsâvâh",
+ "pron": "tsaw-vaw'",
+ "def_en": [
+  "1) to command, charge, give orders, lay charge, give charge to, order",
+  "1a)(Piel)",
+  "1a1) to lay charge upon",
+  "1a2) to give charge to, give command to",
+  "1a3) to give charge unto",
+  "1a4) to give charge over, appoint",
+  "1a5) to give charge, command",
+  "1a6) to charge, command",
+  "1a7) to charge, commission",
+  "1a8) to command, appoint, ordain (of divine act)",
+  "1b) (Pual) to be commanded"
+ ],
+ "kjv": "appoint, (for-) bid, (give a) charge, (give a, give in, send with) command(-er, -ment), send a messenger, put, (set) in order.",
+ "expl": "(intensively) to constitute, enjoin",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 496,
+ "formas": [
+  {
+   "forma": "צוה",
+   "forma_he": "צִוָּ֥ה",
+   "n": 197,
+   "ref": "bereshit/6/22"
+  },
+  {
+   "forma": "ויצו",
+   "forma_he": "וַיְצַו֙",
+   "n": 48,
+   "ref": "bereshit/2/16"
+  },
+  {
+   "forma": "צויתי",
+   "forma_he": "צִוִּ֖יתִי",
+   "n": 39,
+   "ref": "shemot/29/35"
+  },
+  {
+   "forma": "מצוך",
+   "forma_he": "מְצַוְּךָ֣",
+   "n": 28,
+   "ref": "shemot/34/11"
+  },
+  {
+   "forma": "מצוה",
+   "forma_he": "מְצַוָּ֥ה",
+   "n": 16,
+   "ref": "bereshit/27/8"
+  }
+ ],
+ "morph": [
+  "HVpp3ms",
+  "HC/Vpw3ms",
+  "HVpp1cs",
+  "HVprmsc/Sp2ms",
+  "HVpp1cs/Sp2ms"
+ ],
+ "glosa_es": "mandar; ordenar"
+}

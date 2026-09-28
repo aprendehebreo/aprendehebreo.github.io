@@ -1,0 +1,63 @@
+{
+ "strong": "H3548",
+ "he": "כהן",
+ "xlit": "kôhên",
+ "pron": "ko-hane'",
+ "def_en": [
+  "1) priest, principal officer or chief ruler",
+  "1a) priest-king (Melchizedek, Messiah)",
+  "1b) pagan priests",
+  "1c) priests of Jehovah",
+  "1d) Levitical priests",
+  "1e) Zadokite priests",
+  "1f) Aaronic priests",
+  "1g) the high priest"
+ ],
+ "kjv": "chief ruler, [idiom] own, priest, prince, principal officer.",
+ "expl": "literally one officiating, a priest; also (by courtesy) an acting priest (although a layman)",
+ "etim": "active participle of ;",
+ "raices": [
+  "H3547"
+ ],
+ "ocurrencias": 750,
+ "formas": [
+  {
+   "forma": "הכהן",
+   "forma_he": "הַכֹּהֵ֛ן",
+   "n": 355,
+   "ref": "shemot/29/30"
+  },
+  {
+   "forma": "הכהנים",
+   "forma_he": "הַכֹּהֲנִ֖ים",
+   "n": 182,
+   "ref": "bereshit/47/22"
+  },
+  {
+   "forma": "כהן",
+   "forma_he": "כֹהֵ֖ן",
+   "n": 44,
+   "ref": "bereshit/14/18"
+  },
+  {
+   "forma": "והכהנים",
+   "forma_he": "וְהַכֹּהֲנִ֣ים",
+   "n": 28,
+   "ref": "shemot/19/24"
+  },
+  {
+   "forma": "כהנים",
+   "forma_he": "כֹּהֲנִ֖ים",
+   "n": 24,
+   "ref": "shemot/19/6"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HTd/Ncmpa",
+  "HNcmsa",
+  "HRd/Ncmpa",
+  "HC/Td/Ncmpa"
+ ],
+ "glosa_es": "sacerdote"
+}

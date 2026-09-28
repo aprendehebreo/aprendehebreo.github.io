@@ -1,0 +1,52 @@
+{
+ "strong": "H3092",
+ "he": "יהושפט",
+ "xlit": "Yᵉhôwshâphâṭ",
+ "pron": "yeh-ho-shaw-fawt'",
+ "def_en": [
+  "Jehoshaphat = \"Jehovah has judged\"",
+  "n pr m",
+  "1) son of king Asa and himself king of Judah for 25 years; one of the best, most pious, and prosperous kings of Judah",
+  "2) son of Nimshi and father of king Jehu of the northern kingdom of Israel",
+  "3) son of Ahilud and chronicler under David and Solomon",
+  "4) son of Paruah and one of the 12 commissary officers under Solomon",
+  "5) a priest and trumpeter in the time of David",
+  "n pr loc",
+  "6) symbolical name of a valley near Jerusalem which is the place of ultimate judgment; maybe the deep ravine which separates Jerusalem from the Mount of Olives through which the Kidron flowed"
+ ],
+ "kjv": "Jehoshaphat. Compare .",
+ "expl": "Jehoshaphat, the name of six Israelites; also of a valley near Jerusalem",
+ "etim": "from and ; Jehovah-judged;",
+ "raices": [
+  "H3068",
+  "H8199",
+  "H3146"
+ ],
+ "ocurrencias": 84,
+ "formas": [
+  {
+   "forma": "יהושפט",
+   "forma_he": "יְהוֹשָׁפָ֥ט",
+   "n": 67,
+   "ref": "mlakhim_a/4/3"
+  },
+  {
+   "forma": "ויהושפט",
+   "forma_he": "וִיהוֹשָׁפָ֥ט",
+   "n": 11,
+   "ref": "shmuel_b/8/16"
+  },
+  {
+   "forma": "ליהושפט",
+   "forma_he": "לִיהוֹשָׁפָ֖ט",
+   "n": 6,
+   "ref": "mlakhim_a/22/52"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

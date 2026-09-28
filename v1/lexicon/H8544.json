@@ -1,0 +1,56 @@
+{
+ "strong": "H8544",
+ "he": "תמונה",
+ "xlit": "tᵉmûwnâh",
+ "pron": "tem-oo-naw'",
+ "def_en": [
+  "1) form, image, likeness, representation, semblance"
+ ],
+ "kjv": "image, likeness, similitude.",
+ "expl": "something portioned (i.e. fashioned) out, as ashape, i.e. (indefinitely) phantom, or (specifically) embodiment, or (figuratively) manifestation (of favor)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H4327"
+ ],
+ "ocurrencias": 10,
+ "formas": [
+  {
+   "forma": "תמונה",
+   "forma_he": "תְּמוּנָ֔ה",
+   "n": 4,
+   "ref": "shemot/20/4"
+  },
+  {
+   "forma": "תמונת",
+   "forma_he": "תְּמוּנַ֣ת",
+   "n": 3,
+   "ref": "devarim/4/16"
+  },
+  {
+   "forma": "ותמנת",
+   "forma_he": "וּתְמֻנַ֥ת",
+   "n": 1,
+   "ref": "bamidbar/12/8"
+  },
+  {
+   "forma": "ותמונה",
+   "forma_he": "וּתְמוּנָ֛ה",
+   "n": 1,
+   "ref": "devarim/4/12"
+  },
+  {
+   "forma": "תמונתך",
+   "forma_he": "תְּמוּנָתֶֽךָ",
+   "n": 1,
+   "ref": "tehilim/17/15"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfsc",
+  "HC/Ncfsc",
+  "HC/Ncfsa",
+  "HNcfsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

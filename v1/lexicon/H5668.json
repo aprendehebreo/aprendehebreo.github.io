@@ -1,0 +1,59 @@
+{
+ "strong": "H5668",
+ "he": "עבור",
+ "xlit": "ʻâbûwr",
+ "pron": "aw-boor'",
+ "def_en": [
+  "prep",
+  "1) for the sake of, on account of, because of, in order to",
+  "conj",
+  "2) in order that"
+ ],
+ "kjv": "because of, for (...'s sake), (intent) that, to.",
+ "expl": "properly, crossed, i.e. (abstractly) transit; used only adverbially, on account of, in order that",
+ "etim": "or ; passive participle of ;",
+ "raices": [
+  "H5674"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "בעבור",
+   "forma_he": "בַּעֲב֣וּר",
+   "n": 37,
+   "ref": "bereshit/8/21"
+  },
+  {
+   "forma": "לבעבור",
+   "forma_he": "לְבַֽעֲבוּר֙",
+   "n": 3,
+   "ref": "shemot/20/20"
+  },
+  {
+   "forma": "בעבורך",
+   "forma_he": "בַּֽעֲבוּרֶ֔ךָ",
+   "n": 2,
+   "ref": "bereshit/3/17"
+  },
+  {
+   "forma": "בעבורם",
+   "forma_he": "בַּעֲבוּרָֽם",
+   "n": 2,
+   "ref": "bereshit/18/26"
+  },
+  {
+   "forma": "ובעבור",
+   "forma_he": "וּבַעֲב֗וּר",
+   "n": 2,
+   "ref": "shemot/20/20"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HR/Ncmsc/Sp3mp",
+  "HR/R/R",
+  "HC/R/R",
+  "HR/Ncmsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

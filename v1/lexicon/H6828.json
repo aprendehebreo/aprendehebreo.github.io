@@ -1,0 +1,58 @@
+{
+ "strong": "H6828",
+ "he": "צפון",
+ "xlit": "tsâphôwn",
+ "pron": "tsaw-fone'",
+ "def_en": [
+  "1) north (of direction), northward",
+  "1a) north",
+  "1b) northward"
+ ],
+ "kjv": "north(-ern, side, -ward, wind).",
+ "expl": "properly, hidden, i.e. dark; used only of the north as aquarter (gloomy and unknown)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6845"
+ ],
+ "ocurrencias": 153,
+ "formas": [
+  {
+   "forma": "צפון",
+   "forma_he": "צָפ֑וֹן",
+   "n": 38,
+   "ref": "shemot/26/20"
+  },
+  {
+   "forma": "צפונה",
+   "forma_he": "צָפ֔וֹנָה",
+   "n": 36,
+   "ref": "yehoshua/13/3"
+  },
+  {
+   "forma": "מצפון",
+   "forma_he": "מִצְּפ֣וֹן",
+   "n": 32,
+   "ref": "yehoshua/8/11"
+  },
+  {
+   "forma": "הצפון",
+   "forma_he": "הַצָּפ֗וֹן",
+   "n": 21,
+   "ref": "yirmiyahu/25/26"
+  },
+  {
+   "forma": "צפנה",
+   "forma_he": "צָפֹ֥נָה",
+   "n": 7,
+   "ref": "bereshit/13/14"
+  }
+ ],
+ "morph": [
+  "HNcfsa/Sd",
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HTd/Ncfsa",
+  "HR/Ncfsc"
+ ],
+ "glosa_es": "norte"
+}

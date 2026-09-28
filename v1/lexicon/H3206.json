@@ -1,0 +1,61 @@
+{
+ "strong": "H3206",
+ "he": "ילד",
+ "xlit": "yeled",
+ "pron": "yeh'-led",
+ "def_en": [
+  "1) child, son, boy, offspring, youth",
+  "1a) child, son, boy",
+  "1b) child, children",
+  "1c) descendants",
+  "1d) youth",
+  "1e) apostate Israelites (fig.)"
+ ],
+ "kjv": "boy, child, fruit, son, young man (one).",
+ "expl": "something born, i.e. a lad or offspring",
+ "etim": "from ;",
+ "raices": [
+  "H3205"
+ ],
+ "ocurrencias": 90,
+ "formas": [
+  {
+   "forma": "הילד",
+   "forma_he": "הַיֶּ֖לֶד",
+   "n": 35,
+   "ref": "bereshit/21/8"
+  },
+  {
+   "forma": "הילדים",
+   "forma_he": "הַיְלָדִ֗ים",
+   "n": 17,
+   "ref": "bereshit/33/1"
+  },
+  {
+   "forma": "ילדים",
+   "forma_he": "יְלָדִ֔ים",
+   "n": 5,
+   "ref": "shmuel_a/1/2"
+  },
+  {
+   "forma": "ילדיהן",
+   "forma_he": "יַלְדֵיהֶ֖ן",
+   "n": 4,
+   "ref": "bereshit/33/2"
+  },
+  {
+   "forma": "ילד",
+   "forma_he": "יָלַ֖ד",
+   "n": 4,
+   "ref": "bereshit/4/18"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HTd/Ncmpa",
+  "HNcmpa",
+  "HNcmpc/Sp3fp",
+  "HNcmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H1697",
+ "he": "דבר",
+ "xlit": "dâbâr",
+ "pron": "daw-baw'",
+ "def_en": [
+  "1) speech, word, speaking, thing",
+  "1a) speech",
+  "1b) saying, utterance",
+  "1c) word, words",
+  "1d) business, occupation, acts, matter, case, something, manner (by extension)"
+ ],
+ "kjv": "act, advice, affair, answer, [idiom] any such (thing), because of, book, business, care, case, cause, certain rate, [phrase] chronicles, commandment, [idiom] commune(-ication), [phrase] concern(-ing), [phrase] confer, counsel, [phrase] dearth, decree, deed, [idiom] disease, due, duty, effect, [phrase] eloquent, errand, (evil favoured-) ness, [phrase] glory, [phrase] harm, hurt, [phrase] iniquity, [phrase] judgment, language, [phrase] lying, manner, matter, message, (no) thing, oracle, [idiom] ought, [idiom] parts, [phrase] pertaining, [phrase] please, portion, [phrase] power, promise, provision, purpose, question, rate, reason, report, request, [idiom] (as hast) said, sake, saying, sentence, [phrase] sign, [phrase] so, some (uncleanness), somewhat to say, [phrase] song, speech, [idiom] spoken, talk, task, [phrase] that, [idiom] there done, thing (concerning), thought, [phrase] thus, tidings, what(-soever), [phrase] wherewith, which, word, work.",
+ "expl": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause",
+ "etim": "from ;",
+ "raices": [
+  "H1696"
+ ],
+ "ocurrencias": 1455,
+ "formas": [
+  {
+   "forma": "דבר",
+   "forma_he": "דִּבֶּ֤ר",
+   "n": 444,
+   "ref": "bereshit/12/4"
+  },
+  {
+   "forma": "דברי",
+   "forma_he": "דִּבְרֵ֞י",
+   "n": 292,
+   "ref": "bereshit/24/30"
+  },
+  {
+   "forma": "הדבר",
+   "forma_he": "הַדֹּבֵ֣ר",
+   "n": 220,
+   "ref": "bereshit/16/13"
+  },
+  {
+   "forma": "הדברים",
+   "forma_he": "הַדְּבָרִ֣ים",
+   "n": 133,
+   "ref": "bereshit/15/1"
+  },
+  {
+   "forma": "כדבר",
+   "forma_he": "כַּדָּבָ֣ר",
+   "n": 63,
+   "ref": "bereshit/18/25"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmpc",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": "palabra; asunto; cosa"
+}

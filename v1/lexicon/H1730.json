@@ -1,0 +1,57 @@
+{
+ "strong": "H1730",
+ "he": "דוד",
+ "xlit": "dôwd",
+ "pron": "dode",
+ "def_en": [
+  "1) beloved, love, uncle",
+  "1a) loved one, beloved",
+  "1b) uncle",
+  "1c) love (pl. abstract)"
+ ],
+ "kjv": "(well-) beloved, father's brother, love, uncle.",
+ "expl": "(figuratively) to love; by implication, a love-token, lover, friend; specifically an uncle",
+ "etim": "or (shortened) ; from an unused root meaning properly, to boil, i.e.",
+ "raices": [],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "דודי",
+   "forma_he": "דּוֹדִ֖י",
+   "n": 20,
+   "ref": "yeshayahu/5/1"
+  },
+  {
+   "forma": "דדו",
+   "forma_he": "דֹּד֖וֹ",
+   "n": 5,
+   "ref": "vayikra/20/20"
+  },
+  {
+   "forma": "לדודי",
+   "forma_he": "לְדוֹדִ֑י",
+   "n": 5,
+   "ref": "shir_hashirim/5/5"
+  },
+  {
+   "forma": "דוד",
+   "forma_he": "דּ֨וֹד",
+   "n": 4,
+   "ref": "shmuel_a/10/14"
+  },
+  {
+   "forma": "דדי",
+   "forma_he": "דדי",
+   "n": 4,
+   "ref": "shmuel_b/23/9"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HR/Ncmsc/Sp1cs",
+  "HNcmpa"
+ ],
+ "glosa_es": ""
+}

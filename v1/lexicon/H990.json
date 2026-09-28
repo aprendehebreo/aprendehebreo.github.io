@@ -1,0 +1,59 @@
+{
+ "strong": "H990",
+ "he": "בטן",
+ "xlit": "beṭen",
+ "pron": "beh'-ten",
+ "def_en": [
+  "1) belly, womb, body",
+  "1a) belly, abdomen",
+  "1a1) as seat of hunger",
+  "1a2) as seat of mental faculties",
+  "1a3) of depth of Sheol (fig.)",
+  "1b) womb"
+ ],
+ "kjv": "belly, body, [phrase] as they be born, [phrase] within, womb.",
+ "expl": "the belly, especially the womb; also the bosom or body of anything",
+ "etim": "from an unused root probably meaning to be hollow;",
+ "raices": [],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "מבטן",
+   "forma_he": "מִבֶּ֣טֶן",
+   "n": 16,
+   "ref": "shoftim/16/17"
+  },
+  {
+   "forma": "בטנך",
+   "forma_he": "בִּטְנֵ֖ךְ",
+   "n": 10,
+   "ref": "bamidbar/5/21"
+  },
+  {
+   "forma": "בטן",
+   "forma_he": "בָֽטֶן",
+   "n": 8,
+   "ref": "bereshit/30/2"
+  },
+  {
+   "forma": "בטני",
+   "forma_he": "בִטְנִ֖י",
+   "n": 7,
+   "ref": "mikha/6/7"
+  },
+  {
+   "forma": "בבטן",
+   "forma_he": "בַבֶּ֨טֶן֙",
+   "n": 5,
+   "ref": "yirmiyahu/1/5"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsa",
+  "HNcfsa",
+  "HNcfsc/Sp2ms",
+  "HR/Ncfsc",
+  "HNcfsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

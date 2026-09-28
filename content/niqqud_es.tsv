@@ -1,0 +1,58 @@
+# Niqqud, dagesh, sheva y signos del códice. Curado en español.
+# columnas: codigo_unicode<TAB>nombre_es<TAB>tipo<TAB>sonido<TAB>nota<TAB>ejemplo_he
+# tipo: vocal | jatuf | sheva | dagesh | puntuacion | te'am | marca
+05B0	sheva	sheva	ə (o nada)	Sheva na (se pronuncia, brevísimo) o naj (mudo). Al empezar sílaba suele ser na.	בְּרֵאשִׁית
+05B1	jatuf segol	jatuf	e muy breve	Vocales brevísimas que acompañan a las guturales (א ה ח ע).	אֱלֹהִים
+05B2	jatuf pataj	jatuf	a muy breve	Con gutural.	חֲמוֹר
+05B3	jatuf kamats	jatuf	o muy breve	Con gutural suele sonar o.	חָכְמָה
+05B4	jirik	vocal	i	Un punto debajo: i breve. Con yod (jirik male) es i larga.	אִישׁ
+05B5	tsere	vocal	e	Vocal e larga; dos puntos horizontales.	אֵל
+05B6	segol	vocal	e	Vocal e breve; tres puntos en triángulo.	מֶלֶךְ
+05B7	pataj	vocal	a	Vocal a breve; una raya debajo.	אַב
+05B8	kamats	vocal	a / o	Kamats gadol = a; kamats qatan = o (sílaba cerrada no acentuada).	דָּבָר
+05B9	jolam	vocal	o	Punto arriba a la izquierda: o larga. Con vav (jolam male) también o.	שׁוֹם
+05BA	jolam sobre vav	vocal	o	Jolam escrito sobre una vav que no se pronuncia como consonante.	—
+05BB	kubuts	vocal	u	Tres puntos en diagonal: u breve.	חֻקָּה
+05BC	dagesh	dagesh	dobla / cambia	Dagesh jazak duplica la consonante; dagesh kal cambia el sonido en begadkefat (ב ג ד כ פ ת).	תַּלְמִיד
+05BD	meteg	marca	—	Acento secundario; alarga la vocal y ayuda a leer.	—
+05BF	rafe	marca	—	Marca antigua que señala sonido suave; hoy casi no se usa.	—
+05C0	paseq	puntuacion	—	Barra vertical (׀) que corta con pausa fuerte.	—
+05C1	punto de shin	vocal	sh	Punto a la derecha: la letra ש se lee sh.	שָׁלוֹם
+05C2	punto de sin	vocal	s	Punto a la izquierda: la letra ש se lee s.	שָׂדֶה
+05C3	sof pasuq	puntuacion	—	Dos puntos (׃) que cierran el versículo, como un punto final.	בְּרֵאשִׁית׃
+05C4	punto superior	marca	—	Marca usada en letras especiales del códice.	—
+05C5	punto inferior	marca	—	Marca usada en letras especiales del códice.	—
+05C6	nun hafuja	marca	—	Nun invertida en Bamidbar 10:35-36; señala una sección especial.	—
+05C7	kamats qatan	vocal	o	Kamats que se lee o por regla (sílaba cerrada no acentuada).	חָכְמָה
+05BE	maqaf	puntuacion	—	Guion hebreo (־) que une palabras para leerlas juntas.	אֶת־הַשָּׁמַיִם
+05F3	geresh	marca	—	Apóstrofo hebreo (׳), también acento del sistema poético.	—
+05F4	gershayim	marca	—	Comillas hebreas (״), usadas en siglas como תנ״ך.	תנ״ך
+0591	etnahta	te'am	—	Acento de pausa principal de la primera mitad del versículo.	—
+0592	segol (acento)	te'am	—	Divide la primera mitad del versículo.	—
+0593	shalshelet	te'am	—	Acento poco frecuente; alarga mucho la nota.	—
+0594	zaqef qatan	te'am	—	Pausa menor.	—
+0595	zaqef gadol	te'am	—	Pausa menor, algo más fuerte.	—
+0596	tipeha	te'am	—	Acento de enlace que sostiene la lectura.	—
+0597	revia	te'am	—	Acento de pausa menor, muy común.	—
+0598	zarqa	te'am	—	Acento de enlace antes de segol.	—
+0599	pashta	te'am	—	Pausa menor antes de etnahta.	—
+059A	yetiv	te'am	—	Pausa menor.	—
+059B	tevir	te'am	—	Pausa menor.	—
+059C	geresh (acento)	te'am	—	Pausa menor.	—
+059E	gershayim (acento)	te'am	—	Pausa con dos trazos.	—
+059F	qarney para	te'am	—	«Cuernos de vaca»: pausa fuerte.	—
+05A0	telisha gedola	te'am	—	Pausa; suele ir antes de qadma.	—
+05A1	pazer	te'am	—	Pausa fuerte poco frecuente.	—
+05A3	munaj	te'am	—	Acento de enlace bajo la palabra.	—
+05A4	mahpaj	te'am	—	Enlace; gira el tono.	—
+05A5	merkha	te'am	—	Enlace que sube el tono.	—
+05A6	merkha kefula	te'am	—	Merkha doble.	—
+05A7	darga	te'am	—	Enlace en series largas de palabras.	—
+05A8	qadma	te'am	—	Enlace antes de un acento de pausa.	—
+05A9	telisha qetana	te'am	—	Pausa menor.	—
+05AA	yeraj ben yomo	te'am	—	Enlace poco frecuente.	—
+05AB	oleh	te'am	—	Sistema poético (Tehilim, Mishlei, Iyov).	—
+05AC	iluy	te'am	—	Sistema poético.	—
+05AD	deji	te'am	—	Sistema poético.	—
+05AE	zinor	te'am	—	Sistema poético.	—
+05AF	circunflejo de masora	te'am	—	Marca de masora sobre la palabra.	—

@@ -1,0 +1,57 @@
+{
+ "strong": "H575",
+ "he": "אן",
+ "xlit": "ʼân",
+ "pron": "awn",
+ "def_en": [
+  "1) where?, whither? (of place)",
+  "2) when?, until when?, how long? (of time)"
+ ],
+ "kjv": "[phrase] any (no) whither, now, where, whither(-soever).",
+ "expl": "where?; hence, whither?, when?; also hither and thither",
+ "etim": "or ; contracted from ;",
+ "raices": [
+  "H370"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "אנה",
+   "forma_he": "אָ֥נָה",
+   "n": 31,
+   "ref": "bereshit/37/30"
+  },
+  {
+   "forma": "ואנה",
+   "forma_he": "וְאָ֣נָה",
+   "n": 8,
+   "ref": "bereshit/16/8"
+  },
+  {
+   "forma": "אן",
+   "forma_he": "אֹ֖ן",
+   "n": 2,
+   "ref": "bereshit/41/45"
+  },
+  {
+   "forma": "מאן",
+   "forma_he": "מֵאֵ֖ן",
+   "n": 1,
+   "ref": "shemot/7/14"
+  },
+  {
+   "forma": "מאין",
+   "forma_he": "מֵאַ֣יִן",
+   "n": 1,
+   "ref": "bereshit/29/4"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HC/Ti",
+  "HTi",
+  "HR/Ti",
+  "HR/Tn"
+ ],
+ "glosa_es": ""
+}

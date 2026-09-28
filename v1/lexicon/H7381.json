@@ -1,0 +1,58 @@
+{
+ "strong": "H7381",
+ "he": "ריח",
+ "xlit": "rêyach",
+ "pron": "ray'-akh",
+ "def_en": [
+  "1) scent, fragrance, aroma, odour",
+  "1a) scent, odour",
+  "1b) odour of soothing (technical term for sacrifice to God)"
+ ],
+ "kjv": "savour, scent, smell.",
+ "expl": "odor (as if blown)",
+ "etim": "from ;",
+ "raices": [
+  "H7306"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "ריח",
+   "forma_he": "רֵ֣יחַ",
+   "n": 30,
+   "ref": "bereshit/8/21"
+  },
+  {
+   "forma": "לריח",
+   "forma_he": "לְרֵ֤יחַ",
+   "n": 16,
+   "ref": "shemot/29/25"
+  },
+  {
+   "forma": "וריח",
+   "forma_he": "וְרֵ֥יחַֽ",
+   "n": 4,
+   "ref": "hoshea/14/7"
+  },
+  {
+   "forma": "כריח",
+   "forma_he": "כְּרֵ֣יחַ",
+   "n": 2,
+   "ref": "bereshit/27/27"
+  },
+  {
+   "forma": "בריח",
+   "forma_he": "בְּרֵ֖יחַ",
+   "n": 2,
+   "ref": "vayikra/26/31"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HC/Ncmsc",
+  "HNcmsa",
+  "HNcmsc/Sp1cp"
+ ],
+ "glosa_es": ""
+}

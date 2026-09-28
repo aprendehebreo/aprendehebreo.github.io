@@ -1,0 +1,64 @@
+{
+ "strong": "H56",
+ "he": "אבל",
+ "xlit": "ʼâbal",
+ "pron": "aw-bal'",
+ "def_en": [
+  "1) to mourn, lament",
+  "1a) (Qal) to mourn, lament",
+  "1a1) of humans",
+  "1a2) of inanimate objects (fig.)",
+  "1a2a) of gates",
+  "1a2b) of land",
+  "1b) (Hiphil)",
+  "1b1) to mourn, cause to mourn (fig.)",
+  "1c) (Hithpael)",
+  "1c1) to mourn",
+  "1c2) play the mourner"
+ ],
+ "kjv": "lament, mourn.",
+ "expl": "to bewail",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "אבלה",
+   "forma_he": "אָבֵ֛לָה",
+   "n": 5,
+   "ref": "shmuel_b/20/14"
+  },
+  {
+   "forma": "ויתאבל",
+   "forma_he": "וַיִּתְאַבֵּ֥ל",
+   "n": 4,
+   "ref": "bereshit/37/34"
+  },
+  {
+   "forma": "ואבלו",
+   "forma_he": "וְאָבְל֖וּ",
+   "n": 4,
+   "ref": "yeshayahu/3/26"
+  },
+  {
+   "forma": "תאבל",
+   "forma_he": "תֶּאֱבַ֣ל",
+   "n": 4,
+   "ref": "yirmiyahu/4/28"
+  },
+  {
+   "forma": "ויתאבלו",
+   "forma_he": "וַיִּתְאַבָּ֑לוּ",
+   "n": 3,
+   "ref": "shemot/33/4"
+  }
+ ],
+ "morph": [
+  "HVqp3fs",
+  "HC/Vtw3ms",
+  "HVqi3fs",
+  "HC/Vtw3mp",
+  "HVtrmsa"
+ ],
+ "glosa_es": ""
+}

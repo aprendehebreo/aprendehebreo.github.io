@@ -1,0 +1,55 @@
+{
+ "strong": "H7354",
+ "he": "רחל",
+ "xlit": "Râchêl",
+ "pron": "raw-khale'",
+ "def_en": [
+  "Rachel = \"ewe\"",
+  "1) daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin"
+ ],
+ "kjv": "Rachel.",
+ "expl": "Rachel, a wife of Jacob",
+ "etim": "the same as ;",
+ "raices": [
+  "H7353"
+ ],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "רחל",
+   "forma_he": "רָחֵ֣ל",
+   "n": 32,
+   "ref": "bereshit/29/6"
+  },
+  {
+   "forma": "ורחל",
+   "forma_he": "וְרָחֵ֣ל",
+   "n": 5,
+   "ref": "bereshit/29/9"
+  },
+  {
+   "forma": "לרחל",
+   "forma_he": "לְרָחֵ֑ל",
+   "n": 5,
+   "ref": "bereshit/29/11"
+  },
+  {
+   "forma": "ברחל",
+   "forma_he": "בְּרָחֵ֥ל",
+   "n": 4,
+   "ref": "bereshit/29/18"
+  },
+  {
+   "forma": "כרחל",
+   "forma_he": "כְּרָחֵ֤ל",
+   "n": 1,
+   "ref": "rut/4/11"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

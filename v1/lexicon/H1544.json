@@ -1,0 +1,56 @@
+{
+ "strong": "H1544",
+ "he": "גלול",
+ "xlit": "gillûwl",
+ "pron": "ghil-lool'",
+ "def_en": [
+  "1) idols"
+ ],
+ "kjv": "idol.",
+ "expl": "properly, a log (as round); by implication, an idol",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H1556"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "גלוליהם",
+   "forma_he": "גִּלּֽוּלֵיהֶ֑ם",
+   "n": 9,
+   "ref": "yechezkel/6/5"
+  },
+  {
+   "forma": "גלוליכם",
+   "forma_he": "גִּלּוּלֵיכֶ֑ם",
+   "n": 7,
+   "ref": "vayikra/26/30"
+  },
+  {
+   "forma": "גלולי",
+   "forma_he": "גִּלּוּלֵ֖י",
+   "n": 6,
+   "ref": "yechezkel/8/10"
+  },
+  {
+   "forma": "הגללים",
+   "forma_he": "הַגִּלֻּלִ֔ים",
+   "n": 5,
+   "ref": "mlakhim_a/15/12"
+  },
+  {
+   "forma": "גלוליו",
+   "forma_he": "גִּלּוּלָ֜יו",
+   "n": 4,
+   "ref": "yechezkel/14/4"
+  }
+ ],
+ "morph": [
+  "HNcmpc/Sp3mp",
+  "HNcmpc/Sp2mp",
+  "HTd/Ncmpa",
+  "HNcmpc",
+  "HNcmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

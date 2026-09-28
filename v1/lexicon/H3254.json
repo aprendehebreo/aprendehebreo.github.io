@@ -1,0 +1,61 @@
+{
+ "strong": "H3254",
+ "he": "יסף",
+ "xlit": "yâçaph",
+ "pron": "yaw-saf'",
+ "def_en": [
+  "1) to add, increase, do again",
+  "1a) (Qal) to add, increase, do again",
+  "1b) (Niphal)",
+  "1b1) to join, join oneself to",
+  "1b2) to be joined, be added to",
+  "1c) (Hiphil)",
+  "1c1) to cause to add, increase",
+  "1c2) to do more, do again"
+ ],
+ "kjv": "add, [idiom] again, [idiom] any more, [idiom] cease, [idiom] come more, [phrase] conceive again, continue, exceed, [idiom] further, [idiom] gather together, get more, give more-over, [idiom] henceforth, increase (more and more), join, [idiom] longer (bring, do, make, much, put), [idiom] (the, much, yet) more (and more), proceed (further), prolong, put, be (strong-) er, [idiom] yet, yield.",
+ "expl": "to add or augment (often adverbial, to continue to do a thing)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 210,
+ "formas": [
+  {
+   "forma": "ויסף",
+   "forma_he": "וַיֹּ֛סֶף",
+   "n": 27,
+   "ref": "bereshit/8/10"
+  },
+  {
+   "forma": "יסיף",
+   "forma_he": "יֹסִ֑יף",
+   "n": 15,
+   "ref": "devarim/25/3"
+  },
+  {
+   "forma": "יוסיף",
+   "forma_he": "יוֹסִ֜יף",
+   "n": 15,
+   "ref": "yehoshua/23/13"
+  },
+  {
+   "forma": "יסף",
+   "forma_he": "יֹסֵ֧ף",
+   "n": 14,
+   "ref": "bereshit/30/24"
+  },
+  {
+   "forma": "אוסיף",
+   "forma_he": "אוֹסִיף֙",
+   "n": 11,
+   "ref": "yehoshua/7/12"
+  }
+ ],
+ "morph": [
+  "HVhi3ms",
+  "HC/Vhw3ms",
+  "HVhi1cs",
+  "HVhj3ms",
+  "HC/Vhw3mp"
+ ],
+ "glosa_es": "añadir; aumentar; volver a"
+}

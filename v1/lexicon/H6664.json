@@ -1,0 +1,71 @@
+{
+ "strong": "H6664",
+ "he": "צדק",
+ "xlit": "tsedeq",
+ "pron": "tseh'-dek",
+ "def_en": [
+  "1) justice, rightness, righteousness",
+  "1a) what is right or just or normal, rightness, justness (of weights and measures)",
+  "1b) righteousness (in government)",
+  "1b1) of judges, rulers, kings",
+  "1b2) of law",
+  "1b3) of Davidic king, Messiah",
+  "1b4) of Jerusalem as seat of just government",
+  "1b5) of God's attribute",
+  "1c) righteousness, justice (in case or cause)",
+  "1d) rightness (in speech)",
+  "1e) righteousness (as ethically right)",
+  "1f) righteousness (as vindicated), justification (in controversy), deliverance, victory, prosperity",
+  "1f1) of God as covenant-keeping in redemption",
+  "1f2) in name of Messianic king",
+  "1f3) of people enjoying salvation",
+  "1f4) of Cyrus"
+ ],
+ "kjv": "[idiom] even, ([idiom] that which is altogether) just(-ice), (un-)right(-eous) (cause, -ly, -ness).",
+ "expl": "the right (natural, moral or legal); also (abstractly) equity or (figuratively) prosperity",
+ "etim": "from ;",
+ "raices": [
+  "H6663"
+ ],
+ "ocurrencias": 119,
+ "formas": [
+  {
+   "forma": "צדק",
+   "forma_he": "צֶ֨דֶק֙",
+   "n": 66,
+   "ref": "bereshit/14/18"
+  },
+  {
+   "forma": "בצדק",
+   "forma_he": "בְּצֶ֖דֶק",
+   "n": 14,
+   "ref": "vayikra/19/15"
+  },
+  {
+   "forma": "צדקך",
+   "forma_he": "צִדְקֶ֔ךָ",
+   "n": 11,
+   "ref": "yeshayahu/58/8"
+  },
+  {
+   "forma": "צדקי",
+   "forma_he": "צִדְקִֽי",
+   "n": 6,
+   "ref": "yeshayahu/41/10"
+  },
+  {
+   "forma": "וצדק",
+   "forma_he": "וָצֶ֨דֶק֙",
+   "n": 5,
+   "ref": "devarim/25/15"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HNcmsc/Sp2ms",
+  "HNcmsc/Sp1cs",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H2132",
+ "he": "זית",
+ "xlit": "zayith",
+ "pron": "zay'-yith",
+ "def_en": [
+  "n m",
+  "1) olive, olive tree",
+  "1a) olive tree",
+  "1b) olives",
+  "n pr loc",
+  "2) mountain facing Jerusalem on the east side"
+ ],
+ "kjv": "olive (tree, -yard), Olivet.",
+ "expl": "an olive (as yielding illuminating oil), the tree, the branch or the berry",
+ "etim": "probably from an unused root (akin to );",
+ "raices": [
+  "H2099"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "זית",
+   "forma_he": "זַ֖יִת",
+   "n": 13,
+   "ref": "bereshit/8/11"
+  },
+  {
+   "forma": "הזיתים",
+   "forma_he": "הַזֵּיתִ֜ים",
+   "n": 5,
+   "ref": "shmuel_b/15/30"
+  },
+  {
+   "forma": "וזיתים",
+   "forma_he": "וְזֵיתִ֖ים",
+   "n": 4,
+   "ref": "devarim/6/11"
+  },
+  {
+   "forma": "זיתים",
+   "forma_he": "זֵיתִ֛ים",
+   "n": 3,
+   "ref": "devarim/28/40"
+  },
+  {
+   "forma": "כזית",
+   "forma_he": "כַזַּ֖יִת",
+   "n": 3,
+   "ref": "hoshea/14/7"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmpa",
+  "HC/Ncmpa",
+  "HNcmpa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

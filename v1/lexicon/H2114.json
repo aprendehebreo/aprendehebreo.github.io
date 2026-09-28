@@ -1,0 +1,61 @@
+{
+ "strong": "H2114",
+ "he": "זור",
+ "xlit": "zûwr",
+ "pron": "zoor",
+ "def_en": [
+  "1) to be strange, be a stranger",
+  "1a) (Qal)",
+  "1a1) to become estranged",
+  "1a2) strange, another, stranger, foreigner, an enemy (participle)",
+  "1a3) loathsome (of breath) (participle)",
+  "1a4) strange woman, prostitute, harlot (meton)",
+  "1b) (Niphal) to be estranged",
+  "1c) (Hophal) to be a stranger, be one alienated"
+ ],
+ "kjv": "(come from) another (man, place), fanner, go away, (e-) strange(-r, thing, woman).",
+ "expl": "to turn aside (especially for lodging); hence to be aforeigner, strange, profane; specifically (active participle) to commit adultery",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 77,
+ "formas": [
+  {
+   "forma": "זרים",
+   "forma_he": "זָרִ֑ים",
+   "n": 25,
+   "ref": "mlakhim_b/19/24"
+  },
+  {
+   "forma": "זר",
+   "forma_he": "זֵ֥ר",
+   "n": 20,
+   "ref": "shemot/25/11"
+  },
+  {
+   "forma": "זרה",
+   "forma_he": "זָרָ֖ה",
+   "n": 8,
+   "ref": "shemot/30/9"
+  },
+  {
+   "forma": "והזר",
+   "forma_he": "וְהַזָּ֥ר",
+   "n": 4,
+   "ref": "bamidbar/1/51"
+  },
+  {
+   "forma": "לזרים",
+   "forma_he": "לַזָּרִ֗ים",
+   "n": 3,
+   "ref": "yirmiyahu/3/13"
+  }
+ ],
+ "morph": [
+  "HAampa",
+  "HAamsa",
+  "HAafsa",
+  "HC/Td/Aamsa",
+  "HR/Aampa"
+ ],
+ "glosa_es": ""
+}

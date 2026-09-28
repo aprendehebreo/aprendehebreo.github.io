@@ -1,0 +1,59 @@
+{
+ "strong": "H3671",
+ "he": "כנף",
+ "xlit": "kânâph",
+ "pron": "kaw-nawf'",
+ "def_en": [
+  "1) wing, extremity, edge, winged, border, corner, shirt",
+  "1a) wing",
+  "1b) extremity",
+  "1b1) skirt, corner (of garment)"
+ ],
+ "kjv": "[phrase] bird, border, corner, end, feather(-ed), [idiom] flying, [phrase] (one an-) other, overspreading, [idiom] quarters, skirt, [idiom] sort, uttermost part, wing(-ed).",
+ "expl": "an edge or extremity; specifically (of a bird or army) a wing, (of a garment or bedclothing) a flap, (of the earth) a quarter, (of a building) a pinnacle",
+ "etim": "from ;",
+ "raices": [
+  "H3670"
+ ],
+ "ocurrencias": 111,
+ "formas": [
+  {
+   "forma": "כנף",
+   "forma_he": "כָּנָף֙",
+   "n": 24,
+   "ref": "bereshit/1/21"
+  },
+  {
+   "forma": "כנפי",
+   "forma_he": "כַּנְפֵ֣י",
+   "n": 14,
+   "ref": "shemot/19/4"
+  },
+  {
+   "forma": "כנפים",
+   "forma_he": "כְנָפַ֜יִם",
+   "n": 13,
+   "ref": "shemot/25/20"
+  },
+  {
+   "forma": "כנפיו",
+   "forma_he": "כְּנָפָיו֙",
+   "n": 9,
+   "ref": "devarim/32/11"
+  },
+  {
+   "forma": "כנפיהם",
+   "forma_he": "כַּנְפֵיהֶ֔ם",
+   "n": 9,
+   "ref": "yechezkel/1/8"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfdc",
+  "HNcfda",
+  "HNcfsc",
+  "HNcfpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

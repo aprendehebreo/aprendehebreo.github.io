@@ -1,0 +1,59 @@
+{
+ "strong": "H3225",
+ "he": "ימין",
+ "xlit": "yâmîyn",
+ "pron": "yaw-meen'",
+ "def_en": [
+  "1) right, right hand, right side",
+  "1a) right hand",
+  "1b) right (of direction)",
+  "1c) south (the direction of the right hand when facing East)"
+ ],
+ "kjv": "[phrase] left-handed, right (hand, side), south.",
+ "expl": "the right hand or side (leg, eye) of a person or other object (as the stronger and more dexterous); locally, the south",
+ "etim": "from ;",
+ "raices": [
+  "H3231"
+ ],
+ "ocurrencias": 141,
+ "formas": [
+  {
+   "forma": "ימין",
+   "forma_he": "יָמִ֖ין",
+   "n": 34,
+   "ref": "bereshit/24/49"
+  },
+  {
+   "forma": "ימינו",
+   "forma_he": "יְמִינ֜וֹ",
+   "n": 22,
+   "ref": "bereshit/48/14"
+  },
+  {
+   "forma": "ימינך",
+   "forma_he": "יְמִינְךָ֖",
+   "n": 22,
+   "ref": "bereshit/48/18"
+  },
+  {
+   "forma": "מימין",
+   "forma_he": "מִימִ֣ין",
+   "n": 12,
+   "ref": "bereshit/48/13"
+  },
+  {
+   "forma": "הימין",
+   "forma_he": "הַיָּמִ֖ין",
+   "n": 11,
+   "ref": "bereshit/13/9"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp3ms",
+  "HNcfsc/Sp2ms",
+  "HNcfsa",
+  "HNcfsc",
+  "HTd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H7522",
+ "he": "רצון",
+ "xlit": "râtsôwn",
+ "pron": "raw-tsone'",
+ "def_en": [
+  "1) pleasure, delight, favour, goodwill, acceptance, will",
+  "1a) goodwill, favour",
+  "1b) acceptance",
+  "1c) will, desire, pleasure, self-will"
+ ],
+ "kjv": "(be) acceptable(-ance, -ed), delight, desire, favour, (good) pleasure, (own, self, voluntary) will, as...(what) would.",
+ "expl": "delight (especially as shown)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7521"
+ ],
+ "ocurrencias": 56,
+ "formas": [
+  {
+   "forma": "רצון",
+   "forma_he": "רָצ֔וֹן",
+   "n": 18,
+   "ref": "devarim/33/23"
+  },
+  {
+   "forma": "לרצון",
+   "forma_he": "לְרָצ֥וֹן",
+   "n": 6,
+   "ref": "shemot/28/38"
+  },
+  {
+   "forma": "רצונו",
+   "forma_he": "רְצוֹנֽוֹ",
+   "n": 6,
+   "ref": "tehilim/103/21"
+  },
+  {
+   "forma": "לרצנכם",
+   "forma_he": "לִֽרְצֹנְכֶ֖ם",
+   "n": 4,
+   "ref": "vayikra/19/5"
+  },
+  {
+   "forma": "כרצונם",
+   "forma_he": "כִּרְצוֹנָֽם",
+   "n": 3,
+   "ref": "ester/9/5"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HR/Ncmsc/Sp3ms",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsc/Sp2mp"
+ ],
+ "glosa_es": ""
+}

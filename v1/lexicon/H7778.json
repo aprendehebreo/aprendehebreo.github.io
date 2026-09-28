@@ -1,0 +1,57 @@
+{
+ "strong": "H7778",
+ "he": "שוער",
+ "xlit": "shôwʻêr",
+ "pron": "sho-are'",
+ "def_en": [
+  "1) gatekeeper, porter"
+ ],
+ "kjv": "doorkeeper, porter.",
+ "expl": "a janitor",
+ "etim": "or active participle of (as denominative from );",
+ "raices": [
+  "H8176",
+  "H8179"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "השערים",
+   "forma_he": "הַשְּׁעָרִ֑ים",
+   "n": 10,
+   "ref": "shmuel_b/18/24"
+  },
+  {
+   "forma": "והשערים",
+   "forma_he": "וְהַשְּׂעֹרִ֣ים",
+   "n": 6,
+   "ref": "mlakhim_a/5/8"
+  },
+  {
+   "forma": "והשוערים",
+   "forma_he": "וְהַשּׁוֹעֲרִ֛ים",
+   "n": 5,
+   "ref": "ezra/2/70"
+  },
+  {
+   "forma": "השוערים",
+   "forma_he": "הַשּׁוֹעֲרִ֥ים",
+   "n": 3,
+   "ref": "nechemia/7/1"
+  },
+  {
+   "forma": "לשערים",
+   "forma_he": "לַשְּׁעָרִ֖ים",
+   "n": 3,
+   "ref": "shoftim/5/11"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmpa",
+  "HC/Td/Ncmpa",
+  "HNcmpa",
+  "HR/Ncmpa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

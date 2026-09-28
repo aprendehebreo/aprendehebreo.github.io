@@ -1,0 +1,62 @@
+{
+ "strong": "H4376",
+ "he": "מכר",
+ "xlit": "mâkar",
+ "pron": "maw-kar'",
+ "def_en": [
+  "1) to sell",
+  "1a) (Qal)",
+  "1a1) to sell",
+  "1a2) seller (participle)",
+  "1b) (Niphal)",
+  "1b1) to be sold",
+  "1b2) to sell oneself",
+  "1b3) to be given over to death",
+  "1c) (Hithpael) to sell oneself"
+ ],
+ "kjv": "[idiom] at all, sell (away, -er, self).",
+ "expl": "to sell, literally (as merchandise, a daughter in marriage, into slavery), or figuratively (to surrender)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 80,
+ "formas": [
+  {
+   "forma": "ימכר",
+   "forma_he": "יִמְכֹּ֥ר",
+   "n": 8,
+   "ref": "shemot/21/7"
+  },
+  {
+   "forma": "מכרו",
+   "forma_he": "מָכְר֥וּ",
+   "n": 5,
+   "ref": "bereshit/37/36"
+  },
+  {
+   "forma": "מכרתם",
+   "forma_he": "מְכַרְתֶּ֥ם",
+   "n": 4,
+   "ref": "bereshit/45/4"
+  },
+  {
+   "forma": "ונמכר",
+   "forma_he": "וְנִמְכַּ֖ר",
+   "n": 4,
+   "ref": "shemot/22/2"
+  },
+  {
+   "forma": "מכר",
+   "forma_he": "מֹכֵ֖ר",
+   "n": 4,
+   "ref": "vayikra/25/16"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HVqp2mp",
+  "HVqi3ms",
+  "HC/VNq3ms",
+  "HVNi3ms"
+ ],
+ "glosa_es": ""
+}

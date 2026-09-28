@@ -1,0 +1,58 @@
+{
+ "strong": "H4159",
+ "he": "מופת",
+ "xlit": "môwphêth",
+ "pron": "mo-faith'",
+ "def_en": [
+  "1) wonder, sign, miracle, portent",
+  "1a) wonder (as a special display of God's power)",
+  "1b) sign, token (of future event)"
+ ],
+ "kjv": "miracle, sign, wonder(-ed at).",
+ "expl": "a miracle; by implication, a token or omen",
+ "etim": "or ; from in the sense of conspicuousness;",
+ "raices": [
+  "H3302"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "מופת",
+   "forma_he": "מוֹפֵ֑ת",
+   "n": 5,
+   "ref": "shemot/7/9"
+  },
+  {
+   "forma": "ומפתים",
+   "forma_he": "וּ֠מֹפְתִים",
+   "n": 5,
+   "ref": "devarim/6/22"
+  },
+  {
+   "forma": "המפתים",
+   "forma_he": "הַמֹּֽפְתִים֙",
+   "n": 2,
+   "ref": "shemot/4/21"
+  },
+  {
+   "forma": "מופתי",
+   "forma_he": "מוֹפְתַ֖י",
+   "n": 2,
+   "ref": "shemot/7/3"
+  },
+  {
+   "forma": "ובמופתים",
+   "forma_he": "וּבְמוֹפְתִ֜ים",
+   "n": 2,
+   "ref": "devarim/4/34"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Ncmpa",
+  "HC/R/Ncmpa",
+  "HC/Td/Ncmpa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

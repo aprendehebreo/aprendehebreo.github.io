@@ -1,0 +1,64 @@
+{
+ "strong": "H5493",
+ "he": "סור",
+ "xlit": "çûwr",
+ "pron": "soor",
+ "def_en": [
+  "1) to turn aside, depart",
+  "1a) (Qal)",
+  "1a1) to turn aside, turn in unto",
+  "1a2) to depart, depart from way, avoid",
+  "1a3) to be removed",
+  "1a4) to come to an end",
+  "1b) (Polel) to turn aside",
+  "1c) (Hiphil)",
+  "1c1) to cause to turn aside, cause to depart, remove, take away, put away, depose",
+  "1c2) to put aside, leave undone, retract, reject, abolish",
+  "1d) (Hophal) to be taken away, be removed"
+ ],
+ "kjv": "be(-head), bring, call back, decline, depart, eschew, get (you), go (aside), [idiom] grievous, lay away (by), leave undone, be past, pluck away, put (away, down), rebel, remove (to and fro), revolt, [idiom] be sour, take (away, off), turn (aside, away, in), withdraw, be without.",
+ "expl": "to turn off (literal or figurative)",
+ "etim": "or ; (Hosea 9:12), a primitive root;",
+ "raices": [],
+ "ocurrencias": 301,
+ "formas": [
+  {
+   "forma": "סר",
+   "forma_he": "סָ֣ר",
+   "n": 30,
+   "ref": "shemot/3/4"
+  },
+  {
+   "forma": "ויסר",
+   "forma_he": "וַיָּ֤סַר",
+   "n": 25,
+   "ref": "bereshit/8/13"
+  },
+  {
+   "forma": "סרו",
+   "forma_he": "סָ֣רוּ",
+   "n": 20,
+   "ref": "shemot/32/8"
+  },
+  {
+   "forma": "הסיר",
+   "forma_he": "הֵסִ֣יר",
+   "n": 17,
+   "ref": "yehoshua/11/15"
+  },
+  {
+   "forma": "סור",
+   "forma_he": "ס֥וּר",
+   "n": 13,
+   "ref": "devarim/17/20"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqp3cp",
+  "HVhp3ms",
+  "HC/Vhw3ms",
+  "HVqi3ms"
+ ],
+ "glosa_es": "apartarse; quitar"
+}

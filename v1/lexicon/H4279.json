@@ -1,0 +1,44 @@
+{
+ "strong": "H4279",
+ "he": "מחר",
+ "xlit": "mâchâr",
+ "pron": "maw-khar'",
+ "def_en": [
+  "1) tomorrow, in time to come, in the future",
+  "1a) tomorrow (as the day following the present day)",
+  "1b) in future time"
+ ],
+ "kjv": "time to come, tomorrow.",
+ "expl": "properly, deferred, i.e. the morrow; usually (adverbially) tomorrow; indefinitely, hereafter",
+ "etim": "probably from ;",
+ "raices": [
+  "H309"
+ ],
+ "ocurrencias": 52,
+ "formas": [
+  {
+   "forma": "מחר",
+   "forma_he": "מָחָ֔ר",
+   "n": 41,
+   "ref": "bereshit/30/33"
+  },
+  {
+   "forma": "ומחר",
+   "forma_he": "וּמָחָ֑ר",
+   "n": 6,
+   "ref": "shemot/19/10"
+  },
+  {
+   "forma": "למחר",
+   "forma_he": "לְמָחָ֑ר",
+   "n": 5,
+   "ref": "shemot/8/6"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Ncmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

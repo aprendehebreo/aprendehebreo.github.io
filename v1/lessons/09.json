@@ -1,0 +1,227 @@
+{
+ "id": 9,
+ "titulo": "Sustantivos: género, número y constructo",
+ "objetivos": [
+  "Clasificar sustantivos en masculino y femenino aunque no lo parezca.",
+  "Formar y reconocer plurales en ִים y וֹת.",
+  "Entender el estado constructo ('X de Y').",
+  "Leer sustantivos con el artículo הַ y su dagesh."
+ ],
+ "items": [
+  {
+   "id": "genero",
+   "tipo": "gramatica",
+   "es": "Género: masculino y femenino",
+   "he": "תּוֹרָה",
+   "nota": "Solo hay dos géneros. Terminan en ָה (o en ֶת) los femeninos más comunes, pero hay excepciones: אֶרֶץ ('tierra') es femenino sin llevar ָה y אַב ('padre') es masculino.",
+   "ejemplo": {
+    "he": "תּוֹרָה",
+    "xlit": "instrucción, Torá",
+    "es": "torá",
+    "ref": "shemot/12/49"
+   }
+  },
+  {
+   "id": "numero",
+   "tipo": "gramatica",
+   "es": "Número: singular y plural",
+   "he": "יוֹם",
+   "nota": "El plural masculino termina en ִים y el femenino en וֹת. Hay además formas duales antiguas, como מַיִם ('aguas') o שָׁמַיִם ('cielos'), que se tratan como plurales.",
+   "ejemplo": {
+    "he": "יוֹם",
+    "xlit": "día",
+    "es": "yom",
+    "ref": "bereshit/1/5"
+   }
+  },
+  {
+   "id": "plural_mas",
+   "tipo": "gramatica",
+   "es": "Plural masculino en ִים",
+   "he": "מְלָכִים",
+   "nota": "מֶלֶךְ ('rey') → מְלָכִים ('reyes'); עַם ('pueblo') → עַמִּים ('pueblos'). Fíjate que cambian las vocales del singular.",
+   "ejemplo": {
+    "he": "מְלָכִים",
+    "xlit": "reyes",
+    "es": "melajim",
+    "ref": "bereshit/14/9"
+   }
+  },
+  {
+   "id": "plural_fem",
+   "tipo": "gramatica",
+   "es": "Plural femenino en וֹת",
+   "he": "אֲרָצוֹת",
+   "nota": "אֶרֶץ ('tierra') → אֲרָצוֹת ('tierras'); בַּת ('hija') → בְּנוֹת ('hijas'). El plural femenino agrega una sílaba al final.",
+   "ejemplo": {
+    "he": "אֲרָצוֹת",
+    "xlit": "tierras",
+    "es": "aratzot",
+    "ref": "yirmiyahu/28/8"
+   }
+  },
+  {
+   "id": "constructo",
+   "tipo": "gramatica",
+   "es": "Estado constructo: 'X de Y'",
+   "he": "אֲבִי",
+   "nota": "Cuando un sustantivo va seguido del poseedor, cambia de forma y el acento se corre: אַב ('padre') → אֲבִי ('padre de'); בָּנִים ('hijos') → בְנֵי ('hijos de'). En בֵּית פַּרְעֹה ('la casa del faraón') solo el primer sustantivo va en constructo.",
+   "ejemplo": {
+    "he": "אֲבִי",
+    "xlit": "padre de",
+    "es": "aví",
+    "ref": "bereshit/4/20"
+   }
+  },
+  {
+   "id": "articulo",
+   "tipo": "gramatica",
+   "es": "El artículo determinado: הַ",
+   "he": "הַמֶּלֶךְ",
+   "nota": "Es una ה con pataj pegada al principio de la palabra. La consonante siguiente suele llevar dagesh jazak: מֶלֶךְ → הַמֶּלֶךְ. Antes de gutural (א ה ח ע) el artículo es הָ y no hay dagesh: אֶרֶץ → הָאָרֶץ.",
+   "ejemplo": {
+    "he": "הַמֶּלֶךְ",
+    "xlit": "el rey",
+    "es": "hamélej",
+    "ref": "bereshit/14/17"
+   }
+  },
+  {
+   "id": "haaretz",
+   "tipo": "palabra",
+   "he": "הָאָרֶץ",
+   "es": "la tierra",
+   "xlit": "haáretz",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H776. Artículo + אֶרֶץ. La gutural א no admite dagesh, por eso la vocal del artículo es kamats (הָ)."
+  },
+  {
+   "id": "hasham",
+   "tipo": "palabra",
+   "he": "הַשָּׁמַיִם",
+   "es": "los cielos",
+   "xlit": "hashamáyim",
+   "ref": "bereshit/1/1",
+   "nota": "Strong H8064. Artículo + שָׁמַיִם con dagesh en la ש."
+  },
+  {
+   "id": "haam",
+   "tipo": "palabra",
+   "he": "הָעָם",
+   "es": "el pueblo",
+   "xlit": "haam",
+   "ref": "bereshit/14/16",
+   "nota": "Strong H5971. Artículo + עַם: el pueblo, el conjunto del pueblo."
+  },
+  {
+   "id": "hamelej",
+   "tipo": "palabra",
+   "he": "הַמֶּלֶךְ",
+   "es": "el rey",
+   "xlit": "hamélej",
+   "ref": "bereshit/14/17",
+   "nota": "Strong H4428. Artículo + מֶלֶךְ con dagesh jazak en la mem."
+  },
+  {
+   "id": "avi",
+   "tipo": "palabra",
+   "he": "אֲבִי",
+   "es": "padre de",
+   "xlit": "aví",
+   "ref": "bereshit/4/20",
+   "nota": "Strong H1. Constructo singular: 'padre de'; se usa cuando el padre va seguido del poseedor."
+  },
+  {
+   "id": "bnei",
+   "tipo": "palabra",
+   "he": "בְנֵי",
+   "es": "hijos de",
+   "xlit": "bnei",
+   "ref": "bereshit/6/2",
+   "nota": "Strong H1121. Plural constructo de בֵּן: 'hijos de'. Aparece 1 708 veces en esta forma."
+  },
+  {
+   "id": "amim",
+   "tipo": "palabra",
+   "he": "עַמִּים",
+   "es": "pueblos",
+   "xlit": "amim",
+   "ref": "bereshit/17/16",
+   "nota": "Strong H5971. Plural de עַם: 'pueblos'. La mem lleva dagesh jazak."
+  }
+ ],
+ "ejercicios": [
+  {
+   "id": "e9-1",
+   "tipo": "opcion",
+   "pregunta": "¿Cuál es el plural de מֶלֶךְ?",
+   "opciones": [
+    "מְלָכִים",
+    "מֶלֶכוֹת",
+    "הַמֶּלֶךְ"
+   ],
+   "correcta": 0,
+   "explica": "El plural masculino termina en ִים: מְלָכִים (reyes)."
+  },
+  {
+   "id": "e9-2",
+   "tipo": "opcion",
+   "pregunta": "¿Qué indica el estado constructo?",
+   "opciones": [
+    "Que la palabra está en plural",
+    "Que la palabra está unida a un poseedor ('X de Y')",
+    "Que la palabra lleva artículo"
+   ],
+   "correcta": 1,
+   "explica": "En constructo el sustantivo pierde algo de su forma y se apoya en el siguiente: אֲבִי = 'padre de'."
+  },
+  {
+   "id": "e9-3",
+   "tipo": "opcion",
+   "pregunta": "¿Cómo es el artículo antes de una gutural como א?",
+   "opciones": [
+    "הַ con dagesh en la gutural",
+    "הָ sin dagesh",
+    "No se puede poner artículo"
+   ],
+   "correcta": 1,
+   "explica": "Las guturales no admiten dagesh, así que el artículo se escribe הָ con kamats: הָאָרֶץ."
+  },
+  {
+   "id": "e9-4",
+   "tipo": "leer",
+   "pregunta": "Lee הָעָם. ¿Qué significa?",
+   "opciones": [
+    "el pueblo",
+    "los pueblos",
+    "un pueblo"
+   ],
+   "correcta": 0,
+   "explica": "הָ = el (artículo) + עָם = pueblo: 'el pueblo'."
+  },
+  {
+   "id": "e9-5",
+   "tipo": "audio",
+   "pregunta": "Escucha אֶרֶץ. ¿Qué género y número tiene?",
+   "opciones": [
+    "Femenino singular",
+    "Masculino singular",
+    "Masculino plural"
+   ],
+   "correcta": 0,
+   "explica": "אֶרֶץ (éretz) es femenino singular, aunque no termine en ָה."
+  },
+  {
+   "id": "e9-6",
+   "tipo": "escribir",
+   "pregunta": "Escribe la palabra 'reyes' (melajim).",
+   "respuesta": "מְלָכִים",
+   "explica": "מְלָכִים: mem con sheva, lamed con kamats, kaf con jirik y mem final."
+  }
+ ],
+ "pasaje": "tehilim/23",
+ "html": "<h2>Género</h2>\n<p>No hay neutro. Las terminaciones ayudan:</p>\n<table><tbody>\n<tr><th>Terminación</th><th>Género típico</th><th>Ejemplo</th></tr>\n<tr><td>ָה</td><td>femenino</td><td>תּוֹרָה (torá), לָיְלָה (láyla)</td></tr>\n<tr><td>ֶת</td><td>femenino</td><td>אֱמֶת (emét), בַּת (bat)</td></tr>\n<tr><td>ninguna</td><td>masculino (con excepciones)</td><td>סֵפֶר (séfer), מֶלֶךְ (mélej)</td></tr>\n<tr><td>ninguna</td><td>femenino (excepción)</td><td>אֶרֶץ (éretz), עִיר (ir)</td></tr>\n</tbody></table>\n<h2>Número</h2>\n<table><tbody>\n<tr><th>Singular</th><th>Plural</th><th>Tipo</th></tr>\n<tr><td>מֶלֶךְ (mélej)</td><td>מְלָכִים (melajim)</td><td>masculino en ִים</td></tr>\n<tr><td>עַם (am)</td><td>עַמִּים (amim)</td><td>masculino en ִים</td></tr>\n<tr><td>אֶרֶץ (éretz)</td><td>אֲרָצוֹת (aratzot)</td><td>femenino en וֹת</td></tr>\n<tr><td>בַּת (bat)</td><td>בְּנוֹת (benot)</td><td>femenino en וֹת</td></tr>\n<tr><td>עִיר (ir)</td><td>עָרִים (arim)</td><td>masculino en ִים</td></tr>\n<tr><td>דֶּרֶךְ (dérej)</td><td>דְרָכִים (derajim)</td><td>masculino en ִים</td></tr>\n</tbody></table>\n<p>La vocal del singular casi nunca se conserva igual en el plural: aprende cada par como una palabra nueva.</p>\n<h2>Constructo</h2>\n<table><tbody>\n<tr><th>Absoluto</th><th>Constructo</th><th>Significado</th></tr>\n<tr><td>אַב (av)</td><td>אֲבִי (aví)</td><td>padre → padre de</td></tr>\n<tr><td>בֵּן (ben)</td><td>בְנֵי (bnei)</td><td>hijo → hijos de</td></tr>\n<tr><td>בַּיִת (báyit)</td><td>בֵּית (beit)</td><td>casa → casa de</td></tr>\n<tr><td>דָּבָר (davár)</td><td>דִּבְרֵי (divrei)</td><td>palabra → palabras de</td></tr>\n</tbody></table>\n<p>El constructo nunca lleva artículo propio. Si el segundo sustantivo lo lleva, el conjunto es definido: בֵּית הַמֶּלֶךְ, &#x27;la casa del rey&#x27;.</p>\n<h2>Artículo</h2>\n<table><tbody>\n<tr><th>Sin artículo</th><th>Con artículo</th><th>Nota</th></tr>\n<tr><td>מֶלֶךְ</td><td>הַמֶּלֶךְ</td><td>dagesh jazak en la consonante siguiente</td></tr>\n<tr><td>עַם</td><td>הָעָם</td><td>la ע no admite dagesh, el artículo se alarga</td></tr>\n<tr><td>אֶרֶץ</td><td>הָאָרֶץ</td><td>igual que el anterior</td></tr>\n<tr><td>שָׁמַיִם</td><td>הַשָּׁמַיִם</td><td>la ש sí admite dagesh</td></tr>\n</tbody></table>\n<h2>Consejo de estudio</h2>\n<p>Cuando veas un sustantivo, pregúntate tres cosas: género, número y si está en constructo. Las tres respuestas cambian la traducción y las tres se ven en la vocalización, no en la traducción de la palabra suelta.</p>",
+ "archivo": "09.md",
+ "items_total": 13,
+ "ejercicios_total": 6
+}

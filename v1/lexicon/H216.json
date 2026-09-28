@@ -1,0 +1,67 @@
+{
+ "strong": "H216",
+ "he": "אור",
+ "xlit": "ʼôwr",
+ "pron": "ore",
+ "def_en": [
+  "1) light",
+  "1a) light of day",
+  "1b) light of heavenly luminaries (moon, sun, stars)",
+  "1c) day-break, dawn, morning light",
+  "1d) daylight",
+  "1e) lightning",
+  "1f) light of lamp",
+  "1g) light of life",
+  "1h) light of prosperity",
+  "1i) light of instruction",
+  "1j) light of face (fig.)",
+  "1k) Jehovah as Israel's light"
+ ],
+ "kjv": "bright, clear, [phrase] day, light (-ning), morning, sun.",
+ "expl": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
+ "etim": "from ;",
+ "raices": [
+  "H215"
+ ],
+ "ocurrencias": 121,
+ "formas": [
+  {
+   "forma": "אור",
+   "forma_he": "א֑וֹר",
+   "n": 52,
+   "ref": "bereshit/1/3"
+  },
+  {
+   "forma": "לאור",
+   "forma_he": "לָאוֹר֙",
+   "n": 20,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "באור",
+   "forma_he": "בְּא֥וּר",
+   "n": 8,
+   "ref": "bereshit/11/28"
+  },
+  {
+   "forma": "ואור",
+   "forma_he": "וְא֥וֹר",
+   "n": 8,
+   "ref": "shmuel_a/29/10"
+  },
+  {
+   "forma": "האור",
+   "forma_he": "הָא֖וֹר",
+   "n": 7,
+   "ref": "bereshit/1/4"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HR/Ncbsc",
+  "HNcbsc",
+  "HRd/Ncbsa",
+  "HR/Ncbsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H1698",
+ "he": "דבר",
+ "xlit": "deber",
+ "pron": "deh'-ber",
+ "def_en": [
+  "1) pestilence, plague",
+  "2) murrain, cattle disease, cattle-plague"
+ ],
+ "kjv": "murrain, pestilence, plague.",
+ "expl": "a pestilence",
+ "etim": "from (in the sense of destroying);",
+ "raices": [
+  "H1696"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "דבר",
+   "forma_he": "דִּבֶּ֤ר",
+   "n": 12,
+   "ref": "bereshit/12/4"
+  },
+  {
+   "forma": "ובדבר",
+   "forma_he": "וּבַדָּבָ֖ר",
+   "n": 11,
+   "ref": "devarim/1/32"
+  },
+  {
+   "forma": "בדבר",
+   "forma_he": "בְּדַבֵּ֣ר",
+   "n": 8,
+   "ref": "bereshit/27/5"
+  },
+  {
+   "forma": "הדבר",
+   "forma_he": "הַדֹּבֵ֣ר",
+   "n": 5,
+   "ref": "bereshit/16/13"
+  },
+  {
+   "forma": "ודבר",
+   "forma_he": "וְדִבֶּר",
+   "n": 5,
+   "ref": "shemot/4/16"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Rd/Ncmsa",
+  "HRd/Ncmsa",
+  "HTd/Ncmsa",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

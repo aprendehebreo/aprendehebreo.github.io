@@ -1,0 +1,60 @@
+{
+ "strong": "H8045",
+ "he": "שמד",
+ "xlit": "shâmad",
+ "pron": "shaw-mad'",
+ "def_en": [
+  "1) to destroy, exterminate, be destroyed, be exterminated",
+  "1a) (Niphal)",
+  "1a1) to be annihilated, be exterminated",
+  "1a2) to be destroyed, be devastated",
+  "1b) (Hiphil)",
+  "1b1) to annihilate, exterminate",
+  "1b2) to destroy"
+ ],
+ "kjv": "destory(-uction), bring to nought, overthrow, perish, pluck down, [idiom] utterly.",
+ "expl": "to desolate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 90,
+ "formas": [
+  {
+   "forma": "להשמיד",
+   "forma_he": "לְהַשְׁמִ֥יד",
+   "n": 11,
+   "ref": "devarim/9/8"
+  },
+  {
+   "forma": "השמיד",
+   "forma_he": "הִשְׁמִ֤יד",
+   "n": 6,
+   "ref": "devarim/2/22"
+  },
+  {
+   "forma": "השמדך",
+   "forma_he": "הִשְׁמִֽדְךָ֖",
+   "n": 6,
+   "ref": "devarim/7/24"
+  },
+  {
+   "forma": "השמידו",
+   "forma_he": "הִשְׁמִיד֛וֹ",
+   "n": 5,
+   "ref": "devarim/4/3"
+  },
+  {
+   "forma": "והשמדתי",
+   "forma_he": "וְהִשְׁמַדְתִּ֞י",
+   "n": 4,
+   "ref": "vayikra/26/30"
+  }
+ ],
+ "morph": [
+  "HR/Vhc",
+  "HVhp3ms",
+  "HC/Vhq1cs",
+  "HVNc/Sp2fs",
+  "HC/R/Vhc"
+ ],
+ "glosa_es": ""
+}

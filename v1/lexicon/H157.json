@@ -1,0 +1,72 @@
+{
+ "strong": "H157",
+ "he": "אהב",
+ "xlit": "ʼâhab",
+ "pron": "aw-hab'",
+ "def_en": [
+  "1) to love",
+  "1a) (Qal)",
+  "1a1) human love for another, includes family, and sexual",
+  "1a2) human appetite for objects such as food, drink, sleep, wisdom",
+  "1a3) human love for or to God",
+  "1a4) act of being a friend",
+  "1a4a) lover (participle)",
+  "1a4b) friend (participle)",
+  "1a5) God's love toward man",
+  "1a5a) to individual men",
+  "1a5b) to people Israel",
+  "1a5c) to righteousness",
+  "1b) (Niphal)",
+  "1b1) lovely (participle)",
+  "1b2) loveable (participle)",
+  "1c) (Piel)",
+  "1c1) friends",
+  "1c2) lovers (fig. of adulterers)",
+  "2) to like"
+ ],
+ "kjv": "(be-) love(-d, -ly, -r), like, friend.",
+ "expl": "to have affection for (sexually or otherwise)",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 211,
+ "formas": [
+  {
+   "forma": "אהב",
+   "forma_he": "אָהֵֽב",
+   "n": 40,
+   "ref": "bereshit/27/9"
+  },
+  {
+   "forma": "אהבתי",
+   "forma_he": "אָהַ֛בְתִּי",
+   "n": 16,
+   "ref": "bereshit/27/4"
+  },
+  {
+   "forma": "אהבת",
+   "forma_he": "אָהַ֨בְתָּ֙",
+   "n": 10,
+   "ref": "bereshit/22/2"
+  },
+  {
+   "forma": "אהבו",
+   "forma_he": "אֲהֵבֽוֹ",
+   "n": 10,
+   "ref": "bereshit/44/20"
+  },
+  {
+   "forma": "לאהבה",
+   "forma_he": "לְאַהֲבָ֣ה",
+   "n": 10,
+   "ref": "devarim/10/15"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HVqp1cs",
+  "HVqp3ms",
+  "HR/Vqc",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": "amar"
+}

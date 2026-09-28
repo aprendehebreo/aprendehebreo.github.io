@@ -1,0 +1,58 @@
+{
+ "strong": "H123",
+ "he": "אדם",
+ "xlit": "ʼĔdôm",
+ "pron": "ed-ome'",
+ "def_en": [
+  "Edom = \"red\"",
+  "1) Edom",
+  "2) Edomite, Idumean-descendants of Esau",
+  "3) land of Edom, Idumea-land south and south east of Palestine"
+ ],
+ "kjv": "Edom, Edomites, Idumea.",
+ "expl": "Edom, the elder twin-brother of Jacob; hence the region (Idumaea) occupied by him",
+ "etim": "or (fully) ; from ; red (see Genesis 25:25);",
+ "raices": [
+  "H122"
+ ],
+ "ocurrencias": 100,
+ "formas": [
+  {
+   "forma": "אדום",
+   "forma_he": "אֱדֽוֹם",
+   "n": 81,
+   "ref": "bereshit/25/30"
+  },
+  {
+   "forma": "באדום",
+   "forma_he": "בֶּאֱד֔וֹם",
+   "n": 9,
+   "ref": "bereshit/36/32"
+  },
+  {
+   "forma": "לאדום",
+   "forma_he": "לֶאֱד֗וֹם",
+   "n": 4,
+   "ref": "yirmiyahu/49/7"
+  },
+  {
+   "forma": "מאדום",
+   "forma_he": "מֵאֱד֗וֹם",
+   "n": 3,
+   "ref": "yeshayahu/63/1"
+  },
+  {
+   "forma": "ובאדום",
+   "forma_he": "וּבֶאֱד֜וֹם",
+   "n": 2,
+   "ref": "shmuel_a/14/47"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/R/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

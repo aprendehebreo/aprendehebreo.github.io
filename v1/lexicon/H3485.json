@@ -1,0 +1,63 @@
+{
+ "strong": "H3485",
+ "he": "יששכר",
+ "xlit": "Yissâˢkâr",
+ "pron": "yis-saw-kawr'",
+ "def_en": [
+  "Issachar = \"there is recompense\"",
+  "n pr m",
+  "1) the 9th son of Jacob and the 5th by Leah his first wife and the progenitor of a tribe by his name",
+  "2) a Korahite Levite and the 7th son of Obed-edom and doorkeeper to the temple",
+  "n pr coll",
+  "3) the tribe descended from Issachar the son of Jacob",
+  "n pr loc",
+  "4) the territory allocated to the descendants of Issachar when they entered the land of Canaan"
+ ],
+ "kjv": "Issachar.",
+ "expl": "Jissaskar, a son of Jacob",
+ "etim": "(strictly yis-saws-kawr'); from and ; he will bring a reward;",
+ "raices": [
+  "H5375",
+  "H7939"
+ ],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "יששכר",
+   "forma_he": "יִשָּׂשכָֽר",
+   "n": 32,
+   "ref": "bereshit/30/18"
+  },
+  {
+   "forma": "ויששכר",
+   "forma_he": "וְיִשָּׂשכָ֖ר",
+   "n": 4,
+   "ref": "bereshit/35/23"
+  },
+  {
+   "forma": "ליששכר",
+   "forma_he": "לְיִ֨שָּׂשכָ֔ר",
+   "n": 3,
+   "ref": "bamidbar/1/8"
+  },
+  {
+   "forma": "ביששכר",
+   "forma_he": "בְּיִשָּׂשכָ֣ר",
+   "n": 3,
+   "ref": "yehoshua/17/11"
+  },
+  {
+   "forma": "וביששכר",
+   "forma_he": "וּבְיִשָּׂשכָ֖ר",
+   "n": 1,
+   "ref": "yehoshua/17/10"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

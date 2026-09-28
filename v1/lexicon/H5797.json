@@ -1,0 +1,58 @@
+{
+ "strong": "H5797",
+ "he": "עז",
+ "xlit": "ʻôz",
+ "pron": "oze",
+ "def_en": [
+  "1) might, strength",
+  "1a) material or physical",
+  "1b) personal or social or political"
+ ],
+ "kjv": "boldness, loud, might, power, strength, strong.",
+ "expl": "strength in various applications (force, security, majesty, praise)",
+ "etim": "or (fully) ; from ;",
+ "raices": [
+  "H5810"
+ ],
+ "ocurrencias": 92,
+ "formas": [
+  {
+   "forma": "עז",
+   "forma_he": "עָֽז",
+   "n": 34,
+   "ref": "bereshit/49/3"
+  },
+  {
+   "forma": "עזך",
+   "forma_he": "עֻזֵּ֖ךְ",
+   "n": 13,
+   "ref": "yeshayahu/52/1"
+  },
+  {
+   "forma": "עזי",
+   "forma_he": "עָזִּ֤י",
+   "n": 8,
+   "ref": "shemot/15/2"
+  },
+  {
+   "forma": "ועז",
+   "forma_he": "וְעֵ֥ז",
+   "n": 7,
+   "ref": "bereshit/15/9"
+  },
+  {
+   "forma": "עזו",
+   "forma_he": "עֻזּ֑וֹ",
+   "n": 7,
+   "ref": "yeshayahu/62/8"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp2ms",
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp3ms",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

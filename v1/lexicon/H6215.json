@@ -1,0 +1,43 @@
+{
+ "strong": "H6215",
+ "he": "עשו",
+ "xlit": "ʻÊsâv",
+ "pron": "ay-sawv'",
+ "def_en": [
+  "Esau = \"hairy\"",
+  "1) eldest son of Isaac and Rebecca and twin brother of Jacob; sold the birthright for food when he was hungry and the divine blessing went to Jacob; progenitor of the Arab peoples"
+ ],
+ "kjv": "Esau.",
+ "expl": "Esav, a son of Isaac, including his posterity",
+ "etim": "apparently a form of the passive participle of in the original sense of handling; rough (i.e. sensibly felt);",
+ "raices": [
+  "H6213"
+ ],
+ "ocurrencias": 97,
+ "formas": [
+  {
+   "forma": "עשו",
+   "forma_he": "עָשׂ֣וּ",
+   "n": 86,
+   "ref": "bereshit/12/5"
+  },
+  {
+   "forma": "לעשו",
+   "forma_he": "לְעֵשָׂ֗ו",
+   "n": 9,
+   "ref": "bereshit/25/34"
+  },
+  {
+   "forma": "ועשו",
+   "forma_he": "וַעֲשׂ֣וּ",
+   "n": 2,
+   "ref": "bereshit/19/8"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

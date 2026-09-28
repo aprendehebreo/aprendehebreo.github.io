@@ -1,0 +1,57 @@
+{
+ "strong": "H3871",
+ "he": "לוח",
+ "xlit": "lûwach",
+ "pron": "loo'-akh",
+ "def_en": [
+  "1) board, slab, tablet, plank",
+  "1a) tablets (of stone)",
+  "1b) boards (of wood)",
+  "1c) plate (of metal)"
+ ],
+ "kjv": "board, plate, table.",
+ "expl": "probably meaning to glisten; a tablet (as polished), of stone, wood or metal",
+ "etim": "or ; from a primitive root;",
+ "raices": [],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "לחת",
+   "forma_he": "לֻחֹ֣ת",
+   "n": 15,
+   "ref": "shemot/24/12"
+  },
+  {
+   "forma": "הלחת",
+   "forma_he": "הַלֻּחֹֽת",
+   "n": 12,
+   "ref": "shemot/32/16"
+  },
+  {
+   "forma": "לוח",
+   "forma_he": "ל֛וּחַ",
+   "n": 5,
+   "ref": "yeshayahu/30/8"
+  },
+  {
+   "forma": "לוחת",
+   "forma_he": "לוּחֹ֤ת",
+   "n": 4,
+   "ref": "devarim/9/9"
+  },
+  {
+   "forma": "לחות",
+   "forma_he": "לֻח֥וֹת",
+   "n": 3,
+   "ref": "devarim/4/13"
+  }
+ ],
+ "morph": [
+  "HNcmpc",
+  "HTd/Ncmpa",
+  "HNcmsc",
+  "HNcmpa",
+  "HC/Td/Ncmpa"
+ ],
+ "glosa_es": ""
+}

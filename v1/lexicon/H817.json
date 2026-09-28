@@ -1,0 +1,60 @@
+{
+ "strong": "H817",
+ "he": "אשם",
+ "xlit": "ʼâshâm",
+ "pron": "aw-shawm'",
+ "def_en": [
+  "1) guilt, offense, guiltiness",
+  "1a) offense, trespass, fault",
+  "1b) guilt, guiltiness",
+  "1c) compensation (for offense)",
+  "1d) trespass offering, guilt offering"
+ ],
+ "kjv": "guiltiness, (offering for) sin, trespass (offering).",
+ "expl": "guilt; by implication, a fault; also a sin-offering",
+ "etim": "from ;",
+ "raices": [
+  "H816"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "האשם",
+   "forma_he": "הָאָשָׁ֖ם",
+   "n": 15,
+   "ref": "vayikra/5/16"
+  },
+  {
+   "forma": "אשם",
+   "forma_he": "אָשָֽׁם",
+   "n": 12,
+   "ref": "bereshit/26/10"
+  },
+  {
+   "forma": "אשמו",
+   "forma_he": "אֲשָׁמ֣וֹ",
+   "n": 6,
+   "ref": "vayikra/5/6"
+  },
+  {
+   "forma": "לאשם",
+   "forma_he": "לְאָשָֽׁם",
+   "n": 5,
+   "ref": "vayikra/5/15"
+  },
+  {
+   "forma": "והאשם",
+   "forma_he": "וְהָאָשָֽׁם",
+   "n": 3,
+   "ref": "yechezkel/40/39"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsa",
+  "HC/Td/Ncmsa"
+ ],
+ "glosa_es": ""
+}

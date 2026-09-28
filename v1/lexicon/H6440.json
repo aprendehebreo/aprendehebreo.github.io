@@ -1,0 +1,65 @@
+{
+ "strong": "H6440",
+ "he": "פנים",
+ "xlit": "pânîym",
+ "pron": "paw-neem'",
+ "def_en": [
+  "1) face",
+  "1a) face, faces",
+  "1b) presence, person",
+  "1c) face (of seraphim or cherubim)",
+  "1d) face (of animals)",
+  "1e) face, surface (of ground)",
+  "1f) as adv of loc/temp",
+  "1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before",
+  "1g) with prep",
+  "1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+ ],
+ "kjv": "[phrase] accept, a-(be-) fore(-time), against, anger, [idiom] as (long as), at, [phrase] battle, [phrase] because (of), [phrase] beseech, countenance, edge, [phrase] employ, endure, [phrase] enquire, face, favour, fear of, for, forefront(-part), form(-er time, -ward), from, front, heaviness, [idiom] him(-self), [phrase] honourable, [phrase] impudent, [phrase] in, it, look(-eth) (-s), [idiom] me, [phrase] meet, [idiom] more than, mouth, of, off, (of) old (time), [idiom] on, open, [phrase] out of, over against, the partial, person, [phrase] please, presence, propect, was purposed, by reason of, [phrase] regard, right forth, [phrase] serve, [idiom] shewbread, sight, state, straight, [phrase] street, [idiom] thee, [idiom] them(-selves), through ([phrase] -out), till, time(-s) past, (un-) to(-ward), [phrase] upon, upside ([phrase] down), with(-in, [phrase] -stand), [idiom] ye, [idiom] you.",
+ "expl": "the face (as the part that turns); used in a great variety of applications (literally and figuratively); also (with prepositional prefix) as a preposition (before, etc.)",
+ "etim": "plural (but always as singular) of an unused noun ; from );",
+ "raices": [
+  "H6437"
+ ],
+ "ocurrencias": 2127,
+ "formas": [
+  {
+   "forma": "לפני",
+   "forma_he": "לִפְנֵ֣י",
+   "n": 667,
+   "ref": "bereshit/6/11"
+  },
+  {
+   "forma": "פני",
+   "forma_he": "פְּנֵ֣י",
+   "n": 351,
+   "ref": "bereshit/1/2"
+  },
+  {
+   "forma": "מפני",
+   "forma_he": "מִפְּנֵי֙",
+   "n": 190,
+   "ref": "bereshit/3/8"
+  },
+  {
+   "forma": "לפניו",
+   "forma_he": "לְפָנָיו֙",
+   "n": 115,
+   "ref": "bereshit/24/33"
+  },
+  {
+   "forma": "לפניך",
+   "forma_he": "לְפָנֶ֔יךָ",
+   "n": 107,
+   "ref": "bereshit/13/9"
+  }
+ ],
+ "morph": [
+  "HR/Ncbpc",
+  "HNcbpc",
+  "HR/Ncbpc/Sp3ms",
+  "HR/Ncbpc/Sp2ms",
+  "HNcbpc/Sp3ms"
+ ],
+ "glosa_es": "delante de; rostro"
+}

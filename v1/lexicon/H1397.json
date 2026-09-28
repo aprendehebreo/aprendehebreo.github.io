@@ -1,0 +1,56 @@
+{
+ "strong": "H1397",
+ "he": "גבר",
+ "xlit": "geber",
+ "pron": "gheh'-ber",
+ "def_en": [
+  "1) man, strong man, warrior (emphasising strength or ability to fight)"
+ ],
+ "kjv": "every one, man, [idiom] mighty.",
+ "expl": "properly, a valiant man or warrior; generally, a person simply",
+ "etim": "from ;",
+ "raices": [
+  "H1396"
+ ],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "גבר",
+   "forma_he": "גִּבֹּ֖ר",
+   "n": 32,
+   "ref": "bereshit/10/8"
+  },
+  {
+   "forma": "הגבר",
+   "forma_he": "הַגֶּ֖בֶר",
+   "n": 12,
+   "ref": "bamidbar/24/3"
+  },
+  {
+   "forma": "הגברים",
+   "forma_he": "הַגִּבֹּרִ֛ים",
+   "n": 6,
+   "ref": "bereshit/6/4"
+  },
+  {
+   "forma": "לגברים",
+   "forma_he": "לַגְּבָרִֽים",
+   "n": 4,
+   "ref": "yehoshua/7/14"
+  },
+  {
+   "forma": "כגבר",
+   "forma_he": "כְּגֶ֣בֶר",
+   "n": 3,
+   "ref": "tehilim/88/5"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HTd/Ncmpa",
+  "HR/Ncmsa",
+  "HRd/Ncmpa"
+ ],
+ "glosa_es": ""
+}

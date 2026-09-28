@@ -1,0 +1,59 @@
+{
+ "strong": "H1097",
+ "he": "בלי",
+ "xlit": "bᵉlîy",
+ "pron": "bel-ee'",
+ "def_en": [
+  "subst",
+  "1) wearing out",
+  "adv of negation",
+  "2) without, no, not"
+ ],
+ "kjv": "corruption, ig(norantly), for lack of, where no...is, so that no, none, not, un(awares), without.",
+ "expl": "properly, failure, i.e. nothing or destruction; usually (with preposition) without, not yet, because not, as long as, etc.",
+ "etim": "from ;",
+ "raices": [
+  "H1086"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "בלי",
+   "forma_he": "בְּלִי֙",
+   "n": 24,
+   "ref": "bereshit/31/20"
+  },
+  {
+   "forma": "מבלי",
+   "forma_he": "מִבְּלִי֙",
+   "n": 20,
+   "ref": "devarim/9/28"
+  },
+  {
+   "forma": "בבלי",
+   "forma_he": "בִּבְלִי",
+   "n": 5,
+   "ref": "devarim/4/42"
+  },
+  {
+   "forma": "המבלי",
+   "forma_he": "הַֽמִבְּלִ֤י",
+   "n": 4,
+   "ref": "shemot/14/11"
+  },
+  {
+   "forma": "לבלי",
+   "forma_he": "לִבְלִי",
+   "n": 3,
+   "ref": "yeshayahu/5/14"
+  }
+ ],
+ "morph": [
+  "HTn",
+  "HR/Ncmsc",
+  "HR/Tn",
+  "HTi/R/D",
+  "HTi/R/Tn"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H6963",
+ "he": "קול",
+ "xlit": "qôwl",
+ "pron": "kole",
+ "def_en": [
+  "1) voice, sound, noise",
+  "1a) voice",
+  "1b) sound (of instrument)",
+  "2) lightness, frivolity"
+ ],
+ "kjv": "[phrase] aloud, bleating, crackling, cry ([phrase] out), fame, lightness, lowing, noise, [phrase] hold peace, (pro-) claim, proclamation, [phrase] sing, sound, [phrase] spark, thunder(-ing), voice, [phrase] yell.",
+ "expl": "a voice or sound",
+ "etim": "or ; from an unused root meaning to call aloud;",
+ "raices": [],
+ "ocurrencias": 506,
+ "formas": [
+  {
+   "forma": "קול",
+   "forma_he": "ק֨וֹל",
+   "n": 165,
+   "ref": "bereshit/3/8"
+  },
+  {
+   "forma": "בקול",
+   "forma_he": "בְּק֥וֹל",
+   "n": 76,
+   "ref": "bereshit/39/14"
+  },
+  {
+   "forma": "וקול",
+   "forma_he": "וְק֣וֹל",
+   "n": 30,
+   "ref": "shmuel_a/15/14"
+  },
+  {
+   "forma": "לקול",
+   "forma_he": "לְק֣וֹל",
+   "n": 23,
+   "ref": "bereshit/3/17"
+  },
+  {
+   "forma": "קולי",
+   "forma_he": "קוֹלִ֔י",
+   "n": 23,
+   "ref": "bereshit/4/23"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsa",
+  "HC/Ncmsc",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": "voz; sonido"
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "H2654",
+ "he": "חפץ",
+ "xlit": "châphêts",
+ "pron": "khaw-fates'",
+ "def_en": [
+  "1) to delight in, take pleasure in, desire, be pleased with",
+  "1a) (Qal)",
+  "1a1) of men",
+  "1a1a) to take pleasure in, delight in",
+  "1a1b) to delight, desire, be pleased to do",
+  "1a2) of God",
+  "1a2a) to delight in, have pleasure in",
+  "1a2b) to be pleased to do",
+  "2) to move, bend down",
+  "2a) (Qal) to bend down"
+ ],
+ "kjv": "[idiom] any at all, (have, take) delight, desire, favour, like, move, be (well) pleased, have pleasure, will, would.",
+ "expl": "properly, to incline to; by implication (literally but rarely) to bend; figuratively, to be pleased with, desire",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 75,
+ "formas": [
+  {
+   "forma": "חפץ",
+   "forma_he": "חָפֵ֖ץ",
+   "n": 29,
+   "ref": "bereshit/34/19"
+  },
+  {
+   "forma": "חפצתי",
+   "forma_he": "חָפַ֖צְתִּי",
+   "n": 13,
+   "ref": "devarim/25/8"
+  },
+  {
+   "forma": "יחפץ",
+   "forma_he": "יַחְפֹּץ֙",
+   "n": 10,
+   "ref": "devarim/25/7"
+  },
+  {
+   "forma": "חפצת",
+   "forma_he": "חָפַ֣צְתָּ",
+   "n": 5,
+   "ref": "devarim/21/14"
+  },
+  {
+   "forma": "אחפץ",
+   "forma_he": "אֶחְפֹּץ֙",
+   "n": 4,
+   "ref": "yechezkel/18/23"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqp1cs",
+  "HVqi3ms",
+  "HVqp2ms",
+  "HVqi1cs"
+ ],
+ "glosa_es": ""
+}

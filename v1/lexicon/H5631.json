@@ -1,0 +1,56 @@
+{
+ "strong": "H5631",
+ "he": "סריס",
+ "xlit": "çârîyç",
+ "pron": "saw-reece'",
+ "def_en": [
+  "1) official, eunuch"
+ ],
+ "kjv": "chamberlain, eunuch, officer. Compare .",
+ "expl": "a eunuch; by implication, valet (especially of the female apartments), and thus, a minister of state",
+ "etim": "or ; from an unused root meaning to castrate;",
+ "raices": [
+  "H7249"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "סריס",
+   "forma_he": "סְרִ֣יס",
+   "n": 11,
+   "ref": "bereshit/37/36"
+  },
+  {
+   "forma": "הסריסים",
+   "forma_he": "הַסָּ֣רִיסִ֔ים",
+   "n": 11,
+   "ref": "ester/1/10"
+  },
+  {
+   "forma": "סריסיו",
+   "forma_he": "סָרִיסָ֑יו",
+   "n": 3,
+   "ref": "bereshit/40/2"
+  },
+  {
+   "forma": "סריסי",
+   "forma_he": "סְרִיסֵ֣י",
+   "n": 3,
+   "ref": "bereshit/40/7"
+  },
+  {
+   "forma": "סריסים",
+   "forma_he": "סָרִיסִֽים",
+   "n": 3,
+   "ref": "mlakhim_b/9/32"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmpa",
+  "HNcmsa",
+  "HNcmsc",
+  "HNcmpc/Sp3ms",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

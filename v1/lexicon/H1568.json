@@ -1,0 +1,63 @@
+{
+ "strong": "H1568",
+ "he": "גלעד",
+ "xlit": "Gilʻâd",
+ "pron": "ghil-awd'",
+ "def_en": [
+  "n pr loc Gilead = \"rocky region\"",
+  "1) a mountainous region bounded on the west by the Jordan, on the north by Bashan, on the east by the Arabian plateau, and on the south by Moab and Ammon; sometimes called 'Mount Gilead' or the 'land of Gilead' or just 'Gilead'. Divided into north and south Gilead",
+  "2) a city (with prefix 'Jabesh')",
+  "3) the people of the region",
+  "n pr m",
+  "4) son of Machir and grandson of Manasseh",
+  "5) father of Jephthah",
+  "6) a Gadite"
+ ],
+ "kjv": "Gilead, Gileadite.",
+ "expl": "Gilad, a region East of the Jordan; also the name of three Israelites",
+ "etim": "probably from ;",
+ "raices": [
+  "H1567"
+ ],
+ "ocurrencias": 134,
+ "formas": [
+  {
+   "forma": "גלעד",
+   "forma_he": "גַּלְעֵֽד",
+   "n": 75,
+   "ref": "bereshit/31/47"
+  },
+  {
+   "forma": "הגלעד",
+   "forma_he": "הַגִּלְעָֽד",
+   "n": 39,
+   "ref": "bereshit/31/21"
+  },
+  {
+   "forma": "בגלעד",
+   "forma_he": "בַּגִּלְעָד֙",
+   "n": 9,
+   "ref": "devarim/4/43"
+  },
+  {
+   "forma": "והגלעד",
+   "forma_he": "וְהַגִּלְעָ֞ד",
+   "n": 3,
+   "ref": "yehoshua/13/11"
+  },
+  {
+   "forma": "לגלעד",
+   "forma_he": "לְגִלְעָ֕ד",
+   "n": 2,
+   "ref": "bamidbar/26/29"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HTd/Np",
+  "HRd/Np",
+  "HR/Np",
+  "HC/Td/Np"
+ ],
+ "glosa_es": ""
+}

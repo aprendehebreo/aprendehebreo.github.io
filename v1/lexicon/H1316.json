@@ -1,0 +1,55 @@
+{
+ "strong": "H1316",
+ "he": "בשן",
+ "xlit": "Bâshân",
+ "pron": "baw-shawn'",
+ "def_en": [
+  "Bashan = \"fruitful\"",
+  "1) a district east of the Jordan known for its fertility which was given to the half-tribe of Manasseh"
+ ],
+ "kjv": "Bashan.",
+ "expl": "Bashan (often with the article), a region East of the Jordan",
+ "etim": "of uncertain derivation;",
+ "raices": [],
+ "ocurrencias": 60,
+ "formas": [
+  {
+   "forma": "הבשן",
+   "forma_he": "הַבָּשָׁ֑ן",
+   "n": 28,
+   "ref": "bamidbar/21/33"
+  },
+  {
+   "forma": "בבשן",
+   "forma_he": "בַּבָּשָֽׁן",
+   "n": 15,
+   "ref": "devarim/3/4"
+  },
+  {
+   "forma": "בשן",
+   "forma_he": "בְּשֵׁ֔ן",
+   "n": 9,
+   "ref": "devarim/19/21"
+  },
+  {
+   "forma": "והבשן",
+   "forma_he": "וְהַבָּשָֽׁן",
+   "n": 4,
+   "ref": "yehoshua/17/1"
+  },
+  {
+   "forma": "מבשן",
+   "forma_he": "מִבָּ֔שָׁן",
+   "n": 3,
+   "ref": "yechezkel/27/6"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HRd/Np",
+  "HNp",
+  "HC/Td/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

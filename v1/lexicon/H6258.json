@@ -1,0 +1,56 @@
+{
+ "strong": "H6258",
+ "he": "עתה",
+ "xlit": "ʻattâh",
+ "pron": "at-taw'",
+ "def_en": [
+  "1) now",
+  "1a) now",
+  "1b) in phrases"
+ ],
+ "kjv": "henceforth, now, straightway, this time, whereas.",
+ "expl": "at this time, whether adverb, conjunction or expletive",
+ "etim": "from ;",
+ "raices": [
+  "H6256"
+ ],
+ "ocurrencias": 435,
+ "formas": [
+  {
+   "forma": "ועתה",
+   "forma_he": "וְעַתָּ֣ה",
+   "n": 272,
+   "ref": "bereshit/3/22"
+  },
+  {
+   "forma": "עתה",
+   "forma_he": "עַתָּ֕ה",
+   "n": 148,
+   "ref": "bereshit/19/9"
+  },
+  {
+   "forma": "מעתה",
+   "forma_he": "מֵעַתָּה֙",
+   "n": 13,
+   "ref": "yeshayahu/9/6"
+  },
+  {
+   "forma": "עת",
+   "forma_he": "עֵ֖ת",
+   "n": 1,
+   "ref": "bereshit/29/7"
+  },
+  {
+   "forma": "ועת",
+   "forma_he": "וְעֵֽת",
+   "n": 1,
+   "ref": "yirmiyahu/30/7"
+  }
+ ],
+ "morph": [
+  "HC/D",
+  "HD",
+  "HR/D"
+ ],
+ "glosa_es": "ahora"
+}

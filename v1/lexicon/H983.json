@@ -1,0 +1,45 @@
+{
+ "strong": "H983",
+ "he": "בטח",
+ "xlit": "beṭach",
+ "pron": "beh'takh",
+ "def_en": [
+  "n m",
+  "1) security, safety",
+  "adv",
+  "2) securely"
+ ],
+ "kjv": "assurance, boldly, (without) care(-less), confidence, hope, safe(-ly, -ty), secure, surely.",
+ "expl": "properly, a place of refuge; abstract, safety, both the fact (security) and the feeling (trust); often (adverb with or without preposition) safely",
+ "etim": "from ;",
+ "raices": [
+  "H982"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "לבטח",
+   "forma_he": "לָבֶֽטַח",
+   "n": 32,
+   "ref": "vayikra/25/18"
+  },
+  {
+   "forma": "בטח",
+   "forma_he": "בֶּ֑טַח",
+   "n": 9,
+   "ref": "bereshit/34/25"
+  },
+  {
+   "forma": "ובטח",
+   "forma_he": "וּבֹטֵ֗חַ",
+   "n": 1,
+   "ref": "shoftim/18/7"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsa",
+  "HNcmsa",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,67 @@
+{
+ "strong": "H6555",
+ "he": "פרץ",
+ "xlit": "pârats",
+ "pron": "paw-rats'",
+ "def_en": [
+  "1) to break through or down or over, burst, breach",
+  "1a) (Qal)",
+  "1a1) to break or burst out (from womb or enclosure)",
+  "1a2) to break through or down, make a breach in",
+  "1a3) to break into",
+  "1a4) to break open",
+  "1a5) to break up, break in pieces",
+  "1a6) to break out (violently) upon",
+  "1a7) to break over (limits), increase",
+  "1a8) to use violence",
+  "1a9) to burst open 1a10) to spread, distribute",
+  "1b) (Niphal) to be broken through",
+  "1c) (Pual) to be broken down",
+  "1d) (Hithpael) to break away"
+ ],
+ "kjv": "[idiom] abroad, (make a) breach, break (away, down, -er, forth, in, up), burst out, come (spread) abroad, compel, disperse, grow, increase, open, press, scatter, urge.",
+ "expl": "to break out (in many applications, direct and indirect, literal and figurative)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "ויפרץ",
+   "forma_he": "וַיִּפְרֹ֣ץ",
+   "n": 9,
+   "ref": "bereshit/30/30"
+  },
+  {
+   "forma": "פרץ",
+   "forma_he": "פָּ֑רֶץ",
+   "n": 9,
+   "ref": "bereshit/38/29"
+  },
+  {
+   "forma": "פרצו",
+   "forma_he": "פָּרָ֕צוּ",
+   "n": 4,
+   "ref": "hoshea/4/2"
+  },
+  {
+   "forma": "פרצת",
+   "forma_he": "פָּרַ֖צְתָּ",
+   "n": 3,
+   "ref": "bereshit/38/29"
+  },
+  {
+   "forma": "יפרץ",
+   "forma_he": "יִפְרֹ֑ץ",
+   "n": 3,
+   "ref": "shemot/1/12"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HVqp3cp",
+  "HVqp2ms",
+  "HVqi3ms"
+ ],
+ "glosa_es": ""
+}

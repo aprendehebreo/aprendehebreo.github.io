@@ -1,0 +1,54 @@
+{
+ "strong": "H2962",
+ "he": "טרם",
+ "xlit": "ṭerem",
+ "pron": "teh'-rem",
+ "def_en": [
+  "1) before, not yet, before that"
+ ],
+ "kjv": "before, ere, not yet.",
+ "expl": "properly, non-occurrence; used adverbially, not yet or before",
+ "etim": "from an unused root apparently meaning to interrupt or suspend;",
+ "raices": [],
+ "ocurrencias": 57,
+ "formas": [
+  {
+   "forma": "בטרם",
+   "forma_he": "בְּטֶ֥רֶם",
+   "n": 36,
+   "ref": "bereshit/27/4"
+  },
+  {
+   "forma": "טרם",
+   "forma_he": "טֶ֚רֶם",
+   "n": 14,
+   "ref": "bereshit/2/5"
+  },
+  {
+   "forma": "ובטרם",
+   "forma_he": "וּבְטֶ֨רֶם֙",
+   "n": 3,
+   "ref": "bereshit/37/18"
+  },
+  {
+   "forma": "הטרם",
+   "forma_he": "הֲטֶ֣רֶם",
+   "n": 1,
+   "ref": "shemot/10/7"
+  },
+  {
+   "forma": "וטרם",
+   "forma_he": "וְטֶ֛רֶם",
+   "n": 1,
+   "ref": "shmuel_a/3/7"
+  }
+ ],
+ "morph": [
+  "HR/D",
+  "HD",
+  "HC/R/D",
+  "HTd/D",
+  "HC/D"
+ ],
+ "glosa_es": ""
+}

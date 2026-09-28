@@ -1,0 +1,65 @@
+{
+ "strong": "H2256",
+ "he": "חבל",
+ "xlit": "chebel",
+ "pron": "kheh'-bel",
+ "def_en": [
+  "1) a cord, rope, territory, band, company",
+  "1a) a rope, cord",
+  "1b) a measuring-cord or line",
+  "1c) a measured portion, lot, part, region",
+  "1d) a band or company",
+  "2) pain, sorrow, travail, pang",
+  "2a) pains of travail",
+  "2b) pains, pangs, sorrows",
+  "3) union",
+  "4) destruction"
+ ],
+ "kjv": "band, coast, company, cord, country, destruction, line, lot, pain, pang, portion, region, rope, snare, sorrow, tackling.",
+ "expl": "a rope (as twisted), especially a measuring line; by implication, a district or inheritance (as measured); or a noose (as of cords); figuratively, a company (as if tied together); also a throe (especially of parturition); also ruin",
+ "etim": "or ; from ;",
+ "raices": [
+  "H2254"
+ ],
+ "ocurrencias": 62,
+ "formas": [
+  {
+   "forma": "חבל",
+   "forma_he": "חָבֹ֥ל",
+   "n": 16,
+   "ref": "shemot/22/25"
+  },
+  {
+   "forma": "חבלים",
+   "forma_he": "חֲבָלִים֙",
+   "n": 8,
+   "ref": "shmuel_b/8/2"
+  },
+  {
+   "forma": "חבלי",
+   "forma_he": "חַבְלֵֽי",
+   "n": 7,
+   "ref": "yehoshua/17/5"
+  },
+  {
+   "forma": "וחבלים",
+   "forma_he": "וַחֲבָלִ֣ים",
+   "n": 5,
+   "ref": "mlakhim_a/20/31"
+  },
+  {
+   "forma": "בחבל",
+   "forma_he": "בַּחֶ֖בֶל",
+   "n": 4,
+   "ref": "yehoshua/2/15"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HNcbpc",
+  "HR/Ncbpa",
+  "HNcbpa",
+  "HR/Ncbpc"
+ ],
+ "glosa_es": ""
+}

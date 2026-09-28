@@ -1,0 +1,60 @@
+{
+ "strong": "H6467",
+ "he": "פעל",
+ "xlit": "pôʻal",
+ "pron": "po'-al",
+ "def_en": [
+  "1) work, deed, doing",
+  "1a) deed, thing done",
+  "1b) work, thing made",
+  "1c) wages of work",
+  "1d) acquisition (of treasure)"
+ ],
+ "kjv": "act, deed, do, getting, maker, work.",
+ "expl": "an act or work (concretely)",
+ "etim": "from ;",
+ "raices": [
+  "H6466"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "פעל",
+   "forma_he": "פָּ֖עַל",
+   "n": 7,
+   "ref": "bamidbar/23/23"
+  },
+  {
+   "forma": "פעלו",
+   "forma_he": "פָּעֳל֔וֹ",
+   "n": 6,
+   "ref": "devarim/32/4"
+  },
+  {
+   "forma": "פעלך",
+   "forma_he": "פָּֽעָלְךָ֙",
+   "n": 5,
+   "ref": "chavakuk/3/2"
+  },
+  {
+   "forma": "ופעל",
+   "forma_he": "וּפֹ֥עַל",
+   "n": 2,
+   "ref": "devarim/33/11"
+  },
+  {
+   "forma": "פעלים",
+   "forma_he": "פְּעָלִ֖ים",
+   "n": 2,
+   "ref": "shmuel_b/23/20"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HNcmsc/Sp2ms",
+  "HR/Ncmsc/Sp3mp",
+  "HR/Ncmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

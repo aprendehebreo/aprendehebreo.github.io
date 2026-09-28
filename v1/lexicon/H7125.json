@@ -1,0 +1,60 @@
+{
+ "strong": "H7125",
+ "he": "קראה",
+ "xlit": "qirʼâh",
+ "pron": "keer-aw'",
+ "def_en": [
+  "n m",
+  "1) (BDB) to encounter, befall, meet",
+  "1a) (Qal)",
+  "1a1) to meet, encounter",
+  "1a2) to befall (fig)"
+ ],
+ "kjv": "[idiom] against (he come), help, meet, seek, [idiom] to, [idiom] in the way.",
+ "expl": "an encountering, accidental, friendly or hostile (also adverbially, opposite)",
+ "etim": "from ;",
+ "raices": [
+  "H7122"
+ ],
+ "ocurrencias": 100,
+ "formas": [
+  {
+   "forma": "לקראת",
+   "forma_he": "לִקְרַ֣את",
+   "n": 40,
+   "ref": "bereshit/15/10"
+  },
+  {
+   "forma": "לקראתו",
+   "forma_he": "לִקְרָאתוֹ֒",
+   "n": 25,
+   "ref": "bereshit/14/17"
+  },
+  {
+   "forma": "לקראתם",
+   "forma_he": "לִקְרָאתָם֙",
+   "n": 14,
+   "ref": "bereshit/18/2"
+  },
+  {
+   "forma": "לקראתנו",
+   "forma_he": "לִקְרָאתֵ֔נוּ",
+   "n": 6,
+   "ref": "bereshit/24/65"
+  },
+  {
+   "forma": "לקראתך",
+   "forma_he": "לִקְרָֽאתְךָ֔",
+   "n": 5,
+   "ref": "bereshit/32/7"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HR/Vqc/Sp3ms",
+  "HR/Vqc/Sp3mp",
+  "HR/Vqc/Sp1cp",
+  "HR/Vqc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

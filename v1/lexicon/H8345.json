@@ -1,0 +1,58 @@
+{
+ "strong": "H8345",
+ "he": "ששי",
+ "xlit": "shishshîy",
+ "pron": "shish-shee'",
+ "def_en": [
+  "1) sixth",
+  "1a) sixth (ordinal number)",
+  "1b) sixth (as fraction)"
+ ],
+ "kjv": "sixth (part).",
+ "expl": "sixth, ord. or (feminine) fractional",
+ "etim": "from ;",
+ "raices": [
+  "H8337"
+ ],
+ "ocurrencias": 28,
+ "formas": [
+  {
+   "forma": "הששי",
+   "forma_he": "הַשִּׁשִּֽׁי",
+   "n": 18,
+   "ref": "bereshit/1/31"
+  },
+  {
+   "forma": "הששית",
+   "forma_he": "הַשִּׁשִּׁ֔ית",
+   "n": 3,
+   "ref": "shemot/26/9"
+  },
+  {
+   "forma": "ששית",
+   "forma_he": "שִׁשִּׁ֣ית",
+   "n": 3,
+   "ref": "yechezkel/4/11"
+  },
+  {
+   "forma": "בששי",
+   "forma_he": "בַּשִּׁשִּׁי֙",
+   "n": 2,
+   "ref": "yechezkel/8/1"
+  },
+  {
+   "forma": "ששי",
+   "forma_he": "שִׁשִּׁ֖י",
+   "n": 1,
+   "ref": "bereshit/30/19"
+  }
+ ],
+ "morph": [
+  "HTd/Aomsa",
+  "HTd/Aofsa",
+  "HRd/Aomsa",
+  "HAofsc",
+  "HAomsa"
+ ],
+ "glosa_es": ""
+}

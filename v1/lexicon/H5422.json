@@ -1,0 +1,61 @@
+{
+ "strong": "H5422",
+ "he": "נתץ",
+ "xlit": "nâthats",
+ "pron": "naw-thats'",
+ "def_en": [
+  "1) to pull down, break down, cast down, throw down, beat down, destroy, overthrow, break out (teeth)",
+  "1a) (Qal)",
+  "1a1) to pull down",
+  "1a2) to break down, break off",
+  "1b) (Niphal) to be pulled or broken down",
+  "1c) (Piel) to tear down",
+  "1d) (Pual) to be torn down",
+  "1e) (Hophal) to be broken, be broken down"
+ ],
+ "kjv": "beat down, break down (out), cast down, destroy, overthrow, pull down, throw down.",
+ "expl": "to tear down",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "נתץ",
+   "forma_he": "נֻתַּץ֙",
+   "n": 9,
+   "ref": "shoftim/6/28"
+  },
+  {
+   "forma": "נתצו",
+   "forma_he": "נָֽתְצוּ֙",
+   "n": 5,
+   "ref": "mlakhim_b/25/10"
+  },
+  {
+   "forma": "ולנתוץ",
+   "forma_he": "וְלִנְת֖וֹץ",
+   "n": 3,
+   "ref": "yirmiyahu/1/10"
+  },
+  {
+   "forma": "וינתצו",
+   "forma_he": "וַיְנַתְּצ֣וּ",
+   "n": 3,
+   "ref": "divrei_hayamim_b/31/1"
+  },
+  {
+   "forma": "תתצון",
+   "forma_he": "תִּתֹּצ֔וּן",
+   "n": 2,
+   "ref": "shemot/34/13"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqp3cp",
+  "HC/R/Vqc",
+  "HC/Vpw3mp",
+  "HVqi2mp/Sn"
+ ],
+ "glosa_es": ""
+}

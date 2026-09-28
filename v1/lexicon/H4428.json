@@ -1,0 +1,56 @@
+{
+ "strong": "H4428",
+ "he": "מלך",
+ "xlit": "melek",
+ "pron": "meh'-lek",
+ "def_en": [
+  "1) king"
+ ],
+ "kjv": "king, royal.",
+ "expl": "a king",
+ "etim": "from ;",
+ "raices": [
+  "H4427"
+ ],
+ "ocurrencias": 2526,
+ "formas": [
+  {
+   "forma": "המלך",
+   "forma_he": "הַמֶּֽלֶךְ",
+   "n": 1046,
+   "ref": "bereshit/14/17"
+  },
+  {
+   "forma": "מלך",
+   "forma_he": "מֶֽלֶךְ",
+   "n": 899,
+   "ref": "bereshit/14/1"
+  },
+  {
+   "forma": "למלך",
+   "forma_he": "לְמֶ֥לֶךְ",
+   "n": 151,
+   "ref": "bereshit/40/1"
+  },
+  {
+   "forma": "מלכי",
+   "forma_he": "מַלְכֵ֥י",
+   "n": 117,
+   "ref": "bereshit/17/16"
+  },
+  {
+   "forma": "מלכים",
+   "forma_he": "מְלָכִ֖ים",
+   "n": 40,
+   "ref": "bereshit/14/9"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HNcmsa",
+  "HNcmpc",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": "rey"
+}

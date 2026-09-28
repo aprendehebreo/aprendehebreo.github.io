@@ -1,0 +1,58 @@
+{
+ "strong": "H7611",
+ "he": "שארית",
+ "xlit": "shᵉʼêrîyth",
+ "pron": "sheh-ay-reeth'",
+ "def_en": [
+  "1) rest, residue, remainder, remnant",
+  "1a) rest, what is left",
+  "1b) remainder, descendants"
+ ],
+ "kjv": "that had escaped, be left, posterity, remain(-der), remnant, residue, rest.",
+ "expl": "a remainder or residual (surviving, final) portion",
+ "etim": "from ;",
+ "raices": [
+  "H7604"
+ ],
+ "ocurrencias": 66,
+ "formas": [
+  {
+   "forma": "שארית",
+   "forma_he": "שְׁאֵרִ֖ית",
+   "n": 46,
+   "ref": "bereshit/45/7"
+  },
+  {
+   "forma": "לשארית",
+   "forma_he": "לִשְׁאֵרִ֣ית",
+   "n": 7,
+   "ref": "yirmiyahu/44/14"
+  },
+  {
+   "forma": "השארית",
+   "forma_he": "הַשְּׁאֵרִ֖ית",
+   "n": 5,
+   "ref": "mlakhim_b/19/4"
+  },
+  {
+   "forma": "ושארית",
+   "forma_he": "וּשְׁאֵרִ֖ית",
+   "n": 2,
+   "ref": "shmuel_b/14/7"
+  },
+  {
+   "forma": "ושאריתך",
+   "forma_he": "וּשְׁאֵרִיתֵ֖ךְ",
+   "n": 1,
+   "ref": "yeshayahu/14/30"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HNcfsa",
+  "HR/Ncfsc",
+  "HTd/Ncfsa",
+  "HC/Ncfsa"
+ ],
+ "glosa_es": ""
+}

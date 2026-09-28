@@ -1,0 +1,59 @@
+{
+ "strong": "H3644",
+ "he": "כמו",
+ "xlit": "kᵉmôw",
+ "pron": "kem-o'",
+ "def_en": [
+  "adv",
+  "1) like, as, the like of which",
+  "conj",
+  "2) when, according as, as it were"
+ ],
+ "kjv": "according to, (such) as (it were, well as), in comparison of, like (as, to, unto), thus, when, worth.",
+ "expl": "a form of the prefix 'k-', but used separately as, thus, so",
+ "etim": "or ; (compare );",
+ "raices": [
+  "H3651"
+ ],
+ "ocurrencias": 142,
+ "formas": [
+  {
+   "forma": "כמו",
+   "forma_he": "כְּמוֹ",
+   "n": 56,
+   "ref": "shemot/15/5"
+  },
+  {
+   "forma": "כמוך",
+   "forma_he": "כָּמֽוֹךָ",
+   "n": 29,
+   "ref": "bereshit/41/39"
+  },
+  {
+   "forma": "כמהו",
+   "forma_he": "כָמֹ֨הוּ֙",
+   "n": 22,
+   "ref": "shemot/9/18"
+  },
+  {
+   "forma": "כמוני",
+   "forma_he": "כָמֽוֹנִי",
+   "n": 13,
+   "ref": "shoftim/9/48"
+  },
+  {
+   "forma": "כמני",
+   "forma_he": "כָּמֹֽנִי",
+   "n": 4,
+   "ref": "bereshit/44/15"
+  }
+ ],
+ "morph": [
+  "HR",
+  "HR/Sp2ms",
+  "HR/Sp3ms",
+  "HR/Sp1cs",
+  "HR/Sp1cp"
+ ],
+ "glosa_es": ""
+}

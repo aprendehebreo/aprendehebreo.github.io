@@ -1,0 +1,59 @@
+{
+ "strong": "H7355",
+ "he": "רחם",
+ "xlit": "râcham",
+ "pron": "raw-kham'",
+ "def_en": [
+  "1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion",
+  "1a) (Qal) to love",
+  "1b) (Piel)",
+  "1b1) to have compassion, be compassionate",
+  "1b1a) of God, man",
+  "1c) (Pual) to be shown compassion, be compassionate"
+ ],
+ "kjv": "have compassion (on, upon), love, (find, have, obtain, shew) mercy(-iful, on, upon), (have) pity, Ruhamah, [idiom] surely.",
+ "expl": "to fondle; by implication, to love, especially to compassionate",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "ארחם",
+   "forma_he": "אֲרַחֵֽם",
+   "n": 6,
+   "ref": "shemot/33/19"
+  },
+  {
+   "forma": "ירחם",
+   "forma_he": "יְרֹחָ֧ם",
+   "n": 6,
+   "ref": "shmuel_a/1/1"
+  },
+  {
+   "forma": "ורחמתי",
+   "forma_he": "וְרִחַמְתִּ֖י",
+   "n": 3,
+   "ref": "shemot/33/19"
+  },
+  {
+   "forma": "ירחמו",
+   "forma_he": "יְרַחֵ֔מוּ",
+   "n": 3,
+   "ref": "yeshayahu/13/18"
+  },
+  {
+   "forma": "רחם",
+   "forma_he": "רֶ֖חֶם",
+   "n": 3,
+   "ref": "bereshit/20/18"
+  }
+ ],
+ "morph": [
+  "HVpi1cs",
+  "HVpi3ms",
+  "HC/Vpq1cs",
+  "HVpi3mp",
+  "HC/Vpq3ms/Sp2ms"
+ ],
+ "glosa_es": ""
+}

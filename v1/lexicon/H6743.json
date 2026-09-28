@@ -1,0 +1,59 @@
+{
+ "strong": "H6743",
+ "he": "צלח",
+ "xlit": "tsâlach",
+ "pron": "tsaw-lakh'",
+ "def_en": [
+  "1) (Qal) to rush",
+  "2) to advance, prosper, make progress, succeed, be profitable",
+  "2a) (Qal) to prosper",
+  "2b) (Hiphil)",
+  "2b1) to make prosperous, bring to successful issue, cause to prosper",
+  "2b2) to show or experience prosperity, prosper"
+ ],
+ "kjv": "break out, come (mightily), go over, be good, be meet, be profitable, (cause to, effect, make to, send) prosper(-ity, -ous, -ously).",
+ "expl": "to push forward, in various senses (literal or figurative, transitive or intransitive)",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "והצליח",
+   "forma_he": "וְהִצְלִ֣יחַ",
+   "n": 7,
+   "ref": "bereshit/24/40"
+  },
+  {
+   "forma": "ותצלח",
+   "forma_he": "וַתִּצְלַ֨ח",
+   "n": 7,
+   "ref": "shoftim/14/6"
+  },
+  {
+   "forma": "יצלח",
+   "forma_he": "יִצְלָֽח",
+   "n": 7,
+   "ref": "yeshayahu/53/10"
+  },
+  {
+   "forma": "מצליח",
+   "forma_he": "מַצְלִ֣יחַ",
+   "n": 4,
+   "ref": "bereshit/24/42"
+  },
+  {
+   "forma": "תצלח",
+   "forma_he": "תִצְלָֽח",
+   "n": 3,
+   "ref": "bamidbar/14/41"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3fs",
+  "HVqi3ms",
+  "HC/Vhq3ms",
+  "HVhrmsa",
+  "HVqi3fs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H3097",
+ "he": "יואב",
+ "xlit": "Yôwʼâb",
+ "pron": "yo-awb'",
+ "def_en": [
+  "Joab = \"Jehovah is father\"",
+  "1) son of David's sister Zeruiah and general of David's army",
+  "2) a Judaite descendant of Kenaz",
+  "3) a post exilic family"
+ ],
+ "kjv": "Joab.",
+ "expl": "Joab, the name of three Israelites",
+ "etim": "from and ; Jehovah-fathered;",
+ "raices": [
+  "H3068",
+  "H1"
+ ],
+ "ocurrencias": 145,
+ "formas": [
+  {
+   "forma": "יואב",
+   "forma_he": "יוֹאָב֙",
+   "n": 123,
+   "ref": "shmuel_a/26/6"
+  },
+  {
+   "forma": "ויואב",
+   "forma_he": "וְיוֹאָ֨ב",
+   "n": 15,
+   "ref": "shmuel_b/2/13"
+  },
+  {
+   "forma": "ליואב",
+   "forma_he": "לְיוֹאָב֙",
+   "n": 4,
+   "ref": "shmuel_b/3/23"
+  },
+  {
+   "forma": "ביואב",
+   "forma_he": "בְּיוֹאָ֛ב",
+   "n": 1,
+   "ref": "shmuel_b/20/11"
+  },
+  {
+   "forma": "וליאב",
+   "forma_he": "וּלְיֹאָ֖ב",
+   "n": 1,
+   "ref": "mlakhim_a/1/19"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

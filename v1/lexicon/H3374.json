@@ -1,0 +1,60 @@
+{
+ "strong": "H3374",
+ "he": "יראה",
+ "xlit": "yirʼâh",
+ "pron": "yir-aw'",
+ "def_en": [
+  "1) fear, terror, fearing",
+  "1a) fear, terror",
+  "1b) awesome or terrifying thing (object causing fear)",
+  "1c) fear (of God), respect, reverence, piety",
+  "1d) revered"
+ ],
+ "kjv": "[idiom] dreadful, [idiom] exceedingly, fear(-fulness).",
+ "expl": "fear (also used as infinitive); morally, reverence",
+ "etim": "feminine of ;",
+ "raices": [
+  "H3373"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "יראת",
+   "forma_he": "יִרְאַ֣ת",
+   "n": 18,
+   "ref": "bereshit/20/11"
+  },
+  {
+   "forma": "ביראת",
+   "forma_he": "בְּיִרְאַ֣ת",
+   "n": 6,
+   "ref": "yeshayahu/11/3"
+  },
+  {
+   "forma": "ויראת",
+   "forma_he": "וְיָרֵ֥אתָ",
+   "n": 3,
+   "ref": "vayikra/19/14"
+  },
+  {
+   "forma": "יראה",
+   "forma_he": "יָרֵ֑אָה",
+   "n": 3,
+   "ref": "bereshit/18/15"
+  },
+  {
+   "forma": "יראתו",
+   "forma_he": "יִרְאָת֛וֹ",
+   "n": 1,
+   "ref": "shemot/20/20"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HR/Ncfsc",
+  "HC/Ncfsc",
+  "HR/Ncfsc/Sp2ms",
+  "HNcfsa"
+ ],
+ "glosa_es": ""
+}

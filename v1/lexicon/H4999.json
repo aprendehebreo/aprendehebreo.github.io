@@ -1,0 +1,37 @@
+{
+ "strong": "H4999",
+ "he": "נאה",
+ "xlit": "nâʼâh",
+ "pron": "naw-aw'",
+ "def_en": [
+  "1) pasture, abode, abode of shepherd, habitation, meadow",
+  "1a) pasture, meadow",
+  "1b) abode"
+ ],
+ "kjv": "habitation, house, pasture, pleasant place.",
+ "expl": "a home; figuratively, a pasture",
+ "etim": "from ;",
+ "raices": [
+  "H4998"
+ ],
+ "ocurrencias": 12,
+ "formas": [
+  {
+   "forma": "נאות",
+   "forma_he": "נֵא֣וֹת",
+   "n": 11,
+   "ref": "bereshit/34/15"
+  },
+  {
+   "forma": "בנאות",
+   "forma_he": "בִּנְא֣וֹת",
+   "n": 1,
+   "ref": "tehilim/23/2"
+  }
+ ],
+ "morph": [
+  "HNcfpc",
+  "HR/Ncfpc"
+ ],
+ "glosa_es": ""
+}

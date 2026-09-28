@@ -1,0 +1,58 @@
+{
+ "strong": "H2282",
+ "he": "חג",
+ "xlit": "chag",
+ "pron": "khag",
+ "def_en": [
+  "1) festival, feast, festival-gathering, pilgrim-feast",
+  "1a) feast",
+  "1b) festival sacrifice"
+ ],
+ "kjv": "(solemn) feast (day), sacrifice, solemnity.",
+ "expl": "a festival, or a victim therefor",
+ "etim": "or ; from ;",
+ "raices": [
+  "H2287"
+ ],
+ "ocurrencias": 62,
+ "formas": [
+  {
+   "forma": "חג",
+   "forma_he": "חַג",
+   "n": 31,
+   "ref": "shemot/10/9"
+  },
+  {
+   "forma": "בחג",
+   "forma_he": "בְּחַ֧ג",
+   "n": 7,
+   "ref": "devarim/16/16"
+  },
+  {
+   "forma": "וחג",
+   "forma_he": "וְחַ֤ג",
+   "n": 4,
+   "ref": "shemot/23/16"
+  },
+  {
+   "forma": "ובחג",
+   "forma_he": "וּבְחַ֥ג",
+   "n": 4,
+   "ref": "devarim/16/16"
+  },
+  {
+   "forma": "החג",
+   "forma_he": "הֶחָ֡ג",
+   "n": 3,
+   "ref": "mlakhim_a/8/65"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HC/Ncmsc",
+  "HC/R/Ncmsc"
+ ],
+ "glosa_es": ""
+}

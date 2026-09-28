@@ -1,0 +1,58 @@
+{
+ "strong": "H6833",
+ "he": "צפור",
+ "xlit": "tsippôwr",
+ "pron": "tsip-pore'",
+ "def_en": [
+  "1) bird, fowl",
+  "1a) bird (singular)",
+  "1b) birds (coll)"
+ ],
+ "kjv": "bird, fowl, sparrow.",
+ "expl": "a little bird (as hopping)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6852"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "צפור",
+   "forma_he": "צִפּ֥וֹר",
+   "n": 11,
+   "ref": "bereshit/7/14"
+  },
+  {
+   "forma": "הצפר",
+   "forma_he": "הַצִפֹּ֖ר",
+   "n": 9,
+   "ref": "bereshit/15/10"
+  },
+  {
+   "forma": "כצפור",
+   "forma_he": "כְצִפּוֹר֙",
+   "n": 7,
+   "ref": "hoshea/11/11"
+  },
+  {
+   "forma": "צפרים",
+   "forma_he": "צִפֳּרִ֥ים",
+   "n": 3,
+   "ref": "vayikra/14/4"
+  },
+  {
+   "forma": "הצפור",
+   "forma_he": "הַצִּפּ֣וֹר",
+   "n": 3,
+   "ref": "vayikra/14/5"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HNcbsa",
+  "HR/Ncbsa",
+  "HNcbsc",
+  "HNcbpa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H4631",
+ "he": "מערה",
+ "xlit": "mᵉʻârâh",
+ "pron": "meh-aw-raw'",
+ "def_en": [
+  "1) cave, den, hole"
+ ],
+ "kjv": "cave, den, hole.",
+ "expl": "a cavern (as dark)",
+ "etim": "from ;",
+ "raices": [
+  "H5783"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "המערה",
+   "forma_he": "הַ֨מְּעָרָ֔ה",
+   "n": 11,
+   "ref": "bereshit/49/29"
+  },
+  {
+   "forma": "במערה",
+   "forma_he": "בַּמְּעָרָ֔ה",
+   "n": 9,
+   "ref": "bereshit/19/30"
+  },
+  {
+   "forma": "מערת",
+   "forma_he": "מְעָרַ֤ת",
+   "n": 6,
+   "ref": "bereshit/23/9"
+  },
+  {
+   "forma": "והמערה",
+   "forma_he": "וְהַמְּעָרָ֥ה",
+   "n": 4,
+   "ref": "bereshit/23/11"
+  },
+  {
+   "forma": "במערות",
+   "forma_he": "בַּמְּעָר֤וֹת",
+   "n": 2,
+   "ref": "shmuel_a/13/6"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HRd/Ncfsa",
+  "HNcfsc",
+  "HC/Td/Ncfsa",
+  "HR/Td/Ncfsa"
+ ],
+ "glosa_es": ""
+}

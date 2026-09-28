@@ -1,0 +1,57 @@
+{
+ "strong": "H2029",
+ "he": "הרה",
+ "xlit": "hârâh",
+ "pron": "haw-raw'",
+ "def_en": [
+  "1) to conceive, become pregnant, bear, be with child, be conceived, progenitor",
+  "1a)(Qal) to conceive, become pregnant",
+  "1b) (Pual) to be conceived",
+  "1c) (Poel) to conceive, contrive, devise"
+ ],
+ "kjv": "been, be with child, conceive, progenitor.",
+ "expl": "to be (or become) pregnant, conceive (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 43,
+ "formas": [
+  {
+   "forma": "ותהר",
+   "forma_he": "וַתַּ֨הַר֙",
+   "n": 28,
+   "ref": "bereshit/4/1"
+  },
+  {
+   "forma": "הרתה",
+   "forma_he": "הָרָ֔תָה",
+   "n": 2,
+   "ref": "bereshit/16/4"
+  },
+  {
+   "forma": "הרו",
+   "forma_he": "הָר֥וֹ",
+   "n": 2,
+   "ref": "yeshayahu/59/4"
+  },
+  {
+   "forma": "הרה",
+   "forma_he": "הֶ֥רָה",
+   "n": 2,
+   "ref": "bereshit/14/10"
+  },
+  {
+   "forma": "ותהרין",
+   "forma_he": "וַֽתַּהֲרֶ֛יןָ",
+   "n": 1,
+   "ref": "bereshit/19/36"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3fs",
+  "HVqp3fs",
+  "HVqa",
+  "HC/Vqw3fp",
+  "HVqrmpc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

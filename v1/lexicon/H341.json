@@ -1,0 +1,58 @@
+{
+ "strong": "H341",
+ "he": "איב",
+ "xlit": "ʼôyêb",
+ "pron": "o-yabe'",
+ "def_en": [
+  "1) (Qal) enemy",
+  "1a) personal",
+  "1b) national"
+ ],
+ "kjv": "enemy, foe.",
+ "expl": "hating; an adversary",
+ "etim": "or (fully) ; active participle of ;",
+ "raices": [
+  "H340"
+ ],
+ "ocurrencias": 284,
+ "formas": [
+  {
+   "forma": "אויב",
+   "forma_he": "אוֹיֵֽב",
+   "n": 38,
+   "ref": "shemot/15/6"
+  },
+  {
+   "forma": "איביך",
+   "forma_he": "אֹיְבֶ֑יךָ",
+   "n": 33,
+   "ref": "bereshit/49/8"
+  },
+  {
+   "forma": "איבי",
+   "forma_he": "אֹיְבַי֙",
+   "n": 32,
+   "ref": "bamidbar/23/11"
+  },
+  {
+   "forma": "איביהם",
+   "forma_he": "אֹיְבֵיהֶ֑ם",
+   "n": 27,
+   "ref": "vayikra/26/36"
+  },
+  {
+   "forma": "איביכם",
+   "forma_he": "אֹיְבֵיכֶ֑ם",
+   "n": 20,
+   "ref": "vayikra/26/7"
+  }
+ ],
+ "morph": [
+  "HVqrmpc/Sp2ms",
+  "HVqrmsa",
+  "HVqrmpc/Sp3mp",
+  "HVqrmpc/Sp1cs",
+  "HVqrmpc/Sp3ms"
+ ],
+ "glosa_es": "enemigo"
+}

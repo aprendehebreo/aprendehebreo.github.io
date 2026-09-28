@@ -1,0 +1,58 @@
+{
+ "strong": "H441",
+ "he": "אלוף",
+ "xlit": "ʼallûwph",
+ "pron": "al-loof'",
+ "def_en": [
+  "1) tame, docile",
+  "2) friend, intimate",
+  "3) chief"
+ ],
+ "kjv": "captain, duke, (chief) friend, governor, guide, ox.",
+ "expl": "familiar; a friend, also gentle; hence, a bullock (as being tame; applied, although masculine, to a cow); and so, a chieftain (as notable, like neat cattle)",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H502"
+ ],
+ "ocurrencias": 69,
+ "formas": [
+  {
+   "forma": "אלוף",
+   "forma_he": "אַלּ֤וּף",
+   "n": 48,
+   "ref": "bereshit/36/15"
+  },
+  {
+   "forma": "אלופי",
+   "forma_he": "אַלּוּפֵ֣י",
+   "n": 13,
+   "ref": "bereshit/36/15"
+  },
+  {
+   "forma": "אלפי",
+   "forma_he": "אַלְפֵ֖י",
+   "n": 2,
+   "ref": "shemot/32/28"
+  },
+  {
+   "forma": "אלופיהם",
+   "forma_he": "אַלּוּפֵיהֶ֖ם",
+   "n": 1,
+   "ref": "bereshit/36/19"
+  },
+  {
+   "forma": "לאלפיהם",
+   "forma_he": "לְאַלֻּפֵיהֶ֖ם",
+   "n": 1,
+   "ref": "bereshit/36/30"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpc",
+  "HAamsa",
+  "HNcmpc/Sp3mp",
+  "HR/Ncmpc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H3808",
+ "he": "לא",
+ "xlit": "lôʼ",
+ "pron": "lo",
+ "def_en": [
+  "1) not, no",
+  "1a) not (with verb-absolute prohibition)",
+  "1b) not (with modifier-negation)",
+  "1c) nothing (subst)",
+  "1d) without (with particle)",
+  "1e) before (of time)"
+ ],
+ "kjv": "[idiom] before, [phrase] or else, ere, [phrase] except, ig(-norant), much, less, nay, neither, never, no((-ne), -r, (-thing)), ([idiom] as though...,(can-), for) not (out of), of nought, otherwise, out of, [phrase] surely, [phrase] as truly as, [phrase] of a truth, [phrase] verily, for want, [phrase] whether, without.",
+ "expl": "not (the simple or abs. negation); by implication, no; often used with other particles",
+ "etim": "or ; or ; (Deuteronomy 3:11), a primitive particle;",
+ "raices": [],
+ "ocurrencias": 5191,
+ "formas": [
+  {
+   "forma": "לא",
+   "forma_he": "לֹ֨א",
+   "n": 3251,
+   "ref": "bereshit/2/5"
+  },
+  {
+   "forma": "ולא",
+   "forma_he": "וְלֹ֖א",
+   "n": 1586,
+   "ref": "bereshit/2/25"
+  },
+  {
+   "forma": "הלוא",
+   "forma_he": "הֲל֤וֹא",
+   "n": 147,
+   "ref": "bereshit/4/7"
+  },
+  {
+   "forma": "הלא",
+   "forma_he": "הֲלֹ֤א",
+   "n": 124,
+   "ref": "bereshit/13/9"
+  },
+  {
+   "forma": "לוא",
+   "forma_he": "ל֤וֹא",
+   "n": 25,
+   "ref": "bereshit/31/35"
+  }
+ ],
+ "morph": [
+  "HTn",
+  "HC/Tn",
+  "HTi/Tn",
+  "HR/Tn",
+  "HTr/Tn"
+ ],
+ "glosa_es": "no; nada"
+}

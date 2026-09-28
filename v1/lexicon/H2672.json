@@ -1,0 +1,64 @@
+{
+ "strong": "H2672",
+ "he": "חצב",
+ "xlit": "châtsab",
+ "pron": "khaw-tsab'",
+ "def_en": [
+  "1) to dig, cleave, divide, hew, make, cut out, dig out, cut down, quarry, hewer, mason",
+  "1a) (Qal)",
+  "1a1) to hew out, dig",
+  "1a2) to hew",
+  "1a2a) stone",
+  "1a2b) wood",
+  "1a3) to hew in pieces (metaph.)",
+  "1a4) to divide, cleave",
+  "1b) (Niphal) to be cut, be hewn, be engraved",
+  "1c) (Hiphil) to hew into pieces, cut up into pieces",
+  "1d) (Pual) to be cut from, be hewn from"
+ ],
+ "kjv": "cut, dig, divide, grave, hew (out, -er), made, mason.",
+ "expl": "to cut or carve (wood, stone or other material); by implication, to hew, split, square, quarry, engrave",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 25,
+ "formas": [
+  {
+   "forma": "חצב",
+   "forma_he": "חֹצֵ֥ב",
+   "n": 5,
+   "ref": "mlakhim_a/5/29"
+  },
+  {
+   "forma": "חצבים",
+   "forma_he": "חֹֽצְבִ֗ים",
+   "n": 3,
+   "ref": "divrei_hayamim_a/22/2"
+  },
+  {
+   "forma": "חצובים",
+   "forma_he": "חֲצוּבִים֙",
+   "n": 2,
+   "ref": "devarim/6/11"
+  },
+  {
+   "forma": "חצבת",
+   "forma_he": "חָצַ֔בְתָּ",
+   "n": 2,
+   "ref": "devarim/6/11"
+  },
+  {
+   "forma": "תחצב",
+   "forma_he": "תַּחְצֹ֥ב",
+   "n": 1,
+   "ref": "devarim/8/9"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HVqrmpa",
+  "HVqsmpa",
+  "HVqp2ms",
+  "HR/Vqc"
+ ],
+ "glosa_es": ""
+}

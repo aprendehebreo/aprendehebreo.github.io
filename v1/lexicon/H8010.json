@@ -1,0 +1,57 @@
+{
+ "strong": "H8010",
+ "he": "שלמה",
+ "xlit": "Shᵉlômôh",
+ "pron": "shel-o-mo'",
+ "def_en": [
+  "Solomon = \"peace\"",
+  "1) son of David by Bathsheba and 3rd king of Israel; author of Proverbs and Song of Songs"
+ ],
+ "kjv": "Solomon.",
+ "expl": "Shelomah, David's successor",
+ "etim": "from ; peaceful;",
+ "raices": [
+  "H7965"
+ ],
+ "ocurrencias": 293,
+ "formas": [
+  {
+   "forma": "שלמה",
+   "forma_he": "שַׂלְמָ֜ה",
+   "n": 242,
+   "ref": "shemot/22/8"
+  },
+  {
+   "forma": "לשלמה",
+   "forma_he": "לִשְׁלֹמֹה֙",
+   "n": 35,
+   "ref": "mlakhim_a/1/51"
+  },
+  {
+   "forma": "ושלמה",
+   "forma_he": "וּשְׁלֹמֹֽה",
+   "n": 7,
+   "ref": "shmuel_b/5/14"
+  },
+  {
+   "forma": "ולשלמה",
+   "forma_he": "וְלִשְׁלֹמֹ֥ה",
+   "n": 5,
+   "ref": "mlakhim_a/1/19"
+  },
+  {
+   "forma": "בשלמה",
+   "forma_he": "בִּשְׁלֹמֹ֑ה",
+   "n": 2,
+   "ref": "mlakhim_a/11/9"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np",
+  "HTr/R/Np"
+ ],
+ "glosa_es": "Salomón"
+}

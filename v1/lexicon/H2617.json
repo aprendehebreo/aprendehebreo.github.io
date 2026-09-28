@@ -1,0 +1,57 @@
+{
+ "strong": "H2617",
+ "he": "חסד",
+ "xlit": "chêçêd",
+ "pron": "kheh'-sed",
+ "def_en": [
+  "1) goodness, kindness, faithfulness",
+  "2) a reproach, shame"
+ ],
+ "kjv": "favour, good deed(-liness, -ness), kindly, (loving-) kindness, merciful (kindness), mercy, pity, reproach, wicked thing.",
+ "expl": "kindness; by implication (towards God) piety; rarely (by opposition) reproof, or (subject.) beauty",
+ "etim": "from ;",
+ "raices": [
+  "H2616"
+ ],
+ "ocurrencias": 251,
+ "formas": [
+  {
+   "forma": "חסד",
+   "forma_he": "חֶ֕סֶד",
+   "n": 78,
+   "ref": "bereshit/24/12"
+  },
+  {
+   "forma": "חסדו",
+   "forma_he": "חַסְדּ֛וֹ",
+   "n": 61,
+   "ref": "bereshit/24/27"
+  },
+  {
+   "forma": "חסדך",
+   "forma_he": "חַסְדְּךָ֗",
+   "n": 38,
+   "ref": "bereshit/19/19"
+  },
+  {
+   "forma": "חסדי",
+   "forma_he": "חַֽסְדֵ֥י",
+   "n": 10,
+   "ref": "yeshayahu/55/3"
+  },
+  {
+   "forma": "וחסד",
+   "forma_he": "וְחֶ֣סֶד",
+   "n": 10,
+   "ref": "zecharia/7/9"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp2ms",
+  "HR/Ncmsc/Sp2ms",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": "misericordia; bondad; lealtad"
+}

@@ -1,0 +1,62 @@
+{
+ "strong": "H1571",
+ "he": "גם",
+ "xlit": "gam",
+ "pron": "gam",
+ "def_en": [
+  "1) also, even, indeed, moreover, yea",
+  "1a) also, moreover (giving emphasis)",
+  "1b) neither, neither...nor (with negative)",
+  "1c) even (for stress)",
+  "1d) indeed, yea (introducing climax)",
+  "1e) also (of correspondence or retribution)",
+  "1f) but, yet, though (adversative)",
+  "1g) even, yea, yea though (with 'when' in hypothetical case)",
+  "2) (TWOT) again, alike"
+ ],
+ "kjv": "again, alike, also, (so much) as (soon), both (so)...and, but, either...or, even, for all, (in) likewise (manner), moreover, nay...neither, one, then(-refore), though, what, with, yea.",
+ "expl": "properly, assemblage; used only adverbially also, even, yea, though; often repeated as correl. both...and",
+ "etim": "by contraction from an unused root meaning to gather;",
+ "raices": [],
+ "ocurrencias": 769,
+ "formas": [
+  {
+   "forma": "גם",
+   "forma_he": "גַּם",
+   "n": 508,
+   "ref": "bereshit/3/6"
+  },
+  {
+   "forma": "וגם",
+   "forma_he": "וְגַ֣ם",
+   "n": 249,
+   "ref": "bereshit/6/4"
+  },
+  {
+   "forma": "הגם",
+   "forma_he": "הֲגַ֥ם",
+   "n": 8,
+   "ref": "bereshit/16/13"
+  },
+  {
+   "forma": "שגם",
+   "forma_he": "שֶׁגַּם",
+   "n": 3,
+   "ref": "kohelet/1/17"
+  },
+  {
+   "forma": "בשגם",
+   "forma_he": "בְּשַׁגַּ֖ם",
+   "n": 1,
+   "ref": "bereshit/6/3"
+  }
+ ],
+ "morph": [
+  "HTa",
+  "HC/Ta",
+  "HD",
+  "HTi/D",
+  "HTr/D"
+ ],
+ "glosa_es": "también; además"
+}

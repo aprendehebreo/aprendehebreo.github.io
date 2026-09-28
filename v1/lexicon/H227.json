@@ -1,0 +1,54 @@
+{
+ "strong": "H227",
+ "he": "אז",
+ "xlit": "ʼâz",
+ "pron": "awz",
+ "def_en": [
+  "1) then, at that time",
+  "1a) temporal expressions",
+  "1a1) then (past)",
+  "1a2) then, if...then (future)",
+  "1a3) earlier",
+  "1b) logical expressions",
+  "1b1) in that case",
+  "1b2) that (being so)"
+ ],
+ "kjv": "beginning, for, from, hitherto, now, of old, once, since, then, at which time, yet.",
+ "expl": "at that time or place; also as a conjunction, therefore",
+ "etim": "a demonstrative adverb;",
+ "raices": [],
+ "ocurrencias": 141,
+ "formas": [
+  {
+   "forma": "אז",
+   "forma_he": "אָ֣ז",
+   "n": 119,
+   "ref": "bereshit/4/26"
+  },
+  {
+   "forma": "מאז",
+   "forma_he": "מֵאָז֩",
+   "n": 17,
+   "ref": "bereshit/39/5"
+  },
+  {
+   "forma": "ואז",
+   "forma_he": "וְאָז֙",
+   "n": 4,
+   "ref": "shemot/12/48"
+  },
+  {
+   "forma": "ומאז",
+   "forma_he": "וּמֵאָ֞ז",
+   "n": 1,
+   "ref": "shemot/5/23"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HR/D",
+  "HC/D",
+  "HC/R/D"
+ ],
+ "glosa_es": ""
+}

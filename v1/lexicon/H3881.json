@@ -1,0 +1,58 @@
+{
+ "strong": "H3881",
+ "he": "לויי",
+ "xlit": "Lêvîyîy",
+ "pron": "lay-vee-ee'",
+ "def_en": [
+  "Levite = see Levi \"joined to\"",
+  "1) the descendants of Levi, the 3rd son of Jacob by Leah",
+  "1a) the tribe descended from Levi specially set aside by God for His service"
+ ],
+ "kjv": "Leviite.",
+ "expl": "a Levite or descendant of Levi",
+ "etim": "or ; patronymically from ;",
+ "raices": [
+  "H3878"
+ ],
+ "ocurrencias": 286,
+ "formas": [
+  {
+   "forma": "הלוים",
+   "forma_he": "הַלְוִיִּ֖ם",
+   "n": 147,
+   "ref": "shemot/6/25"
+  },
+  {
+   "forma": "והלוים",
+   "forma_he": "וְהַלְוִיִּ֖ם",
+   "n": 58,
+   "ref": "bamidbar/1/47"
+  },
+  {
+   "forma": "ללוים",
+   "forma_he": "לַלְוִיִּֽם",
+   "n": 34,
+   "ref": "vayikra/25/32"
+  },
+  {
+   "forma": "הלוי",
+   "forma_he": "הַלֵּוִ֔י",
+   "n": 21,
+   "ref": "shemot/4/14"
+  },
+  {
+   "forma": "וללוים",
+   "forma_he": "וְלַ֨לְוִיִּ֔ם",
+   "n": 9,
+   "ref": "yehoshua/14/3"
+  }
+ ],
+ "morph": [
+  "HTd/Ngmpa",
+  "HC/Td/Ngmpa",
+  "HRd/Ngmpa",
+  "HTd/Ngmsa",
+  "HC/Rd/Ngmpa"
+ ],
+ "glosa_es": "levitas"
+}

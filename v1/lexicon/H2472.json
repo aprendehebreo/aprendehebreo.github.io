@@ -1,0 +1,58 @@
+{
+ "strong": "H2472",
+ "he": "חלום",
+ "xlit": "chălôwm",
+ "pron": "khal-ome'",
+ "def_en": [
+  "1) dream",
+  "1a) dream (ordinary)",
+  "1b) dream (with prophetic meaning)"
+ ],
+ "kjv": "dream(-er).",
+ "expl": "a dream",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H2492"
+ ],
+ "ocurrencias": 64,
+ "formas": [
+  {
+   "forma": "חלום",
+   "forma_he": "חֲל֔וֹם",
+   "n": 18,
+   "ref": "bereshit/37/5"
+  },
+  {
+   "forma": "החלום",
+   "forma_he": "הַחֲל֥וֹם",
+   "n": 7,
+   "ref": "bereshit/37/6"
+  },
+  {
+   "forma": "בחלום",
+   "forma_he": "בַּחֲל֣וֹם",
+   "n": 6,
+   "ref": "bereshit/20/3"
+  },
+  {
+   "forma": "חלמו",
+   "forma_he": "חֲלֹמוֹ֙",
+   "n": 5,
+   "ref": "bereshit/40/5"
+  },
+  {
+   "forma": "חלמות",
+   "forma_he": "חֲלֹמ֥וֹת",
+   "n": 4,
+   "ref": "yirmiyahu/23/32"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

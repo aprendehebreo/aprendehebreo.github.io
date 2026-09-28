@@ -1,0 +1,56 @@
+{
+ "strong": "H5148",
+ "he": "נחה",
+ "xlit": "nâchâh",
+ "pron": "naw-khaw'",
+ "def_en": [
+  "1) to lead, guide",
+  "1a) (Qal) to lead, bring",
+  "1b) (Hiphil) to lead, guide"
+ ],
+ "kjv": "bestow, bring, govern, guide, lead (forth), put, straiten.",
+ "expl": "to guide; by implication, to transport (into exile, or as colonists)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "וינחם",
+   "forma_he": "וַיִּנָּ֣חֶם",
+   "n": 7,
+   "ref": "bereshit/6/6"
+  },
+  {
+   "forma": "תנחני",
+   "forma_he": "תַּֽנְחֵ֥נִי",
+   "n": 5,
+   "ref": "tehilim/31/4"
+  },
+  {
+   "forma": "נחני",
+   "forma_he": "נָחַ֣נִי",
+   "n": 4,
+   "ref": "bereshit/24/27"
+  },
+  {
+   "forma": "תנחם",
+   "forma_he": "תַּנְחֵ֣ם",
+   "n": 3,
+   "ref": "tehilim/67/5"
+  },
+  {
+   "forma": "נחית",
+   "forma_he": "נָחִ֥יתָ",
+   "n": 2,
+   "ref": "shemot/15/13"
+  }
+ ],
+ "morph": [
+  "HC/Vhw3ms/Sp3mp",
+  "HVhi2ms/Sp1cs",
+  "HVqp3ms/Sp1cs",
+  "HR/Vhc/Sp3mp",
+  "HVqp2ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H977",
+ "he": "בחר",
+ "xlit": "bâchar",
+ "pron": "baw-khar'",
+ "def_en": [
+  "1) to choose, elect, decide for",
+  "1a) (Qal) to choose",
+  "1b) (Niphal) to be chosen",
+  "1c) (Pual) to be chosen, selected"
+ ],
+ "kjv": "acceptable, appoint, choose (choice), excellent, join, be rather, require.",
+ "expl": "properly, to try, i.e. (by implication) select",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 170,
+ "formas": [
+  {
+   "forma": "יבחר",
+   "forma_he": "יִבְחַר",
+   "n": 33,
+   "ref": "bamidbar/16/5"
+  },
+  {
+   "forma": "בחר",
+   "forma_he": "בְּחַר",
+   "n": 27,
+   "ref": "shemot/17/9"
+  },
+  {
+   "forma": "בחרתי",
+   "forma_he": "בָחַ֣רְתִּי",
+   "n": 20,
+   "ref": "mlakhim_a/8/16"
+  },
+  {
+   "forma": "בחור",
+   "forma_he": "בָּח֔וּר",
+   "n": 15,
+   "ref": "shemot/14/7"
+  },
+  {
+   "forma": "ויבחר",
+   "forma_he": "וַיִּבְחַר",
+   "n": 14,
+   "ref": "bereshit/13/11"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVqp3ms",
+  "HVqp1cs",
+  "HC/Vqw3ms",
+  "HVqsmsa"
+ ],
+ "glosa_es": "escoger; elegir"
+}

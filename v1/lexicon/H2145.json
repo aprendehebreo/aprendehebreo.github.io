@@ -1,0 +1,59 @@
+{
+ "strong": "H2145",
+ "he": "זכר",
+ "xlit": "zâkâr",
+ "pron": "zaw-kawr'",
+ "def_en": [
+  "n m",
+  "1) male (of humans and animals)",
+  "adj",
+  "2) male (of humans)"
+ ],
+ "kjv": "[idiom] him, male, man(child, -kind).",
+ "expl": "properly, remembered, i.e. a male (of man or animals, as being the most noteworthy sex)",
+ "etim": "from ;",
+ "raices": [
+  "H2142"
+ ],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "זכר",
+   "forma_he": "זָכָ֥ר",
+   "n": 58,
+   "ref": "bereshit/1/27"
+  },
+  {
+   "forma": "הזכרים",
+   "forma_he": "הַזְּכָרִ֖ים",
+   "n": 15,
+   "ref": "shemot/13/12"
+  },
+  {
+   "forma": "הזכר",
+   "forma_he": "הַזָּכָ֔ר",
+   "n": 4,
+   "ref": "vayikra/27/3"
+  },
+  {
+   "forma": "לזכר",
+   "forma_he": "לִזְכֹּר֙",
+   "n": 2,
+   "ref": "bereshit/9/16"
+  },
+  {
+   "forma": "לזכרים",
+   "forma_he": "לִזְכָרִ֖ים",
+   "n": 2,
+   "ref": "ezra/8/3"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HTd/Ncmpa",
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HR/Ncmpa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "H8252",
+ "he": "שקט",
+ "xlit": "shâqaṭ",
+ "pron": "shaw-kat'",
+ "def_en": [
+  "1) to be quiet, be tranquil, be at peace, be quiet, rest, lie still, be undisturbed",
+  "1a) (Qal)",
+  "1a1) to be quiet, be undisturbed",
+  "1a1a) to be at peace (of land)",
+  "1a2) to be quiet, be inactive",
+  "1b) (Hiphil)",
+  "1b1) to show quietness",
+  "1b1a) quietness, display of quietness (subst)",
+  "1b2) to quiet, be quiet",
+  "1b3) to cause quietness, pacify, allay"
+ ],
+ "kjv": "appease, idleness, (at, be at, be in, give) quiet(-ness), (be at, be in, give, have, take) rest, settle, be still.",
+ "expl": "to repose (usually figurative)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "שקטה",
+   "forma_he": "שָׁקְטָ֖ה",
+   "n": 7,
+   "ref": "yehoshua/11/23"
+  },
+  {
+   "forma": "ותשקט",
+   "forma_he": "וַתִּשְׁקֹ֥ט",
+   "n": 6,
+   "ref": "shoftim/3/11"
+  },
+  {
+   "forma": "השקט",
+   "forma_he": "הַשְׁקֵ֥ט",
+   "n": 4,
+   "ref": "yeshayahu/32/17"
+  },
+  {
+   "forma": "ושקט",
+   "forma_he": "וְשָׁקַ֥ט",
+   "n": 3,
+   "ref": "yirmiyahu/30/10"
+  },
+  {
+   "forma": "שקט",
+   "forma_he": "שֹׁקֵ֣ט",
+   "n": 2,
+   "ref": "shoftim/18/7"
+  }
+ ],
+ "morph": [
+  "HVqp3fs",
+  "HC/Vqw3fs",
+  "HVha",
+  "HR/Vhc",
+  "HVqrmsa"
+ ],
+ "glosa_es": ""
+}

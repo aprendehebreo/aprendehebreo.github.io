@@ -1,0 +1,61 @@
+{
+ "strong": "H4912",
+ "he": "משל",
+ "xlit": "mâshâl",
+ "pron": "maw-shawl'",
+ "def_en": [
+  "1) proverb, parable",
+  "1a) proverb, proverbial saying, aphorism",
+  "1b) byword",
+  "1c) similitude, parable",
+  "1d) poem",
+  "1e) sentences of ethical wisdom, ethical maxims"
+ ],
+ "kjv": "byword, like, parable, proverb.",
+ "expl": "properly, a pithy maxim, usually of metaphorical nature; hence, a simile (as an adage, poem, discourse)",
+ "etim": "apparently from in some original sense of superiority in mental action;",
+ "raices": [
+  "H4910"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "משלו",
+   "forma_he": "מְשָׁל֖וֹ",
+   "n": 9,
+   "ref": "bamidbar/23/7"
+  },
+  {
+   "forma": "משל",
+   "forma_he": "מֹשֵׁ֖ל",
+   "n": 8,
+   "ref": "bereshit/45/26"
+  },
+  {
+   "forma": "למשל",
+   "forma_he": "לְמָשָׁ֖ל",
+   "n": 6,
+   "ref": "devarim/28/37"
+  },
+  {
+   "forma": "המשל",
+   "forma_he": "הַמֹּשֵׁ֖ל",
+   "n": 5,
+   "ref": "bereshit/24/2"
+  },
+  {
+   "forma": "משלי",
+   "forma_he": "מֹֽשְׁלֵי֙",
+   "n": 4,
+   "ref": "yeshayahu/28/14"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp3ms",
+  "HR/Ncmsa",
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

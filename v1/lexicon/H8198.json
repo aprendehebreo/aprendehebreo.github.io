@@ -1,0 +1,58 @@
+{
+ "strong": "H8198",
+ "he": "שפחה",
+ "xlit": "shiphchâh",
+ "pron": "shif-khaw'",
+ "def_en": [
+  "1) maid, maid-servant, slavegirl",
+  "1a) maid, maid-servant (as belonging to a mistress)",
+  "1b) of address, speaker, humility (fig)"
+ ],
+ "kjv": "(bond-, hand-) maid(-en, -servant), wench, bondwoman, womanservant.",
+ "expl": "a female slave (as a member of the household)",
+ "etim": "feminine from an unused root meaning to spread out (as a family; see );",
+ "raices": [
+  "H4940"
+ ],
+ "ocurrencias": 63,
+ "formas": [
+  {
+   "forma": "שפחתך",
+   "forma_he": "שִׁפְחָתֵךְ֙",
+   "n": 11,
+   "ref": "bereshit/16/6"
+  },
+  {
+   "forma": "שפחת",
+   "forma_he": "שִׁפְחַ֥ת",
+   "n": 7,
+   "ref": "bereshit/16/8"
+  },
+  {
+   "forma": "ולשפחות",
+   "forma_he": "וְלִשְׁפָח֖וֹת",
+   "n": 6,
+   "ref": "devarim/28/68"
+  },
+  {
+   "forma": "שפחתו",
+   "forma_he": "שִׁפְחָת֑וֹ",
+   "n": 5,
+   "ref": "bereshit/29/24"
+  },
+  {
+   "forma": "השפחות",
+   "forma_he": "הַשְּׁפָחֽוֹת",
+   "n": 5,
+   "ref": "bereshit/33/1"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp2ms",
+  "HNcfsc",
+  "HC/Ncfpa",
+  "HC/R/Ncfpa",
+  "HNcfsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

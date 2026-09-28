@@ -1,0 +1,60 @@
+{
+ "strong": "H1389",
+ "he": "גבעה",
+ "xlit": "gibʻâh",
+ "pron": "ghib-aw'",
+ "def_en": [
+  "1) hill",
+  "1a) hill (lower than a mountain)",
+  "1b) as a place of illicit worship",
+  "1c) poetic for mountain",
+  "1d) used in place names"
+ ],
+ "kjv": "hill, little hill.",
+ "expl": "a hillock",
+ "etim": "feminine from the same as ;",
+ "raices": [
+  "H1387"
+ ],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "גבעה",
+   "forma_he": "גִּבְעָ֣ה",
+   "n": 11,
+   "ref": "yehoshua/15/57"
+  },
+  {
+   "forma": "הגבעות",
+   "forma_he": "הַגְּבָע֔וֹת",
+   "n": 10,
+   "ref": "devarim/12/2"
+  },
+  {
+   "forma": "גבעות",
+   "forma_he": "גִּבְע֥וֹת",
+   "n": 10,
+   "ref": "devarim/33/15"
+  },
+  {
+   "forma": "גבעת",
+   "forma_he": "גִּבְעֹ֣ת",
+   "n": 7,
+   "ref": "bereshit/49/26"
+  },
+  {
+   "forma": "בגבעת",
+   "forma_he": "בְּגִבְעַת֙",
+   "n": 4,
+   "ref": "yehoshua/24/33"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HTd/Ncfpa",
+  "HNcfpa",
+  "HNcfsc",
+  "HR/Ncfsc"
+ ],
+ "glosa_es": ""
+}

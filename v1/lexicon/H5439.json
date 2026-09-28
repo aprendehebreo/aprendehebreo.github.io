@@ -1,0 +1,61 @@
+{
+ "strong": "H5439",
+ "he": "סביב",
+ "xlit": "çâbîyb",
+ "pron": "saw-beeb'",
+ "def_en": [
+  "subst",
+  "1) places round about, circuit, round about",
+  "adv",
+  "2) in a circuit, a circuit, round about",
+  "prep",
+  "3) in the circuit, from every side"
+ ],
+ "kjv": "(place, round) about, circuit, compass, on every side.",
+ "expl": "(as noun) a circle, neighbour, or environs; but chiefly (as adverb, with or without preposition) around",
+ "etim": "or (feminine) ; from ;",
+ "raices": [
+  "H5437"
+ ],
+ "ocurrencias": 337,
+ "formas": [
+  {
+   "forma": "סביב",
+   "forma_he": "סָבִֽיב",
+   "n": 207,
+   "ref": "bereshit/23/17"
+  },
+  {
+   "forma": "מסביב",
+   "forma_he": "מִסָּבִ֔יב",
+   "n": 41,
+   "ref": "bamidbar/16/24"
+  },
+  {
+   "forma": "סביבות",
+   "forma_he": "סְבִיב֖וֹת",
+   "n": 16,
+   "ref": "bamidbar/11/31"
+  },
+  {
+   "forma": "סביבתיו",
+   "forma_he": "סְבִיבֹתָֽיו",
+   "n": 6,
+   "ref": "shmuel_a/26/5"
+  },
+  {
+   "forma": "סביביו",
+   "forma_he": "סְבִיבָ֔יו",
+   "n": 6,
+   "ref": "yirmiyahu/48/17"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HR/Ncbsa",
+  "HNcbpc",
+  "HNcbpc/Sp3ms",
+  "HNcbpc/Sp3fs"
+ ],
+ "glosa_es": "alrededor; en derredor"
+}

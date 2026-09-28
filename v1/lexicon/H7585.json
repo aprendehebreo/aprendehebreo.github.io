@@ -1,0 +1,64 @@
+{
+ "strong": "H7585",
+ "he": "שאול",
+ "xlit": "shᵉʼôwl",
+ "pron": "sheh-ole'",
+ "def_en": [
+  "1) sheol, underworld, grave, hell, pit",
+  "1a) the underworld",
+  "1b) Sheol-the OT designation for the abode of the dead",
+  "1b1) place of no return",
+  "1b2) without praise of God",
+  "1b3) wicked sent there for punishment",
+  "1b4) righteous not abandoned to it",
+  "1b5) of the place of exile (fig)",
+  "1b6) of extreme degradation in sin"
+ ],
+ "kjv": "grave, hell, pit.",
+ "expl": "Hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7592"
+ ],
+ "ocurrencias": 66,
+ "formas": [
+  {
+   "forma": "שאול",
+   "forma_he": "שָׁא֖וּל",
+   "n": 38,
+   "ref": "bereshit/36/37"
+  },
+  {
+   "forma": "שאלה",
+   "forma_he": "שְׁאֹ֑לָה",
+   "n": 6,
+   "ref": "bereshit/37/35"
+  },
+  {
+   "forma": "שאולה",
+   "forma_he": "שְׁאֽוֹלָה",
+   "n": 4,
+   "ref": "bereshit/42/38"
+  },
+  {
+   "forma": "בשאול",
+   "forma_he": "בִשְׁא֔וֹל",
+   "n": 4,
+   "ref": "amos/9/2"
+  },
+  {
+   "forma": "לשאול",
+   "forma_he": "לְשָׁא֕וּל",
+   "n": 4,
+   "ref": "bamidbar/26/13"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HNcmsa/Sd",
+  "HVqc"
+ ],
+ "glosa_es": ""
+}

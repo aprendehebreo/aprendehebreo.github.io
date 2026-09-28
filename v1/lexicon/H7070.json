@@ -1,0 +1,66 @@
+{
+ "strong": "H7070",
+ "he": "קנה",
+ "xlit": "qâneh",
+ "pron": "kaw-neh'",
+ "def_en": [
+  "1) reed, stalk, bone, balances",
+  "1a) stalk",
+  "1b) water-plant, reed",
+  "1c) calamus (aromatic reed)",
+  "1d) derived meanings",
+  "1d1) measuring-rod",
+  "1d2) reed (as unit of measure-6 cubits)",
+  "1d3) beam (of scales-for scales themselves)",
+  "1d4) shaft (of lampstand)",
+  "1d5) branches (of lampstand)",
+  "1d6) shoulder-joint"
+ ],
+ "kjv": "balance, bone, branch, calamus, cane, reed, [idiom] spearman, stalk.",
+ "expl": "a reed (as erect); by resemblance a rod (especially for measuring), shaft, tube, stem, the radius (of the arm), beam (of a steelyard)",
+ "etim": "from ;",
+ "raices": [
+  "H7069"
+ ],
+ "ocurrencias": 62,
+ "formas": [
+  {
+   "forma": "קנה",
+   "forma_he": "קֹנֵ֖ה",
+   "n": 15,
+   "ref": "bereshit/14/19"
+  },
+  {
+   "forma": "בקנה",
+   "forma_he": "בְּקָנֶ֥ה",
+   "n": 12,
+   "ref": "bereshit/41/5"
+  },
+  {
+   "forma": "הקנים",
+   "forma_he": "הַקָּנִ֔ים",
+   "n": 10,
+   "ref": "shemot/25/33"
+  },
+  {
+   "forma": "וקנה",
+   "forma_he": "וְקָנָ֔הּ",
+   "n": 7,
+   "ref": "shemot/25/31"
+  },
+  {
+   "forma": "קנים",
+   "forma_he": "קִנִּ֖ים",
+   "n": 6,
+   "ref": "bereshit/6/14"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmpa",
+  "HNcmpa",
+  "HR/Ncmsc",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

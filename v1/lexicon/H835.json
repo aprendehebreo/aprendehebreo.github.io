@@ -1,0 +1,58 @@
+{
+ "strong": "H835",
+ "he": "אשר",
+ "xlit": "ʼesher",
+ "pron": "eh'-sher",
+ "def_en": [
+  "1) happiness, blessedness",
+  "1a) often used as interjection",
+  "1b) blessed are"
+ ],
+ "kjv": "blessed, happy.",
+ "expl": "happiness; only in masculine plural construction as interjection, how happy!",
+ "etim": "from ;",
+ "raices": [
+  "H833"
+ ],
+ "ocurrencias": 45,
+ "formas": [
+  {
+   "forma": "אשרי",
+   "forma_he": "אַשְׁרֵ֣י",
+   "n": 36,
+   "ref": "mlakhim_a/10/8"
+  },
+  {
+   "forma": "אשריך",
+   "forma_he": "אַשְׁרֶ֨יךָ",
+   "n": 3,
+   "ref": "devarim/33/29"
+  },
+  {
+   "forma": "ואשרי",
+   "forma_he": "וְ֝אַשְׁרֵ֗י",
+   "n": 2,
+   "ref": "mishlei/8/32"
+  },
+  {
+   "forma": "אשריו",
+   "forma_he": "אֲשֵׁרָ֖יו",
+   "n": 2,
+   "ref": "shemot/34/13"
+  },
+  {
+   "forma": "אשריכם",
+   "forma_he": "אַשְׁרֵיכֶ֕ם",
+   "n": 1,
+   "ref": "yeshayahu/32/20"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HNcmpc/Sp2ms",
+  "HC/Ncmpa",
+  "HNcmpc/Sp3ms",
+  "HNcmpc/Sp2mp"
+ ],
+ "glosa_es": ""
+}

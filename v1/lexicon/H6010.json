@@ -1,0 +1,57 @@
+{
+ "strong": "H6010",
+ "he": "עמק",
+ "xlit": "ʻêmeq",
+ "pron": "ay'-mek",
+ "def_en": [
+  "1) valley, vale, lowland, open country"
+ ],
+ "kjv": "dale, vale, valley (often used as a part of proper names). See also .",
+ "expl": "a vale (i.e. broad depression)",
+ "etim": "from ;",
+ "raices": [
+  "H6009",
+  "H1025"
+ ],
+ "ocurrencias": 69,
+ "formas": [
+  {
+   "forma": "בעמק",
+   "forma_he": "בְּעֵ֖מֶק",
+   "n": 29,
+   "ref": "bereshit/14/8"
+  },
+  {
+   "forma": "עמק",
+   "forma_he": "עֵ֖מֶק",
+   "n": 10,
+   "ref": "bereshit/14/3"
+  },
+  {
+   "forma": "העמק",
+   "forma_he": "הָעֵֽמֶק",
+   "n": 8,
+   "ref": "yehoshua/8/13"
+  },
+  {
+   "forma": "ועמק",
+   "forma_he": "וְעֵ֣מֶק",
+   "n": 5,
+   "ref": "bereshit/14/10"
+  },
+  {
+   "forma": "מעמק",
+   "forma_he": "מֵעֵ֣מֶק",
+   "n": 2,
+   "ref": "bereshit/37/14"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HRd/Ncmsa",
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HC/Ncmsc"
+ ],
+ "glosa_es": ""
+}

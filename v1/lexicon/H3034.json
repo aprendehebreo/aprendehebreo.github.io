@@ -1,0 +1,64 @@
+{
+ "strong": "H3034",
+ "he": "ידה",
+ "xlit": "yâdâh",
+ "pron": "yaw-daw'",
+ "def_en": [
+  "1) to throw, shoot, cast",
+  "1a) (Qal) to shoot (arrows)",
+  "1b) (Piel) to cast, cast down, throw down",
+  "1c) (Hiphil)",
+  "1c1) to give thanks, laud, praise",
+  "1c2) to confess, confess (the name of God)",
+  "1d) (Hithpael)",
+  "1d1) to confess (sin)",
+  "1d2) to give thanks"
+ ],
+ "kjv": "cast (out), (make) confess(-ion), praise, shoot, (give) thank(-ful, -s, -sgiving).",
+ "expl": "physically, to throw (a stone, an arrow) at or away; especially to revere or worship (with extended hands); intensively, to bemoan (by wringing the hands)",
+ "etim": "a primitive root; used only as denominative from ; literally, to use (i.e. hold out) the hand;",
+ "raices": [
+  "H3027"
+ ],
+ "ocurrencias": 114,
+ "formas": [
+  {
+   "forma": "אודך",
+   "forma_he": "אוֹדְךָ֥",
+   "n": 15,
+   "ref": "shmuel_b/22/50"
+  },
+  {
+   "forma": "הודו",
+   "forma_he": "הוֹד֤וּ",
+   "n": 15,
+   "ref": "yeshayahu/12/4"
+  },
+  {
+   "forma": "אודה",
+   "forma_he": "אוֹדֶ֣ה",
+   "n": 9,
+   "ref": "bereshit/29/35"
+  },
+  {
+   "forma": "יודוך",
+   "forma_he": "יוֹד֣וּךָ",
+   "n": 8,
+   "ref": "bereshit/49/8"
+  },
+  {
+   "forma": "להדות",
+   "forma_he": "לְהֹד֥וֹת",
+   "n": 8,
+   "ref": "tehilim/92/2"
+  }
+ ],
+ "morph": [
+  "HVhv2mp",
+  "HVhi1cs/Sp2ms",
+  "HR/Vhc",
+  "HVhi1cs",
+  "HVhi3mp/Sp2ms"
+ ],
+ "glosa_es": ""
+}

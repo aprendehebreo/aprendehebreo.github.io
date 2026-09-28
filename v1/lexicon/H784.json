@@ -1,0 +1,59 @@
+{
+ "strong": "H784",
+ "he": "אש",
+ "xlit": "ʼêsh",
+ "pron": "aysh",
+ "def_en": [
+  "1) fire",
+  "1a) fire, flames",
+  "1b) supernatural fire (accompanying theophany)",
+  "1c) fire (for cooking, roasting, parching)",
+  "1d) altar-fire",
+  "1e) God's anger (fig.)"
+ ],
+ "kjv": "burning, fiery, fire, flaming, hot.",
+ "expl": "fire (literally or figuratively)",
+ "etim": "a primitive word;",
+ "raices": [],
+ "ocurrencias": 378,
+ "formas": [
+  {
+   "forma": "אש",
+   "forma_he": "אֵ֔שׁ",
+   "n": 154,
+   "ref": "bereshit/15/17"
+  },
+  {
+   "forma": "באש",
+   "forma_he": "בָּאֵ֔שׁ",
+   "n": 129,
+   "ref": "shemot/3/2"
+  },
+  {
+   "forma": "האש",
+   "forma_he": "הָאֵ֖שׁ",
+   "n": 43,
+   "ref": "bereshit/22/6"
+  },
+  {
+   "forma": "ואש",
+   "forma_he": "וָאֵ֑שׁ",
+   "n": 17,
+   "ref": "bereshit/19/24"
+  },
+  {
+   "forma": "כאש",
+   "forma_he": "כְּאֵ֥שׁ",
+   "n": 16,
+   "ref": "shemot/24/17"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HRd/Ncbsa",
+  "HTd/Ncbsa",
+  "HC/Ncbsa",
+  "HR/Ncbsa"
+ ],
+ "glosa_es": "fuego"
+}

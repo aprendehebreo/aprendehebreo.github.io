@@ -1,0 +1,49 @@
+{
+ "strong": "H3448",
+ "he": "ישי",
+ "xlit": "Yishay",
+ "pron": "yee-shah'-ee",
+ "def_en": [
+  "Jesse = \"I possess\"",
+  "1) son of Boaz and the father of king David"
+ ],
+ "kjv": "Jesse.",
+ "expl": "Jishai, David's father",
+ "etim": "by Aramaic ; from the same as ; extant;",
+ "raices": [
+  "H3426"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "ישי",
+   "forma_he": "יִשַׁ֣י",
+   "n": 38,
+   "ref": "shmuel_a/16/1"
+  },
+  {
+   "forma": "לישי",
+   "forma_he": "לְיִשַׁ֖י",
+   "n": 2,
+   "ref": "shmuel_a/16/3"
+  },
+  {
+   "forma": "וישי",
+   "forma_he": "וְיִשַׁ֖י",
+   "n": 1,
+   "ref": "rut/4/22"
+  },
+  {
+   "forma": "ואישי",
+   "forma_he": "וְאִישַׁ֛י",
+   "n": 1,
+   "ref": "divrei_hayamim_a/2/13"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

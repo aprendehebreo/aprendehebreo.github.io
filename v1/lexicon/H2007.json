@@ -1,0 +1,56 @@
+{
+ "strong": "H2007",
+ "he": "הנה",
+ "xlit": "hênnâh",
+ "pron": "hane'-naw",
+ "def_en": [
+  "1) they, these, the same, who"
+ ],
+ "kjv": "[idiom] in, [idiom] such (and such things), their, (into) them, thence, therein, these, they (had), on this side, whose, wherein.",
+ "expl": "themselves (often used emphatic for the copula, also in indirect relation)",
+ "etim": "prolongation for ;",
+ "raices": [
+  "H2004"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "הנה",
+   "forma_he": "הִנֵּה֩",
+   "n": 25,
+   "ref": "bereshit/1/29"
+  },
+  {
+   "forma": "מהנה",
+   "forma_he": "מֵהֵֽנָּה",
+   "n": 7,
+   "ref": "vayikra/4/2"
+  },
+  {
+   "forma": "להנה",
+   "forma_he": "לָהֵֽנָּה",
+   "n": 4,
+   "ref": "yechezkel/1/5"
+  },
+  {
+   "forma": "בהנה",
+   "forma_he": "בָהֵֽנָּה",
+   "n": 3,
+   "ref": "vayikra/5/22"
+  },
+  {
+   "forma": "והנה",
+   "forma_he": "וְהִנֵּה",
+   "n": 3,
+   "ref": "bereshit/1/31"
+  }
+ ],
+ "morph": [
+  "HPp3fp",
+  "HR/Pp3fp",
+  "HC/Pp3fp",
+  "HC/R/Pp3fp",
+  "HTd/Pp3fp"
+ ],
+ "glosa_es": ""
+}

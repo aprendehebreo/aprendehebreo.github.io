@@ -1,0 +1,58 @@
+{
+ "strong": "H3201",
+ "he": "יכל",
+ "xlit": "yâkôl",
+ "pron": "yaw-kole'",
+ "def_en": [
+  "1) to prevail, overcome, endure, have power, be able",
+  "1a) (Qal)",
+  "1a1) to be able, be able to gain or accomplish, be able to endure, be able to reach",
+  "1a2) to prevail, prevail over or against, overcome, be victor",
+  "1a3) to have ability, have strength"
+ ],
+ "kjv": "be able, any at all (ways), attain, can (away with, (-not)), could, endure, might, overcome, have power, prevail, still, suffer.",
+ "expl": "to be able, literally (can, could) or morally (may, might)",
+ "etim": "or (fuller) ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 194,
+ "formas": [
+  {
+   "forma": "יוכל",
+   "forma_he": "יוּכַ֣ל",
+   "n": 39,
+   "ref": "bereshit/13/16"
+  },
+  {
+   "forma": "יכלו",
+   "forma_he": "יָֽכְל֖וּ",
+   "n": 34,
+   "ref": "bereshit/13/6"
+  },
+  {
+   "forma": "אוכל",
+   "forma_he": "אוּכַל֙",
+   "n": 33,
+   "ref": "bereshit/19/19"
+  },
+  {
+   "forma": "תוכל",
+   "forma_he": "תּוּכַ֖ל",
+   "n": 25,
+   "ref": "bereshit/15/5"
+  },
+  {
+   "forma": "יוכלו",
+   "forma_he": "יוכלו",
+   "n": 12,
+   "ref": "yehoshua/15/63"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVqi1cs",
+  "HVqp3cp",
+  "HVqi2ms",
+  "HVqi3mp"
+ ],
+ "glosa_es": "poder; ser capaz"
+}

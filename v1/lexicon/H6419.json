@@ -1,0 +1,58 @@
+{
+ "strong": "H6419",
+ "he": "פלל",
+ "xlit": "pâlal",
+ "pron": "paw-lal'",
+ "def_en": [
+  "1) to intervene, interpose, pray",
+  "1a) (Piel) to mediate, judge",
+  "1b)(Hithpael)",
+  "1b1) to intercede",
+  "1b2) to pray"
+ ],
+ "kjv": "intreat, judge(-ment), (make) pray(-er, -ing), make supplication.",
+ "expl": "to judge (officially or mentally); by extension, to intercede, pray",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 84,
+ "formas": [
+  {
+   "forma": "ויתפלל",
+   "forma_he": "וְיִתְפַּלֵּ֥ל",
+   "n": 19,
+   "ref": "bereshit/20/7"
+  },
+  {
+   "forma": "והתפללו",
+   "forma_he": "וְהִֽתְפַּֽלְל֧וּ",
+   "n": 10,
+   "ref": "mlakhim_a/8/33"
+  },
+  {
+   "forma": "להתפלל",
+   "forma_he": "לְהִתְפַּלֵּ֖ל",
+   "n": 8,
+   "ref": "shmuel_a/1/12"
+  },
+  {
+   "forma": "התפלל",
+   "forma_he": "הִתְפַּלֵּל֙",
+   "n": 5,
+   "ref": "bamidbar/21/7"
+  },
+  {
+   "forma": "ואתפלל",
+   "forma_he": "וָֽאֶתְפַּלֵּ֛ל",
+   "n": 5,
+   "ref": "devarim/9/20"
+  }
+ ],
+ "morph": [
+  "HC/Vtw3ms",
+  "HC/Vtq3cp",
+  "HR/Vtc",
+  "HVti3ms",
+  "HVtv2ms"
+ ],
+ "glosa_es": ""
+}

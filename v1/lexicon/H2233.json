@@ -1,0 +1,63 @@
+{
+ "strong": "H2233",
+ "he": "זרע",
+ "xlit": "zeraʻ",
+ "pron": "zeh'-rah",
+ "def_en": [
+  "1) seed, sowing, offspring",
+  "1a) a sowing",
+  "1b) seed",
+  "1c) semen virile",
+  "1d) offspring, descendants, posterity, children",
+  "1e) of moral quality",
+  "1e1) a practitioner of righteousness (fig.)",
+  "1f) sowing time (by meton)"
+ ],
+ "kjv": "[idiom] carnally, child, fruitful, seed(-time), sowing-time.",
+ "expl": "seed; figuratively, fruit, plant, sowing-time, posterity",
+ "etim": "from ;",
+ "raices": [
+  "H2232"
+ ],
+ "ocurrencias": 229,
+ "formas": [
+  {
+   "forma": "זרע",
+   "forma_he": "זֶ֔רַע",
+   "n": 69,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "זרעך",
+   "forma_he": "זַרְעֲךָ֖",
+   "n": 37,
+   "ref": "bereshit/3/15"
+  },
+  {
+   "forma": "זרעו",
+   "forma_he": "זַרְעוֹ",
+   "n": 16,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "מזרע",
+   "forma_he": "מִזֶּ֨רַע֙",
+   "n": 13,
+   "ref": "vayikra/21/21"
+  },
+  {
+   "forma": "ולזרעך",
+   "forma_he": "וּֽלְזַרְעֲךָ֖",
+   "n": 8,
+   "ref": "bereshit/13/15"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp2ms",
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": "semilla; descendencia"
+}

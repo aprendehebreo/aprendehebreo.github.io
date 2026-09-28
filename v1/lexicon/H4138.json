@@ -1,0 +1,59 @@
+{
+ "strong": "H4138",
+ "he": "מולדת",
+ "xlit": "môwledeth",
+ "pron": "mo-leh'-deth",
+ "def_en": [
+  "1) kindred, birth, offspring, relatives",
+  "1a) kindred",
+  "1b) birth, circumstances of birth",
+  "1c) one born, begotten, issue, offspring, female offspring"
+ ],
+ "kjv": "begotten, born, issue, kindred, native(-ity).",
+ "expl": "nativity (plural birth-place); by implication, lineage, native country; also offspring, family",
+ "etim": "from ;",
+ "raices": [
+  "H3205"
+ ],
+ "ocurrencias": 22,
+ "formas": [
+  {
+   "forma": "מולדתי",
+   "forma_he": "מוֹלַדְתִּ֖י",
+   "n": 4,
+   "ref": "bereshit/24/4"
+  },
+  {
+   "forma": "מולדת",
+   "forma_he": "מוֹלֶ֣דֶת",
+   "n": 3,
+   "ref": "vayikra/18/9"
+  },
+  {
+   "forma": "מולדתו",
+   "forma_he": "מוֹלַדְתּ֖וֹ",
+   "n": 2,
+   "ref": "bereshit/11/28"
+  },
+  {
+   "forma": "ולמולדתך",
+   "forma_he": "וּלְמוֹלַדְתֶּ֑ךָ",
+   "n": 2,
+   "ref": "bereshit/31/3"
+  },
+  {
+   "forma": "מולדתך",
+   "forma_he": "מוֹלַדְתֶּֽךָ",
+   "n": 2,
+   "ref": "bereshit/31/13"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp1cs",
+  "HC/R/Ncfsc/Sp2ms",
+  "HNcfsc",
+  "HNcfsc/Sp3ms",
+  "HC/Ncfpc/Sp2fs"
+ ],
+ "glosa_es": ""
+}

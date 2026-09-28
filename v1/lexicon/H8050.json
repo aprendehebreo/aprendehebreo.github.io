@@ -1,0 +1,46 @@
+{
+ "strong": "H8050",
+ "he": "שמואל",
+ "xlit": "Shᵉmûwʼêl",
+ "pron": "sehm-oo-ale'",
+ "def_en": [
+  "Samuel = \"his name is El\"",
+  "1) son of Elkanah by his wife Hannah and judge or prophet of Israel during the days of Saul and David",
+  "2) son Ammihud and the prince of the tribe of Simeon who was chosen to divide the land of Canaan between the tribes. Spelled 'Shemuel'",
+  "3) son of Tola and grandson of Issachar. Spelled 'Shemuel'"
+ ],
+ "kjv": "Samuel, Shemuel.",
+ "expl": "Shemuel, the name of three Israelites",
+ "etim": "from the passive participle of and ; heard of God;",
+ "raices": [
+  "H8085",
+  "H410"
+ ],
+ "ocurrencias": 140,
+ "formas": [
+  {
+   "forma": "שמואל",
+   "forma_he": "שְׁמוּאֵ֖ל",
+   "n": 123,
+   "ref": "bamidbar/34/20"
+  },
+  {
+   "forma": "ושמואל",
+   "forma_he": "וּשְׁמוּאֵ֕ל",
+   "n": 14,
+   "ref": "shmuel_a/2/18"
+  },
+  {
+   "forma": "לשמואל",
+   "forma_he": "לִשְׁמוּאֵל֮",
+   "n": 3,
+   "ref": "shmuel_a/3/9"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H558",
+ "he": "אמציה",
+ "xlit": "ʼĂmatsyâh",
+ "pron": "am-ats-yaw'",
+ "def_en": [
+  "Amaziah = \"Jehovah is mighty\"",
+  "1) a king of Judah, son Joash, father of Azariah",
+  "2) a priest of Bethel under Jeroboam II",
+  "3) father of Joshah, of the tribe of Simeon",
+  "4) a Levite tabernacle singer in David's day"
+ ],
+ "kjv": "Amaziah.",
+ "expl": "Amatsjah, the name of four Israelites",
+ "etim": "or ; from and ; strength of Jah;",
+ "raices": [
+  "H553",
+  "H3050"
+ ],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "אמציהו",
+   "forma_he": "אֲמַצְיָ֥הוּ",
+   "n": 26,
+   "ref": "mlakhim_b/14/1"
+  },
+  {
+   "forma": "אמציה",
+   "forma_he": "אֲמַצְיָ֥ה",
+   "n": 9,
+   "ref": "mlakhim_b/12/22"
+  },
+  {
+   "forma": "ואמציהו",
+   "forma_he": "וַאֲמַצְיָ֣הוּ",
+   "n": 3,
+   "ref": "mlakhim_b/14/11"
+  },
+  {
+   "forma": "לאמציהו",
+   "forma_he": "לַאֲמַצְיָ֥הוּ",
+   "n": 1,
+   "ref": "mlakhim_b/14/23"
+  },
+  {
+   "forma": "באמציהו",
+   "forma_he": "בַּאֲמַצְיָ֑הוּ",
+   "n": 1,
+   "ref": "divrei_hayamim_b/25/15"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

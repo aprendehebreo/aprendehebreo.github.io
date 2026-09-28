@@ -1,0 +1,58 @@
+{
+ "strong": "H7379",
+ "he": "ריב",
+ "xlit": "rîyb",
+ "pron": "reeb",
+ "def_en": [
+  "1) strife, controversy, dispute",
+  "1a) strife, quarrel",
+  "1b) dispute, controversy, case at law"
+ ],
+ "kjv": "[phrase] adversary, cause, chiding, contend(-tion), controversy, multitude (from the margin), pleading, strife, strive(-ing), suit.",
+ "expl": "a contest (personal or legal)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7378"
+ ],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "ריב",
+   "forma_he": "רִ֗יב",
+   "n": 21,
+   "ref": "bereshit/13/7"
+  },
+  {
+   "forma": "ריבי",
+   "forma_he": "רִיבִ֔י",
+   "n": 8,
+   "ref": "shmuel_a/24/16"
+  },
+  {
+   "forma": "בריבו",
+   "forma_he": "בְּרִיבֽוֹ",
+   "n": 4,
+   "ref": "shemot/23/3"
+  },
+  {
+   "forma": "וריב",
+   "forma_he": "וְרִ֥יב",
+   "n": 4,
+   "ref": "yeshayahu/1/23"
+  },
+  {
+   "forma": "ריבך",
+   "forma_he": "רִיבֶֽךָ",
+   "n": 4,
+   "ref": "yeshayahu/41/11"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HNcbsc/Sp1cs",
+  "HR/Ncbsc/Sp3ms",
+  "HNcbsc",
+  "HNcbsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

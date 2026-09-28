@@ -1,0 +1,63 @@
+{
+ "strong": "H6310",
+ "he": "פה",
+ "xlit": "peh",
+ "pron": "peh",
+ "def_en": [
+  "peh",
+  "1) mouth",
+  "1a) mouth (of man)",
+  "1b) mouth (as organ of speech)",
+  "1c) mouth (of animals)",
+  "1d) mouth, opening, orifice (of a well, river, etc)",
+  "1e) extremity, end pim",
+  "2) a weight equal to one third of a shekel, occurs only in 1Sa 13:21"
+ ],
+ "kjv": "accord(-ing as, -ing to), after, appointment, assent, collar, command(-ment), [idiom] eat, edge, end, entry, [phrase] file, hole, [idiom] in, mind, mouth, part, portion, [idiom] (should) say(-ing), sentence, skirt, sound, speech, [idiom] spoken, talk, tenor, [idiom] to, [phrase] two-edged, wish, word.",
+ "expl": "the mouth (as the means of blowing), whether literal or figurative (particularly speech); specifically edge, portion or side; adverbially (with preposition) according to",
+ "etim": "from ;",
+ "raices": [
+  "H6284"
+ ],
+ "ocurrencias": 498,
+ "formas": [
+  {
+   "forma": "פי",
+   "forma_he": "פִּ֥י",
+   "n": 136,
+   "ref": "bereshit/29/2"
+  },
+  {
+   "forma": "לפי",
+   "forma_he": "לְפִי",
+   "n": 55,
+   "ref": "bereshit/34/26"
+  },
+  {
+   "forma": "פיך",
+   "forma_he": "פִּ֖יךָ",
+   "n": 34,
+   "ref": "bereshit/41/40"
+  },
+  {
+   "forma": "בפי",
+   "forma_he": "בְּפִ֥י",
+   "n": 27,
+   "ref": "bereshit/42/27"
+  },
+  {
+   "forma": "פיו",
+   "forma_he": "פִּ֨יו",
+   "n": 25,
+   "ref": "bamidbar/27/21"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HNcmsc",
+  "HNcmsc/Sp1cs",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": "boca; apertura"
+}

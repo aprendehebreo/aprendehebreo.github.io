@@ -1,0 +1,59 @@
+{
+ "strong": "H4080",
+ "he": "מדין",
+ "xlit": "Midyân",
+ "pron": "mid-yawn'",
+ "def_en": [
+  "Midian or Midianite = \"strife\"",
+  "n pr m",
+  "1) son of Abraham by Keturah and progenitor of the tribe of Midianites or Arabians",
+  "2) the tribe descended from Midian",
+  "n pr loc",
+  "3) the territory of the tribe descended from Midian; located principally in the desert north of the Arabian peninsula; land to which Moses went when he fled from Pharaoh"
+ ],
+ "kjv": "Midian, Midianite.",
+ "expl": "Midjan, a son of Abraham; also his country and (collectively) his descendants",
+ "etim": "the same as ;",
+ "raices": [
+  "H4079"
+ ],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "מדין",
+   "forma_he": "מִדְיָ֑ן",
+   "n": 51,
+   "ref": "bereshit/25/2"
+  },
+  {
+   "forma": "במדין",
+   "forma_he": "בְּמִדְיָ֔ן",
+   "n": 4,
+   "ref": "shemot/4/19"
+  },
+  {
+   "forma": "ומדין",
+   "forma_he": "וּמִדְיָ֨ן",
+   "n": 2,
+   "ref": "shoftim/7/12"
+  },
+  {
+   "forma": "ממדין",
+   "forma_he": "מִמִּדְיָ֔ן",
+   "n": 1,
+   "ref": "mlakhim_a/11/18"
+  },
+  {
+   "forma": "כמדין",
+   "forma_he": "כְּמִדְיָ֑ן",
+   "n": 1,
+   "ref": "tehilim/83/10"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

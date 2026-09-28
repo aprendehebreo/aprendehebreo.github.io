@@ -1,0 +1,73 @@
+{
+ "strong": "H2502",
+ "he": "חלץ",
+ "xlit": "châlats",
+ "pron": "khaw-lats'",
+ "def_en": [
+  "1) to remove, draw out, draw off, take off, withdraw, equip (for war), arm for war, rescue, be rescued",
+  "1a) (Qal) equipped (participle)",
+  "1b) (Niphal)",
+  "1b1) to be equipped",
+  "1b2) to go equipped",
+  "1b3) to be armed",
+  "1c) (Hiphil)",
+  "1c1) to make strong, brace up",
+  "1c2) to invigorate",
+  "2) to draw off or out, withdraw",
+  "2a) (Qal)",
+  "2a1) to draw, draw off",
+  "2a2) to withdraw",
+  "2b) (Niphal)",
+  "2b1) to be delivered",
+  "2b2) to be saved",
+  "2c) (Piel)",
+  "2c1) to pull out, tear out",
+  "2c2) to rescue, deliver, set free",
+  "2c3) to take away, plunder"
+ ],
+ "kjv": "arm (self), (go, ready) armed ([idiom] man, soldier), deliver, draw out, make fat, loose, (ready) prepared, put off, take away, withdraw self.",
+ "expl": "to pull off; hence (intensively) to strip, (reflex.) to depart; by implication, to deliver, equip (for fight); present, strengthen",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "חלוצי",
+   "forma_he": "חֲלוּצֵ֥י",
+   "n": 4,
+   "ref": "bamidbar/31/5"
+  },
+  {
+   "forma": "חלוץ",
+   "forma_he": "חָל֛וּץ",
+   "n": 4,
+   "ref": "bamidbar/32/21"
+  },
+  {
+   "forma": "חלוצים",
+   "forma_he": "חֲלוּצִ֖ים",
+   "n": 3,
+   "ref": "bamidbar/32/30"
+  },
+  {
+   "forma": "והחלוץ",
+   "forma_he": "וְהֶ֣חָל֔וּץ",
+   "n": 3,
+   "ref": "yehoshua/6/7"
+  },
+  {
+   "forma": "החלוץ",
+   "forma_he": "הֶֽחָלוּץ֙",
+   "n": 3,
+   "ref": "divrei_hayamim_a/12/24"
+  }
+ ],
+ "morph": [
+  "HVqsmpc",
+  "HVqsmpa",
+  "HC/Td/Vqsmsa",
+  "HTd/Vqsmsa",
+  "HVqsmsa"
+ ],
+ "glosa_es": ""
+}

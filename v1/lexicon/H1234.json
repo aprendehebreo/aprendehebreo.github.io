@@ -1,0 +1,72 @@
+{
+ "strong": "H1234",
+ "he": "בקע",
+ "xlit": "bâqaʻ",
+ "pron": "baw-kah'",
+ "def_en": [
+  "1) to split, cleave, break open, divide, break through, rip up, break up, tear",
+  "1a) (Qal)",
+  "1a1) to cleave, cleave open",
+  "1a2) to break through, break into",
+  "1b) (Niphal)",
+  "1b1) to be cleft, be rent open, be split open",
+  "1b2) to be broken into",
+  "1c) (Piel)",
+  "1c1) to cleave, cut to pieces, rend open",
+  "1c2) to break through, break down",
+  "1d) (Pual)",
+  "1d1) to be ripped open, be torn open",
+  "1d2) to be rent",
+  "1d3) to be broken into",
+  "1e) (Hiphil)",
+  "1e1) to break into",
+  "1e2) to break through",
+  "1f) (Hophal) to be broken into",
+  "1g) (Hithpael) to burst (themselves) open, cleave asunder"
+ ],
+ "kjv": "make a breach, break forth (into, out, in pieces, through, up), be ready to burst, cleave (asunder), cut out, divide, hatch, rend (asunder), rip up, tear, win.",
+ "expl": "to cleave; generally, to rend, break, rip or open",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "נבקעו",
+   "forma_he": "נִבְקְעוּ֙",
+   "n": 4,
+   "ref": "bereshit/7/11"
+  },
+  {
+   "forma": "ויבקעו",
+   "forma_he": "וַיִּבָּקְע֖וּ",
+   "n": 4,
+   "ref": "shemot/14/21"
+  },
+  {
+   "forma": "ותבקע",
+   "forma_he": "וַתִּבָּקַ֥ע",
+   "n": 4,
+   "ref": "bamidbar/16/31"
+  },
+  {
+   "forma": "תבקע",
+   "forma_he": "תְּבַקֵּֽעַ",
+   "n": 4,
+   "ref": "mlakhim_b/8/12"
+  },
+  {
+   "forma": "ויבקע",
+   "forma_he": "וַיְבַקַּע֙",
+   "n": 3,
+   "ref": "bereshit/22/3"
+  }
+ ],
+ "morph": [
+  "HVNp3cp",
+  "HC/VNw3fs",
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HVpi2ms"
+ ],
+ "glosa_es": ""
+}

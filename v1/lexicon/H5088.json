@@ -1,0 +1,56 @@
+{
+ "strong": "H5088",
+ "he": "נדר",
+ "xlit": "neder",
+ "pron": "neh'-der",
+ "def_en": [
+  "1) vow, votive offering"
+ ],
+ "kjv": "vow(-ed).",
+ "expl": "a promise (to God); also (concretely) a thing promised",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5087"
+ ],
+ "ocurrencias": 60,
+ "formas": [
+  {
+   "forma": "נדר",
+   "forma_he": "נֶ֣דֶר",
+   "n": 21,
+   "ref": "bereshit/28/20"
+  },
+  {
+   "forma": "נדרי",
+   "forma_he": "נִדְרִ֛י",
+   "n": 8,
+   "ref": "shmuel_b/15/7"
+  },
+  {
+   "forma": "נדריה",
+   "forma_he": "נְדָרֶ֔יהָ",
+   "n": 5,
+   "ref": "bamidbar/30/5"
+  },
+  {
+   "forma": "נדריכם",
+   "forma_he": "נִדְרֵיכֶם֙",
+   "n": 4,
+   "ref": "vayikra/23/38"
+  },
+  {
+   "forma": "נדריך",
+   "forma_he": "נְדָרֶ֨יךָ֙",
+   "n": 4,
+   "ref": "devarim/12/17"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmpc/Sp1cs",
+  "HNcmpc/Sp3fs",
+  "HNcmpc/Sp2mp",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

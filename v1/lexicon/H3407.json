@@ -1,0 +1,56 @@
+{
+ "strong": "H3407",
+ "he": "יריעה",
+ "xlit": "yᵉrîyʻâh",
+ "pron": "yer-ee-aw'",
+ "def_en": [
+  "1) curtain, drape"
+ ],
+ "kjv": "curtain.",
+ "expl": "a hanging (as tremulous)",
+ "etim": "from ;",
+ "raices": [
+  "H3415"
+ ],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "היריעה",
+   "forma_he": "הַיְרִיעָ֣ה",
+   "n": 21,
+   "ref": "shemot/26/2"
+  },
+  {
+   "forma": "יריעת",
+   "forma_he": "יְרִיעֹ֑ת",
+   "n": 12,
+   "ref": "shemot/26/1"
+  },
+  {
+   "forma": "היריעת",
+   "forma_he": "הַיְרִיעֹֽת",
+   "n": 9,
+   "ref": "shemot/26/2"
+  },
+  {
+   "forma": "ביריעה",
+   "forma_he": "בַּיְרִיעָ֣ה",
+   "n": 2,
+   "ref": "shemot/26/5"
+  },
+  {
+   "forma": "יריעות",
+   "forma_he": "יְרִיע֖וֹת",
+   "n": 2,
+   "ref": "chavakuk/3/7"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HTd/Ncfpa",
+  "HNcfpa",
+  "HNcfpc",
+  "HRd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

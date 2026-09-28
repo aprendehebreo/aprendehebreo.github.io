@@ -1,0 +1,58 @@
+{
+ "strong": "H6299",
+ "he": "פדה",
+ "xlit": "pâdâh",
+ "pron": "paw-daw'",
+ "def_en": [
+  "1) to ransom, redeem, rescue, deliver",
+  "1a) (Qal) to ransom",
+  "1b) (Niphal) to be ransomed",
+  "1c) (Hiphil) to allow one to be ransomed",
+  "1d) (Hophal) redeemed"
+ ],
+ "kjv": "[idiom] at all, deliver, [idiom] by any means, ransom, (that are to be, let be) redeem(-ed), rescue, [idiom] surely.",
+ "expl": "to sever, i.e. ransom; gener. to release, preserve",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "תפדה",
+   "forma_he": "תִּפְדֶּ֣ה",
+   "n": 11,
+   "ref": "shemot/13/13"
+  },
+  {
+   "forma": "פדה",
+   "forma_he": "פְּדָה",
+   "n": 9,
+   "ref": "bamidbar/10/23"
+  },
+  {
+   "forma": "פדית",
+   "forma_he": "פָּדִ֖יתָ",
+   "n": 6,
+   "ref": "devarim/9/26"
+  },
+  {
+   "forma": "יפדה",
+   "forma_he": "יִפָּדֶ֑ה",
+   "n": 4,
+   "ref": "vayikra/27/29"
+  },
+  {
+   "forma": "ויפדך",
+   "forma_he": "וַֽיִּפְדְּךָ֙",
+   "n": 3,
+   "ref": "devarim/7/8"
+  }
+ ],
+ "morph": [
+  "HVqi2ms",
+  "HVqp2ms",
+  "HVqp3ms",
+  "HC/Vqw3ms/Sp2ms",
+  "HVqv2ms/Sp1cs"
+ ],
+ "glosa_es": ""
+}

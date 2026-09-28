@@ -1,0 +1,57 @@
+{
+ "strong": "H7264",
+ "he": "רגז",
+ "xlit": "râgaz",
+ "pron": "raw-gaz'",
+ "def_en": [
+  "1) tremble, quake, rage, quiver, be agitated, be excited, be perturbed",
+  "1a)(Qal) to quake, be disquieted, be excited, be perturbed",
+  "1b) (Hiphil) to cause to quake, disquiet, enrage, disturb",
+  "1c) (Hithpael) to excite oneself"
+ ],
+ "kjv": "be afraid, stand in awe, disquiet, fall out, fret, move, provoke, quake, rage, shake, tremble, trouble, be wroth.",
+ "expl": "to quiver (with any violent emotion, especially anger or fear)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "ירגזו",
+   "forma_he": "יִרְגָּ֑זוּ",
+   "n": 7,
+   "ref": "shmuel_b/22/8"
+  },
+  {
+   "forma": "רגזה",
+   "forma_he": "רָגְזָ֥ה",
+   "n": 5,
+   "ref": "yeshayahu/14/9"
+  },
+  {
+   "forma": "התרגזך",
+   "forma_he": "הִֽתְרַגֶּזְךָ֥",
+   "n": 4,
+   "ref": "mlakhim_b/19/27"
+  },
+  {
+   "forma": "ירגז",
+   "forma_he": "יִרְגַּ֖ז",
+   "n": 3,
+   "ref": "shmuel_b/7/10"
+  },
+  {
+   "forma": "ירגזון",
+   "forma_he": "יִרְגָּז֑וּן",
+   "n": 2,
+   "ref": "shemot/15/14"
+  }
+ ],
+ "morph": [
+  "HVqi3mp",
+  "HVtc/Sp2ms",
+  "HVqp3fs",
+  "HVqi3ms",
+  "HVqi3mp/Sn"
+ ],
+ "glosa_es": ""
+}

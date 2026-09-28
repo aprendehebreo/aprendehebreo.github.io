@@ -1,0 +1,53 @@
+{
+ "strong": "H7549",
+ "he": "רקיע",
+ "xlit": "râqîyaʻ",
+ "pron": "raw-kee'-ah",
+ "def_en": [
+  "1) extended surface (solid), expanse, firmament",
+  "1a) expanse (flat as base, support)",
+  "1b) firmament (of vault of heaven supporting waters above)",
+  "1b1) considered by Hebrews as solid and supporting 'waters' above"
+ ],
+ "kjv": "firmament.",
+ "expl": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
+ "etim": "from ;",
+ "raices": [
+  "H7554"
+ ],
+ "ocurrencias": 17,
+ "formas": [
+  {
+   "forma": "הרקיע",
+   "forma_he": "הָרָקִיעַ֒",
+   "n": 5,
+   "ref": "bereshit/1/7"
+  },
+  {
+   "forma": "לרקיע",
+   "forma_he": "לָרָקִ֔יעַ",
+   "n": 5,
+   "ref": "bereshit/1/7"
+  },
+  {
+   "forma": "ברקיע",
+   "forma_he": "בִּרְקִ֣יעַ",
+   "n": 4,
+   "ref": "bereshit/1/14"
+  },
+  {
+   "forma": "רקיע",
+   "forma_he": "רָקִ֖יעַ",
+   "n": 3,
+   "ref": "bereshit/1/6"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HR/Ncmsc",
+  "HNcmsa",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

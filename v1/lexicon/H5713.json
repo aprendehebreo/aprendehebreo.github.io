@@ -1,0 +1,58 @@
+{
+ "strong": "H5713",
+ "he": "עדה",
+ "xlit": "ʻêdâh",
+ "pron": "ay-daw'",
+ "def_en": [
+  "1) testimony, witness",
+  "1a) always plural and always of laws as divine testimonies"
+ ],
+ "kjv": "testimony, witness. Compare .",
+ "expl": "testimony",
+ "etim": "feminine of in its techn. sense;",
+ "raices": [
+  "H5707",
+  "H5712"
+ ],
+ "ocurrencias": 26,
+ "formas": [
+  {
+   "forma": "עדתיך",
+   "forma_he": "עֵֽדֹתֶ֨יךָ",
+   "n": 11,
+   "ref": "tehilim/93/5"
+  },
+  {
+   "forma": "לעדה",
+   "forma_he": "לְעֵדָ֔ה",
+   "n": 3,
+   "ref": "bereshit/21/30"
+  },
+  {
+   "forma": "העדת",
+   "forma_he": "הָעֵדֻ֖ת",
+   "n": 2,
+   "ref": "shemot/16/34"
+  },
+  {
+   "forma": "ועדתיו",
+   "forma_he": "וְעֵדֹתָ֥יו",
+   "n": 2,
+   "ref": "devarim/6/17"
+  },
+  {
+   "forma": "עדתיו",
+   "forma_he": "עֵ֝דֹתָ֗יו",
+   "n": 2,
+   "ref": "tehilim/99/7"
+  }
+ ],
+ "morph": [
+  "HNcfpc/Sp2ms",
+  "HR/Ncfsa",
+  "HC/Ncfpc/Sp3ms",
+  "HTd/Ncfpa",
+  "HNcfpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

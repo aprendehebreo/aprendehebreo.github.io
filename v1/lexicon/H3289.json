@@ -1,0 +1,59 @@
+{
+ "strong": "H3289",
+ "he": "יעץ",
+ "xlit": "yâʻats",
+ "pron": "yaw-ats'",
+ "def_en": [
+  "1) to advise, consult, give counsel, counsel, purpose, devise, plan",
+  "1a) (Qal)",
+  "1a1) to advise, counsel, give counsel, consult",
+  "1a2) counsellor (participle)",
+  "1b) (Niphal) to consult together, exchange counsel, deliberate, counsel together",
+  "1c) (Hithpael) to conspire"
+ ],
+ "kjv": "advertise, take advise, advise (well), consult, (give, take) counsel(-lor), determine, devise, guide, purpose.",
+ "expl": "to advise; reflexively, to deliberate or resolve",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 79,
+ "formas": [
+  {
+   "forma": "יעץ",
+   "forma_he": "יָעַץ֙",
+   "n": 16,
+   "ref": "shmuel_b/16/23"
+  },
+  {
+   "forma": "ויועץ",
+   "forma_he": "וַיִּוָּעַ֞ץ",
+   "n": 12,
+   "ref": "mlakhim_a/12/6"
+  },
+  {
+   "forma": "יועץ",
+   "forma_he": "יוֹעֵ֣ץ",
+   "n": 9,
+   "ref": "shmuel_b/15/12"
+  },
+  {
+   "forma": "נועצים",
+   "forma_he": "נֽוֹעָצִ֔ים",
+   "n": 5,
+   "ref": "mlakhim_a/12/6"
+  },
+  {
+   "forma": "איעצך",
+   "forma_he": "אִיעָ֣צְךָ֔",
+   "n": 4,
+   "ref": "shemot/18/19"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HC/VNw3ms",
+  "HVqrmsa",
+  "HVNrmpa",
+  "HVqrmpa"
+ ],
+ "glosa_es": ""
+}

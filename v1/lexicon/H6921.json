@@ -1,0 +1,58 @@
+{
+ "strong": "H6921",
+ "he": "קדים",
+ "xlit": "qâdîym",
+ "pron": "kaw-deem'",
+ "def_en": [
+  "1) east, east wind",
+  "1a) east (of direction)",
+  "1b) east wind"
+ ],
+ "kjv": "east(-ward, wind).",
+ "expl": "the fore or front part; hence (by orientation) the East (often adverbially, eastward, for brevity the east wind)",
+ "etim": "or ; from ;",
+ "raices": [
+  "H6923"
+ ],
+ "ocurrencias": 69,
+ "formas": [
+  {
+   "forma": "קדים",
+   "forma_he": "קָדִ֑ים",
+   "n": 28,
+   "ref": "bereshit/41/6"
+  },
+  {
+   "forma": "הקדים",
+   "forma_he": "הַקָּדִ֑ים",
+   "n": 17,
+   "ref": "bereshit/41/27"
+  },
+  {
+   "forma": "קדימה",
+   "forma_he": "קָדִ֔ימָה",
+   "n": 15,
+   "ref": "yechezkel/11/1"
+  },
+  {
+   "forma": "קדמה",
+   "forma_he": "קֵ֖דְמָה",
+   "n": 3,
+   "ref": "bereshit/25/6"
+  },
+  {
+   "forma": "וקדימה",
+   "forma_he": "וְקָדִ֗ימָה",
+   "n": 2,
+   "ref": "yechezkel/48/10"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsa/Sd",
+  "HTd/Ncmsa",
+  "HC/Ncmsa/Sd",
+  "HTd/Ncmsa/Sd"
+ ],
+ "glosa_es": ""
+}

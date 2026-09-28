@@ -1,0 +1,60 @@
+{
+ "strong": "H5193",
+ "he": "נטע",
+ "xlit": "nâṭaʻ",
+ "pron": "naw-tah'",
+ "def_en": [
+  "1) to plant, fasten, fix, establish",
+  "1a) (Qal)",
+  "1a1) to plant",
+  "1a2) to plant, establish (fig.)",
+  "1b) (Niphal)",
+  "1b1) to be planted",
+  "1b2) to be established (fig.)"
+ ],
+ "kjv": "fastened, plant(-er).",
+ "expl": "properly, to strike in, i.e. fix; specifically, to plant (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "ונטעו",
+   "forma_he": "וְנִטְע֥וּ",
+   "n": 8,
+   "ref": "mlakhim_b/19/29"
+  },
+  {
+   "forma": "נטע",
+   "forma_he": "נָטַ֣ע",
+   "n": 5,
+   "ref": "bamidbar/24/6"
+  },
+  {
+   "forma": "ויטע",
+   "forma_he": "וַיִּטַּ֞ע",
+   "n": 4,
+   "ref": "bereshit/2/8"
+  },
+  {
+   "forma": "תטע",
+   "forma_he": "תִטַּ֥ע",
+   "n": 3,
+   "ref": "devarim/16/21"
+  },
+  {
+   "forma": "נטעתם",
+   "forma_he": "נְטַעְתֶּ֔ם",
+   "n": 3,
+   "ref": "yehoshua/24/13"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HC/Vqv2mp",
+  "HC/Vqq3cp",
+  "HC/Vqw3ms",
+  "HVqi2ms"
+ ],
+ "glosa_es": ""
+}

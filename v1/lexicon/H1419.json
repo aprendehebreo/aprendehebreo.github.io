@@ -1,0 +1,72 @@
+{
+ "strong": "H1419",
+ "he": "גדול",
+ "xlit": "gâdôwl",
+ "pron": "gaw-dole'",
+ "def_en": [
+  "adj",
+  "1) great",
+  "1a) large (in magnitude and extent)",
+  "1b) in number",
+  "1c) in intensity",
+  "1d) loud (in sound)",
+  "1e) older (in age)",
+  "1f) in importance",
+  "1f1) important things",
+  "1f2) great, distinguished (of men)",
+  "1f3) God Himself (of God)",
+  "subst",
+  "1g) great things",
+  "1h) haughty things",
+  "1i) greatness",
+  "n pr m",
+  "1j) (CLBL) Haggedolim, the great man?, father of Zabdiel"
+ ],
+ "kjv": "[phrase] aloud, elder(-est), [phrase] exceeding(-ly), [phrase] far, (man of) great (man, matter, thing,-er,-ness), high, long, loud, mighty, more, much, noble, proud thing, [idiom] sore, ([idiom]) very.",
+ "expl": "great (in any sense); hence, older; also insolent",
+ "etim": "or ; (shortened) from ;",
+ "raices": [
+  "H1431"
+ ],
+ "ocurrencias": 530,
+ "formas": [
+  {
+   "forma": "גדול",
+   "forma_he": "גָּד֥וֹל",
+   "n": 179,
+   "ref": "bereshit/4/13"
+  },
+  {
+   "forma": "הגדול",
+   "forma_he": "הַגָּדֽוֹל",
+   "n": 89,
+   "ref": "bereshit/10/21"
+  },
+  {
+   "forma": "גדולה",
+   "forma_he": "גְדוֹלָֽה",
+   "n": 72,
+   "ref": "bamidbar/22/18"
+  },
+  {
+   "forma": "גדלות",
+   "forma_he": "גְּדֹל֔וֹת",
+   "n": 29,
+   "ref": "devarim/27/2"
+  },
+  {
+   "forma": "הגדולה",
+   "forma_he": "הַגְּדוֹלָ֔ה",
+   "n": 28,
+   "ref": "devarim/4/36"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HTd/Aamsa",
+  "HAafsa",
+  "HTd/Aafsa",
+  "HAafpa"
+ ],
+ "glosa_es": "grande"
+}

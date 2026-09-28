@@ -1,0 +1,58 @@
+{
+ "strong": "H7287",
+ "he": "רדה",
+ "xlit": "râdâh",
+ "pron": "raw-daw'",
+ "def_en": [
+  "1) to rule, have dominion, dominate, tread down",
+  "1a) (Qal) to have dominion, rule, subjugate",
+  "1b) (Hiphil) to cause to dominate",
+  "2) to scrape out",
+  "2a) (Qal) to scrape, scrape out"
+ ],
+ "kjv": "(come to, make to) have dominion, prevail against, reign, (bear, make to) rule,(-r, over), take.",
+ "expl": "to tread down, i.e. subjugate; specifically, to crumble off",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 27,
+ "formas": [
+  {
+   "forma": "רדה",
+   "forma_he": "רְדָ֥ה",
+   "n": 4,
+   "ref": "bereshit/45/9"
+  },
+  {
+   "forma": "וירדו",
+   "forma_he": "וְיִרְדּוּ֩",
+   "n": 3,
+   "ref": "bereshit/1/26"
+  },
+  {
+   "forma": "ורדו",
+   "forma_he": "וּרְד֞וּ",
+   "n": 3,
+   "ref": "bereshit/1/28"
+  },
+  {
+   "forma": "ירד",
+   "forma_he": "יָֽרֶד",
+   "n": 3,
+   "ref": "bereshit/5/15"
+  },
+  {
+   "forma": "הרדים",
+   "forma_he": "הָרֹדִ֣ים",
+   "n": 3,
+   "ref": "mlakhim_a/5/30"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HTd/Vqrmpa",
+  "HVqi2ms",
+  "HC/Vqq3cp",
+  "HC/Vqj3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H6823",
+ "he": "צפה",
+ "xlit": "tsâphâh",
+ "pron": "tsaw-faw'",
+ "def_en": [
+  "1) to lay out, lay over, overlay, cover",
+  "1a) (Piel) to overlay, plate, stud",
+  "1b) (Pual) to be laid over"
+ ],
+ "kjv": "cover, overlay.",
+ "expl": "to sheet over (especially with metal)",
+ "etim": "a primitive root (probably identical with through the idea of expansion in outlook, transferring to action);",
+ "raices": [
+  "H6822"
+ ],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "ויצף",
+   "forma_he": "וַיְצַ֥ף",
+   "n": 13,
+   "ref": "shemot/36/34"
+  },
+  {
+   "forma": "וצפית",
+   "forma_he": "וְצִפִּיתָ֤",
+   "n": 10,
+   "ref": "shemot/25/11"
+  },
+  {
+   "forma": "צפה",
+   "forma_he": "צִפָּ֣ה",
+   "n": 8,
+   "ref": "shemot/36/34"
+  },
+  {
+   "forma": "ויצפהו",
+   "forma_he": "וַיְצַפֵּ֛הוּ",
+   "n": 6,
+   "ref": "shemot/37/2"
+  },
+  {
+   "forma": "וצפה",
+   "forma_he": "וְצִפָּ֧ה",
+   "n": 4,
+   "ref": "shemot/36/38"
+  }
+ ],
+ "morph": [
+  "HC/Vpw3ms",
+  "HC/Vpq2ms",
+  "HVpp3ms",
+  "HC/Vpw3ms/Sp3ms",
+  "HC/Vpp3ms"
+ ],
+ "glosa_es": ""
+}

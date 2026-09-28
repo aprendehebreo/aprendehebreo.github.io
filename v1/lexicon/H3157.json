@@ -1,0 +1,62 @@
+{
+ "strong": "H3157",
+ "he": "יזרעאל",
+ "xlit": "Yizrᵉʻêʼl",
+ "pron": "yiz-reh-ale'",
+ "def_en": [
+  "Jezreel = \"God sows\"",
+  "n pr m",
+  "1) a descendant of the father or founder of Etam of Judah",
+  "2) first son of Hosea the prophet",
+  "n pr loc",
+  "3) a city in the Nekeb of Judah",
+  "4) a city in Issachar on the northwest spur of Mount Gilboa"
+ ],
+ "kjv": "Jezreel.",
+ "expl": "Jizreel, the name of two places in Palestine and of two Israelites",
+ "etim": "from and ; God will sow;",
+ "raices": [
+  "H2232",
+  "H410"
+ ],
+ "ocurrencias": 36,
+ "formas": [
+  {
+   "forma": "יזרעאל",
+   "forma_he": "יִזְרְעֶֽאל",
+   "n": 15,
+   "ref": "yehoshua/17/16"
+  },
+  {
+   "forma": "ביזרעאל",
+   "forma_he": "בְּיִזְרְעֶֽאל",
+   "n": 10,
+   "ref": "shmuel_a/29/1"
+  },
+  {
+   "forma": "יזרעאלה",
+   "forma_he": "יִזְרְעֶ֥אלָה",
+   "n": 7,
+   "ref": "yehoshua/19/18"
+  },
+  {
+   "forma": "מיזרעאל",
+   "forma_he": "מִֽיִּזְרְעֶ֑אל",
+   "n": 2,
+   "ref": "shmuel_a/25/43"
+  },
+  {
+   "forma": "ויזרעאל",
+   "forma_he": "וְיִזְרְעֶ֥אל",
+   "n": 1,
+   "ref": "yehoshua/15/56"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

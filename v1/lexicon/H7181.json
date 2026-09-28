@@ -1,0 +1,56 @@
+{
+ "strong": "H7181",
+ "he": "קשב",
+ "xlit": "qâshab",
+ "pron": "kaw-shab'",
+ "def_en": [
+  "1) to hear, be attentive, heed, incline (of ears), attend (of ears), hearken, pay attention, listen",
+  "1a) (Qal) incline, attend (of ears), hearken, pay attention, listen",
+  "1b) (Hiphil) to pay attention, give attention"
+ ],
+ "kjv": "attend, (cause to) hear(-ken), give heed, incline, mark (well), regard.",
+ "expl": "to prick up the ears, i.e. hearken",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "הקשיבו",
+   "forma_he": "הַקְשִׁ֥יבוּ",
+   "n": 10,
+   "ref": "yeshayahu/28/23"
+  },
+  {
+   "forma": "הקשיבה",
+   "forma_he": "הַקְשִׁ֥יבָה",
+   "n": 9,
+   "ref": "yirmiyahu/18/19"
+  },
+  {
+   "forma": "להקשיב",
+   "forma_he": "לְהַקְשִׁ֖יב",
+   "n": 4,
+   "ref": "shmuel_a/15/22"
+  },
+  {
+   "forma": "והקשיבו",
+   "forma_he": "וְהַקְשִׁ֥יבוּ",
+   "n": 4,
+   "ref": "yeshayahu/49/1"
+  },
+  {
+   "forma": "מקשיב",
+   "forma_he": "מַקְשִֽׁיב",
+   "n": 3,
+   "ref": "mishlei/1/24"
+  }
+ ],
+ "morph": [
+  "HVhv2ms/Sh",
+  "HVhv2mp",
+  "HR/Vhc",
+  "HC/Vhv2mp",
+  "HVhp3cp"
+ ],
+ "glosa_es": ""
+}

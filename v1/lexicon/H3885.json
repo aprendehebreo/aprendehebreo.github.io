@@ -1,0 +1,62 @@
+{
+ "strong": "H3885",
+ "he": "לון",
+ "xlit": "lûwn",
+ "pron": "loon",
+ "def_en": [
+  "1) to lodge, stop over, pass the night, abide",
+  "1a) (Qal)",
+  "1a1) to lodge, pass the night",
+  "1a2) to abide, remain (fig.)",
+  "1b) (Hiphil) to cause to rest or lodge",
+  "1c) (Hithpalpel) to dwell, abide",
+  "2) to grumble, complain, murmur",
+  "2a) (Niphal) to grumble",
+  "2b) (Hiphil) to complain, cause to grumble"
+ ],
+ "kjv": "abide (all night), continue, dwell, endure, grudge, be left, lie all night, (cause to) lodge (all night, in, -ing, this night), (make to) murmur, remain, tarry (all night, that night).",
+ "expl": "to stop (usually over night); by implication, to stay permanently; hence (in a bad sense) to be obstinate (especially in words, to complain)",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 87,
+ "formas": [
+  {
+   "forma": "ילין",
+   "forma_he": "יָלִ֥ין",
+   "n": 14,
+   "ref": "shemot/23/18"
+  },
+  {
+   "forma": "וילינו",
+   "forma_he": "וַיָּלִ֑ינוּ",
+   "n": 9,
+   "ref": "bereshit/24/54"
+  },
+  {
+   "forma": "ללון",
+   "forma_he": "לָלֽוּן",
+   "n": 6,
+   "ref": "bereshit/24/25"
+  },
+  {
+   "forma": "וילן",
+   "forma_he": "וַיָּ֤לֶן",
+   "n": 6,
+   "ref": "bereshit/28/11"
+  },
+  {
+   "forma": "תלין",
+   "forma_he": "תָלִ֞ין",
+   "n": 6,
+   "ref": "vayikra/19/13"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HC/Vqw3mp",
+  "HR/Vqc",
+  "HVqi3fs",
+  "HC/VNw3mp"
+ ],
+ "glosa_es": ""
+}

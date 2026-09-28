@@ -1,0 +1,61 @@
+{
+ "strong": "H6951",
+ "he": "קהל",
+ "xlit": "qâhâl",
+ "pron": "kaw-hawl'",
+ "def_en": [
+  "1) assembly, company, congregation, convocation",
+  "1a) assembly",
+  "1a1) for evil counsel, war or invasion, religious purposes",
+  "1b) company (of returning exiles)",
+  "1c) congregation",
+  "1c1) as organised body"
+ ],
+ "kjv": "assembly, company, congregation, multitude.",
+ "expl": "assemblage (usually concretely)",
+ "etim": "from ;",
+ "raices": [
+  "H6950"
+ ],
+ "ocurrencias": 123,
+ "formas": [
+  {
+   "forma": "הקהל",
+   "forma_he": "הַקָּהָ֥ל",
+   "n": 42,
+   "ref": "shemot/16/3"
+  },
+  {
+   "forma": "קהל",
+   "forma_he": "קְהַ֥ל",
+   "n": 37,
+   "ref": "shemot/12/6"
+  },
+  {
+   "forma": "בקהל",
+   "forma_he": "בִּקְהַ֥ל",
+   "n": 23,
+   "ref": "devarim/23/2"
+  },
+  {
+   "forma": "לקהל",
+   "forma_he": "לִקְהַ֥ל",
+   "n": 5,
+   "ref": "bereshit/28/3"
+  },
+  {
+   "forma": "קהלך",
+   "forma_he": "קְהָלֵךְ֙",
+   "n": 4,
+   "ref": "yechezkel/27/27"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsa",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

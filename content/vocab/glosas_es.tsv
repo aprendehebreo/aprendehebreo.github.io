@@ -1,0 +1,304 @@
+# glosas_es.tsv — glosas en español de los 300 lemas hebreos más frecuentes del Tanaj
+# fuente de lemas: content/vocab/top1000.tsv (rangos 1..300, campo strong)
+# formato: <strong>\t<glosa breve en español>
+H853	(partícula de objeto directo; no se traduce)
+H3068	YHVH; el Señor
+H5921	sobre; encima de; por
+H413	hacia; a; para
+H834	que; el cual; quien
+H3605	todo; cada; entero
+H559	decir; dijo
+H3808	no; nada
+H1121	hijo; descendiente
+H3588	porque; pues; que
+H1961	ser; suceder; llegar a ser
+H6213	hacer; obrar
+H430	Dios; dioses
+H935	venir; entrar; traer
+H4428	rey
+H3478	Israel
+H776	tierra; país
+H3117	día
+H376	hombre; varón; esposo
+H6440	delante de; rostro
+H1004	casa; familia
+H5414	dar; poner
+H1931	él; aquel
+H5971	pueblo; nación
+H3027	mano; poder
+H1697	palabra; asunto; cosa
+H7200	ver; mirar
+H5704	hasta; mientras
+H4480	de; desde; más que
+H1	padre
+H2088	este
+H8085	oír; escuchar; obedecer
+H1696	hablar
+H859	tú
+H5892	ciudad
+H3427	habitar; morar; sentarse
+H3318	salir; sacar
+H1732	David
+H7725	volver; regresar; responder
+H518	si; si acaso
+H5973	con; junto a
+H3212	ir; caminar
+H259	uno; solo
+H3947	tomar; recibir
+H3045	saber; conocer
+H5869	ojo; vista
+H5927	subir; ascender; ofrecer
+H854	con; junto a
+H8141	año
+H589	yo
+H8034	nombre
+H7971	enviar; extender
+H2009	he aquí; mira
+H4191	morir
+H8033	allí; allá
+H3063	Judá
+H398	comer; consumir
+H5650	siervo; esclavo
+H369	no hay; sin
+H802	mujer; esposa
+H3651	así; recto; correcto
+H1571	también; además
+H8147	dos
+H4872	Moisés
+H5315	alma; vida; persona
+H3548	sacerdote
+H4100	qué; cómo
+H428	estos
+H7121	llamar; proclamar; leer
+H408	no (prohibición)
+H310	después de; detrás de
+H1870	camino; conducta
+H7451	mal; malo; calamidad
+H5375	levantar; cargar; perdonar
+H3389	Jerusalén
+H4714	Egipto
+H251	hermano
+H6965	levantarse; estar de pie
+H2063	esta
+H7218	cabeza; jefe; principio
+H3820	corazón
+H1323	hija
+H7760	poner; colocar
+H3967	cien; cientos
+H4325	agua
+H3541	así; de este modo
+H1471	nación; gentiles
+H1992	ellos; aquellos
+H2896	bueno; bien
+H5674	pasar; cruzar
+H120	hombre; ser humano; Adán
+H2022	monte; montaña
+H1419	grande
+H5975	estar de pie; permanecer
+H1980	caminar; andar; ir
+H8478	debajo de; en lugar de
+H505	mil
+H6963	voz; sonido
+H2416	vivo; viviente; vida
+H5221	golpear; herir; matar
+H3205	engendrar; dar a luz
+H6310	boca; apertura
+H6680	mandar; ordenar
+H5750	aún; todavía
+H6635	ejército; huestes
+H8104	guardar; cuidar; observar
+H6944	santo; santidad
+H7227	mucho; numeroso; grande
+H4672	hallar; encontrar
+H136	Señor; amo
+H5769	eternidad; para siempre
+H5307	caer
+H6258	ahora
+H7969	tres
+H4941	juicio; derecho; justicia
+H4310	quién
+H8064	cielo; cielos
+H8269	príncipe; jefe; oficial
+H8432	medio; en medio de
+H2719	espada
+H996	entre
+H7586	Saúl
+H3701	plata; dinero
+H4196	altar
+H4994	por favor; te ruego
+H4725	lugar
+H3220	mar
+H7651	siete
+H2091	oro
+H3381	bajar; descender
+H784	fuego
+H7307	espíritu; viento; aliento
+H1129	construir; edificar
+H5002	dicho; oráculo
+H8179	puerta; portal
+H5046	anunciar; declarar; informar
+H1818	sangre
+H595	yo
+H4427	reinar; ser rey
+H3290	Jacob
+H168	tienda
+H175	Aarón
+H1768	que; el cual (arameo)
+H2568	cinco
+H6240	diez
+H5439	alrededor; en derredor
+H7704	campo; labranza
+H1288	bendecir; bendito
+H6086	árbol; madera
+H113	señor; amo; dueño
+H3372	temer; tener miedo
+H6030	responder; contestar
+H3627	vaso; utensilio; arma
+H176	o; si no
+H702	cuatro
+H4421	guerra; batalla
+H2005	heme aquí; aquí estoy
+H5030	profeta
+H6242	veinte
+H3069	YHVH; el Señor (leído Adonai)
+H4940	familia; clan
+H6485	visitar; contar; castigar
+H5493	apartarse; quitar
+H3966	mucho; muy
+H2403	pecado; ofrenda por el pecado
+H3899	pan; alimento
+H6256	tiempo; momento
+H8010	Salomón
+H2388	esforzarse; fortalecerse; asir
+H3772	cortar; hacer pacto
+H6430	filisteos
+H5647	servir; trabajar
+H5930	holocausto; ofrenda quemada
+H3881	levitas
+H341	enemigo
+H1285	pacto; alianza
+H2320	mes; luna nueva
+H7126	acercar; ofrecer
+H639	ira; nariz
+H6629	rebaño; ovejas
+H68	piedra
+H4616	para que; a fin de
+H4057	desierto; yermo
+H1320	carne
+H6547	faraón
+H2421	vivir
+H7563	malvado; impío
+H894	Babilonia
+H3824	corazón; interior
+H4294	vara; tribu; báculo
+H2617	misericordia; bondad; lealtad
+H7272	pie
+H4390	llenar; cumplir
+H520	codo (medida)
+H410	Dios; poderoso
+H1366	límite; frontera; territorio
+H2398	pecar
+H5288	joven; muchacho; siervo
+H7965	paz; bienestar; integridad
+H2142	recordar; acordarse
+H3915	noche
+H4639	obra; hecho; trabajo
+H7235	multiplicar; aumentar; abundar
+H2428	fuerza; poder; ejército; riqueza
+H3423	heredar; poseer; desposeer
+H5771	iniquidad; culpa; castigo
+H2233	semilla; descendencia
+H3789	escribir; inscrito
+H7130	medio; interior; entre
+H127	tierra; suelo; terreno
+H1245	buscar; requerir
+H4150	tiempo señalado; fiesta
+H5159	heredad; herencia
+H8451	ley; instrucción; torá
+H517	madre
+H3559	estar firme; preparar; establecido
+H899	ropa; vestidura
+H3091	Josué
+H8354	beber
+H4264	campamento; ejército
+H5186	extender; inclinar
+H5800	dejar; abandonar
+H8337	seis
+H1242	mañana; amanecer
+H3130	José
+H4397	mensajero; ángel
+H5337	librar; salvar; rescatar
+H7901	acostarse; yacer; dormir
+H157	amar
+H4503	ofrenda; presente
+H3254	añadir; aumentar; volver a
+H3467	salvar; librar
+H6662	justo; recto
+H3615	acabar; terminar; consumar
+H8199	juzgar; gobernar
+H622	reunir; recoger; ser agregado
+H727	arca
+H905	solo; aparte; además de
+H3519	gloria; honra; esplendor
+H352	carnero; poderoso; encina
+H3709	palma; mano; cuchara
+H3201	poder; ser capaz
+H7311	levantar; alzar; exaltar
+H8081	aceite; grasa
+H929	bestia; ganado; animal
+H2691	atrio; patio; aldea
+H7626	vara; cetro; tribu
+H7453	prójimo; amigo; compañero
+H241	oído; oreja
+H5612	libro; escrito; carta
+H1540	descubrir; revelar; desnudar
+H7650	jurar
+H6	perecer; destruir; perderse
+H4687	mandamiento; precepto
+H1241	ganado; vacuno; buey
+H3383	Jordán
+H7223	primero; anterior
+H4124	Moab
+H669	Efraín
+H4430	rey (arameo)
+H2205	anciano; viejo
+H3898	pelear; luchar; combatir
+H6235	diez (en números compuestos)
+H8193	labio; borde; lengua
+H7592	pedir; preguntar; demandar
+H85	Abraham
+H7812	postrarse; adorar
+H7970	treinta
+H6942	santificar; consagrar
+H995	entender; comprender; discernir
+H977	escoger; elegir
+H1755	generación; descendencia
+H1144	Benjamín
+H2026	matar; asesinar
+H4399	obra; trabajo; tarea
+H312	otro; ajeno
+H1875	buscar; consultar; inquirir
+H1984	alabar; ensalzar; gloriarse
+H2351	fuera; afuera; exterior
+H6607	entrada; puerta; abertura
+H7462	pastorear; apacentar; pastor
+H2572	cincuenta
+H2077	sacrificio
+H2930	ser inmundo; contaminarse
+H389	pero; ciertamente; solo
+H5127	huir; escapar
+H5608	contar; narrar; escribir
+H1368	fuerte; valiente; héroe
+H6666	justicia; rectitud
+H4194	muerte
+H5437	girar; rodear; dar vuelta
+H8055	alegrarse; gozarse
+H8145	segundo
+H3680	cubrir; tapar
+H6726	Sion
+H6828	norte
+H804	Asiria
+H5048	delante de; frente a
+H5060	tocar; golpear; llegar
+H7230	multitud; abundancia; mucho
+# total: 300

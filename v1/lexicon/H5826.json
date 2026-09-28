@@ -1,0 +1,57 @@
+{
+ "strong": "H5826",
+ "he": "עזר",
+ "xlit": "ʻâzar",
+ "pron": "aw-zar'",
+ "def_en": [
+  "1) to help, succour, support",
+  "1a) (Qal) to help",
+  "1b) (Niphal) to be helped",
+  "1c) (Hiphil) to help"
+ ],
+ "kjv": "help, succour.",
+ "expl": "to surround, i.e. protect or aid",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 82,
+ "formas": [
+  {
+   "forma": "עזר",
+   "forma_he": "עֵ֖זֶר",
+   "n": 11,
+   "ref": "bereshit/2/18"
+  },
+  {
+   "forma": "לעזר",
+   "forma_he": "לַעְזֹ֖ר",
+   "n": 6,
+   "ref": "yehoshua/10/33"
+  },
+  {
+   "forma": "עוזר",
+   "forma_he": "עוֹזֵר֙",
+   "n": 5,
+   "ref": "yeshayahu/31/3"
+  },
+  {
+   "forma": "לעזור",
+   "forma_he": "לַעְזֽוֹר",
+   "n": 4,
+   "ref": "shmuel_b/18/3"
+  },
+  {
+   "forma": "עזרתיך",
+   "forma_he": "עֲזַרְתִּ֔יךָ",
+   "n": 4,
+   "ref": "yeshayahu/41/10"
+  }
+ ],
+ "morph": [
+  "HVqrmsa",
+  "HR/Vqc",
+  "HVqp1cs/Sp2ms",
+  "HVqp3cp",
+  "HR/Vqc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

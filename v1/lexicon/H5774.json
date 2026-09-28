@@ -1,0 +1,68 @@
+{
+ "strong": "H5774",
+ "he": "עוף",
+ "xlit": "ʻûwph",
+ "pron": "oof",
+ "def_en": [
+  "v",
+  "1) to fly, fly about, fly away",
+  "1a)(Qal)",
+  "1a1) to fly, hover",
+  "1a2) to fly away",
+  "1b) (Hiphil) to cause to fly, light upon",
+  "1c) (Polel)",
+  "1c1) to fly about or to and fro",
+  "1c2) to cause to fly to and fro, brandish",
+  "1d) (Hithpolel) to fly away",
+  "2) (Qal) to cover, be dark",
+  "n f",
+  "3) gloom"
+ ],
+ "kjv": "brandish, be (wax) faint, flee away, fly (away), [idiom] set, shine forth, weary.",
+ "expl": "to fly; also (by implication of dimness) to faint (from the darkness of swooning)",
+ "etim": "a primitive root; to cover (with wings or obscurity); hence (as denominative from )",
+ "raices": [
+  "H5775"
+ ],
+ "ocurrencias": 32,
+ "formas": [
+  {
+   "forma": "ויעף",
+   "forma_he": "וַיָּ֖עַף",
+   "n": 8,
+   "ref": "shoftim/4/21"
+  },
+  {
+   "forma": "יעוף",
+   "forma_he": "יָע֥וּף",
+   "n": 3,
+   "ref": "tehilim/91/5"
+  },
+  {
+   "forma": "יעופף",
+   "forma_he": "יְעוֹפֵ֣ף",
+   "n": 2,
+   "ref": "bereshit/1/20"
+  },
+  {
+   "forma": "מעופף",
+   "forma_he": "מְעוֹפֵֽף",
+   "n": 2,
+   "ref": "yeshayahu/14/29"
+  },
+  {
+   "forma": "עפה",
+   "forma_he": "עָפָֽה",
+   "n": 2,
+   "ref": "zecharia/5/1"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqi3ms",
+  "HVoi3ms",
+  "HVormsa",
+  "HVqrfsa"
+ ],
+ "glosa_es": ""
+}

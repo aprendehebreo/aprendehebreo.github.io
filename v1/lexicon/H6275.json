@@ -1,0 +1,61 @@
+{
+ "strong": "H6275",
+ "he": "עתק",
+ "xlit": "ʻâthaq",
+ "pron": "aw-thak'",
+ "def_en": [
+  "1) to move, proceed, advance, move on, become old, be removed",
+  "1a) (Qal)",
+  "1a1) to move",
+  "1a2) to advance (in years), grow old and weak",
+  "1b) (Hiphil)",
+  "1b1) to move forward, proceed, move on",
+  "1b2) to remove",
+  "1b3) to transcribe"
+ ],
+ "kjv": "copy out, leave off, become (wax) old, remove.",
+ "expl": "to remove (intransitive or transitive) figuratively, to grow old; specifically, to transcribe",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 9,
+ "formas": [
+  {
+   "forma": "ויעתק",
+   "forma_he": "וַיַּעְתֵּ֨ק",
+   "n": 3,
+   "ref": "bereshit/12/8"
+  },
+  {
+   "forma": "העתיקו",
+   "forma_he": "הֶ֝עְתִּ֗יקוּ",
+   "n": 2,
+   "ref": "mishlei/25/1"
+  },
+  {
+   "forma": "עתקה",
+   "forma_he": "עָֽ֝תְקָ֗ה",
+   "n": 1,
+   "ref": "tehilim/6/8"
+  },
+  {
+   "forma": "המעתיק",
+   "forma_he": "הַמַּעְתִּ֣יק",
+   "n": 1,
+   "ref": "iyov/9/5"
+  },
+  {
+   "forma": "יעתק",
+   "forma_he": "יֶעְתַּ֥ק",
+   "n": 1,
+   "ref": "iyov/14/18"
+  }
+ ],
+ "morph": [
+  "HC/Vhw3ms",
+  "HVhp3cp",
+  "HVqp3fs",
+  "HTd/Vhrmsa",
+  "HVqi3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H7782",
+ "he": "שופר",
+ "xlit": "shôwphâr",
+ "pron": "sho-far'",
+ "def_en": [
+  "1) horn, ram's horn"
+ ],
+ "kjv": "cornet, trumpet.",
+ "expl": "a cornet (as giving a clear sound) or curved horn",
+ "etim": "or ; from in the original sense of incising;",
+ "raices": [
+  "H8231"
+ ],
+ "ocurrencias": 72,
+ "formas": [
+  {
+   "forma": "שופר",
+   "forma_he": "שׁוֹפַ֤ר",
+   "n": 23,
+   "ref": "vayikra/25/9"
+  },
+  {
+   "forma": "בשופר",
+   "forma_he": "בַּשּׁוֹפָ֖ר",
+   "n": 14,
+   "ref": "shoftim/3/27"
+  },
+  {
+   "forma": "בשופרות",
+   "forma_he": "בַּשּׁוֹפָרֽוֹת",
+   "n": 9,
+   "ref": "yehoshua/6/4"
+  },
+  {
+   "forma": "השופר",
+   "forma_he": "הַשּׁוֹפָ֔ר",
+   "n": 7,
+   "ref": "shemot/19/19"
+  },
+  {
+   "forma": "שופרות",
+   "forma_he": "שׁוֹפְר֤וֹת",
+   "n": 5,
+   "ref": "yehoshua/6/4"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HRd/Ncmpa",
+  "HTd/Ncmsa",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

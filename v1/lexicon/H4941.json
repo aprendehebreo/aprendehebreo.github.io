@@ -1,0 +1,69 @@
+{
+ "strong": "H4941",
+ "he": "משפט",
+ "xlit": "mishpâṭ",
+ "pron": "mish-pawt'",
+ "def_en": [
+  "1) judgment, justice, ordinance",
+  "1a) judgment",
+  "1a1) act of deciding a case",
+  "1a2) place, court, seat of judgment",
+  "1a3) process, procedure, litigation (before judges)",
+  "1a4) case, cause (presented for judgment)",
+  "1a5) sentence, decision (of judgment)",
+  "1a6) execution (of judgment)",
+  "1a7) time (of judgment)",
+  "1b) justice, right, rectitude (attributes of God or man)",
+  "1c) ordinance",
+  "1d) decision (in law)",
+  "1e) right, privilege, due (legal)",
+  "1f) proper, fitting, measure, fitness, custom, manner, plan"
+ ],
+ "kjv": "[phrase] adversary, ceremony, charge, [idiom] crime, custom, desert, determination, discretion, disposing, due, fashion, form, to be judged, judgment, just(-ice, -ly), (manner of) law(-ful), manner, measure, (due) order, ordinance, right, sentence, usest, [idiom] worthy, [phrase] wrong.",
+ "expl": "properly, a verdict (favorable or unfavorable) pronounced judicially, especially a sentence or formal decree (human or (participant's) divine law, individual or collective), including the act, the place, the suit, the crime, and the penalty; abstractly, justice, including a participant's right or privilege (statutory or customary), or even a style",
+ "etim": "from ;",
+ "raices": [
+  "H8199"
+ ],
+ "ocurrencias": 424,
+ "formas": [
+  {
+   "forma": "משפט",
+   "forma_he": "מִשְׁפָּט֙",
+   "n": 134,
+   "ref": "bereshit/14/7"
+  },
+  {
+   "forma": "משפטי",
+   "forma_he": "מִשְׁפָּטַ֧י",
+   "n": 40,
+   "ref": "vayikra/18/4"
+  },
+  {
+   "forma": "ומשפט",
+   "forma_he": "וּמִשְׁפָּ֑ט",
+   "n": 29,
+   "ref": "bereshit/18/19"
+  },
+  {
+   "forma": "במשפט",
+   "forma_he": "בַּמִּשְׁפָּ֔ט",
+   "n": 28,
+   "ref": "vayikra/19/15"
+  },
+  {
+   "forma": "כמשפט",
+   "forma_he": "כַּמִּשְׁפָּט֙",
+   "n": 24,
+   "ref": "bereshit/40/13"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HNcmsc",
+  "HR/Ncmsa",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": "juicio; derecho; justicia"
+}

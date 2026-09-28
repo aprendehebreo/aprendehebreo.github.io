@@ -1,0 +1,59 @@
+{
+ "strong": "H8577",
+ "he": "תנין",
+ "xlit": "tannîyn",
+ "pron": "tan-neen'",
+ "def_en": [
+  "1) dragon, serpent, sea monster",
+  "1a) dragon or dinosaur",
+  "1b) sea or river monster",
+  "1c) serpent, venomous snake"
+ ],
+ "kjv": "dragon, sea-monster, serpent, whale.",
+ "expl": "a marine or land monster, i.e. sea-serpent or jackal",
+ "etim": "or ; (Ezekiel 29:3), intensive from the same as ;",
+ "raices": [
+  "H8565"
+ ],
+ "ocurrencias": 26,
+ "formas": [
+  {
+   "forma": "תנים",
+   "forma_he": "תַנִּ֔ים",
+   "n": 8,
+   "ref": "yeshayahu/34/13"
+  },
+  {
+   "forma": "לתנין",
+   "forma_he": "לְתַנִּֽין",
+   "n": 2,
+   "ref": "shemot/7/9"
+  },
+  {
+   "forma": "התנין",
+   "forma_he": "הַתַּנִּ֖ין",
+   "n": 2,
+   "ref": "yeshayahu/27/1"
+  },
+  {
+   "forma": "תנין",
+   "forma_he": "תַּנִּֽין",
+   "n": 2,
+   "ref": "yeshayahu/51/9"
+  },
+  {
+   "forma": "כתנים",
+   "forma_he": "כַּתַּנִּ֑ים",
+   "n": 2,
+   "ref": "yirmiyahu/14/6"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HR/Ncmsa",
+  "HR/Ncmpa",
+  "HTd/Ncmsa",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H268",
+ "he": "אחור",
+ "xlit": "ʼâchôwr",
+ "pron": "aw-khore'",
+ "def_en": [
+  "1) the back side, the rear",
+  "1a) backwards",
+  "1b) hereafter (of time)",
+  "1c) behind"
+ ],
+ "kjv": "after(-ward), back (part, -side, -ward), hereafter, (be-) hind(-er part), time to come, without.",
+ "expl": "the hinder part; hence (adverb) behind, backward; also (as facing north) the West",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H299"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "אחור",
+   "forma_he": "אָחֽוֹר",
+   "n": 24,
+   "ref": "bereshit/49/17"
+  },
+  {
+   "forma": "לאחור",
+   "forma_he": "לְאָח֔וֹר",
+   "n": 5,
+   "ref": "yeshayahu/41/23"
+  },
+  {
+   "forma": "ואחור",
+   "forma_he": "וְאָח֑וֹר",
+   "n": 4,
+   "ref": "yechezkel/2/10"
+  },
+  {
+   "forma": "אחריהם",
+   "forma_he": "אַחֲרֵיהֶֽם",
+   "n": 3,
+   "ref": "bereshit/41/23"
+  },
+  {
+   "forma": "אחרי",
+   "forma_he": "אַֽחֲרֵי֙",
+   "n": 2,
+   "ref": "bereshit/5/4"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HC/Ncmsa",
+  "HNcmpc/Sp3mp",
+  "HR"
+ ],
+ "glosa_es": ""
+}

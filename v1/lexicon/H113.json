@@ -1,0 +1,89 @@
+{
+ "strong": "H113",
+ "he": "אדון",
+ "xlit": "ʼâdôwn",
+ "pron": "aw-done'",
+ "def_en": [
+  "1) firm, strong, lord, master",
+  "1a) lord, master",
+  "1a1) reference to men",
+  "1a1a) superintendent of household, of affairs",
+  "1a1b) master",
+  "1a1c) king",
+  "1a2) reference to God",
+  "1a2a) the Lord God",
+  "1a2b) Lord of the whole earth",
+  "1b) lords, kings",
+  "1b1) reference to men",
+  "1b1a) proprietor of hill of Samaria",
+  "1b1b) master",
+  "1b1c) husband",
+  "1b1d) prophet",
+  "1b1e) governor",
+  "1b1f) prince",
+  "1b1g) king",
+  "1b2) reference to God",
+  "1b2a) Lord of lords (probably = \"thy husband, Yahweh\")",
+  "1c) my lord, my master",
+  "1c1) reference to men",
+  "1c1a) master",
+  "1c1b) husband",
+  "1c1c) prophet",
+  "1c1d) prince",
+  "1c1e) king",
+  "1c1f) father",
+  "1c1g) Moses",
+  "1c1h) priest",
+  "1c1i) theophanic angel",
+  "1c1j) captain",
+  "1c1k) general recognition of superiority",
+  "1c2) reference to God",
+  "1c2a) my Lord, my Lord and my God",
+  "1c2b) Adonai (parallel with Yahweh)"
+ ],
+ "kjv": "lord, master, owner. Compare also names beginning with 'Adoni-'.",
+ "expl": "sovereign, i.e. controller (human or divine)",
+ "etim": "or (shortened) ; from an unused root (meaning to rule);",
+ "raices": [],
+ "ocurrencias": 329,
+ "formas": [
+  {
+   "forma": "אדני",
+   "forma_he": "אֲדֹנָ֤י",
+   "n": 168,
+   "ref": "bereshit/15/2"
+  },
+  {
+   "forma": "אדניו",
+   "forma_he": "אֲדֹנָ֑יו",
+   "n": 37,
+   "ref": "bereshit/24/9"
+  },
+  {
+   "forma": "לאדני",
+   "forma_he": "לַֽאדֹנָי֙",
+   "n": 25,
+   "ref": "bereshit/18/30"
+  },
+  {
+   "forma": "אדניך",
+   "forma_he": "אֲדֹנֶ֔יךָ",
+   "n": 21,
+   "ref": "bereshit/24/51"
+  },
+  {
+   "forma": "אדניכם",
+   "forma_he": "אֲדֹנֵיכֶ֖ם",
+   "n": 11,
+   "ref": "shmuel_a/26/16"
+  }
+ ],
+ "morph": [
+  "HNcmsc/Sp1cs",
+  "HNcmpc/Sp3ms",
+  "HR/Ncmsc/Sp1cs",
+  "HNcmpc/Sp2ms",
+  "HNcmpc/Sp2mp"
+ ],
+ "glosa_es": "señor; amo; dueño"
+}

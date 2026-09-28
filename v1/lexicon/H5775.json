@@ -1,0 +1,58 @@
+{
+ "strong": "H5775",
+ "he": "עוף",
+ "xlit": "ʻôwph",
+ "pron": "ofe",
+ "def_en": [
+  "1) flying creatures, fowl, insects, birds",
+  "1a) fowl, birds",
+  "1b) winged insects"
+ ],
+ "kjv": "bird, that flieth, flying, fowl.",
+ "expl": "a bird (as covered with feathers, or rather as covering with wings), often collectively",
+ "etim": "from ;",
+ "raices": [
+  "H5774"
+ ],
+ "ocurrencias": 71,
+ "formas": [
+  {
+   "forma": "עוף",
+   "forma_he": "ע֤וֹף",
+   "n": 25,
+   "ref": "bereshit/1/21"
+  },
+  {
+   "forma": "העוף",
+   "forma_he": "הָע֔וֹף",
+   "n": 14,
+   "ref": "bereshit/7/8"
+  },
+  {
+   "forma": "לעוף",
+   "forma_he": "לָע֖וֹף",
+   "n": 8,
+   "ref": "vayikra/7/26"
+  },
+  {
+   "forma": "ועוף",
+   "forma_he": "וְעוֹף֙",
+   "n": 4,
+   "ref": "bereshit/1/20"
+  },
+  {
+   "forma": "ובעוף",
+   "forma_he": "וּבְע֣וֹף",
+   "n": 4,
+   "ref": "bereshit/1/26"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HR/Ncmsc",
+  "HC/R/Ncmsc",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H2530",
+ "he": "חמד",
+ "xlit": "châmad",
+ "pron": "khaw-mad'",
+ "def_en": [
+  "v",
+  "1) to desire, covet, take pleasure in, delight in",
+  "1a) (Qal) to desire",
+  "1b) (Niphal) to be desirable",
+  "1c) (Piel) to delight greatly, desire greatly",
+  "n f",
+  "2) desirableness, preciousness"
+ ],
+ "kjv": "beauty, greatly beloved, covet, delectable thing, ([idiom] great) delight, desire, goodly, lust, (be) pleasant (thing), precious (thing).",
+ "expl": "to delight in",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 28,
+ "formas": [
+  {
+   "forma": "תחמד",
+   "forma_he": "תַחְמֹ֖ד",
+   "n": 5,
+   "ref": "shemot/20/17"
+  },
+  {
+   "forma": "חמדות",
+   "forma_he": "חֲמֻד֞וֹת",
+   "n": 5,
+   "ref": "daniel/10/3"
+  },
+  {
+   "forma": "נחמד",
+   "forma_he": "נֶחְמָ֥ד",
+   "n": 2,
+   "ref": "bereshit/2/9"
+  },
+  {
+   "forma": "חמד",
+   "forma_he": "חֶ֖מֶד",
+   "n": 2,
+   "ref": "yeshayahu/27/2"
+  },
+  {
+   "forma": "ונחמד",
+   "forma_he": "וְנֶחְמָ֤ד",
+   "n": 1,
+   "ref": "bereshit/3/6"
+  }
+ ],
+ "morph": [
+  "HNcfpa",
+  "HVqi2ms",
+  "HVNrmsa",
+  "HVqp3ms",
+  "HC/VNrmsa"
+ ],
+ "glosa_es": ""
+}

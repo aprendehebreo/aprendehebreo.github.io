@@ -1,0 +1,60 @@
+{
+ "strong": "H2220",
+ "he": "זרוע",
+ "xlit": "zᵉrôwaʻ",
+ "pron": "zer-o'-ah",
+ "def_en": [
+  "1) arm, forearm, shoulder, strength",
+  "1a) arm",
+  "1b) arm (as symbol of strength)",
+  "1c) forces (political and military)",
+  "1d) shoulder (of animal sacrificed)"
+ ],
+ "kjv": "arm, [phrase] help, mighty, power, shoulder, strength.",
+ "expl": "the arm (as stretched out), or (of animals) the foreleg; figuratively, force",
+ "etim": "or (shortened) ; and (feminine) ; or ; from ;",
+ "raices": [
+  "H2232"
+ ],
+ "ocurrencias": 91,
+ "formas": [
+  {
+   "forma": "זרוע",
+   "forma_he": "זֵר֖וּעַ",
+   "n": 12,
+   "ref": "vayikra/11/37"
+  },
+  {
+   "forma": "ובזרוע",
+   "forma_he": "וּבִזְר֣וֹעַ",
+   "n": 7,
+   "ref": "devarim/4/34"
+  },
+  {
+   "forma": "וזרעו",
+   "forma_he": "וְזַרְע֖וֹ",
+   "n": 7,
+   "ref": "bereshit/48/19"
+  },
+  {
+   "forma": "זרעו",
+   "forma_he": "זַרְעוֹ",
+   "n": 5,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "בזרוע",
+   "forma_he": "בִּזְר֣וֹעַ",
+   "n": 4,
+   "ref": "shemot/6/6"
+  }
+ ],
+ "morph": [
+  "HC/R/Ncbsa",
+  "HNcbsc",
+  "HC/Ncbsc/Sp3ms",
+  "HNcbsc/Sp3ms",
+  "HNcbpc"
+ ],
+ "glosa_es": ""
+}

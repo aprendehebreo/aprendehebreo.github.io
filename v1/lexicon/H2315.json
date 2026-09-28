@@ -1,0 +1,56 @@
+{
+ "strong": "H2315",
+ "he": "חדר",
+ "xlit": "cheder",
+ "pron": "kheh'-der",
+ "def_en": [
+  "1) chamber, room, parlour, innermost or inward part, within"
+ ],
+ "kjv": "((bed) inner) chamber, innermost(-ward) part, parlour, [phrase] south, [idiom] within.",
+ "expl": "an apartment (usually literal)",
+ "etim": "from ;",
+ "raices": [
+  "H2314"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "בחדר",
+   "forma_he": "בַּחֲדַ֥ר",
+   "n": 11,
+   "ref": "shoftim/3/24"
+  },
+  {
+   "forma": "חדר",
+   "forma_he": "חֶ֥דֶר",
+   "n": 5,
+   "ref": "mlakhim_a/20/30"
+  },
+  {
+   "forma": "חדרי",
+   "forma_he": "חַדְרֵי",
+   "n": 5,
+   "ref": "mishlei/7/27"
+  },
+  {
+   "forma": "החדרה",
+   "forma_he": "הַחַ֖דְרָה",
+   "n": 4,
+   "ref": "bereshit/43/30"
+  },
+  {
+   "forma": "החדר",
+   "forma_he": "הַחֶ֔דֶר",
+   "n": 2,
+   "ref": "shmuel_b/13/10"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HNcmpc",
+  "HTd/Ncmsa/Sd",
+  "HNcmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

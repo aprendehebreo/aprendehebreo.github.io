@@ -1,0 +1,58 @@
+{
+ "strong": "H3162",
+ "he": "יחד",
+ "xlit": "yachad",
+ "pron": "yakh'-ad",
+ "def_en": [
+  "n m",
+  "1) union, unitedness",
+  "adv",
+  "2) together, altogether, all together, alike"
+ ],
+ "kjv": "alike, at all (once), both, likewise, only, (al-) together, withal.",
+ "expl": "properly, a unit, i.e. (adverb) unitedly",
+ "etim": "from ;",
+ "raices": [
+  "H3161"
+ ],
+ "ocurrencias": 142,
+ "formas": [
+  {
+   "forma": "יחדו",
+   "forma_he": "יַחְדָּ֑ו",
+   "n": 89,
+   "ref": "bereshit/13/6"
+  },
+  {
+   "forma": "יחד",
+   "forma_he": "יַ֖חַד",
+   "n": 44,
+   "ref": "devarim/33/5"
+  },
+  {
+   "forma": "יחדיו",
+   "forma_he": "יַחְדָּ֖יו",
+   "n": 4,
+   "ref": "yirmiyahu/46/12"
+  },
+  {
+   "forma": "ויחדו",
+   "forma_he": "וְיַחְדָּ֗ו",
+   "n": 3,
+   "ref": "shemot/26/24"
+  },
+  {
+   "forma": "ויחד",
+   "forma_he": "וַיִּ֣חַדְּ",
+   "n": 1,
+   "ref": "shemot/18/9"
+  }
+ ],
+ "morph": [
+  "HD",
+  "HNcmsa",
+  "HC/D",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

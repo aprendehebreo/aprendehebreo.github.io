@@ -1,0 +1,63 @@
+{
+ "strong": "H7368",
+ "he": "רחק",
+ "xlit": "râchaq",
+ "pron": "raw-khak'",
+ "def_en": [
+  "v",
+  "1) to be or become far, be or become distant, be removed, go far away",
+  "1a) (Qal) to be far, be distant",
+  "1b) (Piel) to send far away, extend",
+  "1c) (Hiphil)",
+  "1c1) to make or exhibit distance, be gone far",
+  "1c2) to remove, put far away",
+  "2) (Niphal) loose",
+  "v inf (as adv)",
+  "3) at a distance"
+ ],
+ "kjv": "(a-, be, cast, drive, get, go, keep (self), put, remove, be too, (wander), withdraw) far (away, off), loose, [idiom] refrain, very, (be) a good way (off).",
+ "expl": "to widen (in any direction), i.e. (intransitively) recede or (transitively) remove (literally or figuratively, of place or relation)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "הרחק",
+   "forma_he": "הַרְחֵק֙",
+   "n": 8,
+   "ref": "bereshit/21/16"
+  },
+  {
+   "forma": "תרחק",
+   "forma_he": "תִּרְחָ֑ק",
+   "n": 7,
+   "ref": "shemot/23/7"
+  },
+  {
+   "forma": "רחקו",
+   "forma_he": "רָחֲק֖וּ",
+   "n": 6,
+   "ref": "yirmiyahu/2/5"
+  },
+  {
+   "forma": "ירחק",
+   "forma_he": "יִרְחַ֨ק",
+   "n": 5,
+   "ref": "devarim/12/21"
+  },
+  {
+   "forma": "רחק",
+   "forma_he": "רִחַ֣ק",
+   "n": 3,
+   "ref": "yeshayahu/29/13"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HVqp3cp",
+  "HVqj2ms",
+  "HVha",
+  "HVhv2ms"
+ ],
+ "glosa_es": ""
+}

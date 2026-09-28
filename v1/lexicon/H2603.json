@@ -1,0 +1,63 @@
+{
+ "strong": "H2603",
+ "he": "חנן",
+ "xlit": "chânan",
+ "pron": "khaw-nan'",
+ "def_en": [
+  "1) to be gracious, show favour, pity",
+  "1a) (Qal) to show favour, be gracious",
+  "1b) (Niphal) to be pitied",
+  "1c) (Piel) to make gracious, make favourable, be gracious",
+  "1d) (Poel) to direct favour to, have mercy on",
+  "1e) (Hophal) to be shown favour, be shown consideration",
+  "1f) (Hithpael) to seek favour, implore favour",
+  "2) to be loathsome"
+ ],
+ "kjv": "beseech, [idiom] fair, (be, find, shew) favour(-able), be (deal, give, grant (gracious(-ly), intreat, (be) merciful, have (shew) mercy (on, upon), have pity upon, pray, make supplication, [idiom] very.",
+ "expl": "properly, to bend or stoop in kindness to an inferior; to favor, bestow; causatively to implore (i.e. move to favor by petition)",
+ "etim": "a primitive root (compare );",
+ "raices": [
+  "H2583"
+ ],
+ "ocurrencias": 79,
+ "formas": [
+  {
+   "forma": "חנני",
+   "forma_he": "חַנַּ֥נִי",
+   "n": 15,
+   "ref": "bereshit/33/11"
+  },
+  {
+   "forma": "וחנני",
+   "forma_he": "וְחַנַּ֥נִי",
+   "n": 7,
+   "ref": "shmuel_b/12/22"
+  },
+  {
+   "forma": "חונן",
+   "forma_he": "חוֹנֵ֥ן",
+   "n": 5,
+   "ref": "tehilim/37/21"
+  },
+  {
+   "forma": "והתחננו",
+   "forma_he": "וְהִֽתְחַנְּנ֛וּ",
+   "n": 4,
+   "ref": "mlakhim_a/8/33"
+  },
+  {
+   "forma": "חננו",
+   "forma_he": "חָנֵּ֖נוּ",
+   "n": 4,
+   "ref": "yeshayahu/33/2"
+  }
+ ],
+ "morph": [
+  "HVqv2ms/Sp1cs",
+  "HC/Vqv2ms/Sp1cs",
+  "HVqrmsa",
+  "HC/Vtq3cp",
+  "HVti1cs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,68 @@
+{
+ "strong": "H5060",
+ "he": "נגע",
+ "xlit": "nâgaʻ",
+ "pron": "naw-gah'",
+ "def_en": [
+  "1) to touch, reach, strike",
+  "1a) (Qal)",
+  "1a1) to touch",
+  "1a2) to strike",
+  "1a3) to reach, extend to",
+  "1a4) to be stricken",
+  "1a4a) stricken (participle)",
+  "1b) (Niphal) to be stricken, be defeated",
+  "1c) (Piel) to strike",
+  "1d) (Pual) to be stricken (by disease)",
+  "1e) (Hiphil) to cause to touch, reach, approach, arrive",
+  "1e1) to cause to touch, apply",
+  "1e2) to reach, extend, attain, arrive, come",
+  "1e3) to approach (of time)",
+  "1e4) to befall (of fate)"
+ ],
+ "kjv": "beat, ([idiom] be able to) bring (down), cast, come (nigh), draw near (nigh), get up, happen, join, near, plague, reach (up), smite, strike, touch.",
+ "expl": "properly, to touch, i.e. lay the hand upon (for any purpose; euphemistically, to lie with a woman); by implication, to reach (figuratively, to arrive, acquire); violently, to strike (punish, defeat, destroy, etc.)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 150,
+ "formas": [
+  {
+   "forma": "הנגע",
+   "forma_he": "הַנֹּגֵ֜עַ",
+   "n": 18,
+   "ref": "bereshit/26/11"
+  },
+  {
+   "forma": "יגע",
+   "forma_he": "יִגַּע֙",
+   "n": 14,
+   "ref": "vayikra/5/3"
+  },
+  {
+   "forma": "ויגע",
+   "forma_he": "וַיִּגַּ֖ע",
+   "n": 13,
+   "ref": "bereshit/32/26"
+  },
+  {
+   "forma": "נגע",
+   "forma_he": "נָגַע֙",
+   "n": 11,
+   "ref": "bereshit/32/33"
+  },
+  {
+   "forma": "תגעו",
+   "forma_he": "תִגְּע֖וּ",
+   "n": 8,
+   "ref": "bereshit/3/3"
+  }
+ ],
+ "morph": [
+  "HTd/Vqrmsa",
+  "HVqi3ms",
+  "HC/Vqw3ms",
+  "HVhrmsa",
+  "HVhp3ms"
+ ],
+ "glosa_es": "tocar; golpear; llegar"
+}

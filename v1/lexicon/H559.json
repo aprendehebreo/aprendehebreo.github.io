@@ -1,0 +1,58 @@
+{
+ "strong": "H559",
+ "he": "אמר",
+ "xlit": "ʼâmar",
+ "pron": "aw-mar'",
+ "def_en": [
+  "1) to say, speak, utter",
+  "1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend",
+  "1b) (Niphal) to be told, to be said, to be called",
+  "1c) (Hithpael) to boast, to act proudly",
+  "1d) (Hiphil) to avow, to avouch"
+ ],
+ "kjv": "answer, appoint, avouch, bid, boast self, call, certify, challenge, charge, [phrase] (at the, give) command(-ment), commune, consider, declare, demand, [idiom] desire, determine, [idiom] expressly, [idiom] indeed, [idiom] intend, name, [idiom] plainly, promise, publish, report, require, say, speak (against, of), [idiom] still, [idiom] suppose, talk, tell, term, [idiom] that is, [idiom] think, use (speech), utter, [idiom] verily, [idiom] yet.",
+ "expl": "to say (used with great latitude)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 5318,
+ "formas": [
+  {
+   "forma": "ויאמר",
+   "forma_he": "וַיֹּ֥אמֶר",
+   "n": 2083,
+   "ref": "bereshit/1/3"
+  },
+  {
+   "forma": "לאמר",
+   "forma_he": "לֵאמֹ֑ר",
+   "n": 933,
+   "ref": "bereshit/1/22"
+  },
+  {
+   "forma": "אמר",
+   "forma_he": "אָמַ֣ר",
+   "n": 801,
+   "ref": "bereshit/3/1"
+  },
+  {
+   "forma": "ויאמרו",
+   "forma_he": "וַיֹּאמְר֞וּ",
+   "n": 311,
+   "ref": "bereshit/11/3"
+  },
+  {
+   "forma": "ותאמר",
+   "forma_he": "וַתֹּ֥אמֶר",
+   "n": 204,
+   "ref": "bereshit/3/2"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HR/Vqc",
+  "HVqp3ms",
+  "HC/Vqw3mp",
+  "HC/Vqw3fs"
+ ],
+ "glosa_es": "decir; dijo"
+}

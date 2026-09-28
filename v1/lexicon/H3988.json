@@ -1,0 +1,59 @@
+{
+ "strong": "H3988",
+ "he": "מאס",
+ "xlit": "mâʼaç",
+ "pron": "maw-as'",
+ "def_en": [
+  "1) to reject, despise, refuse",
+  "1a) (Qal)",
+  "1a1) to reject, refuse",
+  "1a2) to despise",
+  "1b) (Niphal) to be rejected",
+  "2) (Niphal) to flow, run"
+ ],
+ "kjv": "abhor, cast away (off), contemn, despise, disdain, (become) loathe(some), melt away, refuse, reject, reprobate, [idiom] utterly, vile person.",
+ "expl": "to spurn; also (intransitively) to disappear",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 76,
+ "formas": [
+  {
+   "forma": "מאסו",
+   "forma_he": "מָאָ֔סוּ",
+   "n": 12,
+   "ref": "vayikra/26/43"
+  },
+  {
+   "forma": "מאס",
+   "forma_he": "מָאֹ֥ס",
+   "n": 8,
+   "ref": "yeshayahu/7/16"
+  },
+  {
+   "forma": "מאסת",
+   "forma_he": "מָאַ֨סְתָּ֙",
+   "n": 6,
+   "ref": "shmuel_a/15/23"
+  },
+  {
+   "forma": "אמאס",
+   "forma_he": "אֶמְאַ֨ס",
+   "n": 5,
+   "ref": "yirmiyahu/31/37"
+  },
+  {
+   "forma": "וימאס",
+   "forma_he": "וַיִּמְאַ֨ס",
+   "n": 4,
+   "ref": "mlakhim_b/17/20"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HVqp2ms",
+  "HVqp3ms",
+  "HVqi1cs",
+  "HVqp2mp"
+ ],
+ "glosa_es": ""
+}

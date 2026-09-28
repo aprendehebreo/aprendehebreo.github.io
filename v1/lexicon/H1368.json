@@ -1,0 +1,59 @@
+{
+ "strong": "H1368",
+ "he": "גבור",
+ "xlit": "gibbôwr",
+ "pron": "ghib-bore'",
+ "def_en": [
+  "adj",
+  "1) strong, mighty",
+  "n m",
+  "2) strong man, brave man, mighty man"
+ ],
+ "kjv": "champion, chief, [idiom] excel, giant, man, mighty (man, one), strong (man), valiant man.",
+ "expl": "powerful; by implication, warrior, tyrant",
+ "etim": "or ; (shortened) intensive from the same as ;",
+ "raices": [
+  "H1397"
+ ],
+ "ocurrencias": 160,
+ "formas": [
+  {
+   "forma": "גבור",
+   "forma_he": "גִּבּ֥וֹר",
+   "n": 40,
+   "ref": "bereshit/10/9"
+  },
+  {
+   "forma": "גבורי",
+   "forma_he": "גִּבּוֹרֵ֣י",
+   "n": 29,
+   "ref": "yehoshua/1/14"
+  },
+  {
+   "forma": "הגברים",
+   "forma_he": "הַגִּבֹּרִ֛ים",
+   "n": 14,
+   "ref": "bereshit/6/4"
+  },
+  {
+   "forma": "גבורים",
+   "forma_he": "גִבּוֹרִֽים",
+   "n": 13,
+   "ref": "shmuel_b/1/19"
+  },
+  {
+   "forma": "כגבור",
+   "forma_he": "כַּגִּבּ֣וֹר",
+   "n": 8,
+   "ref": "yeshayahu/42/13"
+  }
+ ],
+ "morph": [
+  "HAampc",
+  "HAamsa",
+  "HTd/Aampa",
+  "HAampa",
+  "HAamsc"
+ ],
+ "glosa_es": "fuerte; valiente; héroe"
+}

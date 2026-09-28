@@ -1,0 +1,63 @@
+{
+ "strong": "H4723",
+ "he": "מקוה",
+ "xlit": "miqveh",
+ "pron": "mik-veh'",
+ "def_en": [
+  "n m",
+  "1) hope",
+  "1a) hope",
+  "1b) ground of hope",
+  "1c) things hoped for, outcome",
+  "2) collection, collected mass",
+  "n pr m",
+  "3) (CLBL) Kue, a place in Cilicia from which Solomon imported horses"
+ ],
+ "kjv": "abiding, gathering together, hope, linen yarn, plenty (of water), pool.",
+ "expl": "something waited for, i.e. confidence (objective or subjective); also a collection, i.e. (of water) a pond, or (of men and horses) a caravan or drove",
+ "etim": "or ; (1 Kings 10:28), or lemma מִּקְוֵא extra dagesh, corrected to מִקְוֵא",
+ "raices": [
+  "H6960"
+ ],
+ "ocurrencias": 12,
+ "formas": [
+  {
+   "forma": "מקוה",
+   "forma_he": "מִקְוֵ֥ה",
+   "n": 7,
+   "ref": "shemot/7/19"
+  },
+  {
+   "forma": "ומקוה",
+   "forma_he": "וּמִקְוֵ֕ה",
+   "n": 2,
+   "ref": "mlakhim_a/10/28"
+  },
+  {
+   "forma": "ולמקוה",
+   "forma_he": "וּלְמִקְוֵ֥ה",
+   "n": 1,
+   "ref": "bereshit/1/10"
+  },
+  {
+   "forma": "ומקוא",
+   "forma_he": "וּמִקְוֵ֕א",
+   "n": 1,
+   "ref": "divrei_hayamim_b/1/16"
+  },
+  {
+   "forma": "מקוא",
+   "forma_he": "מִקְוֵ֥א",
+   "n": 1,
+   "ref": "divrei_hayamim_b/1/16"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HC/R/Np",
+  "HR/Np",
+  "HNcmsa",
+  "HC/R/Ncmsc"
+ ],
+ "glosa_es": ""
+}

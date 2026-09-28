@@ -1,0 +1,63 @@
+{
+ "strong": "H1692",
+ "he": "דבק",
+ "xlit": "dâbaq",
+ "pron": "daw-bak'",
+ "def_en": [
+  "1) to cling, stick, stay close, cleave, keep close, stick to, stick with, follow closely, join to, overtake, catch",
+  "1a) (Qal)",
+  "1a1) to cling, cleave to",
+  "1a2) to stay with",
+  "1b) (Pual) to be joined together",
+  "1c) (Hiphil)",
+  "1c1) to cause to cleave to",
+  "1c2) to pursue closely",
+  "1c3) to overtake",
+  "1d) (Hophal) to be made to cleave"
+ ],
+ "kjv": "abide fast, cleave (fast together), follow close (hard after), be joined (together), keep (fast), overtake, pursue hard, stick, take.",
+ "expl": "properly, to impinge, i.e. cling or adhere; figuratively, to catch by pursuit",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "דבקה",
+   "forma_he": "דָּבְקָ֖ה",
+   "n": 7,
+   "ref": "tehilim/44/26"
+  },
+  {
+   "forma": "ידבק",
+   "forma_he": "יִדְבַּ֧ק",
+   "n": 5,
+   "ref": "devarim/13/18"
+  },
+  {
+   "forma": "ידבקו",
+   "forma_he": "יִדְבְּק֖וּ",
+   "n": 4,
+   "ref": "bamidbar/36/7"
+  },
+  {
+   "forma": "תדבק",
+   "forma_he": "תִדְבָּ֔ק",
+   "n": 4,
+   "ref": "devarim/10/20"
+  },
+  {
+   "forma": "דבק",
+   "forma_he": "דָּבַ֥ק",
+   "n": 4,
+   "ref": "mlakhim_a/11/2"
+  }
+ ],
+ "morph": [
+  "HVqp3fs",
+  "HC/Vhw3mp",
+  "HVqi3ms",
+  "HVqp3ms",
+  "HC/Vqw3fs"
+ ],
+ "glosa_es": ""
+}

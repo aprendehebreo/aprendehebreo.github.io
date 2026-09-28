@@ -1,0 +1,64 @@
+{
+ "strong": "H2219",
+ "he": "זרה",
+ "xlit": "zârâh",
+ "pron": "zaw-raw'",
+ "def_en": [
+  "1) to scatter, fan, cast away, winnow, disperse, compass, spread, be scattered, be dispersed",
+  "1a) (Qal)",
+  "1a1) to scatter",
+  "1a2) to fan, winnow",
+  "1b) (Niphal) to be scattered, be dispersed",
+  "1c) (Piel)",
+  "1c1) to scatter, disperse (intensive of Qal)",
+  "1c2) to winnow, sift",
+  "1d) (Pual) to be scattered, be spread out"
+ ],
+ "kjv": "cast away, compass, disperse, fan, scatter (away), spread, strew, winnow.",
+ "expl": "to toss about; by implication, to diffuse, winnow",
+ "etim": "a primitive root (compare );",
+ "raices": [
+  "H2114"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "וזריתי",
+   "forma_he": "וְזֵרִיתִ֥י",
+   "n": 5,
+   "ref": "yechezkel/5/10"
+  },
+  {
+   "forma": "מזרה",
+   "forma_he": "מְזָרֵ֤ה",
+   "n": 4,
+   "ref": "yirmiyahu/31/10"
+  },
+  {
+   "forma": "אזרה",
+   "forma_he": "אֱזָרֶ֣ה",
+   "n": 3,
+   "ref": "vayikra/26/33"
+  },
+  {
+   "forma": "זרה",
+   "forma_he": "זָרָ֖ה",
+   "n": 3,
+   "ref": "shemot/30/9"
+  },
+  {
+   "forma": "תזרם",
+   "forma_he": "תִּזְרֵם֙",
+   "n": 2,
+   "ref": "yeshayahu/30/22"
+  }
+ ],
+ "morph": [
+  "HC/Vpq1cs",
+  "HC/Vpq1cs/Sp3mp",
+  "HVpi1cs",
+  "HVqi2ms/Sp3mp",
+  "HVqrmsa"
+ ],
+ "glosa_es": ""
+}

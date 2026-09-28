@@ -1,0 +1,50 @@
+{
+ "strong": "H518",
+ "he": "אם",
+ "xlit": "ʼim",
+ "pron": "eem",
+ "def_en": [
+  "1) if",
+  "1a) conditional clauses",
+  "1a1) of possible situations",
+  "1a2) of impossible situations",
+  "1b) oath contexts",
+  "1b1) no, not",
+  "1c) if...if, whether...or, whether...or...or",
+  "1d) when, whenever",
+  "1e) since",
+  "1f) interrogative particle",
+  "1g) but rather"
+ ],
+ "kjv": "(and, can-, doubtless, if, that) (not), [phrase] but, either, [phrase] except, [phrase] more(-over if, than), neither, nevertheless, nor, oh that, or, [phrase] save (only, -ing), seeing, since, sith, [phrase] surely (no more, none, not), though, [phrase] of a truth, [phrase] unless, [phrase] verily, when, whereas, whether, while, [phrase] yet.",
+ "expl": "used very widely as demonstrative, lo!; interrogative, whether?; or conditional, if, although; also Oh that!, when; hence, as a negative, not",
+ "etim": "a primitive particle;",
+ "raices": [],
+ "ocurrencias": 1070,
+ "formas": [
+  {
+   "forma": "אם",
+   "forma_he": "אֵ֥ם",
+   "n": 789,
+   "ref": "bereshit/3/20"
+  },
+  {
+   "forma": "ואם",
+   "forma_he": "וְאִם֙",
+   "n": 279,
+   "ref": "bereshit/4/7"
+  },
+  {
+   "forma": "האם",
+   "forma_he": "הַאִ֥ם",
+   "n": 2,
+   "ref": "bamidbar/17/28"
+  }
+ ],
+ "morph": [
+  "HC",
+  "HC/C",
+  "HTi/C"
+ ],
+ "glosa_es": "si; si acaso"
+}

@@ -1,0 +1,44 @@
+{
+ "strong": "H271",
+ "he": "אחז",
+ "xlit": "ʼÂchâz",
+ "pron": "aw-khawz'",
+ "def_en": [
+  "Ahaz = \"he has grasped\"",
+  "1) king of Judah, son Jotham, father of Hezekiah",
+  "2) a Benjamite, son of Micah, and great grandson of Jonathan"
+ ],
+ "kjv": "Ahaz.",
+ "expl": "Achaz, the name of a Jewish king and of an Israelite",
+ "etim": "from ; possessor;",
+ "raices": [
+  "H270"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "אחז",
+   "forma_he": "אָחַ֔ז",
+   "n": 37,
+   "ref": "shemot/15/14"
+  },
+  {
+   "forma": "ואחז",
+   "forma_he": "וֶאֱחֹ֖ז",
+   "n": 3,
+   "ref": "shemot/4/4"
+  },
+  {
+   "forma": "לאחז",
+   "forma_he": "לְאָחָ֖ז",
+   "n": 1,
+   "ref": "mlakhim_b/17/1"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

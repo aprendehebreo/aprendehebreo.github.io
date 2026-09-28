@@ -1,0 +1,61 @@
+{
+ "strong": "H6908",
+ "he": "קבץ",
+ "xlit": "qâbats",
+ "pron": "kaw-bats'",
+ "def_en": [
+  "1) to gather, assemble",
+  "1a) (Qal) to gather, collect, assemble",
+  "1b) (Niphal)",
+  "1b1) to assemble, gather",
+  "1b2) to be gathered",
+  "1c) (Piel) to gather, gather together, take away",
+  "1d) (Pual) to be gathered together",
+  "1e) (Hithpael) to gather together, be gathered together"
+ ],
+ "kjv": "assemble (selves), gather (bring) (together, selves together, up), heap, resort, [idiom] surely, take up.",
+ "expl": "to grasp, i.e. collect",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 127,
+ "formas": [
+  {
+   "forma": "ויקבצו",
+   "forma_he": "וְיִקְבְּצ֗וּ",
+   "n": 15,
+   "ref": "bereshit/41/35"
+  },
+  {
+   "forma": "ויקבץ",
+   "forma_he": "וַיִּקְבֹּ֞ץ",
+   "n": 14,
+   "ref": "bereshit/41/48"
+  },
+  {
+   "forma": "וקבצתי",
+   "forma_he": "וְקִבַּצְתִּ֣י",
+   "n": 9,
+   "ref": "yirmiyahu/29/14"
+  },
+  {
+   "forma": "נקבצו",
+   "forma_he": "נִקְבְּצ֣וּ",
+   "n": 6,
+   "ref": "yehoshua/10/6"
+  },
+  {
+   "forma": "אקבץ",
+   "forma_he": "אֲקַבֵּ֥ץ",
+   "n": 6,
+   "ref": "yeshayahu/56/8"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HC/VNw3mp",
+  "HC/Vpq1cs",
+  "HVNp3cp",
+  "HVprmsa"
+ ],
+ "glosa_es": ""
+}

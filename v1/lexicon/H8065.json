@@ -1,0 +1,43 @@
+{
+ "strong": "H8065",
+ "he": "שמין",
+ "xlit": "shâmayin",
+ "pron": "shaw-mah'-yin",
+ "def_en": [
+  "1) heaven, heavens, sky",
+  "1a) visible sky",
+  "1b) Heaven (as abode of God)"
+ ],
+ "kjv": "heaven.",
+ "expl": "{the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)}",
+ "etim": "(Aramaic) corresponding to",
+ "raices": [
+  "H8064"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "שמיא",
+   "forma_he": "שְׁמַיָּ֥א",
+   "n": 32,
+   "ref": "yirmiyahu/10/11"
+  },
+  {
+   "forma": "לשמיא",
+   "forma_he": "לִשְׁמַיָּ֔א",
+   "n": 4,
+   "ref": "daniel/4/8"
+  },
+  {
+   "forma": "בשמיא",
+   "forma_he": "בִּשְׁמַיָּא֙",
+   "n": 2,
+   "ref": "daniel/2/28"
+  }
+ ],
+ "morph": [
+  "ANcmpd/Td",
+  "AR/Ncmpd/Td"
+ ],
+ "glosa_es": ""
+}

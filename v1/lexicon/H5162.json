@@ -1,0 +1,66 @@
+{
+ "strong": "H5162",
+ "he": "נחם",
+ "xlit": "nâcham",
+ "pron": "naw-kham'",
+ "def_en": [
+  "1) to be sorry, console oneself, repent, regret, comfort, be comforted",
+  "1a) (Niphal)",
+  "1a1) to be sorry, be moved to pity, have compassion",
+  "1a2) to be sorry, rue, suffer grief, repent",
+  "1a3) to comfort oneself, be comforted",
+  "1a4) to comfort oneself, ease oneself",
+  "1b) (Piel) to comfort, console",
+  "1c) (Pual) to be comforted, be consoled",
+  "1d) (Hithpael)",
+  "1d1) to be sorry, have compassion",
+  "1d2) to rue, repent of",
+  "1d3) to comfort oneself, be comforted",
+  "1d4) to ease oneself"
+ ],
+ "kjv": "comfort (self), ease (one's self), repent(-er,-ing, self).",
+ "expl": "properly, to sigh, i.e. breathe strongly; by implication, to be sorry, i.e. (in a favorable sense) to pity, console or (reflexively) rue; or (unfavorably) to avenge (oneself)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 108,
+ "formas": [
+  {
+   "forma": "וינחם",
+   "forma_he": "וַיִּנָּ֣חֶם",
+   "n": 12,
+   "ref": "bereshit/6/6"
+  },
+  {
+   "forma": "נחם",
+   "forma_he": "נָחָ֣ם",
+   "n": 11,
+   "ref": "shemot/13/17"
+  },
+  {
+   "forma": "מנחם",
+   "forma_he": "מְנַחֵ֨ם",
+   "n": 7,
+   "ref": "mlakhim_b/15/14"
+  },
+  {
+   "forma": "נחמתי",
+   "forma_he": "נִחַ֖מְתִּי",
+   "n": 6,
+   "ref": "bereshit/6/7"
+  },
+  {
+   "forma": "לנחמו",
+   "forma_he": "לְנַחֲמ֗וֹ",
+   "n": 6,
+   "ref": "bereshit/37/35"
+  }
+ ],
+ "morph": [
+  "HC/VNw3ms",
+  "HVprmsa",
+  "HVNp1cs",
+  "HR/Vpc/Sp3ms",
+  "HVNp3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,22 @@
+{
+ "total_palabras": 306785,
+ "lemas": 8640,
+ "generado_por": "build/vocab.py",
+ "rangos": {
+  "top100": {
+   "cobertura": 50.49,
+   "con_glosa_es": 100,
+   "archivo": "vocab/top100.json"
+  },
+  "top300": {
+   "cobertura": 67.81,
+   "con_glosa_es": 300,
+   "archivo": "vocab/top300.json"
+  },
+  "top1000": {
+   "cobertura": 83.53,
+   "con_glosa_es": 300,
+   "archivo": "vocab/top1000.json"
+  }
+ }
+}

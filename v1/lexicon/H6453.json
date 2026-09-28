@@ -1,0 +1,59 @@
+{
+ "strong": "H6453",
+ "he": "פסח",
+ "xlit": "peçach",
+ "pron": "peh'-sakh",
+ "def_en": [
+  "1) passover",
+  "1a) sacrifice of passover",
+  "1b) animal victim of the passover",
+  "1c) festival of the passover"
+ ],
+ "kjv": "passover (offering).",
+ "expl": "a pretermission, i.e. exemption; used only techically of the Jewish Passover (the festival or the victim)",
+ "etim": "from ;",
+ "raices": [
+  "H6452"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "הפסח",
+   "forma_he": "הַפָּֽסַח",
+   "n": 29,
+   "ref": "shemot/12/21"
+  },
+  {
+   "forma": "פסח",
+   "forma_he": "פֶּ֥סַח",
+   "n": 14,
+   "ref": "shemot/12/11"
+  },
+  {
+   "forma": "לפסחים",
+   "forma_he": "לַפְּסָחִים֒",
+   "n": 3,
+   "ref": "divrei_hayamim_b/35/7"
+  },
+  {
+   "forma": "כפסח",
+   "forma_he": "כַּפֶּ֣סַח",
+   "n": 2,
+   "ref": "mlakhim_b/23/22"
+  },
+  {
+   "forma": "הפסחים",
+   "forma_he": "הַפִּסְחִים֙",
+   "n": 1,
+   "ref": "shmuel_b/5/8"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HRd/Ncmpa",
+  "HRd/Ncmsa",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": ""
+}

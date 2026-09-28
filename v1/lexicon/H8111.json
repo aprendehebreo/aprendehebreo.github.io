@@ -1,0 +1,58 @@
+{
+ "strong": "H8111",
+ "he": "שמרון",
+ "xlit": "Shômᵉrôwn",
+ "pron": "sho-mer-one'",
+ "def_en": [
+  "Samaria = \"watch mountain\"",
+  "1) the region of northern Palestine associated with the northern kingdom of the 10 tribes of Israel which split from the kingdom after the death of Solomon during the reign of his son Rehoboam and were ruled by Jeroboam",
+  "2) the capital city of the northern kingdom of Israel located 30 miles (50 km) north of Jerusalem and 6 miles (10 km) northwest of Shechem"
+ ],
+ "kjv": "Samaria.",
+ "expl": "Shomeron, a place in Palestine",
+ "etim": "from the active participle of ; watch-station;",
+ "raices": [
+  "H8104"
+ ],
+ "ocurrencias": 109,
+ "formas": [
+  {
+   "forma": "שמרון",
+   "forma_he": "שִׁמְר֖וֹן",
+   "n": 60,
+   "ref": "yehoshua/11/1"
+  },
+  {
+   "forma": "בשמרון",
+   "forma_he": "בְּשֹׁמְר֑וֹן",
+   "n": 33,
+   "ref": "mlakhim_a/16/28"
+  },
+  {
+   "forma": "משמרון",
+   "forma_he": "מִשֹּׁמְרֽוֹן",
+   "n": 5,
+   "ref": "mlakhim_a/20/17"
+  },
+  {
+   "forma": "לשמרון",
+   "forma_he": "לְשֹׁמְר֖וֹן",
+   "n": 4,
+   "ref": "yeshayahu/10/11"
+  },
+  {
+   "forma": "שמרונה",
+   "forma_he": "שֹׁמְרֽוֹנָה",
+   "n": 3,
+   "ref": "mlakhim_a/20/43"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd",
+  "HC/R/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

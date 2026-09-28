@@ -1,0 +1,60 @@
+{
+ "strong": "H7230",
+ "he": "רב",
+ "xlit": "rôb",
+ "pron": "robe",
+ "def_en": [
+  "1) multitude, abundance, greatness",
+  "1a) multitude",
+  "1a1) abundance, abundantly",
+  "1a2) numerous",
+  "1b) greatness"
+ ],
+ "kjv": "abundance(-antly), all, [idiom] common (sort), excellent, great(-ly, -ness, number), huge, be increased, long, many, more in number, most, much, multitude, plenty(-ifully), [idiom] very (age).",
+ "expl": "abundance (in any respect)",
+ "etim": "from ;",
+ "raices": [
+  "H7231"
+ ],
+ "ocurrencias": 150,
+ "formas": [
+  {
+   "forma": "לרב",
+   "forma_he": "לָרֹ֖ב",
+   "n": 54,
+   "ref": "bereshit/6/1"
+  },
+  {
+   "forma": "ברב",
+   "forma_he": "בְּרַ֖ב",
+   "n": 33,
+   "ref": "shmuel_a/14/6"
+  },
+  {
+   "forma": "מרב",
+   "forma_he": "מֵרֹֽב",
+   "n": 21,
+   "ref": "bereshit/16/10"
+  },
+  {
+   "forma": "ורב",
+   "forma_he": "וְרַ֖ב",
+   "n": 10,
+   "ref": "bereshit/25/23"
+  },
+  {
+   "forma": "רב",
+   "forma_he": "רָ֔ב",
+   "n": 10,
+   "ref": "bereshit/13/6"
+  }
+ ],
+ "morph": [
+  "HR/Ncbsa",
+  "HR/Ncbsc",
+  "HC/Ncbsc",
+  "HNcbsc",
+  "HC/R/Ncbsc"
+ ],
+ "glosa_es": "multitud; abundancia; mucho"
+}

@@ -1,0 +1,67 @@
+{
+ "strong": "H7592",
+ "he": "שאל",
+ "xlit": "shâʼal",
+ "pron": "shaw-al'",
+ "def_en": [
+  "1) to ask, enquire, borrow, beg",
+  "1a) (Qal)",
+  "1a1) to ask, ask for",
+  "1a2) to ask (as a favour), borrow",
+  "1a3) to enquire, enquire of",
+  "1a4) to enquire of, consult (of deity, oracle)",
+  "1a5) to seek",
+  "1b) (Niphal) to ask for oneself, ask leave of absence",
+  "1c) (Piel)",
+  "1c1) to enquire, enquire carefully",
+  "1c2) to beg, practise beggary",
+  "1d) (Hiphil)",
+  "1d1) to be given on request",
+  "1d2) to grant, make over to, let (one) ask (successfully) or give or lend on request (then) grant or make over to"
+ ],
+ "kjv": "ask (counsel, on), beg, borrow, lay to charge, consult, demand, desire, [idiom] earnestly, enquire, [phrase] greet, obtain leave, lend, pray, request, require, [phrase] salute, [idiom] straitly, [idiom] surely, wish.",
+ "expl": "to inquire; by implication, to request; by extension, to demand",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 176,
+ "formas": [
+  {
+   "forma": "שאל",
+   "forma_he": "שָֽׁאַל",
+   "n": 31,
+   "ref": "bereshit/43/7"
+  },
+  {
+   "forma": "וישאל",
+   "forma_he": "וַיִּשְׁאַ֣ל",
+   "n": 23,
+   "ref": "bereshit/32/30"
+  },
+  {
+   "forma": "שאלת",
+   "forma_he": "שָׁאַ֜לְתָּ",
+   "n": 13,
+   "ref": "devarim/18/16"
+  },
+  {
+   "forma": "וישאלו",
+   "forma_he": "וַֽיִּשְׁאֲל֞וּ",
+   "n": 11,
+   "ref": "bereshit/26/7"
+  },
+  {
+   "forma": "שאלו",
+   "forma_he": "שָׁאָֽלוּ",
+   "n": 10,
+   "ref": "yehoshua/9/14"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HR/Vqc",
+  "HVqv2ms",
+  "HVqp3ms",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": "pedir; preguntar; demandar"
+}

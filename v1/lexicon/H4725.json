@@ -1,0 +1,63 @@
+{
+ "strong": "H4725",
+ "he": "מקום",
+ "xlit": "mâqôwm",
+ "pron": "maw-kome'",
+ "def_en": [
+  "1) standing place, place",
+  "1a) standing place, station, post, office",
+  "1b) place, place of human abode",
+  "1c) city, land, region",
+  "1d) place, locality, spot",
+  "1e) space, room, distance",
+  "1f) region, quarter, direction",
+  "1g) give place to, instead of"
+ ],
+ "kjv": "country, [idiom] home, [idiom] open, place, room, space, [idiom] whither(-soever).",
+ "expl": "properly, a standing, i.e. a spot; but used widely of a locality (general or specific); also (figuratively) of a condition (of body or mind)",
+ "etim": "or ; also (feminine) ; or ; from ;",
+ "raices": [
+  "H6965"
+ ],
+ "ocurrencias": 401,
+ "formas": [
+  {
+   "forma": "המקום",
+   "forma_he": "הַמָּק֗וֹם",
+   "n": 121,
+   "ref": "bereshit/13/3"
+  },
+  {
+   "forma": "מקום",
+   "forma_he": "מָק֣וֹם",
+   "n": 84,
+   "ref": "bereshit/1/9"
+  },
+  {
+   "forma": "במקום",
+   "forma_he": "בַּמָּק֖וֹם",
+   "n": 72,
+   "ref": "bereshit/20/11"
+  },
+  {
+   "forma": "למקום",
+   "forma_he": "לַמָּק֔וֹם",
+   "n": 13,
+   "ref": "bereshit/18/24"
+  },
+  {
+   "forma": "מקומו",
+   "forma_he": "מְקוֹמוֹ֙",
+   "n": 11,
+   "ref": "shmuel_a/23/22"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HNcmsa",
+  "HNcmsc",
+  "HR/Ncmsc/Sp3ms"
+ ],
+ "glosa_es": "lugar"
+}

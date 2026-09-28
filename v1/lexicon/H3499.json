@@ -1,0 +1,62 @@
+{
+ "strong": "H3499",
+ "he": "יתר",
+ "xlit": "yether",
+ "pron": "yeh'-ther",
+ "def_en": [
+  "1) remainder, excess, rest, remnant, excellence",
+  "1a) remainder, remnant",
+  "1b) remainder, rest, other part",
+  "1c) excess",
+  "1d) abundantly (adv)",
+  "1e) abundance, affluence",
+  "1f) superiority, excellency"
+ ],
+ "kjv": "[phrase] abundant, cord, exceeding, excellancy(-ent), what they leave, that hath left, plentifully, remnant, residue, rest, string, with.",
+ "expl": "properly, an overhanging, i.e. (by implication) an excess, superiority, remainder; also a small rope (as hanging free)",
+ "etim": "from ;",
+ "raices": [
+  "H3498"
+ ],
+ "ocurrencias": 102,
+ "formas": [
+  {
+   "forma": "ויתר",
+   "forma_he": "וְיֶ֥תֶר",
+   "n": 56,
+   "ref": "bereshit/49/3"
+  },
+  {
+   "forma": "יתר",
+   "forma_he": "יֶ֥תֶר",
+   "n": 26,
+   "ref": "bereshit/49/3"
+  },
+  {
+   "forma": "מיתר",
+   "forma_he": "מִיֶּ֣תֶר",
+   "n": 4,
+   "ref": "devarim/3/11"
+  },
+  {
+   "forma": "וליתר",
+   "forma_he": "וּלְיֶ֨תֶר֙",
+   "n": 3,
+   "ref": "nechemia/2/16"
+  },
+  {
+   "forma": "ויתרם",
+   "forma_he": "וְיִתְרָ֕ם",
+   "n": 2,
+   "ref": "shemot/23/11"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsc",
+  "HNcmsc",
+  "HC/R/Ncmsc",
+  "HR/Ncmsc",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

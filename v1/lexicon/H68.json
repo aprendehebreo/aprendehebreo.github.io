@@ -1,0 +1,73 @@
+{
+ "strong": "H68",
+ "he": "אבן",
+ "xlit": "ʼeben",
+ "pron": "eh'-ben",
+ "def_en": [
+  "1) stone (large or small)",
+  "1a) common stone (in natural state)",
+  "1b) stone, as material",
+  "1b1) of tablets",
+  "1b2) marble, hewn stones",
+  "1c) precious stones, stones of fire",
+  "1d) stones containing metal (ore), tool for work or weapon",
+  "1e) weight",
+  "1f) plummet (stones of destruction) also made of metal",
+  "1g) stonelike objects, eg hailstones, stony heart, ice",
+  "1h) sacred object, as memorial Samuel set up to mark where God helped Israel to defeat the Philistines",
+  "1i) (simile)",
+  "1i1) sinking in water, motionlessness",
+  "1i2) strength, firmness, solidity",
+  "1i3) commonness",
+  "1j) (metaph)",
+  "1j1) petrified with terror",
+  "1j2) perverse, hard heart"
+ ],
+ "kjv": "[phrase] carbuncle, [phrase] mason, [phrase] plummet, (chalk-, hail-, head-, sling-) stone(-ny), (divers) weight(-s).",
+ "expl": "a stone",
+ "etim": "from the root of through the meaning to build;",
+ "raices": [
+  "H1129"
+ ],
+ "ocurrencias": 273,
+ "formas": [
+  {
+   "forma": "אבן",
+   "forma_he": "אָ֑בֶן",
+   "n": 65,
+   "ref": "bereshit/31/45"
+  },
+  {
+   "forma": "אבנים",
+   "forma_he": "אֲבָנִ֔ים",
+   "n": 41,
+   "ref": "bereshit/31/46"
+  },
+  {
+   "forma": "אבני",
+   "forma_he": "אַבְנֵי",
+   "n": 29,
+   "ref": "shemot/25/7"
+  },
+  {
+   "forma": "ואבן",
+   "forma_he": "וְאֶ֥בֶן",
+   "n": 23,
+   "ref": "bereshit/2/12"
+  },
+  {
+   "forma": "האבן",
+   "forma_he": "הָאֶ֨בֶן֙",
+   "n": 20,
+   "ref": "bereshit/28/18"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfpa",
+  "HNcfpc",
+  "HTd/Ncfsa",
+  "HTd/Ncfpa"
+ ],
+ "glosa_es": "piedra"
+}

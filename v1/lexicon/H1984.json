@@ -1,0 +1,68 @@
+{
+ "strong": "H1984",
+ "he": "הלל",
+ "xlit": "hâlal",
+ "pron": "haw-lal'",
+ "def_en": [
+  "1) to shine",
+  "1a) (Qal) to shine (fig. of God's favour)",
+  "1b) (Hiphil) to flash forth light",
+  "2) to praise, boast, be boastful",
+  "2a) (Qal)",
+  "2a1) to be boastful",
+  "2a2) boastful ones, boasters (participle)",
+  "2b) (Piel)",
+  "2b1) to praise",
+  "2b2) to boast, make a boast",
+  "2c) (Pual)",
+  "2c1) to be praised, be made praiseworthy, be commended, be worthy of praise",
+  "2d) (Hithpael) to boast, glory, make one's boast",
+  "2e) (Poel) to make a fool of, make into a fool",
+  "2f) (Hithpoel) to act madly, act like a madman"
+ ],
+ "kjv": "(make) boast (self), celebrate, commend, (deal, make), fool(-ish, -ly), glory, give (light), be (make, feign self) mad (against), give in marriage, (sing, be worthy of) praise, rage, renowned, shine.",
+ "expl": "to be clear (orig. of sound, but usually of color); to shine; hence, to make ashow, to boast; and thus to be (clamorously) foolish; to rave; causatively, to celebrate; also to stultify",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 165,
+ "formas": [
+  {
+   "forma": "הללו",
+   "forma_he": "הַֽלְל֖וּ",
+   "n": 34,
+   "ref": "yirmiyahu/20/13"
+  },
+  {
+   "forma": "הללוהו",
+   "forma_he": "הַֽלְל֗וּהוּ",
+   "n": 16,
+   "ref": "tehilim/22/24"
+  },
+  {
+   "forma": "להלל",
+   "forma_he": "לְהַלֵּ֣ל",
+   "n": 9,
+   "ref": "shmuel_b/14/25"
+  },
+  {
+   "forma": "יתהלל",
+   "forma_he": "יִתְהַלֵּ֥ל",
+   "n": 7,
+   "ref": "mlakhim_a/20/11"
+  },
+  {
+   "forma": "יהללו",
+   "forma_he": "יְהַֽלְל֣וּ",
+   "n": 7,
+   "ref": "tehilim/22/27"
+  }
+ ],
+ "morph": [
+  "HVpv2mp",
+  "HVpv2mp/Sp3ms",
+  "HR/Vpc",
+  "HC/Vpw3mp",
+  "HVtj3ms"
+ ],
+ "glosa_es": "alabar; ensalzar; gloriarse"
+}

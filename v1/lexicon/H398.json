@@ -1,0 +1,73 @@
+{
+ "strong": "H398",
+ "he": "אכל",
+ "xlit": "ʼâkal",
+ "pron": "aw-kal'",
+ "def_en": [
+  "1) to eat, devour, burn up, feed",
+  "1a) (Qal)",
+  "1a1) to eat (human subject)",
+  "1a2) to eat, devour (of beasts and birds)",
+  "1a3) to devour, consume (of fire)",
+  "1a4) to devour, slay (of sword)",
+  "1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)",
+  "1a6) to devour (of oppression)",
+  "1b) (Niphal)",
+  "1b1) to be eaten (by men)",
+  "1b2) to be devoured, consumed (of fire)",
+  "1b3) to be wasted, destroyed (of flesh)",
+  "1c) (Pual)",
+  "1c1) to cause to eat, feed with",
+  "1c2) to cause to devour",
+  "1d) (Hiphil)",
+  "1d1) to feed",
+  "1d2) to cause to eat",
+  "1e) (Piel)",
+  "1e1) consume"
+ ],
+ "kjv": "[idiom] at all, burn up, consume, devour(-er, up), dine, eat(-er, up), feed (with), food, [idiom] freely, [idiom] in...wise(-deed, plenty), (lay) meat, [idiom] quite.",
+ "expl": "to eat (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 815,
+ "formas": [
+  {
+   "forma": "יאכל",
+   "forma_he": "יֵֽאָכֵ֔ל",
+   "n": 77,
+   "ref": "bereshit/6/21"
+  },
+  {
+   "forma": "תאכל",
+   "forma_he": "תֹּאכֵֽל",
+   "n": 62,
+   "ref": "bereshit/2/16"
+  },
+  {
+   "forma": "תאכלו",
+   "forma_he": "תֹֽאכְל֔וּ",
+   "n": 55,
+   "ref": "bereshit/3/1"
+  },
+  {
+   "forma": "אכל",
+   "forma_he": "אָכֹ֥ל",
+   "n": 53,
+   "ref": "bereshit/2/16"
+  },
+  {
+   "forma": "לאכל",
+   "forma_he": "לֶאֱכֹ֔ל",
+   "n": 45,
+   "ref": "bereshit/24/33"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HVqi3ms",
+  "HVqi2mp",
+  "HVqi3mp",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": "comer; consumir"
+}

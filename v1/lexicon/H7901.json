@@ -1,0 +1,64 @@
+{
+ "strong": "H7901",
+ "he": "שכב",
+ "xlit": "shâkab",
+ "pron": "shaw-kab'",
+ "def_en": [
+  "1) to lie down",
+  "1a) (Qal)",
+  "1a1) to lie, lie down, lie on",
+  "1a2) to lodge",
+  "1a3) to lie (of sexual relations)",
+  "1a4) to lie down (in death)",
+  "1a5) to rest, relax (fig)",
+  "1b) (Niphal) to be lain with (sexually)",
+  "1c) (Pual) to be lain with (sexually)",
+  "1d) (Hiphil) to make to lie down",
+  "1e) (Hophal) to be laid"
+ ],
+ "kjv": "[idiom] at all, cast down, (lover-)lay (self) (down), (make to) lie (down, down to sleep, still with), lodge, ravish, take rest, sleep, stay.",
+ "expl": "to lie down (for rest, sexual connection, decease or any other purpose)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 213,
+ "formas": [
+  {
+   "forma": "וישכב",
+   "forma_he": "וַיִּשְׁכַּ֖ב",
+   "n": 54,
+   "ref": "bereshit/28/11"
+  },
+  {
+   "forma": "שכב",
+   "forma_he": "שָׁכַ֞ב",
+   "n": 34,
+   "ref": "bereshit/26/10"
+  },
+  {
+   "forma": "ישכב",
+   "forma_he": "יִשְׁכַּ֤ב",
+   "n": 17,
+   "ref": "bereshit/30/15"
+  },
+  {
+   "forma": "תשכב",
+   "forma_he": "תִּשְׁכַּ֥ב",
+   "n": 11,
+   "ref": "vayikra/15/20"
+  },
+  {
+   "forma": "ושכב",
+   "forma_he": "וְשָׁכַ֣ב",
+   "n": 8,
+   "ref": "shemot/22/15"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqrmsa",
+  "HVqi3ms",
+  "HVqp3ms",
+  "HR/Vqc"
+ ],
+ "glosa_es": "acostarse; yacer; dormir"
+}

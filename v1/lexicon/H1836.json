@@ -1,0 +1,53 @@
+{
+ "strong": "H1836",
+ "he": "דן",
+ "xlit": "dên",
+ "pron": "dane",
+ "def_en": [
+  "demons pron",
+  "1) this, on account of this",
+  "adv",
+  "2) therefore"
+ ],
+ "kjv": "(afore-) time, [phrase] after this manner, here (-after), one...another, such, there(-fore), these, this (matter), [phrase] thus, where(-fore), which.",
+ "expl": "this",
+ "etim": "(Aramaic) an orthographical variation of ;",
+ "raices": [
+  "H1791"
+ ],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "דנה",
+   "forma_he": "דָּ֣נָה",
+   "n": 53,
+   "ref": "daniel/2/12"
+  },
+  {
+   "forma": "כדנה",
+   "forma_he": "כִּדְנָה֙",
+   "n": 3,
+   "ref": "yirmiyahu/10/11"
+  },
+  {
+   "forma": "ודנה",
+   "forma_he": "וְדַנָּ֥ה",
+   "n": 1,
+   "ref": "yehoshua/15/49"
+  },
+  {
+   "forma": "וכדנה",
+   "forma_he": "וְכִדְנָה֙",
+   "n": 1,
+   "ref": "ezra/5/7"
+  }
+ ],
+ "morph": [
+  "APdxms",
+  "AC",
+  "APdxcs",
+  "AR/Pdxms",
+  "AR/Pdxcs"
+ ],
+ "glosa_es": ""
+}

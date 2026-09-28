@@ -1,0 +1,57 @@
+{
+ "strong": "H7970",
+ "he": "שלושים",
+ "xlit": "shᵉlôwshîym",
+ "pron": "shel-o-sheem'",
+ "def_en": [
+  "1) thirty, thirtieth"
+ ],
+ "kjv": "thirty, thirtieth. Compare .",
+ "expl": "thirty; or (ordinal) thirtieth",
+ "etim": "or ; multiple of ;",
+ "raices": [
+  "H7969",
+  "H7991"
+ ],
+ "ocurrencias": 175,
+ "formas": [
+  {
+   "forma": "שלשים",
+   "forma_he": "שְׁלֹשִׁ֤ים",
+   "n": 105,
+   "ref": "bereshit/5/3"
+  },
+  {
+   "forma": "ושלשים",
+   "forma_he": "וּשְׁלֹשִׁ֖ים",
+   "n": 48,
+   "ref": "bereshit/5/5"
+  },
+  {
+   "forma": "בשלשים",
+   "forma_he": "בַּשְּׁלֹשִׁ֑ים",
+   "n": 5,
+   "ref": "shmuel_b/23/24"
+  },
+  {
+   "forma": "כשלשים",
+   "forma_he": "כִּשְׁלֹשִׁ֤ים",
+   "n": 4,
+   "ref": "yehoshua/7/5"
+  },
+  {
+   "forma": "השלשים",
+   "forma_he": "הַשְּׁלֹשִׁ֣ים",
+   "n": 4,
+   "ref": "shmuel_b/23/23"
+  }
+ ],
+ "morph": [
+  "HAcbpa",
+  "HC/Acbpa",
+  "HTd/Acbpa",
+  "HR/Acbpa",
+  "HRd/Acbpa"
+ ],
+ "glosa_es": "treinta"
+}

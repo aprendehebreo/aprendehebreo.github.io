@@ -1,0 +1,58 @@
+{
+ "strong": "H1847",
+ "he": "דעת",
+ "xlit": "daʻath",
+ "pron": "dah'-ath",
+ "def_en": [
+  "1) knowledge",
+  "1a) knowledge, perception, skill",
+  "1b) discernment, understanding, wisdom"
+ ],
+ "kjv": "cunning, (ig-) norantly, know(-ledge), (un-) awares (wittingly).",
+ "expl": "knowledge",
+ "etim": "from ;",
+ "raices": [
+  "H3045"
+ ],
+ "ocurrencias": 93,
+ "formas": [
+  {
+   "forma": "דעת",
+   "forma_he": "דַּ֣עַת",
+   "n": 51,
+   "ref": "bamidbar/24/16"
+  },
+  {
+   "forma": "ודעת",
+   "forma_he": "וָדָ֑עַת",
+   "n": 18,
+   "ref": "yeshayahu/33/6"
+  },
+  {
+   "forma": "הדעת",
+   "forma_he": "הַדַּ֖עַת",
+   "n": 7,
+   "ref": "bereshit/2/9"
+  },
+  {
+   "forma": "ובדעת",
+   "forma_he": "וּבְדַ֖עַת",
+   "n": 5,
+   "ref": "shemot/31/3"
+  },
+  {
+   "forma": "בדעתו",
+   "forma_he": "בְּדַעְתּ֗וֹ",
+   "n": 2,
+   "ref": "yeshayahu/53/11"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HC/Ncfsc",
+  "HTd/Ncfsa",
+  "HC/R/Ncfsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H4325",
+ "he": "מים",
+ "xlit": "mayim",
+ "pron": "mah'-yim",
+ "def_en": [
+  "1) water, waters",
+  "1a) water",
+  "1b) water of the feet, urine",
+  "1c) of danger, violence, transitory things, refreshment (fig.)"
+ ],
+ "kjv": "[phrase] piss, wasting, water(-ing, (-course, -flood, -spring)).",
+ "expl": "water; figuratively, juice; by euphemism, urine, semen",
+ "etim": "dual of a primitive noun (but used in a singular sense);",
+ "raices": [],
+ "ocurrencias": 582,
+ "formas": [
+  {
+   "forma": "מים",
+   "forma_he": "מַ֖יִם",
+   "n": 244,
+   "ref": "bereshit/1/6"
+  },
+  {
+   "forma": "המים",
+   "forma_he": "הַמָּֽיִם",
+   "n": 96,
+   "ref": "bereshit/1/2"
+  },
+  {
+   "forma": "במים",
+   "forma_he": "בַּמָּ֑יִם",
+   "n": 64,
+   "ref": "shemot/12/9"
+  },
+  {
+   "forma": "מי",
+   "forma_he": "מִ֚י",
+   "n": 55,
+   "ref": "bereshit/3/11"
+  },
+  {
+   "forma": "ומים",
+   "forma_he": "וּמַ֨יִם֙",
+   "n": 22,
+   "ref": "bereshit/24/32"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HTd/Ncmpa",
+  "HRd/Ncmpa",
+  "HNcmpc",
+  "HC/Ncmpa"
+ ],
+ "glosa_es": "agua"
+}

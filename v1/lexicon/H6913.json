@@ -1,0 +1,56 @@
+{
+ "strong": "H6913",
+ "he": "קבר",
+ "xlit": "qeber",
+ "pron": "keh'-ber",
+ "def_en": [
+  "1) grave, sepulchre, tomb"
+ ],
+ "kjv": "burying place, grave, sepulchre.",
+ "expl": "a sepulchre",
+ "etim": "or (feminine) ; from ;",
+ "raices": [
+  "H6912"
+ ],
+ "ocurrencias": 67,
+ "formas": [
+  {
+   "forma": "קבר",
+   "forma_he": "קֶ֨בֶר֙",
+   "n": 16,
+   "ref": "bereshit/23/4"
+  },
+  {
+   "forma": "בקבר",
+   "forma_he": "בְקָ֑בֶר",
+   "n": 11,
+   "ref": "bamidbar/19/16"
+  },
+  {
+   "forma": "קברי",
+   "forma_he": "קִבְרִ֔י",
+   "n": 4,
+   "ref": "yirmiyahu/20/17"
+  },
+  {
+   "forma": "קברו",
+   "forma_he": "קִבְר֛וֹ",
+   "n": 3,
+   "ref": "bereshit/23/6"
+  },
+  {
+   "forma": "הקברים",
+   "forma_he": "הַקְּבָרִ֤ים",
+   "n": 3,
+   "ref": "mlakhim_b/23/16"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsc",
+  "HNcmpc",
+  "HRd/Ncmsa",
+  "HNcmsc"
+ ],
+ "glosa_es": ""
+}

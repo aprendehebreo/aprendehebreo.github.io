@@ -1,0 +1,45 @@
+{
+ "strong": "H436",
+ "he": "אלון",
+ "xlit": "ʼêlôwn",
+ "pron": "ay-lone'",
+ "def_en": [
+  "1) tree, great tree, terebinth",
+  "2) plain"
+ ],
+ "kjv": "plain. See also .",
+ "expl": "an oak or other strong tree",
+ "etim": "prolonged from ;",
+ "raices": [
+  "H352",
+  "H356"
+ ],
+ "ocurrencias": 9,
+ "formas": [
+  {
+   "forma": "אלון",
+   "forma_he": "אֵל֣וֹן",
+   "n": 5,
+   "ref": "bereshit/12/6"
+  },
+  {
+   "forma": "באלני",
+   "forma_he": "בְּאֵלֹנֵ֥י",
+   "n": 3,
+   "ref": "bereshit/13/18"
+  },
+  {
+   "forma": "אלוני",
+   "forma_he": "אֵלוֹנֵ֥י",
+   "n": 1,
+   "ref": "devarim/11/30"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmpc",
+  "HNcmpc",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

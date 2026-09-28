@@ -1,0 +1,69 @@
+{
+ "strong": "H5221",
+ "he": "נכה",
+ "xlit": "nâkâh",
+ "pron": "naw-kaw'",
+ "def_en": [
+  "1) to strike, smite, hit, beat, slay, kill",
+  "1a)(Niphal) to be stricken or smitten",
+  "1b) (Pual) to be stricken or smitten",
+  "1c) (Hiphil)",
+  "1c1) to smite, strike, beat, scourge, clap, applaud, give a thrust",
+  "1c2) to smite, kill, slay (man or beast)",
+  "1c3) to smite, attack, attack and destroy, conquer, subjugate, ravage",
+  "1c4) to smite, chastise, send judgment upon, punish, destroy",
+  "1d) (Hophal) to be smitten",
+  "1d1) to receive a blow",
+  "1d2) to be wounded",
+  "1d3) to be beaten",
+  "1d4) to be (fatally) smitten, be killed, be slain",
+  "1d5) to be attacked and captured",
+  "1d6) to be smitten (with disease)",
+  "1d7) to be blighted (of plants)"
+ ],
+ "kjv": "beat, cast forth, clap, give (wounds), [idiom] go forward, [idiom] indeed, kill, make (slaughter), murderer, punish, slaughter, slay(-er, -ing), smite(-r, -ing), strike, be stricken, (give) stripes, [idiom] surely, wound.",
+ "expl": "to strike (lightly or severely, literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 502,
+ "formas": [
+  {
+   "forma": "ויך",
+   "forma_he": "וַיַּךְ֙",
+   "n": 73,
+   "ref": "shemot/2/12"
+  },
+  {
+   "forma": "ויכו",
+   "forma_he": "וַיַּכּ֤וּ",
+   "n": 50,
+   "ref": "bereshit/14/5"
+  },
+  {
+   "forma": "הכה",
+   "forma_he": "הִכָּ֣ה",
+   "n": 49,
+   "ref": "shemot/9/25"
+  },
+  {
+   "forma": "ויכהו",
+   "forma_he": "וַיַּכֵּ֥הוּ",
+   "n": 24,
+   "ref": "bamidbar/21/24"
+  },
+  {
+   "forma": "מכה",
+   "forma_he": "מַכֶּ֥ה",
+   "n": 17,
+   "ref": "shemot/2/11"
+  }
+ ],
+ "morph": [
+  "HC/Vhw3ms",
+  "HC/Vhw3mp",
+  "HVhp3ms",
+  "HC/Vhw3ms/Sp3ms",
+  "HR/Vhc"
+ ],
+ "glosa_es": "golpear; herir; matar"
+}

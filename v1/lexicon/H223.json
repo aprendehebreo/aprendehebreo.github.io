@@ -1,0 +1,53 @@
+{
+ "strong": "H223",
+ "he": "איריה",
+ "xlit": "ʼÛwrîyâh",
+ "pron": "oo-ree-yaw'",
+ "def_en": [
+  "Uriah or Urijah = \"Jehovah (Yahweh) is my light (flame)\"",
+  "1) Hittite husband of Bathsheba",
+  "2) a priest who built king Ahaz' heathen altar",
+  "3) a priest who rebuilt Jerusalem's wall",
+  "4) a prophet slain by Jehoiakim"
+ ],
+ "kjv": "Uriah, Urijah.",
+ "expl": "Urijah, the name of one Hittite and five Israelites",
+ "etim": "or (prolonged) ; from and ; flame of Jah;",
+ "raices": [
+  "H217",
+  "H3050"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "אוריה",
+   "forma_he": "אוּרִיָּ֥ה",
+   "n": 34,
+   "ref": "shmuel_b/11/3"
+  },
+  {
+   "forma": "אוריהו",
+   "forma_he": "אֽוּרִיָּ֨הוּ֙",
+   "n": 3,
+   "ref": "yirmiyahu/26/20"
+  },
+  {
+   "forma": "לאוריה",
+   "forma_he": "לְא֣וּרִיָּ֔ה",
+   "n": 1,
+   "ref": "shmuel_b/11/8"
+  },
+  {
+   "forma": "ואוריה",
+   "forma_he": "וְאוּרִיָּ֧ה",
+   "n": 1,
+   "ref": "nechemia/8/4"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

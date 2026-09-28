@@ -1,0 +1,60 @@
+{
+ "strong": "H4294",
+ "he": "מטה",
+ "xlit": "maṭṭeh",
+ "pron": "mat-teh'",
+ "def_en": [
+  "1) staff, branch, tribe",
+  "1a) staff, rod, shaft",
+  "1b) branch (of vine)",
+  "1c) tribe",
+  "1c1) company led by chief with staff (originally)"
+ ],
+ "kjv": "rod, staff, tribe.",
+ "expl": "a branch (as extending); figuratively, a tribe; also a rod, whether for chastising (figuratively, correction), ruling (a sceptre), throwing (a lance), or walking (a staff; figuratively, a support of life, e.g. bread)",
+ "etim": "or (feminine) ; from ;",
+ "raices": [
+  "H5186"
+ ],
+ "ocurrencias": 252,
+ "formas": [
+  {
+   "forma": "מטה",
+   "forma_he": "מַטֶּֽה",
+   "n": 71,
+   "ref": "shemot/4/2"
+  },
+  {
+   "forma": "למטה",
+   "forma_he": "לְמַטֶּ֖ה",
+   "n": 57,
+   "ref": "shemot/4/4"
+  },
+  {
+   "forma": "וממטה",
+   "forma_he": "וּמִמַּטֵּ֨ה",
+   "n": 27,
+   "ref": "yehoshua/21/4"
+  },
+  {
+   "forma": "ממטה",
+   "forma_he": "מִמַּטֶּ֑ה",
+   "n": 18,
+   "ref": "bamidbar/34/18"
+  },
+  {
+   "forma": "המטה",
+   "forma_he": "הַמִּטָּֽה",
+   "n": 13,
+   "ref": "bereshit/47/31"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc",
+  "HNcmsc",
+  "HC/R/Ncmsc",
+  "HTd/Ncmsa",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": "vara; tribu; báculo"
+}

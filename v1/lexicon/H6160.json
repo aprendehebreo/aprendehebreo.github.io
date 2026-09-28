@@ -1,0 +1,57 @@
+{
+ "strong": "H6160",
+ "he": "ערבה",
+ "xlit": "ʻărâbâh",
+ "pron": "ar-aw-baw'",
+ "def_en": [
+  "1) desert plain, steppe, desert, wilderness"
+ ],
+ "kjv": "Arabah, champaign, desert, evening, heaven, plain, wilderness. See also .",
+ "expl": "a desert; especially (with the article prefix) the (generally) sterile valley of the Jordan and its continuation to the Red Sea",
+ "etim": "from (in the sense of sterility);",
+ "raices": [
+  "H6150",
+  "H1026"
+ ],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "הערבה",
+   "forma_he": "הָֽעֲרָבָ֔ה",
+   "n": 17,
+   "ref": "devarim/2/8"
+  },
+  {
+   "forma": "בערבת",
+   "forma_he": "בְּעַֽרְבֹ֣ת",
+   "n": 9,
+   "ref": "bamidbar/26/3"
+  },
+  {
+   "forma": "בערבה",
+   "forma_he": "בָּֽעֲרָבָה֩",
+   "n": 9,
+   "ref": "devarim/1/1"
+  },
+  {
+   "forma": "בערבות",
+   "forma_he": "בְּעַֽרְב֣וֹת",
+   "n": 8,
+   "ref": "bamidbar/22/1"
+  },
+  {
+   "forma": "ערבה",
+   "forma_he": "עָֽרְבָה֙",
+   "n": 4,
+   "ref": "yeshayahu/24/11"
+  }
+ ],
+ "morph": [
+  "HR/Ncfpc",
+  "HTd/Ncfsa",
+  "HRd/Ncfsa",
+  "HNcfsa",
+  "HNcfpc"
+ ],
+ "glosa_es": ""
+}

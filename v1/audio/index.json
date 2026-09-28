@@ -1,0 +1,1526 @@
+{
+ "voz": "he-IL-HilaNeural",
+ "velocidad": "-10%",
+ "total": 253,
+ "nota": "Audio generado con edge-tts (voces he-IL de Microsoft Edge).",
+ "clips": {
+  "audio/letra-01.mp3": {
+   "texto": "אָלֶף",
+   "grupo": "letra",
+   "ref_id": "alef",
+   "bytes": 12528
+  },
+  "audio/letra-02.mp3": {
+   "texto": "בֵּית",
+   "grupo": "letra",
+   "ref_id": "bet",
+   "bytes": 12528
+  },
+  "audio/letra-03.mp3": {
+   "texto": "גִּימֶל",
+   "grupo": "letra",
+   "ref_id": "gimel",
+   "bytes": 12528
+  },
+  "audio/letra-04.mp3": {
+   "texto": "דָּלֶת",
+   "grupo": "letra",
+   "ref_id": "dalet",
+   "bytes": 12528
+  },
+  "audio/letra-05.mp3": {
+   "texto": "הֵא",
+   "grupo": "letra",
+   "ref_id": "he",
+   "bytes": 12528
+  },
+  "audio/letra-06.mp3": {
+   "texto": "וָו",
+   "grupo": "letra",
+   "ref_id": "vav",
+   "bytes": 12528
+  },
+  "audio/letra-07.mp3": {
+   "texto": "זַיִן",
+   "grupo": "letra",
+   "ref_id": "zayin",
+   "bytes": 12528
+  },
+  "audio/letra-08.mp3": {
+   "texto": "חֵית",
+   "grupo": "letra",
+   "ref_id": "het",
+   "bytes": 12528
+  },
+  "audio/letra-09.mp3": {
+   "texto": "טֵית",
+   "grupo": "letra",
+   "ref_id": "tet",
+   "bytes": 12528
+  },
+  "audio/letra-10.mp3": {
+   "texto": "יוֹד",
+   "grupo": "letra",
+   "ref_id": "yod",
+   "bytes": 12528
+  },
+  "audio/letra-11.mp3": {
+   "texto": "כָּף",
+   "grupo": "letra",
+   "ref_id": "kaf",
+   "bytes": 10944
+  },
+  "audio/letra-12.mp3": {
+   "texto": "כָּף סוֹפִית",
+   "grupo": "letra",
+   "ref_id": "kaf",
+   "bytes": 12528
+  },
+  "audio/letra-13.mp3": {
+   "texto": "לָמֶד",
+   "grupo": "letra",
+   "ref_id": "lamed",
+   "bytes": 12528
+  },
+  "audio/letra-14.mp3": {
+   "texto": "מֵם",
+   "grupo": "letra",
+   "ref_id": "mem",
+   "bytes": 12528
+  },
+  "audio/letra-15.mp3": {
+   "texto": "מֵם סוֹפִית",
+   "grupo": "letra",
+   "ref_id": "mem",
+   "bytes": 12528
+  },
+  "audio/letra-16.mp3": {
+   "texto": "נוּן",
+   "grupo": "letra",
+   "ref_id": "nun",
+   "bytes": 12528
+  },
+  "audio/letra-17.mp3": {
+   "texto": "נוּן סוֹפִית",
+   "grupo": "letra",
+   "ref_id": "nun",
+   "bytes": 12528
+  },
+  "audio/letra-18.mp3": {
+   "texto": "סָמֶךְ",
+   "grupo": "letra",
+   "ref_id": "samekh",
+   "bytes": 12528
+  },
+  "audio/letra-19.mp3": {
+   "texto": "עַיִן",
+   "grupo": "letra",
+   "ref_id": "ayin",
+   "bytes": 12528
+  },
+  "audio/letra-20.mp3": {
+   "texto": "פֵּא",
+   "grupo": "letra",
+   "ref_id": "pe",
+   "bytes": 12528
+  },
+  "audio/letra-21.mp3": {
+   "texto": "פֵּא סוֹפִית",
+   "grupo": "letra",
+   "ref_id": "pe",
+   "bytes": 12528
+  },
+  "audio/letra-22.mp3": {
+   "texto": "צָדִי",
+   "grupo": "letra",
+   "ref_id": "tsadi",
+   "bytes": 12528
+  },
+  "audio/letra-23.mp3": {
+   "texto": "צָדִי סוֹפִית",
+   "grupo": "letra",
+   "ref_id": "tsadi",
+   "bytes": 12816
+  },
+  "audio/letra-24.mp3": {
+   "texto": "קוֹף",
+   "grupo": "letra",
+   "ref_id": "qof",
+   "bytes": 12528
+  },
+  "audio/letra-25.mp3": {
+   "texto": "רֵישׁ",
+   "grupo": "letra",
+   "ref_id": "resh",
+   "bytes": 12528
+  },
+  "audio/letra-26.mp3": {
+   "texto": "שִׁין",
+   "grupo": "letra",
+   "ref_id": "shin",
+   "bytes": 12528
+  },
+  "audio/letra-27.mp3": {
+   "texto": "תָּו",
+   "grupo": "letra",
+   "ref_id": "tav",
+   "bytes": 12528
+  },
+  "audio/niqqud-01.mp3": {
+   "texto": "בְּרֵאשִׁית",
+   "grupo": "niqqud",
+   "ref_id": "sheva-01",
+   "bytes": 12528
+  },
+  "audio/niqqud-02.mp3": {
+   "texto": "אֱלֹהִים",
+   "grupo": "niqqud",
+   "ref_id": "jatuf-02",
+   "bytes": 12528
+  },
+  "audio/niqqud-03.mp3": {
+   "texto": "חֲמוֹר",
+   "grupo": "niqqud",
+   "ref_id": "jatuf-03",
+   "bytes": 12528
+  },
+  "audio/niqqud-04.mp3": {
+   "texto": "חָכְמָה",
+   "grupo": "niqqud",
+   "ref_id": "jatuf-04",
+   "bytes": 12528
+  },
+  "audio/niqqud-05.mp3": {
+   "texto": "אִישׁ",
+   "grupo": "niqqud",
+   "ref_id": "vocal-05",
+   "bytes": 12528
+  },
+  "audio/niqqud-06.mp3": {
+   "texto": "אֵל",
+   "grupo": "niqqud",
+   "ref_id": "vocal-06",
+   "bytes": 12528
+  },
+  "audio/niqqud-07.mp3": {
+   "texto": "מֶלֶךְ",
+   "grupo": "niqqud",
+   "ref_id": "vocal-07",
+   "bytes": 12528
+  },
+  "audio/niqqud-08.mp3": {
+   "texto": "אַב",
+   "grupo": "niqqud",
+   "ref_id": "vocal-08",
+   "bytes": 12528
+  },
+  "audio/niqqud-09.mp3": {
+   "texto": "דָּבָר",
+   "grupo": "niqqud",
+   "ref_id": "vocal-09",
+   "bytes": 12528
+  },
+  "audio/niqqud-10.mp3": {
+   "texto": "שׁוֹם",
+   "grupo": "niqqud",
+   "ref_id": "vocal-10",
+   "bytes": 10944
+  },
+  "audio/niqqud-12.mp3": {
+   "texto": "חֻקָּה",
+   "grupo": "niqqud",
+   "ref_id": "vocal-12",
+   "bytes": 12528
+  },
+  "audio/niqqud-13.mp3": {
+   "texto": "תַּלְמִיד",
+   "grupo": "niqqud",
+   "ref_id": "dagesh-13",
+   "bytes": 12528
+  },
+  "audio/niqqud-17.mp3": {
+   "texto": "שָׁלוֹם",
+   "grupo": "niqqud",
+   "ref_id": "vocal-17",
+   "bytes": 12528
+  },
+  "audio/niqqud-18.mp3": {
+   "texto": "שָׂדֶה",
+   "grupo": "niqqud",
+   "ref_id": "vocal-18",
+   "bytes": 12528
+  },
+  "audio/niqqud-19.mp3": {
+   "texto": "בְּרֵאשִׁית׃",
+   "grupo": "niqqud",
+   "ref_id": "puntuacion-19",
+   "bytes": 12528
+  },
+  "audio/niqqud-23.mp3": {
+   "texto": "חָכְמָה",
+   "grupo": "niqqud",
+   "ref_id": "vocal-23",
+   "bytes": 12528
+  },
+  "audio/niqqud-24.mp3": {
+   "texto": "אֶת־הַשָּׁמַיִם",
+   "grupo": "niqqud",
+   "ref_id": "puntuacion-24",
+   "bytes": 13536
+  },
+  "audio/niqqud-26.mp3": {
+   "texto": "תנ״ך",
+   "grupo": "niqqud",
+   "ref_id": "marca-26",
+   "bytes": 12528
+  },
+  "audio/palabra-001.mp3": {
+   "texto": "אֵ֥ת",
+   "grupo": "palabra",
+   "ref_id": "H853",
+   "bytes": 12528
+  },
+  "audio/palabra-002.mp3": {
+   "texto": "יְהוָ֥ה",
+   "grupo": "palabra",
+   "ref_id": "H3068",
+   "bytes": 12528
+  },
+  "audio/palabra-003.mp3": {
+   "texto": "עַל",
+   "grupo": "palabra",
+   "ref_id": "H5921",
+   "bytes": 12528
+  },
+  "audio/palabra-004.mp3": {
+   "texto": "אֶל",
+   "grupo": "palabra",
+   "ref_id": "H413",
+   "bytes": 12528
+  },
+  "audio/palabra-005.mp3": {
+   "texto": "אֲשֶׁר֙",
+   "grupo": "palabra",
+   "ref_id": "H834",
+   "bytes": 11088
+  },
+  "audio/palabra-006.mp3": {
+   "texto": "כָּל",
+   "grupo": "palabra",
+   "ref_id": "H3605",
+   "bytes": 12528
+  },
+  "audio/palabra-007.mp3": {
+   "texto": "וַיֹּ֥אמֶר",
+   "grupo": "palabra",
+   "ref_id": "H559",
+   "bytes": 12672
+  },
+  "audio/palabra-008.mp3": {
+   "texto": "לֹ֨א",
+   "grupo": "palabra",
+   "ref_id": "H3808",
+   "bytes": 12528
+  },
+  "audio/palabra-009.mp3": {
+   "texto": "בְנֵי",
+   "grupo": "palabra",
+   "ref_id": "H1121",
+   "bytes": 12528
+  },
+  "audio/palabra-010.mp3": {
+   "texto": "כִּי",
+   "grupo": "palabra",
+   "ref_id": "H3588",
+   "bytes": 12528
+  },
+  "audio/palabra-011.mp3": {
+   "texto": "וַֽיְהִי",
+   "grupo": "palabra",
+   "ref_id": "H1961",
+   "bytes": 12528
+  },
+  "audio/palabra-012.mp3": {
+   "texto": "עֹ֤שֶׂה",
+   "grupo": "palabra",
+   "ref_id": "H6213",
+   "bytes": 12528
+  },
+  "audio/palabra-013.mp3": {
+   "texto": "אֱלֹהִ֑ים",
+   "grupo": "palabra",
+   "ref_id": "H430",
+   "bytes": 12528
+  },
+  "audio/palabra-014.mp3": {
+   "texto": "וַיָּבֵא֙",
+   "grupo": "palabra",
+   "ref_id": "H935",
+   "bytes": 11376
+  },
+  "audio/palabra-015.mp3": {
+   "texto": "הַמֶּֽלֶךְ",
+   "grupo": "palabra",
+   "ref_id": "H4428",
+   "bytes": 12528
+  },
+  "audio/palabra-016.mp3": {
+   "texto": "יִשְׂרָאֵ֑ל",
+   "grupo": "palabra",
+   "ref_id": "H3478",
+   "bytes": 12528
+  },
+  "audio/palabra-017.mp3": {
+   "texto": "הָאָֽרֶץ",
+   "grupo": "palabra",
+   "ref_id": "H776",
+   "bytes": 12528
+  },
+  "audio/palabra-018.mp3": {
+   "texto": "בַּיּ֣וֹם",
+   "grupo": "palabra",
+   "ref_id": "H3117",
+   "bytes": 12528
+  },
+  "audio/palabra-019.mp3": {
+   "texto": "אִ֔ישׁ",
+   "grupo": "palabra",
+   "ref_id": "H376",
+   "bytes": 10224
+  },
+  "audio/palabra-020.mp3": {
+   "texto": "לִפְנֵ֣י",
+   "grupo": "palabra",
+   "ref_id": "H6440",
+   "bytes": 11376
+  },
+  "audio/palabra-021.mp3": {
+   "texto": "בֵּֽית",
+   "grupo": "palabra",
+   "ref_id": "H1004",
+   "bytes": 12528
+  },
+  "audio/palabra-022.mp3": {
+   "texto": "נֹתֵ֗ן",
+   "grupo": "palabra",
+   "ref_id": "H5414",
+   "bytes": 12528
+  },
+  "audio/palabra-023.mp3": {
+   "texto": "ה֣וּא",
+   "grupo": "palabra",
+   "ref_id": "H1931",
+   "bytes": 12528
+  },
+  "audio/palabra-024.mp3": {
+   "texto": "הָעָֽם",
+   "grupo": "palabra",
+   "ref_id": "H5971",
+   "bytes": 12528
+  },
+  "audio/palabra-025.mp3": {
+   "texto": "בְּיַ֖ד",
+   "grupo": "palabra",
+   "ref_id": "H3027",
+   "bytes": 12528
+  },
+  "audio/palabra-026.mp3": {
+   "texto": "דִּבֶּ֤ר",
+   "grupo": "palabra",
+   "ref_id": "H1697",
+   "bytes": 12528
+  },
+  "audio/palabra-027.mp3": {
+   "texto": "וַיַּ֧רְא",
+   "grupo": "palabra",
+   "ref_id": "H7200",
+   "bytes": 10944
+  },
+  "audio/palabra-028.mp3": {
+   "texto": "עַ֤ד",
+   "grupo": "palabra",
+   "ref_id": "H5704",
+   "bytes": 12528
+  },
+  "audio/palabra-029.mp3": {
+   "texto": "מִן",
+   "grupo": "palabra",
+   "ref_id": "H4480",
+   "bytes": 12528
+  },
+  "audio/palabra-030.mp3": {
+   "texto": "אֲבִ֕י",
+   "grupo": "palabra",
+   "ref_id": "H1",
+   "bytes": 12528
+  },
+  "audio/palabra-031.mp3": {
+   "texto": "הַזֶּֽה",
+   "grupo": "palabra",
+   "ref_id": "H2088",
+   "bytes": 12528
+  },
+  "audio/palabra-032.mp3": {
+   "texto": "שִׁמְעוּ",
+   "grupo": "palabra",
+   "ref_id": "H8085",
+   "bytes": 12528
+  },
+  "audio/palabra-033.mp3": {
+   "texto": "דִּבֶּ֤ר",
+   "grupo": "palabra",
+   "ref_id": "H1696",
+   "bytes": 12528
+  },
+  "audio/palabra-034.mp3": {
+   "texto": "אָ֑תָּה",
+   "grupo": "palabra",
+   "ref_id": "H859",
+   "bytes": 12528
+  },
+  "audio/palabra-035.mp3": {
+   "texto": "הָעִ֔יר",
+   "grupo": "palabra",
+   "ref_id": "H5892",
+   "bytes": 10944
+  },
+  "audio/palabra-036.mp3": {
+   "texto": "יֹשְׁבֵ֣י",
+   "grupo": "palabra",
+   "ref_id": "H3427",
+   "bytes": 12528
+  },
+  "audio/palabra-037.mp3": {
+   "texto": "וַיֵּ֥צֵא",
+   "grupo": "palabra",
+   "ref_id": "H3318",
+   "bytes": 12528
+  },
+  "audio/palabra-038.mp3": {
+   "texto": "דּ֨וֹד",
+   "grupo": "palabra",
+   "ref_id": "H1732",
+   "bytes": 12528
+  },
+  "audio/palabra-039.mp3": {
+   "texto": "וַיֵּ֥שֶׁב",
+   "grupo": "palabra",
+   "ref_id": "H7725",
+   "bytes": 12384
+  },
+  "audio/palabra-040.mp3": {
+   "texto": "אֵ֥ם",
+   "grupo": "palabra",
+   "ref_id": "H518",
+   "bytes": 12528
+  },
+  "audio/palabra-041.mp3": {
+   "texto": "עַ֤ם",
+   "grupo": "palabra",
+   "ref_id": "H5973",
+   "bytes": 12528
+  },
+  "audio/palabra-042.mp3": {
+   "texto": "וַיֵּ֣לֶךְ",
+   "grupo": "palabra",
+   "ref_id": "H3212",
+   "bytes": 12672
+  },
+  "audio/palabra-043.mp3": {
+   "texto": "אֶחָֽד",
+   "grupo": "palabra",
+   "ref_id": "H259",
+   "bytes": 11088
+  },
+  "audio/palabra-044.mp3": {
+   "texto": "וַיִּקַּ֛ח",
+   "grupo": "palabra",
+   "ref_id": "H3947",
+   "bytes": 12528
+  },
+  "audio/palabra-045.mp3": {
+   "texto": "יֹדֵ֣עַ",
+   "grupo": "palabra",
+   "ref_id": "H3045",
+   "bytes": 12528
+  },
+  "audio/palabra-046.mp3": {
+   "texto": "בְּעֵינֵ֥י",
+   "grupo": "palabra",
+   "ref_id": "H5869",
+   "bytes": 12528
+  },
+  "audio/palabra-047.mp3": {
+   "texto": "עֲלֵ֣ה",
+   "grupo": "palabra",
+   "ref_id": "H5927",
+   "bytes": 12528
+  },
+  "audio/palabra-048.mp3": {
+   "texto": "אֵ֥ת",
+   "grupo": "palabra",
+   "ref_id": "H854",
+   "bytes": 12528
+  },
+  "audio/palabra-049.mp3": {
+   "texto": "שָׁנָ֔ה",
+   "grupo": "palabra",
+   "ref_id": "H8141",
+   "bytes": 12528
+  },
+  "audio/palabra-050.mp3": {
+   "texto": "אֲנִ֣י",
+   "grupo": "palabra",
+   "ref_id": "H589",
+   "bytes": 12528
+  },
+  "audio/palabra-051.mp3": {
+   "texto": "שָׁ֔ם",
+   "grupo": "palabra",
+   "ref_id": "H8034",
+   "bytes": 10944
+  },
+  "audio/palabra-052.mp3": {
+   "texto": "וַיְשַׁלַּ֖ח",
+   "grupo": "palabra",
+   "ref_id": "H7971",
+   "bytes": 12384
+  },
+  "audio/palabra-053.mp3": {
+   "texto": "הִנֵּה֩",
+   "grupo": "palabra",
+   "ref_id": "H2009",
+   "bytes": 12528
+  },
+  "audio/palabra-054.mp3": {
+   "texto": "וַיָּמֹֽת",
+   "grupo": "palabra",
+   "ref_id": "H4191",
+   "bytes": 12096
+  },
+  "audio/palabra-055.mp3": {
+   "texto": "שָׁ֔ם",
+   "grupo": "palabra",
+   "ref_id": "H8033",
+   "bytes": 10944
+  },
+  "audio/palabra-056.mp3": {
+   "texto": "יְהוּדָ֑ה",
+   "grupo": "palabra",
+   "ref_id": "H3063",
+   "bytes": 12528
+  },
+  "audio/palabra-057.mp3": {
+   "texto": "יֵֽאָכֵ֔ל",
+   "grupo": "palabra",
+   "ref_id": "H398",
+   "bytes": 12528
+  },
+  "audio/palabra-058.mp3": {
+   "texto": "עַבְדֶּֽךָ",
+   "grupo": "palabra",
+   "ref_id": "H5650",
+   "bytes": 11232
+  },
+  "audio/palabra-059.mp3": {
+   "texto": "אַ֔יִן",
+   "grupo": "palabra",
+   "ref_id": "H369",
+   "bytes": 12528
+  },
+  "audio/palabra-060.mp3": {
+   "texto": "אִשָּׁ֔ה",
+   "grupo": "palabra",
+   "ref_id": "H802",
+   "bytes": 12528
+  },
+  "audio/palabra-061.mp3": {
+   "texto": "כֵֽן",
+   "grupo": "palabra",
+   "ref_id": "H3651",
+   "bytes": 12528
+  },
+  "audio/palabra-062.mp3": {
+   "texto": "גַּם",
+   "grupo": "palabra",
+   "ref_id": "H1571",
+   "bytes": 10944
+  },
+  "audio/palabra-063.mp3": {
+   "texto": "שָׁנִ֖ים",
+   "grupo": "palabra",
+   "ref_id": "H8147",
+   "bytes": 12528
+  },
+  "audio/palabra-064.mp3": {
+   "texto": "מֹשֶׁ֔ה",
+   "grupo": "palabra",
+   "ref_id": "H4872",
+   "bytes": 12528
+  },
+  "audio/palabra-065.mp3": {
+   "texto": "נַפְשִׁ֖י",
+   "grupo": "palabra",
+   "ref_id": "H5315",
+   "bytes": 12528
+  },
+  "audio/palabra-066.mp3": {
+   "texto": "הַכֹּהֵ֛ן",
+   "grupo": "palabra",
+   "ref_id": "H3548",
+   "bytes": 12528
+  },
+  "audio/palabra-067.mp3": {
+   "texto": "מַה",
+   "grupo": "palabra",
+   "ref_id": "H4100",
+   "bytes": 12528
+  },
+  "audio/palabra-068.mp3": {
+   "texto": "אֵ֣לֶּה",
+   "grupo": "palabra",
+   "ref_id": "H428",
+   "bytes": 12528
+  },
+  "audio/palabra-069.mp3": {
+   "texto": "וַיִּקְרָ֨א",
+   "grupo": "palabra",
+   "ref_id": "H7121",
+   "bytes": 12528
+  },
+  "audio/palabra-070.mp3": {
+   "texto": "אֶל",
+   "grupo": "palabra",
+   "ref_id": "H408",
+   "bytes": 12528
+  },
+  "audio/palabra-071.mp3": {
+   "texto": "אַֽחֲרֵי֙",
+   "grupo": "palabra",
+   "ref_id": "H310",
+   "bytes": 12528
+  },
+  "audio/palabra-072.mp3": {
+   "texto": "דֶּ֖רֶךְ",
+   "grupo": "palabra",
+   "ref_id": "H1870",
+   "bytes": 12528
+  },
+  "audio/palabra-073.mp3": {
+   "texto": "רֹ֣עֵה",
+   "grupo": "palabra",
+   "ref_id": "H7451",
+   "bytes": 12528
+  },
+  "audio/palabra-074.mp3": {
+   "texto": "נָשָׂ֥א",
+   "grupo": "palabra",
+   "ref_id": "H5375",
+   "bytes": 12528
+  },
+  "audio/palabra-075.mp3": {
+   "texto": "יְרוּשָׁלִַ֗ם",
+   "grupo": "palabra",
+   "ref_id": "H3389",
+   "bytes": 12528
+  },
+  "audio/palabra-076.mp3": {
+   "texto": "מִצְרַ֔יִם",
+   "grupo": "palabra",
+   "ref_id": "H4714",
+   "bytes": 12528
+  },
+  "audio/palabra-077.mp3": {
+   "texto": "אָחִ֖יו",
+   "grupo": "palabra",
+   "ref_id": "H251",
+   "bytes": 12528
+  },
+  "audio/palabra-078.mp3": {
+   "texto": "וַיָּ֥קָם",
+   "grupo": "palabra",
+   "ref_id": "H6965",
+   "bytes": 12528
+  },
+  "audio/palabra-079.mp3": {
+   "texto": "הַזֹּ֑את",
+   "grupo": "palabra",
+   "ref_id": "H2063",
+   "bytes": 12528
+  },
+  "audio/palabra-080.mp3": {
+   "texto": "רֹ֔אשׁ",
+   "grupo": "palabra",
+   "ref_id": "H7218",
+   "bytes": 12528
+  },
+  "audio/palabra-081.mp3": {
+   "texto": "לֵ֧ב",
+   "grupo": "palabra",
+   "ref_id": "H3820",
+   "bytes": 12528
+  },
+  "audio/palabra-082.mp3": {
+   "texto": "בַּת",
+   "grupo": "palabra",
+   "ref_id": "H1323",
+   "bytes": 12528
+  },
+  "audio/palabra-083.mp3": {
+   "texto": "וַיָּ֣שֶׂם",
+   "grupo": "palabra",
+   "ref_id": "H7760",
+   "bytes": 12528
+  },
+  "audio/palabra-084.mp3": {
+   "texto": "מֵאוֹת֙",
+   "grupo": "palabra",
+   "ref_id": "H3967",
+   "bytes": 10800
+  },
+  "audio/palabra-085.mp3": {
+   "texto": "מַ֖יִם",
+   "grupo": "palabra",
+   "ref_id": "H4325",
+   "bytes": 11088
+  },
+  "audio/palabra-086.mp3": {
+   "texto": "כֹּ֥ה",
+   "grupo": "palabra",
+   "ref_id": "H3541",
+   "bytes": 12528
+  },
+  "audio/palabra-087.mp3": {
+   "texto": "הַגּוֹיִם֙",
+   "grupo": "palabra",
+   "ref_id": "H1471",
+   "bytes": 12528
+  },
+  "audio/palabra-088.mp3": {
+   "texto": "הֵ֧מָּה",
+   "grupo": "palabra",
+   "ref_id": "H1992",
+   "bytes": 12528
+  },
+  "audio/palabra-089.mp3": {
+   "texto": "ט֑וֹב",
+   "grupo": "palabra",
+   "ref_id": "H2896",
+   "bytes": 12528
+  },
+  "audio/palabra-090.mp3": {
+   "texto": "עֵ֔בֶר",
+   "grupo": "palabra",
+   "ref_id": "H5674",
+   "bytes": 12528
+  },
+  "audio/palabra-091.mp3": {
+   "texto": "אָדָ֛ם",
+   "grupo": "palabra",
+   "ref_id": "H120",
+   "bytes": 10800
+  },
+  "audio/palabra-092.mp3": {
+   "texto": "הַ֥ר",
+   "grupo": "palabra",
+   "ref_id": "H2022",
+   "bytes": 12528
+  },
+  "audio/palabra-093.mp3": {
+   "texto": "גָּד֥וֹל",
+   "grupo": "palabra",
+   "ref_id": "H1419",
+   "bytes": 12528
+  },
+  "audio/palabra-094.mp3": {
+   "texto": "עֹמֵ֧ד",
+   "grupo": "palabra",
+   "ref_id": "H5975",
+   "bytes": 12528
+  },
+  "audio/palabra-095.mp3": {
+   "texto": "הֹלֵ֥ךְ",
+   "grupo": "palabra",
+   "ref_id": "H1980",
+   "bytes": 11808
+  },
+  "audio/palabra-096.mp3": {
+   "texto": "תַּ֣חַת",
+   "grupo": "palabra",
+   "ref_id": "H8478",
+   "bytes": 12528
+  },
+  "audio/palabra-097.mp3": {
+   "texto": "אֶ֤לֶף",
+   "grupo": "palabra",
+   "ref_id": "H505",
+   "bytes": 11376
+  },
+  "audio/palabra-098.mp3": {
+   "texto": "ק֨וֹל",
+   "grupo": "palabra",
+   "ref_id": "H6963",
+   "bytes": 12528
+  },
+  "audio/palabra-099.mp3": {
+   "texto": "חָֽי",
+   "grupo": "palabra",
+   "ref_id": "H2416",
+   "bytes": 12528
+  },
+  "audio/palabra-100.mp3": {
+   "texto": "וַיַּךְ֙",
+   "grupo": "palabra",
+   "ref_id": "H5221",
+   "bytes": 12240
+  },
+  "audio/verso-bereshit-1-1.mp3": {
+   "texto": "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/1",
+   "bytes": 24624
+  },
+  "audio/verso-bereshit-1-2.mp3": {
+   "texto": "וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל פְּנֵ֥י הַמָּֽיִם",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/2",
+   "bytes": 41760
+  },
+  "audio/verso-bereshit-1-3.mp3": {
+   "texto": "וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/3",
+   "bytes": 22320
+  },
+  "audio/verso-bereshit-1-4.mp3": {
+   "texto": "וַיַּ֧רְא אֱלֹהִ֛ים אֶת הָא֖וֹר כִּי ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/4",
+   "bytes": 34560
+  },
+  "audio/verso-bereshit-1-5.mp3": {
+   "texto": "וַיִּקְרָ֨א אֱלֹהִ֤ים לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם אֶחָֽד",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/5",
+   "bytes": 36720
+  },
+  "audio/verso-bereshit-1-6.mp3": {
+   "texto": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/6",
+   "bytes": 32976
+  },
+  "audio/verso-bereshit-1-7.mp3": {
+   "texto": "וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֨יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי כֵֽן",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/7",
+   "bytes": 45504
+  },
+  "audio/verso-bereshit-1-8.mp3": {
+   "texto": "וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם שֵׁנִֽי",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/8",
+   "bytes": 30672
+  },
+  "audio/verso-bereshit-1-9.mp3": {
+   "texto": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֨יִם֙ אֶל מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי כֵֽן",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/9",
+   "bytes": 41616
+  },
+  "audio/verso-bereshit-1-10.mp3": {
+   "texto": "וַיִּקְרָ֨א אֱלֹהִ֤ים לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/10",
+   "bytes": 36432
+  },
+  "audio/verso-bereshit-1-11.mp3": {
+   "texto": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ ב֖וֹ עַל הָאָ֑רֶץ וַֽיְהִי כֵֽן",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/11",
+   "bytes": 48816
+  },
+  "audio/verso-bereshit-1-12.mp3": {
+   "texto": "וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֨רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה פְּרִ֛י אֲשֶׁ֥ר זַרְעוֹ ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/12",
+   "bytes": 49104
+  },
+  "audio/verso-bereshit-1-13.mp3": {
+   "texto": "וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/13",
+   "bytes": 20304
+  },
+  "audio/verso-bereshit-1-14.mp3": {
+   "texto": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/14",
+   "bytes": 54000
+  },
+  "audio/verso-bereshit-1-15.mp3": {
+   "texto": "וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל הָאָ֑רֶץ וַֽיְהִי כֵֽן",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/15",
+   "bytes": 29376
+  },
+  "audio/verso-bereshit-1-16.mp3": {
+   "texto": "וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/16",
+   "bytes": 55728
+  },
+  "audio/verso-bereshit-1-17.mp3": {
+   "texto": "וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל הָאָֽרֶץ",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/17",
+   "bytes": 29088
+  },
+  "audio/verso-bereshit-1-18.mp3": {
+   "texto": "וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/18",
+   "bytes": 40320
+  },
+  "audio/verso-bereshit-1-19.mp3": {
+   "texto": "וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם רְבִיעִֽי",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/19",
+   "bytes": 20736
+  },
+  "audio/verso-bereshit-1-20.mp3": {
+   "texto": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל הָאָ֔רֶץ עַל פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/20",
+   "bytes": 43056
+  },
+  "audio/verso-bereshit-1-21.mp3": {
+   "texto": "וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כָּל נֶ֣פֶשׁ הַֽחַיָּ֣ה הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָׁרְצ֨וּ הַמַּ֜יִם לְמִֽינֵהֶ֗ם וְאֵ֨ת כָּל ע֤וֹף כָּנָף֙ לְמִינֵ֔הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/21",
+   "bytes": 60768
+  },
+  "audio/verso-bereshit-1-22.mp3": {
+   "texto": "וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת הַמַּ֨יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/22",
+   "bytes": 42624
+  },
+  "audio/verso-bereshit-1-23.mp3": {
+   "texto": "וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם חֲמִישִֽׁי",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/23",
+   "bytes": 21024
+  },
+  "audio/verso-bereshit-1-24.mp3": {
+   "texto": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי כֵֽן",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/24",
+   "bytes": 41472
+  },
+  "audio/verso-bereshit-1-25.mp3": {
+   "texto": "וַיַּ֣עַשׂ אֱלֹהִים֩ אֶת חַיַּ֨ת הָאָ֜רֶץ לְמִינָ֗הּ וְאֶת הַבְּהֵמָה֙ לְמִינָ֔הּ וְאֵ֛ת כָּל רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/25",
+   "bytes": 48096
+  },
+  "audio/verso-bereshit-1-26.mp3": {
+   "texto": "וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/26",
+   "bytes": 61488
+  },
+  "audio/verso-bereshit-1-27.mp3": {
+   "texto": "וַיִּבְרָ֨א אֱלֹהִ֤ים אֶת הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/27",
+   "bytes": 38448
+  },
+  "audio/verso-bereshit-1-28.mp3": {
+   "texto": "וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל הָאָֽרֶץ",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/28",
+   "bytes": 62640
+  },
+  "audio/verso-bereshit-1-29.mp3": {
+   "texto": "וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת כָּל עֵ֣שֶׂב זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל פְּנֵ֣י כָל הָאָ֔רֶץ וְאֶת כָּל הָעֵ֛ץ אֲשֶׁר בּ֥וֹ פְרִי עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָֽה",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/29",
+   "bytes": 60336
+  },
+  "audio/verso-bereshit-1-30.mp3": {
+   "texto": "וּֽלְכָל חַיַּ֣ת הָ֠אָרֶץ וּלְכָל ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל רוֹמֵ֣שׂ עַל הָאָ֗רֶץ אֲשֶׁר בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת כָּל יֶ֥רֶק עֵ֖שֶׂב לְאָכְלָ֑ה וַֽיְהִי כֵֽן",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/30",
+   "bytes": 48672
+  },
+  "audio/verso-bereshit-1-31.mp3": {
+   "texto": "וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי",
+   "grupo": "verso",
+   "ref_id": "bereshit/1/31",
+   "bytes": 36720
+  },
+  "audio/verso-bereshit-12-1.mp3": {
+   "texto": "וַיֹּ֤אמֶר יְהוָה֙ אֶל אַבְרָ֔ם לֶךְ לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ אֶל הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/1",
+   "bytes": 42768
+  },
+  "audio/verso-bereshit-12-2.mp3": {
+   "texto": "וְאֶֽעֶשְׂךָ֙ לְג֣וֹי גָּד֔וֹל וַאֲבָ֣רֶכְךָ֔ וַאֲגַדְּלָ֖ה שְׁמֶ֑ךָ וֶהְיֵ֖ה בְּרָכָֽה",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/2",
+   "bytes": 32400
+  },
+  "audio/verso-bereshit-12-3.mp3": {
+   "texto": "וַאֲבָֽרֲכָה֙ מְבָ֣רְכֶ֔יךָ וּמְקַלֶּלְךָ֖ אָאֹ֑ר וְנִבְרְכ֣וּ בְךָ֔ כֹּ֖ל מִשְׁפְּחֹ֥ת הָאֲדָמָֽה",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/3",
+   "bytes": 37440
+  },
+  "audio/verso-bereshit-12-4.mp3": {
+   "texto": "וַיֵּ֣לֶךְ אַבְרָ֗ם כַּאֲשֶׁ֨ר דִּבֶּ֤ר אֵלָיו֙ יְהוָ֔ה וַיֵּ֥לֶךְ אִתּ֖וֹ ל֑וֹט וְאַבְרָ֗ם בֶּן חָמֵ֤שׁ שָׁנִים֙ וְשִׁבְעִ֣ים שָׁנָ֔ה בְּצֵאת֖וֹ מֵחָרָֽן",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/4",
+   "bytes": 47232
+  },
+  "audio/verso-bereshit-12-5.mp3": {
+   "texto": "וַיִּקַּ֣ח אַבְרָם֩ אֶת שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת ל֣וֹט בֶּן אָחִ֗יו וְאֶת כָּל רְכוּשָׁם֙ אֲשֶׁ֣ר רָכָ֔שׁוּ וְאֶת הַנֶּ֖פֶשׁ אֲשֶׁר עָשׂ֣וּ בְחָרָ֑ן וַיֵּצְא֗וּ לָלֶ֨כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֖אוּ אַ֥רְצָה כְּנָֽעַן",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/5",
+   "bytes": 70416
+  },
+  "audio/verso-bereshit-12-6.mp3": {
+   "texto": "וַיַּעֲבֹ֤ר אַבְרָם֙ בָּאָ֔רֶץ עַ֚ד מְק֣וֹם שְׁכֶ֔ם עַ֖ד אֵל֣וֹן מוֹרֶ֑ה וְהַֽכְּנַעֲנִ֖י אָ֥ז בָּאָֽרֶץ",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/6",
+   "bytes": 38304
+  },
+  "audio/verso-bereshit-12-7.mp3": {
+   "texto": "וַיֵּרָ֤א יְהוָה֙ אֶל אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ לַיהוָ֖ה הַנִּרְאֶ֥ה אֵלָֽיו",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/7",
+   "bytes": 44928
+  },
+  "audio/verso-bereshit-12-8.mp3": {
+   "texto": "וַיַּעְתֵּ֨ק מִשָּׁ֜ם הָהָ֗רָה מִקֶּ֛דֶם לְבֵֽית אֵ֖ל וַיֵּ֣ט אָהֳלֹ֑ה בֵּֽית אֵ֤ל מִיָּם֙ וְהָעַ֣י מִקֶּ֔דֶם וַיִּֽבֶן שָׁ֤ם מִזְבֵּ֨חַ֙ לַֽיהוָ֔ה וַיִּקְרָ֖א בְּשֵׁ֥ם יְהוָֽה",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/8",
+   "bytes": 52128
+  },
+  "audio/verso-bereshit-12-9.mp3": {
+   "texto": "וַיִּסַּ֣ע אַבְרָ֔ם הָל֥וֹךְ וְנָס֖וֹעַ הַנֶּֽגְבָּה",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/9",
+   "bytes": 21888
+  },
+  "audio/verso-bereshit-12-10.mp3": {
+   "texto": "וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֨יְמָה֙ לָג֣וּר שָׁ֔ם כִּֽי כָבֵ֥ד הָרָעָ֖ב בָּאָֽרֶץ",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/10",
+   "bytes": 37584
+  },
+  "audio/verso-bereshit-12-11.mp3": {
+   "texto": "וַיְהִ֕י כַּאֲשֶׁ֥ר הִקְרִ֖יב לָב֣וֹא מִצְרָ֑יְמָה וַיֹּ֨אמֶר֙ אֶל שָׂרַ֣י אִשְׁתּ֔וֹ הִנֵּה נָ֣א יָדַ֔עְתִּי כִּ֛י אִשָּׁ֥ה יְפַת מַרְאֶ֖ה אָֽתְּ",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/11",
+   "bytes": 48816
+  },
+  "audio/verso-bereshit-12-12.mp3": {
+   "texto": "וְהָיָ֗ה כִּֽי יִרְא֤וּ אֹתָךְ֙ הַמִּצְרִ֔ים וְאָמְר֖וּ אִשְׁתּ֣וֹ זֹ֑את וְהָרְג֥וּ אֹתִ֖י וְאֹתָ֥ךְ יְחַיּֽוּ",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/12",
+   "bytes": 39600
+  },
+  "audio/verso-bereshit-12-13.mp3": {
+   "texto": "אִמְרִי נָ֖א אֲחֹ֣תִי אָ֑תְּ לְמַ֨עַן֙ יִֽיטַב לִ֣י בַעֲבוּרֵ֔ךְ וְחָיְתָ֥ה נַפְשִׁ֖י בִּגְלָלֵֽךְ",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/13",
+   "bytes": 33264
+  },
+  "audio/verso-bereshit-12-14.mp3": {
+   "texto": "וַיְהִ֕י כְּב֥וֹא אַבְרָ֖ם מִצְרָ֑יְמָה וַיִּרְא֤וּ הַמִּצְרִים֙ אֶת הָ֣אִשָּׁ֔ה כִּֽי יָפָ֥ה הִ֖וא מְאֹֽד",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/14",
+   "bytes": 35280
+  },
+  "audio/verso-bereshit-12-15.mp3": {
+   "texto": "וַיִּרְא֤וּ אֹתָהּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַיְהַֽלְל֥וּ אֹתָ֖הּ אֶל פַּרְעֹ֑ה וַתֻּקַּ֥ח הָאִשָּׁ֖ה בֵּ֥ית פַּרְעֹֽה",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/15",
+   "bytes": 36288
+  },
+  "audio/verso-bereshit-12-16.mp3": {
+   "texto": "וּלְאַבְרָ֥ם הֵיטִ֖יב בַּעֲבוּרָ֑הּ וַֽיְהִי ל֤וֹ צֹאן וּבָקָר֙ וַחֲמֹרִ֔ים וַעֲבָדִים֙ וּשְׁפָחֹ֔ת וַאֲתֹנֹ֖ת וּגְמַלִּֽים",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/16",
+   "bytes": 42768
+  },
+  "audio/verso-bereshit-12-17.mp3": {
+   "texto": "וַיְנַגַּ֨ע יְהוָ֧ה אֶת פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת בֵּית֑וֹ עַל דְּבַ֥ר שָׂרַ֖י אֵ֥שֶׁת אַבְרָֽם",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/17",
+   "bytes": 39024
+  },
+  "audio/verso-bereshit-12-18.mp3": {
+   "texto": "וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה זֹּ֖את עָשִׂ֣יתָ לִּ֑י לָ֚מָּה לֹא הִגַּ֣דְתָּ לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/18",
+   "bytes": 37296
+  },
+  "audio/verso-bereshit-12-19.mp3": {
+   "texto": "לָמָ֤ה אָמַ֨רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖ קַ֥ח וָלֵֽךְ",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/19",
+   "bytes": 37152
+  },
+  "audio/verso-bereshit-12-20.mp3": {
+   "texto": "וַיְצַ֥ו עָלָ֛יו פַּרְעֹ֖ה אֲנָשִׁ֑ים וַֽיְשַׁלְּח֥וּ אֹת֛וֹ וְאֶת אִשְׁתּ֖וֹ וְאֶת כָּל אֲשֶׁר לֽוֹ",
+   "grupo": "verso",
+   "ref_id": "bereshit/12/20",
+   "bytes": 37152
+  },
+  "audio/verso-shemot-20-1.mp3": {
+   "texto": "וַיְדַבֵּ֣ר אֱלֹהִ֔ים אֵ֛ת כָּל הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹֽר",
+   "grupo": "verso",
+   "ref_id": "shemot/20/1",
+   "bytes": 23904
+  },
+  "audio/verso-shemot-20-2.mp3": {
+   "texto": "אָֽנֹכִ֖י יְהוָ֣ה אֱלֹהֶ֑יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים",
+   "grupo": "verso",
+   "ref_id": "shemot/20/2",
+   "bytes": 32256
+  },
+  "audio/verso-shemot-20-3.mp3": {
+   "texto": "לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/3",
+   "bytes": 20880
+  },
+  "audio/verso-shemot-20-4.mp3": {
+   "texto": "לֹֽ֣א תַֽעֲשֶׂ֨ה לְךָ֥ פֶ֨סֶל֙ וְכָל תְּמוּנָ֔ה אֲשֶׁ֤ר בַּשָּׁמַ֨יִם֙ מִמַּ֔עַל וַאֲשֶׁ֥ר בָּאָ֖רֶץ מִתָּ֑חַת וַאֲשֶׁ֥ר בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/4",
+   "bytes": 47088
+  },
+  "audio/verso-shemot-20-5.mp3": {
+   "texto": "לֹֽא תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תָעָבְדֵ֑ם כִּ֣י אָֽנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל בָּנִ֛ים עַל שִׁלֵּשִׁ֥ים וְעַל רִבֵּעִ֖ים לְשֹׂנְאָֽי",
+   "grupo": "verso",
+   "ref_id": "shemot/20/5",
+   "bytes": 51840
+  },
+  "audio/verso-shemot-20-6.mp3": {
+   "texto": "וְעֹ֥שֶׂה חֶ֖סֶד לַאֲלָפִ֑ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי",
+   "grupo": "verso",
+   "ref_id": "shemot/20/6",
+   "bytes": 25920
+  },
+  "audio/verso-shemot-20-7.mp3": {
+   "texto": "לֹ֥א תִשָּׂ֛א אֶת שֵֽׁם יְהוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהוָ֔ה אֵ֛ת אֲשֶׁר יִשָּׂ֥א אֶת שְׁמ֖וֹ לַשָּֽׁוְא",
+   "grupo": "verso",
+   "ref_id": "shemot/20/7",
+   "bytes": 37440
+  },
+  "audio/verso-shemot-20-8.mp3": {
+   "texto": "זָכ֛וֹר אֶת י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/8",
+   "bytes": 18288
+  },
+  "audio/verso-shemot-20-9.mp3": {
+   "texto": "שֵׁ֤שֶׁת יָמִים֙ תַּֽעֲבֹ֔ד וְעָשִׂ֖יתָ כָּל מְלַאכְתֶּֽךָ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/9",
+   "bytes": 26496
+  },
+  "audio/verso-shemot-20-10.mp3": {
+   "texto": "וְי֨וֹם֙ הַשְּׁבִיעִ֔י שַׁבָּ֖ת לַיהוָ֣ה אֱלֹהֶ֑יךָ לֹֽ֣א תַעֲשֶׂ֨ה כָל מְלָאכָ֜ה אַתָּ֣ה וּבִנְךָֽ֣ וּבִתֶּ֗ךָ עַבְדְּךָ֤ וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖ אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/10",
+   "bytes": 55152
+  },
+  "audio/verso-shemot-20-11.mp3": {
+   "texto": "כִּ֣י שֵֽׁשֶׁת יָמִים֩ עָשָׂ֨ה יְהוָ֜ה אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֗רֶץ אֶת הַיָּם֙ וְאֶת כָּל אֲשֶׁר בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל כֵּ֗ן בֵּרַ֧ךְ יְהוָ֛ה אֶת י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/11",
+   "bytes": 54432
+  },
+  "audio/verso-shemot-20-12.mp3": {
+   "texto": "כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/12",
+   "bytes": 39744
+  },
+  "audio/verso-shemot-20-13.mp3": {
+   "texto": "לֹ֖א תִּרְצָֽח",
+   "grupo": "verso",
+   "ref_id": "shemot/20/13",
+   "bytes": 13248
+  },
+  "audio/verso-shemot-20-14.mp3": {
+   "texto": "לֹ֖א תִּנְאָֽף",
+   "grupo": "verso",
+   "ref_id": "shemot/20/14",
+   "bytes": 12816
+  },
+  "audio/verso-shemot-20-15.mp3": {
+   "texto": "לֹ֖א תִּגְנֹֽב",
+   "grupo": "verso",
+   "ref_id": "shemot/20/15",
+   "bytes": 12528
+  },
+  "audio/verso-shemot-20-16.mp3": {
+   "texto": "לֹֽא תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר",
+   "grupo": "verso",
+   "ref_id": "shemot/20/16",
+   "bytes": 18144
+  },
+  "audio/verso-shemot-20-17.mp3": {
+   "texto": "לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/17",
+   "bytes": 46224
+  },
+  "audio/verso-shemot-20-18.mp3": {
+   "texto": "וְכָל הָעָם֩ רֹאִ֨ים אֶת הַקּוֹלֹ֜ת וְאֶת הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק",
+   "grupo": "verso",
+   "ref_id": "shemot/20/18",
+   "bytes": 51264
+  },
+  "audio/verso-shemot-20-19.mp3": {
+   "texto": "וַיֹּֽאמְרוּ֙ אֶל מֹשֶׁ֔ה דַּבֵּר אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן נָמֽוּת",
+   "grupo": "verso",
+   "ref_id": "shemot/20/19",
+   "bytes": 39744
+  },
+  "audio/verso-shemot-20-20.mp3": {
+   "texto": "וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל הָעָם֮ אַל תִּירָאוּ֒ כִּ֗י לְבַֽעֲבוּר֙ נַסּ֣וֹת אֶתְכֶ֔ם בָּ֖א הָאֱלֹהִ֑ים וּבַעֲב֗וּר תִּהְיֶ֧ה יִרְאָת֛וֹ עַל פְּנֵיכֶ֖ם לְבִלְתִּ֥י תֶחֱטָֽאוּ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/20",
+   "bytes": 50112
+  },
+  "audio/verso-shemot-20-21.mp3": {
+   "texto": "וַיַּעֲמֹ֥ד הָעָ֖ם מֵרָחֹ֑ק וּמֹשֶׁה֙ נִגַּ֣שׁ אֶל הָֽעֲרָפֶ֔ל אֲשֶׁר שָׁ֖ם הָאֱלֹהִֽים",
+   "grupo": "verso",
+   "ref_id": "shemot/20/21",
+   "bytes": 32544
+  },
+  "audio/verso-shemot-20-22.mp3": {
+   "texto": "וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה כֹּ֥ה תֹאמַ֖ר אֶל בְּנֵ֣י יִשְׂרָאֵ֑ל אַתֶּ֣ם רְאִיתֶ֔ם כִּ֚י מִן הַשָּׁמַ֔יִם דִּבַּ֖רְתִּי עִמָּכֶֽם",
+   "grupo": "verso",
+   "ref_id": "shemot/20/22",
+   "bytes": 42048
+  },
+  "audio/verso-shemot-20-23.mp3": {
+   "texto": "לֹ֥א תַעֲשׂ֖וּן אִתִּ֑י אֱלֹ֤הֵי כֶ֨סֶף֙ וֵאלֹהֵ֣י זָהָ֔ב לֹ֥א תַעֲשׂ֖וּ לָכֶֽם",
+   "grupo": "verso",
+   "ref_id": "shemot/20/23",
+   "bytes": 29376
+  },
+  "audio/verso-shemot-20-24.mp3": {
+   "texto": "מִזְבַּ֣ח אֲדָמָה֮ תַּעֲשֶׂה לִּי֒ וְזָבַחְתָּ֣ עָלָ֗יו אֶת עֹלֹתֶ֨יךָ֙ וְאֶת שְׁלָמֶ֔יךָ אֶת צֹֽאנְךָ֖ וְאֶת בְּקָרֶ֑ךָ בְּכָל הַמָּקוֹם֙ אֲשֶׁ֣ר אַזְכִּ֣יר אֶת שְׁמִ֔י אָב֥וֹא אֵלֶ֖יךָ וּבֵרַכְתִּֽיךָ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/24",
+   "bytes": 60768
+  },
+  "audio/verso-shemot-20-25.mp3": {
+   "texto": "וְאִם מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה לִּ֔י לֹֽא תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַתְּחַֽלְלֶֽהָ",
+   "grupo": "verso",
+   "ref_id": "shemot/20/25",
+   "bytes": 39168
+  },
+  "audio/verso-shemot-20-26.mp3": {
+   "texto": "וְלֹֽא תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו",
+   "grupo": "verso",
+   "ref_id": "shemot/20/26",
+   "bytes": 29376
+  },
+  "audio/verso-devarim-6-1.mp3": {
+   "texto": "וְזֹ֣את הַמִּצְוָ֗ה הַֽחֻקִּים֙ וְהַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵיכֶ֖ם לְלַמֵּ֣ד אֶתְכֶ֑ם לַעֲשׂ֣וֹת בָּאָ֔רֶץ אֲשֶׁ֥ר אַתֶּ֛ם עֹבְרִ֥ים שָׁ֖מָּה לְרִשְׁתָּֽהּ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/1",
+   "bytes": 51552
+  },
+  "audio/verso-devarim-6-2.mp3": {
+   "texto": "לְמַ֨עַן תִּירָ֜א אֶת יְהוָ֣ה אֱלֹהֶ֗יךָ לִ֠שְׁמֹר אֶת כָּל חֻקֹּתָ֣יו וּמִצְוֺתָיו֮ אֲשֶׁ֣ר אָנֹכִ֣י מְצַוֶּךָ֒ אַתָּה֙ וּבִנְךָ֣ וּבֶן בִּנְךָ֔ כֹּ֖ל יְמֵ֣י חַיֶּ֑יךָ וּלְמַ֖עַן יַאֲרִכֻ֥ן יָמֶֽיךָ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/2",
+   "bytes": 62208
+  },
+  "audio/verso-devarim-6-3.mp3": {
+   "texto": "וְשָׁמַעְתָּ֤ יִשְׂרָאֵל֙ וְשָׁמַרְתָּ֣ לַעֲשׂ֔וֹת אֲשֶׁר֙ יִיטַ֣ב לְךָ֔ וַאֲשֶׁ֥ר תִּרְבּ֖וּן מְאֹ֑ד כַּאֲשֶׁר֩ דִּבֶּ֨ר יְהוָ֜ה אֱלֹהֵ֤י אֲבֹתֶ֨יךָ֙ לָ֔ךְ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/3",
+   "bytes": 58608
+  },
+  "audio/verso-devarim-6-4.mp3": {
+   "texto": "שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד",
+   "grupo": "verso",
+   "ref_id": "devarim/6/4",
+   "bytes": 23616
+  },
+  "audio/verso-devarim-6-5.mp3": {
+   "texto": "וְאָ֣הַבְתָּ֔ אֵ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ בְּכָל לְבָבְךָ֥ וּבְכָל נַפְשְׁךָ֖ וּבְכָל מְאֹדֶֽךָ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/5",
+   "bytes": 34416
+  },
+  "audio/verso-devarim-6-6.mp3": {
+   "texto": "וְהָי֞וּ הַדְּבָרִ֣ים הָאֵ֗לֶּה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם עַל לְבָבֶֽךָ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/6",
+   "bytes": 31104
+  },
+  "audio/verso-devarim-6-7.mp3": {
+   "texto": "וְשִׁנַּנְתָּ֣ם לְבָנֶ֔יךָ וְדִבַּרְתָּ֖ בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֨ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ וּֽבְשָׁכְבְּךָ֖ וּבְקוּמֶֽךָ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/7",
+   "bytes": 45504
+  },
+  "audio/verso-devarim-6-8.mp3": {
+   "texto": "וּקְשַׁרְתָּ֥ם לְא֖וֹת עַל יָדֶ֑ךָ וְהָי֥וּ לְטֹטָפֹ֖ת בֵּ֥ין עֵינֶֽיךָ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/8",
+   "bytes": 29520
+  },
+  "audio/verso-devarim-6-9.mp3": {
+   "texto": "וּכְתַבְתָּ֛ם עַל מְזוּזֹ֥ת בֵּיתֶ֖ךָ וּבִשְׁעָרֶֽיךָ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/9",
+   "bytes": 24480
+  },
+  "audio/verso-devarim-6-10.mp3": {
+   "texto": "וְהָיָ֞ה כִּ֥י יְבִיאֲךָ֣ יְהוָ֣ה אֱלֹהֶ֗יךָ אֶל הָאָ֜רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע לַאֲבֹתֶ֛יךָ לְאַבְרָהָ֛ם לְיִצְחָ֥ק וּֽלְיַעֲקֹ֖ב לָ֣תֶת לָ֑ךְ עָרִ֛ים גְּדֹלֹ֥ת וְטֹבֹ֖ת אֲשֶׁ֥ר לֹא בָנִֽיתָ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/10",
+   "bytes": 56304
+  },
+  "audio/verso-devarim-6-11.mp3": {
+   "texto": "וּבָ֨תִּ֜ים מְלֵאִ֣ים כָּל טוּב֮ אֲשֶׁ֣ר לֹא מִלֵּאתָ֒ וּבֹרֹ֤ת חֲצוּבִים֙ אֲשֶׁ֣ר לֹא חָצַ֔בְתָּ כְּרָמִ֥ים וְזֵיתִ֖ים אֲשֶׁ֣ר לֹא נָטָ֑עְתָּ וְאָכַלְתָּ֖ וְשָׂבָֽעְתָּ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/11",
+   "bytes": 54864
+  },
+  "audio/verso-devarim-6-12.mp3": {
+   "texto": "הִשָּׁ֣מֶר לְךָ֔ פֶּן תִּשְׁכַּ֖ח אֶת יְהוָ֑ה אֲשֶׁ֧ר הוֹצִֽיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים",
+   "grupo": "verso",
+   "ref_id": "devarim/6/12",
+   "bytes": 35424
+  },
+  "audio/verso-devarim-6-13.mp3": {
+   "texto": "אֶת יְהוָ֧ה אֱלֹהֶ֛יךָ תִּירָ֖א וְאֹת֣וֹ תַעֲבֹ֑ד וּבִשְׁמ֖וֹ תִּשָּׁבֵֽעַ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/13",
+   "bytes": 29232
+  },
+  "audio/verso-devarim-6-14.mp3": {
+   "texto": "לֹ֣א תֵֽלְכ֔וּן אַחֲרֵ֖י אֱלֹהִ֣ים אֲחֵרִ֑ים מֵאֱלֹהֵי֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר סְבִיבוֹתֵיכֶֽם",
+   "grupo": "verso",
+   "ref_id": "devarim/6/14",
+   "bytes": 31968
+  },
+  "audio/verso-devarim-6-15.mp3": {
+   "texto": "כִּ֣י אֵ֥ל קַנָּ֛א יְהוָ֥ה אֱלֹהֶ֖יךָ בְּקִרְבֶּ֑ךָ פֶּן יֶ֠חֱרֶה אַף יְהוָ֤ה אֱלֹהֶ֨יךָ֙ בָּ֔ךְ וְהִשְׁמִ֣ידְךָ֔ מֵעַ֖ל פְּנֵ֥י הָאֲדָמָֽה",
+   "grupo": "verso",
+   "ref_id": "devarim/6/15",
+   "bytes": 44640
+  },
+  "audio/verso-devarim-6-16.mp3": {
+   "texto": "לֹ֣א תְנַסּ֔וּ אֶת יְהוָ֖ה אֱלֹהֵיכֶ֑ם כַּאֲשֶׁ֥ר נִסִּיתֶ֖ם בַּמַּסָּֽה",
+   "grupo": "verso",
+   "ref_id": "devarim/6/16",
+   "bytes": 26784
+  },
+  "audio/verso-devarim-6-17.mp3": {
+   "texto": "שָׁמ֣וֹר תִּשְׁמְר֔וּן אֶת מִצְוֺ֖ת יְהוָ֣ה אֱלֹהֵיכֶ֑ם וְעֵדֹתָ֥יו וְחֻקָּ֖יו אֲשֶׁ֥ר צִוָּֽךְ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/17",
+   "bytes": 34560
+  },
+  "audio/verso-devarim-6-18.mp3": {
+   "texto": "וְעָשִׂ֛יתָ הַיָּשָׁ֥ר וְהַטּ֖וֹב בְּעֵינֵ֣י יְהוָ֑ה לְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ וּבָ֗אתָ וְיָֽרַשְׁתָּ֙ אֶת הָאָ֣רֶץ הַטֹּבָ֔ה אֲשֶׁר נִשְׁבַּ֥ע יְהוָ֖ה לַאֲבֹתֶֽיךָ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/18",
+   "bytes": 50256
+  },
+  "audio/verso-devarim-6-19.mp3": {
+   "texto": "לַהֲדֹ֥ף אֶת כָּל אֹיְבֶ֖יךָ מִפָּנֶ֑יךָ כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה",
+   "grupo": "verso",
+   "ref_id": "devarim/6/19",
+   "bytes": 27360
+  },
+  "audio/verso-devarim-6-20.mp3": {
+   "texto": "כִּֽי יִשְׁאָלְךָ֥ בִנְךָ֛ מָחָ֖ר לֵאמֹ֑ר מָ֣ה הָעֵדֹ֗ת וְהַֽחֻקִּים֙ וְהַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵ֖ינוּ אֶתְכֶֽם",
+   "grupo": "verso",
+   "ref_id": "devarim/6/20",
+   "bytes": 43056
+  },
+  "audio/verso-devarim-6-21.mp3": {
+   "texto": "וְאָמַרְתָּ֣ לְבִנְךָ֔ עֲבָדִ֛ים הָיִ֥ינוּ לְפַרְעֹ֖ה בְּמִצְרָ֑יִם וַיּוֹצִיאֵ֧נוּ יְהוָ֛ה מִמִּצְרַ֖יִם בְּיָ֥ד חֲזָקָֽה",
+   "grupo": "verso",
+   "ref_id": "devarim/6/21",
+   "bytes": 41328
+  },
+  "audio/verso-devarim-6-22.mp3": {
+   "texto": "וַיִּתֵּ֣ן יְהוָ֡ה אוֹתֹ֣ת וּ֠מֹפְתִים גְּדֹלִ֨ים וְרָעִ֧ים בְּמִצְרַ֛יִם בְּפַרְעֹ֥ה וּבְכָל בֵּית֖וֹ לְעֵינֵֽינוּ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/22",
+   "bytes": 38880
+  },
+  "audio/verso-devarim-6-23.mp3": {
+   "texto": "וְאוֹתָ֖נוּ הוֹצִ֣יא מִשָּׁ֑ם לְמַ֨עַן֙ הָבִ֣יא אֹתָ֔נוּ לָ֤תֶת לָ֨נוּ֙ אֶת הָאָ֔רֶץ אֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֵֽינוּ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/23",
+   "bytes": 35136
+  },
+  "audio/verso-devarim-6-24.mp3": {
+   "texto": "וַיְצַוֵּ֣נוּ יְהוָ֗ה לַעֲשׂוֹת֙ אֶת כָּל הַחֻקִּ֣ים הָאֵ֔לֶּה לְיִרְאָ֖ה אֶת יְהוָ֣ה אֱלֹהֵ֑ינוּ לְט֥וֹב לָ֨נוּ֙ כָּל הַיָּמִ֔ים לְחַיֹּתֵ֖נוּ כְּהַיּ֥וֹם הַזֶּֽה",
+   "grupo": "verso",
+   "ref_id": "devarim/6/24",
+   "bytes": 47808
+  },
+  "audio/verso-devarim-6-25.mp3": {
+   "texto": "וּצְדָקָ֖ה תִּֽהְיֶה לָּ֑נוּ כִּֽי נִשְׁמֹ֨ר לַעֲשׂ֜וֹת אֶת כָּל הַמִּצְוָ֣ה הַזֹּ֗את לִפְנֵ֛י יְהוָ֥ה אֱלֹהֵ֖ינוּ כַּאֲשֶׁ֥ר צִוָּֽנוּ",
+   "grupo": "verso",
+   "ref_id": "devarim/6/25",
+   "bytes": 41472
+  },
+  "audio/verso-tehilim-23-1.mp3": {
+   "texto": "מִזְמ֥וֹר לְדָוִ֑ד יְהוָ֥ה רֹ֝עִ֗י לֹ֣א אֶחְסָֽר",
+   "grupo": "verso",
+   "ref_id": "tehilim/23/1",
+   "bytes": 21744
+  },
+  "audio/verso-tehilim-23-2.mp3": {
+   "texto": "בִּנְא֣וֹת דֶּ֭שֶׁא יַרְבִּיצֵ֑נִי עַל מֵ֖י מְנֻח֣וֹת יְנַהֲלֵֽנִי",
+   "grupo": "verso",
+   "ref_id": "tehilim/23/2",
+   "bytes": 27072
+  },
+  "audio/verso-tehilim-23-3.mp3": {
+   "texto": "נַפְשִׁ֥י יְשׁוֹבֵ֑ב יַֽנְחֵ֥נִי בְמַעְגְּלֵי צֶ֝֗דֶק לְמַ֣עַן שְׁמֽוֹ",
+   "grupo": "verso",
+   "ref_id": "tehilim/23/3",
+   "bytes": 25488
+  },
+  "audio/verso-tehilim-23-4.mp3": {
+   "texto": "גַּ֤ם כִּֽי אֵלֵ֨ךְ בְּגֵ֪יא צַלְמָ֡וֶת לֹא אִ֘ירָ֤א רָ֗ע כִּי אַתָּ֥ה עִמָּדִ֑י שִׁבְטְךָ֥ וּ֝מִשְׁעַנְתֶּ֗ךָ הֵ֣מָּה יְנַֽחֲמֻֽנִי",
+   "grupo": "verso",
+   "ref_id": "tehilim/23/4",
+   "bytes": 43056
+  },
+  "audio/verso-tehilim-23-5.mp3": {
+   "texto": "תַּעֲרֹ֬ךְ לְפָנַ֨י שֻׁלְחָ֗ן נֶ֥גֶד צֹרְרָ֑י דִּשַּׁ֖נְתָּ בַשֶּׁ֥מֶן רֹ֝אשִׁ֗י כּוֹסִ֥י רְוָיָֽה",
+   "grupo": "verso",
+   "ref_id": "tehilim/23/5",
+   "bytes": 35136
+  },
+  "audio/verso-tehilim-23-6.mp3": {
+   "texto": "אַ֤ךְ ט֤וֹב וָחֶ֣סֶד יִ֭רְדְּפוּנִי כָּל יְמֵ֣י חַיָּ֑י וְשַׁבְתִּ֥י בְּבֵית יְ֝הוָ֗ה לְאֹ֣רֶךְ יָמִֽים",
+   "grupo": "verso",
+   "ref_id": "tehilim/23/6",
+   "bytes": 35424
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "strong": "H4940",
+ "he": "משפחה",
+ "xlit": "mishpâchâh",
+ "pron": "mish-paw-khaw'",
+ "def_en": [
+  "1) clan, family",
+  "1a) clan",
+  "1a1) family",
+  "1a2) tribe",
+  "1a3) people, nation",
+  "1b) guild",
+  "1c) species, kind",
+  "1d) aristocrats"
+ ],
+ "kjv": "family, kind(-red).",
+ "expl": "a family, i.e. circle of relatives; figuratively, a class (of persons), a species (of animals) or sort (of things); by extension a tribe or people",
+ "etim": "from (compare );",
+ "raices": [
+  "H8192",
+  "H8198"
+ ],
+ "ocurrencias": 304,
+ "formas": [
+  {
+   "forma": "משפחת",
+   "forma_he": "מִשְׁפְּחֹ֧ת",
+   "n": 117,
+   "ref": "bereshit/10/32"
+  },
+  {
+   "forma": "למשפחתם",
+   "forma_he": "לְמִשְׁפְּחֹתָ֖ם",
+   "n": 74,
+   "ref": "bereshit/10/5"
+  },
+  {
+   "forma": "משפחות",
+   "forma_he": "מִשְׁפְּח֖וֹת",
+   "n": 20,
+   "ref": "bereshit/10/18"
+  },
+  {
+   "forma": "ממשפחת",
+   "forma_he": "מִֽמִּשְׁפְּחֹ֖ת",
+   "n": 14,
+   "ref": "bamidbar/36/1"
+  },
+  {
+   "forma": "למשפחותם",
+   "forma_he": "לְמִשְׁפְּחוֹתָ֖ם",
+   "n": 9,
+   "ref": "bamidbar/4/38"
+  }
+ ],
+ "morph": [
+  "HR/Ncfpc/Sp3mp",
+  "HNcfsc",
+  "HNcfpc",
+  "HR/Ncfsc",
+  "HR/Ncfpc"
+ ],
+ "glosa_es": "familia; clan"
+}

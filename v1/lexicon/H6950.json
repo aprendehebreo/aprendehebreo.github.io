@@ -1,0 +1,60 @@
+{
+ "strong": "H6950",
+ "he": "קהל",
+ "xlit": "qâhal",
+ "pron": "'kaw-hal'",
+ "def_en": [
+  "1) to assemble, gather",
+  "1a) (Niphal) to assemble",
+  "1a1) for religious reasons",
+  "1a2) for political reasons",
+  "1b) (Hiphil) to summon an assembly",
+  "1b1) for war, judgment",
+  "1b2) for religious purposes"
+ ],
+ "kjv": "assemble (selves) (together), gather (selves) (together).",
+ "expl": "to convoke",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "ויקהל",
+   "forma_he": "וַיִּקָּהֵ֨ל",
+   "n": 9,
+   "ref": "shemot/32/1"
+  },
+  {
+   "forma": "ויקהלו",
+   "forma_he": "וַיִּֽקָּהֲל֞וּ",
+   "n": 9,
+   "ref": "bamidbar/16/3"
+  },
+  {
+   "forma": "נקהלו",
+   "forma_he": "נִקְהֲל֨וּ",
+   "n": 4,
+   "ref": "ester/9/2"
+  },
+  {
+   "forma": "הקהל",
+   "forma_he": "הַקָּהָ֥ל",
+   "n": 3,
+   "ref": "shemot/16/3"
+  },
+  {
+   "forma": "ותקהל",
+   "forma_he": "וַתִּקָּהֵל֙",
+   "n": 2,
+   "ref": "vayikra/8/4"
+  }
+ ],
+ "morph": [
+  "HC/VNw3mp",
+  "HC/Vhw3ms",
+  "HVNp3cp",
+  "HVhv2ms",
+  "HC/VNw3ms"
+ ],
+ "glosa_es": ""
+}

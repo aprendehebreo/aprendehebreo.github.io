@@ -1,0 +1,85 @@
+{
+ "strong": "H2088",
+ "he": "זה",
+ "xlit": "zeh",
+ "pron": "zeh",
+ "def_en": [
+  "1) this, this one, here, which, this...that, the one...the other, another, such",
+  "1a) (alone)",
+  "1a1) this one",
+  "1a2) this...that, the one...the other, another",
+  "1b) (appos to subst)",
+  "1b1) this",
+  "1c) (as predicate)",
+  "1c1) this, such",
+  "1d) (enclitically)",
+  "1d1) then",
+  "1d2) who, whom",
+  "1d3) how now, what now",
+  "1d4) what now",
+  "1d5) wherefore now",
+  "1d6) behold here",
+  "1d7) just now",
+  "1d8) now, now already",
+  "1e) (poetry)",
+  "1e1) wherein, which, those who",
+  "1f) (with prefixes)",
+  "1f1) in this (place) here, then",
+  "1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter",
+  "1f3) thus and thus",
+  "1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus",
+  "1f5) from here, hence, on one side...on the other side",
+  "1f6) on this account",
+  "1f7) in spite of this, which, whence, how"
+ ],
+ "kjv": "he, [idiom] hence, [idiom] here, it(-self), [idiom] now, [idiom] of him, the one...the other, [idiom] than the other, ([idiom] out of) the (self) same, such (a one) that, these, this (hath, man), on this side...on that side, [idiom] thus, very, which. Compare , , , .",
+ "expl": "the masculine demonstrative pronoun, this or that",
+ "etim": "a primitive word;",
+ "raices": [
+  "H2063",
+  "H2090",
+  "H2097",
+  "H2098"
+ ],
+ "ocurrencias": 1178,
+ "formas": [
+  {
+   "forma": "הזה",
+   "forma_he": "הַזֶּֽה",
+   "n": 703,
+   "ref": "bereshit/7/1"
+  },
+  {
+   "forma": "זה",
+   "forma_he": "זֶ֣ה",
+   "n": 315,
+   "ref": "bereshit/5/1"
+  },
+  {
+   "forma": "מזה",
+   "forma_he": "מִזֶּ֥ה",
+   "n": 64,
+   "ref": "bereshit/16/8"
+  },
+  {
+   "forma": "וזה",
+   "forma_he": "וְזֶ֕ה",
+   "n": 51,
+   "ref": "bereshit/6/15"
+  },
+  {
+   "forma": "בזה",
+   "forma_he": "בָזֶ֖ה",
+   "n": 18,
+   "ref": "bereshit/38/21"
+  }
+ ],
+ "morph": [
+  "HTd/Pdxms",
+  "HPdxms",
+  "HR/Pdxms",
+  "HC/Pdxms",
+  "HC/R/Pdxms"
+ ],
+ "glosa_es": "este"
+}

@@ -1,0 +1,66 @@
+{
+ "strong": "H1320",
+ "he": "בשר",
+ "xlit": "bâsâr",
+ "pron": "baw-sawr'",
+ "def_en": [
+  "1) flesh",
+  "1a) of the body",
+  "1a1) of humans",
+  "1a2) of animals",
+  "1b) the body itself",
+  "1c) male organ of generation (euphemism)",
+  "1d) kindred, blood-relations",
+  "1e) flesh as frail or erring (man against God)",
+  "1f) all living things",
+  "1g) animals",
+  "1h) mankind"
+ ],
+ "kjv": "body, (fat, lean) flesh(-ed), kin, (man-) kind, [phrase] nakedness, self, skin.",
+ "expl": "flesh (from its freshness); by extension, body, person; also (by euphemistically) the pudenda of aman",
+ "etim": "from ;",
+ "raices": [
+  "H1319"
+ ],
+ "ocurrencias": 270,
+ "formas": [
+  {
+   "forma": "בשר",
+   "forma_he": "בָּשָׂ֖ר",
+   "n": 117,
+   "ref": "bereshit/2/21"
+  },
+  {
+   "forma": "בשרו",
+   "forma_he": "בְּשָׂר֔וֹ",
+   "n": 39,
+   "ref": "shemot/21/28"
+  },
+  {
+   "forma": "הבשר",
+   "forma_he": "הַבָּשָׂ֔ר",
+   "n": 25,
+   "ref": "bereshit/7/15"
+  },
+  {
+   "forma": "ובשר",
+   "forma_he": "וּבָשָׂ֖ר",
+   "n": 12,
+   "ref": "bereshit/2/23"
+  },
+  {
+   "forma": "בשרי",
+   "forma_he": "בְּ֝שָׂרִ֗י",
+   "n": 11,
+   "ref": "tehilim/16/9"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc/Sp3ms",
+  "HNcmsc",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp1cs"
+ ],
+ "glosa_es": "carne"
+}

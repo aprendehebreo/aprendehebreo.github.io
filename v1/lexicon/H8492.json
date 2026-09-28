@@ -1,0 +1,56 @@
+{
+ "strong": "H8492",
+ "he": "תירוש",
+ "xlit": "tîyrôwsh",
+ "pron": "tee-roshe'",
+ "def_en": [
+  "1) wine, fresh or new wine, must, freshly pressed wine"
+ ],
+ "kjv": "(new, sweet) wine.",
+ "expl": "must or fresh grape-juice (as just squeezed out); by implication (rarely) fermented wine",
+ "etim": "or ; from in the sense of expulsion;",
+ "raices": [
+  "H3423"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "ותירוש",
+   "forma_he": "וְתִיר֑וֹשׁ",
+   "n": 10,
+   "ref": "devarim/33/28"
+  },
+  {
+   "forma": "תירוש",
+   "forma_he": "תִּיר֣וֹשׁ",
+   "n": 7,
+   "ref": "bamidbar/18/12"
+  },
+  {
+   "forma": "התירוש",
+   "forma_he": "הַתִּירוֹשׁ֙",
+   "n": 6,
+   "ref": "yeshayahu/65/8"
+  },
+  {
+   "forma": "ותירשך",
+   "forma_he": "וְתִֽירֹשְׁךָ֣",
+   "n": 3,
+   "ref": "devarim/7/13"
+  },
+  {
+   "forma": "והתירוש",
+   "forma_he": "וְהַתִּיר֣וֹשׁ",
+   "n": 3,
+   "ref": "hoshea/2/10"
+  }
+ ],
+ "morph": [
+  "HC/Ncmsa",
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HC/Ncmsc/Sp2ms",
+  "HC/Td/Ncmsa"
+ ],
+ "glosa_es": ""
+}

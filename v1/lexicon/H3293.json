@@ -1,0 +1,54 @@
+{
+ "strong": "H3293",
+ "he": "יער",
+ "xlit": "yaʻar",
+ "pron": "yah'-ar",
+ "def_en": [
+  "1) forest, wood, thicket, wooded height"
+ ],
+ "kjv": "(honey-) comb, forest, wood.",
+ "expl": "a copse of bushes; hence, a forest; hence, honey in the comb (as hived in trees)",
+ "etim": "from an unused root probably meaning to thicken with verdure;",
+ "raices": [],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "יער",
+   "forma_he": "יַ֣עַר",
+   "n": 24,
+   "ref": "yehoshua/17/18"
+  },
+  {
+   "forma": "היער",
+   "forma_he": "הַיַּ֔עַר",
+   "n": 11,
+   "ref": "shmuel_a/14/26"
+  },
+  {
+   "forma": "ביער",
+   "forma_he": "בַיַּעַר֮",
+   "n": 8,
+   "ref": "devarim/19/5"
+  },
+  {
+   "forma": "ליער",
+   "forma_he": "לַיַּ֥עַר",
+   "n": 4,
+   "ref": "yeshayahu/29/17"
+  },
+  {
+   "forma": "מיער",
+   "forma_he": "מִיַּ֗עַר",
+   "n": 3,
+   "ref": "yirmiyahu/5/6"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HNcmsc",
+  "HRd/Ncmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

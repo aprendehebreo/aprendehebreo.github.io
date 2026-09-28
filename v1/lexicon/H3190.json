@@ -1,0 +1,65 @@
+{
+ "strong": "H3190",
+ "he": "יטב",
+ "xlit": "yâṭab",
+ "pron": "yaw-tab'",
+ "def_en": [
+  "1) to be good, be pleasing, be well, be glad",
+  "1a) (Qal)",
+  "1a1) to be glad, be joyful",
+  "1a2) to be well placed",
+  "1a3) to be well for, be well with, go well with",
+  "1a4) to be pleasing, be pleasing to",
+  "1b) (Hiphil)",
+  "1b1) to make glad, rejoice",
+  "1b2) to do good to, deal well with",
+  "1b3) to do well, do thoroughly",
+  "1b4) to make a thing good or right or beautiful",
+  "1b5) to do well, do right"
+ ],
+ "kjv": "be accepted, amend, use aright, benefit, be (make) better, seem best, make cheerful, be comely, [phrase] be content, diligent(-ly), dress, earnestly, find favour, give, be glad, do (be, make) good(-ness), be (make) merry, please ([phrase] well), shew more (kindness), skilfully, [idiom] very small, surely, make sweet, thoroughly, tire, trim, very, be (can, deal, entreat, go, have) well (said, seen).",
+ "expl": "to be (causative) make well, literally (sound, beautiful) or figuratively (happy, successful, right)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 112,
+ "formas": [
+  {
+   "forma": "ייטב",
+   "forma_he": "יִֽיטַב",
+   "n": 20,
+   "ref": "bereshit/12/13"
+  },
+  {
+   "forma": "וייטב",
+   "forma_he": "וַיִּיטַ֥ב",
+   "n": 19,
+   "ref": "bereshit/41/37"
+  },
+  {
+   "forma": "היטב",
+   "forma_he": "הֵיטֵ֥ב",
+   "n": 9,
+   "ref": "bereshit/32/13"
+  },
+  {
+   "forma": "להיטיב",
+   "forma_he": "לְהֵיטִ֗יב",
+   "n": 7,
+   "ref": "vayikra/5/4"
+  },
+  {
+   "forma": "היטיבו",
+   "forma_he": "הֵיטִ֖יבוּ",
+   "n": 6,
+   "ref": "devarim/5/28"
+  }
+ ],
+ "morph": [
+  "HVqi3ms",
+  "HC/Vqw3ms",
+  "HVha",
+  "HVhi3ms",
+  "HR/Vhc"
+ ],
+ "glosa_es": ""
+}

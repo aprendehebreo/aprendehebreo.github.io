@@ -1,0 +1,58 @@
+{
+ "strong": "H314",
+ "he": "אחרון",
+ "xlit": "ʼachărôwn",
+ "pron": "akh-ar-one'",
+ "def_en": [
+  "1) behind, following, subsequent, western",
+  "1a) behind, hindermost, western (of location)",
+  "1b) later, subsequent, latter, last (of time)"
+ ],
+ "kjv": "after (-ward), to come, following, hind(-er, -ermost, -most), last, latter, rereward, ut(ter) most.",
+ "expl": "hinder; generally, late or last; specifically (as facing the east) western",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H309"
+ ],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "האחרון",
+   "forma_he": "הָאַחֲרֽוֹן",
+   "n": 12,
+   "ref": "shemot/4/8"
+  },
+  {
+   "forma": "אחרון",
+   "forma_he": "אַחֲר֔וֹן",
+   "n": 8,
+   "ref": "yeshayahu/30/8"
+  },
+  {
+   "forma": "אחרנים",
+   "forma_he": "אַחֲרֹנִ֔ים",
+   "n": 7,
+   "ref": "bereshit/33/2"
+  },
+  {
+   "forma": "באחרנה",
+   "forma_he": "בָּאַחֲרֹנָֽה",
+   "n": 5,
+   "ref": "devarim/13/10"
+  },
+  {
+   "forma": "והאחרונים",
+   "forma_he": "וְהָאֲחֲרוֹנִ֑ים",
+   "n": 5,
+   "ref": "divrei_hayamim_b/9/29"
+  }
+ ],
+ "morph": [
+  "HTd/Aamsa",
+  "HC/Td/Aampa",
+  "HRd/Aafsa",
+  "HAamsa",
+  "HAampa"
+ ],
+ "glosa_es": ""
+}

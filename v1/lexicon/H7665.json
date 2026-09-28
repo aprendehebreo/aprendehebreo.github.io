@@ -1,0 +1,65 @@
+{
+ "strong": "H7665",
+ "he": "שבר",
+ "xlit": "shâbar",
+ "pron": "shaw-bar'",
+ "def_en": [
+  "1) to break, break in pieces",
+  "1a) (Qal)",
+  "1a1) break, break in or down, rend violently, wreck, crush, quench",
+  "1a2) to break, rupture (fig)",
+  "1b) (Niphal)",
+  "1b1) to be broken, be maimed, be crippled, be wrecked",
+  "1b2) to be broken, be crushed (fig)",
+  "1c) (Piel) to shatter, break",
+  "1d) (Hiphil) to cause to break out, bring to the birth",
+  "1e) (Hophal) to be broken, be shattered"
+ ],
+ "kjv": "break (down, off, in pieces, up), broken (-hearted), bring to the birth, crush, destroy, hurt, quench, [idiom] quite, tear, view (by mistake for ).",
+ "expl": "to burst (literally or figuratively)",
+ "etim": "a primitive root;",
+ "raices": [
+  "H7663"
+ ],
+ "ocurrencias": 149,
+ "formas": [
+  {
+   "forma": "שבר",
+   "forma_he": "שֶׁ֖בֶר",
+   "n": 13,
+   "ref": "bereshit/42/1"
+  },
+  {
+   "forma": "ישבר",
+   "forma_he": "יִשָּׁבֵ֑ר",
+   "n": 9,
+   "ref": "vayikra/6/21"
+  },
+  {
+   "forma": "נשברה",
+   "forma_he": "נשברה",
+   "n": 9,
+   "ref": "mlakhim_a/22/49"
+  },
+  {
+   "forma": "תשבר",
+   "forma_he": "תְּשַׁבֵּ֖ר",
+   "n": 8,
+   "ref": "shemot/23/24"
+  },
+  {
+   "forma": "ושברתי",
+   "forma_he": "וְשָׁבַרְתִּ֖י",
+   "n": 7,
+   "ref": "vayikra/26/19"
+  }
+ ],
+ "morph": [
+  "HVNp3fs",
+  "HC/Vqq1cs",
+  "HVpp3ms",
+  "HVNi3ms",
+  "HVqi1cs"
+ ],
+ "glosa_es": ""
+}

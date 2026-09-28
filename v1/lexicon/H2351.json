@@ -1,0 +1,54 @@
+{
+ "strong": "H2351",
+ "he": "חוץ",
+ "xlit": "chûwts",
+ "pron": "khoots",
+ "def_en": [
+  "1) outside, outward, street, the outside"
+ ],
+ "kjv": "abroad, field, forth, highway, more, out(-side, -ward), street, without.",
+ "expl": "properly, separate by awall, i.e. outside, outdoors",
+ "etim": "or (shortened) ; (both forms feminine in the plural) from an unused root meaning to sever;",
+ "raices": [],
+ "ocurrencias": 164,
+ "formas": [
+  {
+   "forma": "מחוץ",
+   "forma_he": "מִח֥וּץ",
+   "n": 56,
+   "ref": "bereshit/19/16"
+  },
+  {
+   "forma": "בחוץ",
+   "forma_he": "בַּחֽוּץ",
+   "n": 17,
+   "ref": "bereshit/9/22"
+  },
+  {
+   "forma": "החוצה",
+   "forma_he": "הַח֗וּצָה",
+   "n": 16,
+   "ref": "bereshit/15/5"
+  },
+  {
+   "forma": "חוצות",
+   "forma_he": "חוּצ֥וֹת",
+   "n": 14,
+   "ref": "shmuel_b/22/43"
+  },
+  {
+   "forma": "החוץ",
+   "forma_he": "הַח֑וּץ",
+   "n": 7,
+   "ref": "shoftim/12/9"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsa",
+  "HRd/Ncmsa",
+  "HTd/Ncmsa/Sd",
+  "HNcmpa",
+  "HC/R/Ncmpc"
+ ],
+ "glosa_es": "fuera; afuera; exterior"
+}

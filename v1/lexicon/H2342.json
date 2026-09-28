@@ -1,0 +1,71 @@
+{
+ "strong": "H2342",
+ "he": "חול",
+ "xlit": "chûwl",
+ "pron": "khool",
+ "def_en": [
+  "1) to twist, whirl, dance, writhe, fear, tremble, travail, be in anguish, be pained",
+  "1a) (Qal)",
+  "1a1) to dance",
+  "1a2) to twist, writhe",
+  "1a3) to whirl, whirl about",
+  "1b) (Polel)",
+  "1b1) to dance",
+  "1b2) to writhe (in travail with), bear, bring forth",
+  "1b3) to wait anxiously",
+  "1c) (Pulal)",
+  "1c1) to be made to writhe, be made to bear",
+  "1c2) to be brought forth",
+  "1d) (Hophal) to be born",
+  "1e) (Hithpolel)",
+  "1e1) whirling (participle)",
+  "1e2) writhing, suffering torture (participle)",
+  "1e3) to wait longingly",
+  "1f) (Hithpalpel) to be distressed"
+ ],
+ "kjv": "bear, (make to) bring forth, (make to) calve, dance, drive away, fall grievously (with pain), fear, form, great, grieve, (be) grievous, hope, look, make, be in pain, be much (sore) pained, rest, shake, shapen, (be) sorrow(-ful), stay, tarry, travail (with pain), tremble, trust, wait carefully (patiently), be wounded.",
+ "expl": "properly, to twist or whirl (in a circular or spiral manner), i.e. (specifically) to dance, to writhe in pain (especially of parturition) or fear; figuratively, to wait, to pervert",
+ "etim": "or ; a primitive root;",
+ "raices": [],
+ "ocurrencias": 61,
+ "formas": [
+  {
+   "forma": "יחילו",
+   "forma_he": "יָחִ֖ילוּ",
+   "n": 5,
+   "ref": "yeshayahu/23/5"
+  },
+  {
+   "forma": "יחיל",
+   "forma_he": "יָחִ֣יל",
+   "n": 4,
+   "ref": "tehilim/29/8"
+  },
+  {
+   "forma": "ויחל",
+   "forma_he": "וַיָּ֣חֶל",
+   "n": 3,
+   "ref": "bereshit/8/10"
+  },
+  {
+   "forma": "תחיל",
+   "forma_he": "תָּחִ֥יל",
+   "n": 3,
+   "ref": "yeshayahu/26/17"
+  },
+  {
+   "forma": "חלה",
+   "forma_he": "חֹלֶ֑ה",
+   "n": 3,
+   "ref": "bereshit/48/1"
+  }
+ ],
+ "morph": [
+  "HVqi3mp",
+  "HVqi3fs",
+  "HVqi3ms",
+  "HVqp3fs",
+  "HVOp1cs"
+ ],
+ "glosa_es": ""
+}

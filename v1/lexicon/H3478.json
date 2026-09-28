@@ -1,0 +1,61 @@
+{
+ "strong": "H3478",
+ "he": "ישראל",
+ "xlit": "Yisrâʼêl",
+ "pron": "yis-raw-ale'",
+ "def_en": [
+  "Israel = \"God prevails\"",
+  "1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel",
+  "2) the name of the descendants and the nation of the descendants of Jacob",
+  "2a) the name of the nation until the death of Solomon and the split",
+  "2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah",
+  "2c) the name of the nation after the return from exile"
+ ],
+ "kjv": "Israel.",
+ "expl": "Jisrael, a symbolical name of Jacob; also (typically) of his posterity",
+ "etim": "from and ; he will rule as God;",
+ "raices": [
+  "H8280",
+  "H410"
+ ],
+ "ocurrencias": 2507,
+ "formas": [
+  {
+   "forma": "ישראל",
+   "forma_he": "יִשְׂרָאֵ֑ל",
+   "n": 2260,
+   "ref": "bereshit/32/29"
+  },
+  {
+   "forma": "בישראל",
+   "forma_he": "בְיִשְׂרָאֵ֗ל",
+   "n": 120,
+   "ref": "bereshit/34/7"
+  },
+  {
+   "forma": "לישראל",
+   "forma_he": "לְיִשְׂרָאֵל֙",
+   "n": 50,
+   "ref": "bereshit/46/2"
+  },
+  {
+   "forma": "וישראל",
+   "forma_he": "וְיִשְׂרָאֵ֗ל",
+   "n": 33,
+   "ref": "bereshit/37/3"
+  },
+  {
+   "forma": "מישראל",
+   "forma_he": "מִיִּשְׂרָאֵ֔ל",
+   "n": 32,
+   "ref": "shemot/12/15"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "Israel"
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "H2077",
+ "he": "זבח",
+ "xlit": "zebach",
+ "pron": "zeh'-bakh",
+ "def_en": [
+  "1) sacrifice",
+  "1a) sacrifices of righteousness",
+  "1b) sacrifices of strife",
+  "1c) sacrifices to dead things",
+  "1d) the covenant sacrifice",
+  "1e) the passover",
+  "1f) annual sacrifice",
+  "1g) thank offering"
+ ],
+ "kjv": "offer(-ing), sacrifice.",
+ "expl": "properly, a slaughter, i.e. the flesh of an animal; by implication, a sacrifice (the victim or the act)",
+ "etim": "from ;",
+ "raices": [
+  "H2076"
+ ],
+ "ocurrencias": 162,
+ "formas": [
+  {
+   "forma": "זבח",
+   "forma_he": "זֶ֨בַח֙",
+   "n": 60,
+   "ref": "bereshit/31/54"
+  },
+  {
+   "forma": "זבחי",
+   "forma_he": "זִבְחִ֑י",
+   "n": 19,
+   "ref": "shemot/23/18"
+  },
+  {
+   "forma": "ולזבח",
+   "forma_he": "וּלְזֶ֖בַח",
+   "n": 14,
+   "ref": "vayikra/7/37"
+  },
+  {
+   "forma": "זבחים",
+   "forma_he": "זְבָחִ֔ים",
+   "n": 11,
+   "ref": "bereshit/46/1"
+  },
+  {
+   "forma": "מזבח",
+   "forma_he": "מִזְבֵּ֖חַ",
+   "n": 7,
+   "ref": "bereshit/8/20"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmsa",
+  "HNcmpc",
+  "HC/R/Ncmsc",
+  "HNcmpa"
+ ],
+ "glosa_es": "sacrificio"
+}

@@ -1,0 +1,65 @@
+{
+ "strong": "H4639",
+ "he": "מעשה",
+ "xlit": "maʻăseh",
+ "pron": "mah-as-eh'",
+ "def_en": [
+  "1) deed, work",
+  "1a) deed, thing done, act",
+  "1b) work, labour",
+  "1c) business, pursuit",
+  "1d) undertaking, enterprise",
+  "1e) achievement",
+  "1f) deeds, works (of deliverance and judgment)",
+  "1g) work, thing made",
+  "1h) work (of God)",
+  "1i) product"
+ ],
+ "kjv": "act, art, [phrase] bakemeat, business, deed, do(-ing), labor, thing made, ware of making, occupation, thing offered, operation, possession, [idiom] well, (handy-, needle-, net-) work(ing, -manship), wrought.",
+ "expl": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property",
+ "etim": "from ;",
+ "raices": [
+  "H6213"
+ ],
+ "ocurrencias": 235,
+ "formas": [
+  {
+   "forma": "מעשה",
+   "forma_he": "מַעֲשֵׂ֣ה",
+   "n": 95,
+   "ref": "bereshit/40/17"
+  },
+  {
+   "forma": "מעשיך",
+   "forma_he": "מַעֲשֶׂ֔יךָ",
+   "n": 16,
+   "ref": "shemot/23/12"
+  },
+  {
+   "forma": "כמעשה",
+   "forma_he": "כְּמַעֲשֵׂה֙",
+   "n": 13,
+   "ref": "shemot/24/10"
+  },
+  {
+   "forma": "המעשה",
+   "forma_he": "הַמַּעֲשֶׂ֥ה",
+   "n": 12,
+   "ref": "bereshit/44/15"
+  },
+  {
+   "forma": "מעשהו",
+   "forma_he": "מַעֲשֵׂ֤הוּ",
+   "n": 11,
+   "ref": "shoftim/19/16"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmpc/Sp2ms",
+  "HTd/Ncmsa",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": "obra; hecho; trabajo"
+}

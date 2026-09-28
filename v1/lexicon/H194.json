@@ -1,0 +1,37 @@
+{
+ "strong": "H194",
+ "he": "אולי",
+ "xlit": "ʼûwlay",
+ "pron": "oo-lah'ee",
+ "def_en": [
+  "1) perhaps, peradventure",
+  "2) if peradventure",
+  "3) unless",
+  "4) suppose"
+ ],
+ "kjv": "if so be, may be, peradventure, unless.",
+ "expl": "if not; hence perhaps",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H176"
+ ],
+ "ocurrencias": 45,
+ "formas": [
+  {
+   "forma": "אולי",
+   "forma_he": "אוּלַ֥י",
+   "n": 44,
+   "ref": "bereshit/16/2"
+  },
+  {
+   "forma": "אלי",
+   "forma_he": "אֵלַ֖י",
+   "n": 1,
+   "ref": "bereshit/4/10"
+  }
+ ],
+ "morph": [
+  "HD"
+ ],
+ "glosa_es": ""
+}

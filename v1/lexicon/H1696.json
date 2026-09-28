@@ -1,0 +1,62 @@
+{
+ "strong": "H1696",
+ "he": "דבר",
+ "xlit": "dâbar",
+ "pron": "daw-bar'",
+ "def_en": [
+  "1) to speak, declare, converse, command, promise, warn, threaten, sing",
+  "1a) (Qal) to speak",
+  "1b) (Niphal) to speak with one another, talk",
+  "1c) (Piel)",
+  "1c1) to speak",
+  "1c2) to promise",
+  "1d) (Pual) to be spoken",
+  "1e) (Hithpael) to speak",
+  "1f) (Hiphil) to lead away, put to flight"
+ ],
+ "kjv": "answer, appoint, bid, command, commune, declare, destroy, give, name, promise, pronounce, rehearse, say, speak, be spokesman, subdue, talk, teach, tell, think, use (entreaties), utter, [idiom] well, [idiom] work.",
+ "expl": "perhaps properly, to arrange; but used figuratively (of words), to speak; rarely (in a destructive sense) to subdue",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 1144,
+ "formas": [
+  {
+   "forma": "דבר",
+   "forma_he": "דִּבֶּ֤ר",
+   "n": 333,
+   "ref": "bereshit/12/4"
+  },
+  {
+   "forma": "וידבר",
+   "forma_he": "וַיְדַבֵּ֥ר",
+   "n": 194,
+   "ref": "bereshit/8/15"
+  },
+  {
+   "forma": "דברתי",
+   "forma_he": "דִּבַּ֖רְתִּי",
+   "n": 74,
+   "ref": "bereshit/24/33"
+  },
+  {
+   "forma": "לדבר",
+   "forma_he": "לְדַבֵּ֣ר",
+   "n": 56,
+   "ref": "bereshit/17/22"
+  },
+  {
+   "forma": "ידבר",
+   "forma_he": "יְדַבֵּ֣ר",
+   "n": 45,
+   "ref": "bereshit/44/7"
+  }
+ ],
+ "morph": [
+  "HVpp3ms",
+  "HC/Vpw3ms",
+  "HVpp1cs",
+  "HR/Vpc",
+  "HVpv2ms"
+ ],
+ "glosa_es": "hablar"
+}

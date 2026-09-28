@@ -1,0 +1,70 @@
+{
+ "strong": "H3427",
+ "he": "ישב",
+ "xlit": "yâshab",
+ "pron": "yaw-shab'",
+ "def_en": [
+  "1) to dwell, remain, sit, abide",
+  "1a) (Qal)",
+  "1a1) to sit, sit down",
+  "1a2) to be set",
+  "1a3) to remain, stay",
+  "1a4) to dwell, have one's abode",
+  "1b) (Niphal) to be inhabited",
+  "1c) (Piel) to set, place",
+  "1d) (Hiphil)",
+  "1d1) to cause to sit",
+  "1d2) to cause to abide, set",
+  "1d3) to cause to dwell",
+  "1d4) to cause (cities) to be inhabited",
+  "1d5) to marry (give an dwelling to)",
+  "1e) (Hophal)",
+  "1e1) to be inhabited",
+  "1e2) to make to dwell"
+ ],
+ "kjv": "(make to) abide(-ing), continue, (cause to, make to) dwell(-ing), ease self, endure, establish, [idiom] fail, habitation, haunt, (make to) inhabit(-ant), make to keep (house), lurking, [idiom] marry(-ing), (bring again to) place, remain, return, seat, set(-tle), (down-) sit(-down, still, -ting down, -ting (place) -uate), take, tarry.",
+ "expl": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 1092,
+ "formas": [
+  {
+   "forma": "ישבי",
+   "forma_he": "יֹשְׁבֵ֣י",
+   "n": 116,
+   "ref": "bereshit/19/25"
+  },
+  {
+   "forma": "ישב",
+   "forma_he": "יֹשֵׁ֥ב",
+   "n": 115,
+   "ref": "bereshit/4/20"
+  },
+  {
+   "forma": "וישב",
+   "forma_he": "וַיֵּ֥שֶׁב",
+   "n": 112,
+   "ref": "bereshit/4/16"
+  },
+  {
+   "forma": "וישבו",
+   "forma_he": "וַיָּשֻׁ֧בוּ",
+   "n": 77,
+   "ref": "bereshit/8/3"
+  },
+  {
+   "forma": "יושב",
+   "forma_he": "יוֹשֵׁ֥ב",
+   "n": 75,
+   "ref": "bereshit/24/3"
+  }
+ ],
+ "morph": [
+  "HVqrmpc",
+  "HVqrmsa",
+  "HC/Vqw3ms",
+  "HC/Vqw3mp",
+  "HR/Vqc"
+ ],
+ "glosa_es": "habitar; morar; sentarse"
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H5982",
+ "he": "עמוד",
+ "xlit": "ʻammûwd",
+ "pron": "am-mood'",
+ "def_en": [
+  "1) pillar, column",
+  "1a) pillar",
+  "1b) column, upright",
+  "1c) column (of smoke)"
+ ],
+ "kjv": "[idiom] apiece, pillar.",
+ "expl": "a column (as standing); also a stand, i.e. platform",
+ "etim": "or ; from ;",
+ "raices": [
+  "H5975"
+ ],
+ "ocurrencias": 112,
+ "formas": [
+  {
+   "forma": "העמודים",
+   "forma_he": "הָֽעַמּוּדִ֛ים",
+   "n": 23,
+   "ref": "shemot/38/11"
+  },
+  {
+   "forma": "עמודי",
+   "forma_he": "עַמּוּדֵ֣י",
+   "n": 10,
+   "ref": "shemot/26/32"
+  },
+  {
+   "forma": "העמדים",
+   "forma_he": "הָעַמֻּדִ֛ים",
+   "n": 9,
+   "ref": "shemot/27/10"
+  },
+  {
+   "forma": "עמוד",
+   "forma_he": "עַמּ֤וּד",
+   "n": 8,
+   "ref": "shemot/13/22"
+  },
+  {
+   "forma": "העמוד",
+   "forma_he": "הָעַמּ֣וּד",
+   "n": 7,
+   "ref": "mlakhim_a/7/15"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmpa",
+  "HNcmpc",
+  "HNcmpc/Sp3mp",
+  "HNcmsc",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

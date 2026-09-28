@@ -1,0 +1,58 @@
+{
+ "strong": "H8064",
+ "he": "שמים",
+ "xlit": "shâmayim",
+ "pron": "shaw-mah'-yim",
+ "def_en": [
+  "1) heaven, heavens, sky",
+  "1a) visible heavens, sky",
+  "1a1) as abode of the stars",
+  "1a2) as the visible universe, the sky, atmosphere, etc",
+  "1b) Heaven (as the abode of God)"
+ ],
+ "kjv": "air, [idiom] astrologer, heaven(-s).",
+ "expl": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
+ "etim": "dual of an unused singular ; from an unused root meaning to be lofty;",
+ "raices": [],
+ "ocurrencias": 421,
+ "formas": [
+  {
+   "forma": "השמים",
+   "forma_he": "הַשָּׁמַ֖יִם",
+   "n": 236,
+   "ref": "bereshit/1/1"
+  },
+  {
+   "forma": "שמים",
+   "forma_he": "שָׁמָ֑יִם",
+   "n": 90,
+   "ref": "bereshit/1/8"
+  },
+  {
+   "forma": "בשמים",
+   "forma_he": "בַשָּׁמַ֔יִם",
+   "n": 40,
+   "ref": "bereshit/11/4"
+  },
+  {
+   "forma": "משמים",
+   "forma_he": "מִשָּׁמַ֖יִם",
+   "n": 16,
+   "ref": "yeshayahu/14/12"
+  },
+  {
+   "forma": "השמימה",
+   "forma_he": "הַשָּׁמַ֗יְמָה",
+   "n": 11,
+   "ref": "bereshit/15/5"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmpa",
+  "HNcmpa",
+  "HRd/Ncmpa",
+  "HR/Ncmpa",
+  "HTd/Ncmpa/Sd"
+ ],
+ "glosa_es": "cielo; cielos"
+}

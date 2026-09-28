@@ -1,0 +1,61 @@
+{
+ "strong": "H8605",
+ "he": "תפלה",
+ "xlit": "tᵉphillâh",
+ "pron": "tef-il-law'",
+ "def_en": [
+  "1) prayer",
+  "1a) prayer",
+  "1b) pray a prayer",
+  "1c) house of prayer",
+  "1d) hear prayer",
+  "1e) in Ps titles (of poetic or liturgical prayer)"
+ ],
+ "kjv": "prayer.",
+ "expl": "intercession, supplication; by implication, a hymn",
+ "etim": "from ;",
+ "raices": [
+  "H6419"
+ ],
+ "ocurrencias": 77,
+ "formas": [
+  {
+   "forma": "תפלתי",
+   "forma_he": "תְּפִלָּתִ֔י",
+   "n": 20,
+   "ref": "yeshayahu/56/7"
+  },
+  {
+   "forma": "תפלה",
+   "forma_he": "תְּפִלָּ֣ה",
+   "n": 17,
+   "ref": "mlakhim_a/8/38"
+  },
+  {
+   "forma": "תפלת",
+   "forma_he": "תְּפִלַּ֧ת",
+   "n": 7,
+   "ref": "mlakhim_a/8/28"
+  },
+  {
+   "forma": "התפלה",
+   "forma_he": "הַתְּפִלָּ֖ה",
+   "n": 6,
+   "ref": "shmuel_b/7/27"
+  },
+  {
+   "forma": "תפלתם",
+   "forma_he": "תְּפִלָּתָ֖ם",
+   "n": 6,
+   "ref": "mlakhim_a/8/45"
+  }
+ ],
+ "morph": [
+  "HNcfsc/Sp1cs",
+  "HNcfsa",
+  "HNcfsc",
+  "HTd/Ncfsa",
+  "HNcfsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

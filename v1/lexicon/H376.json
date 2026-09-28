@@ -1,0 +1,66 @@
+{
+ "strong": "H376",
+ "he": "איש",
+ "xlit": "ʼîysh",
+ "pron": "eesh",
+ "def_en": [
+  "1) man",
+  "1a) man, male (in contrast to woman, female)",
+  "1b) husband",
+  "1c) human being, person (in contrast to God)",
+  "1d) servant",
+  "1e) mankind",
+  "1f) champion",
+  "1g) great man",
+  "2) whosoever",
+  "3) each (adjective)"
+ ],
+ "kjv": "also, another, any (man), a certain, [phrase] champion, consent, each, every (one), fellow, (foot-, husband-) man, (good-, great, mighty) man, he, high (degree), him (that is), husband, man(-kind), [phrase] none, one, people, person, [phrase] steward, what (man) soever, whoso(-ever), worthy. Compare .",
+ "expl": "a man as an individual or a male person; often used as an adjunct to a more definite term (and in such cases frequently not expressed in translation)",
+ "etim": "contracted for (or perhaps rather from an unused root meaning to be extant);",
+ "raices": [
+  "H582",
+  "H802"
+ ],
+ "ocurrencias": 2187,
+ "formas": [
+  {
+   "forma": "איש",
+   "forma_he": "אִ֔ישׁ",
+   "n": 1121,
+   "ref": "bereshit/2/24"
+  },
+  {
+   "forma": "אנשי",
+   "forma_he": "אַנְשֵׁ֥י",
+   "n": 170,
+   "ref": "bereshit/6/4"
+  },
+  {
+   "forma": "האיש",
+   "forma_he": "הָאִישׁ֙",
+   "n": 168,
+   "ref": "bereshit/20/7"
+  },
+  {
+   "forma": "ואיש",
+   "forma_he": "וְאִ֨ישׁ",
+   "n": 140,
+   "ref": "bereshit/19/31"
+  },
+  {
+   "forma": "האנשים",
+   "forma_he": "הָֽאֲנָשִׁ֔ים",
+   "n": 121,
+   "ref": "bereshit/14/24"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HNcmpc",
+  "HTd/Ncmsa",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": "hombre; varón; esposo"
+}

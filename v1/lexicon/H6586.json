@@ -1,0 +1,58 @@
+{
+ "strong": "H6586",
+ "he": "פשע",
+ "xlit": "pâshaʻ",
+ "pron": "paw-shah'",
+ "def_en": [
+  "1) to rebel, transgress, revolt",
+  "1a) (Qal)",
+  "1a1) to rebel, revolt",
+  "1a2) to transgress",
+  "1b) (Niphal) to be rebelled against"
+ ],
+ "kjv": "offend, rebel, revolt, transgress(-ion, -or).",
+ "expl": "to break away (from just authority), i.e. trespass, apostatize, quarrel",
+ "etim": "a primitive root (identical with through the idea of expansion);",
+ "raices": [],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "פשעו",
+   "forma_he": "פָּשְׁעוּ",
+   "n": 8,
+   "ref": "mlakhim_a/8/50"
+  },
+  {
+   "forma": "ויפשע",
+   "forma_he": "וַיִּפְשַׁ֤ע",
+   "n": 4,
+   "ref": "mlakhim_b/1/1"
+  },
+  {
+   "forma": "פשע",
+   "forma_he": "פֶּ֣שַׁע",
+   "n": 4,
+   "ref": "bereshit/50/17"
+  },
+  {
+   "forma": "פשעים",
+   "forma_he": "פֹּשְׁעִ֛ים",
+   "n": 3,
+   "ref": "yeshayahu/1/28"
+  },
+  {
+   "forma": "ויפשעו",
+   "forma_he": "וַיִּפְשְׁע֤וּ",
+   "n": 2,
+   "ref": "mlakhim_a/12/19"
+  }
+ ],
+ "morph": [
+  "HVqp3cp",
+  "HC/Vqw3ms",
+  "HVqrmpa",
+  "HVqp3ms",
+  "HC/Vqw3mp"
+ ],
+ "glosa_es": ""
+}

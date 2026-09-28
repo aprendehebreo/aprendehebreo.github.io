@@ -1,0 +1,60 @@
+{
+ "strong": "H2396",
+ "he": "חזקיה",
+ "xlit": "Chizqîyâh",
+ "pron": "khiz-kee-yaw'",
+ "def_en": [
+  "Hezekiah or Hizkiah or Hizkijah = \"Jehovah is my strength\"",
+  "1) 12th king of Judah, son of Ahaz and Abijah; a good king in that he served Jehovah and did away with idolatrous practices",
+  "2) great-great-grandfather of Zephaniah the prophet",
+  "3) son of Neariah, a descendant of David",
+  "4) head of a family of returning exiles in the time of Nehemiah"
+ ],
+ "kjv": "Hezekiah, Hizkiah, Hizkijah. Compare .",
+ "expl": "Chizkijah, a king of Judah, also the name of two other Israelites",
+ "etim": "or ; also ; or ; from and ; strengthened of Jah;",
+ "raices": [
+  "H2388",
+  "H3050",
+  "H3169"
+ ],
+ "ocurrencias": 130,
+ "formas": [
+  {
+   "forma": "חזקיהו",
+   "forma_he": "חִזְקִיָּ֥הוּ",
+   "n": 73,
+   "ref": "mlakhim_b/16/20"
+  },
+  {
+   "forma": "יחזקיהו",
+   "forma_he": "יְחִזְקִיָּ֔הוּ",
+   "n": 38,
+   "ref": "mlakhim_b/20/10"
+  },
+  {
+   "forma": "חזקיה",
+   "forma_he": "חִזְקִיָּ֥ה",
+   "n": 10,
+   "ref": "mlakhim_b/18/1"
+  },
+  {
+   "forma": "לחזקיה",
+   "forma_he": "לְחִזְקִיָּ֑ה",
+   "n": 2,
+   "ref": "mlakhim_b/18/10"
+  },
+  {
+   "forma": "יחזקיה",
+   "forma_he": "יְחִזְקִיָּ֖ה",
+   "n": 2,
+   "ref": "hoshea/1/1"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

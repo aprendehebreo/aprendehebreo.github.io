@@ -1,0 +1,59 @@
+{
+ "strong": "H4427",
+ "he": "מלך",
+ "xlit": "mâlak",
+ "pron": "maw-lak'",
+ "def_en": [
+  "1) to be or become king or queen, reign",
+  "1a) (Qal) to be or become king or queen, reign",
+  "1b) (Hiphil) to make one king or queen, cause to reign",
+  "1c) (Hophal) to be made king or queen",
+  "2) to counsel, advise",
+  "2a) (Niphal) to consider"
+ ],
+ "kjv": "consult, [idiom] indeed, be (make, set a, set up) king, be (make) queen, (begin to, make to) reign(-ing), rule, [idiom] surely.",
+ "expl": "to reign; inceptively, to ascend the throne; causatively, to induct into royalty; hence (by implication) to take counsel",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 351,
+ "formas": [
+  {
+   "forma": "מלך",
+   "forma_he": "מֶֽלֶךְ",
+   "n": 115,
+   "ref": "bereshit/14/1"
+  },
+  {
+   "forma": "וימלך",
+   "forma_he": "וַיִּמְלֹ֣ךְ",
+   "n": 89,
+   "ref": "bereshit/36/32"
+  },
+  {
+   "forma": "במלכו",
+   "forma_he": "בְּמָלְכ֑וֹ",
+   "n": 39,
+   "ref": "shmuel_a/13/1"
+  },
+  {
+   "forma": "ימלך",
+   "forma_he": "יִמְלֹ֖ךְ",
+   "n": 14,
+   "ref": "shemot/15/18"
+  },
+  {
+   "forma": "למלכו",
+   "forma_he": "לְמַלְכּ֔וֹ",
+   "n": 12,
+   "ref": "shmuel_a/2/10"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HC/Vqw3ms",
+  "HR/Vqc/Sp3ms",
+  "HC/Vhw3mp",
+  "HVqi3ms"
+ ],
+ "glosa_es": "reinar; ser rey"
+}

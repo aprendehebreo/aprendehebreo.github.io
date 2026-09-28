@@ -1,0 +1,33 @@
+{
+ "strong": "H7408",
+ "he": "רכש",
+ "xlit": "râkash",
+ "pron": "raw-kash'",
+ "def_en": [
+  "1) (Qal) to collect or gather property"
+ ],
+ "kjv": "gather, get.",
+ "expl": "to lay up, i.e. collect",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 5,
+ "formas": [
+  {
+   "forma": "רכש",
+   "forma_he": "רְכֻ֨שׁ",
+   "n": 3,
+   "ref": "bereshit/14/11"
+  },
+  {
+   "forma": "רכשו",
+   "forma_he": "רָכָ֔שׁוּ",
+   "n": 2,
+   "ref": "bereshit/12/5"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "H6662",
+ "he": "צדיק",
+ "xlit": "tsaddîyq",
+ "pron": "tsad-deek'",
+ "def_en": [
+  "1) just, lawful, righteous",
+  "1a) just, righteous (in government)",
+  "1b) just, right (in one's cause)",
+  "1c) just, righteous (in conduct and character)",
+  "1d) righteous (as justified and vindicated by God)",
+  "1e) right, correct, lawful"
+ ],
+ "kjv": "just, lawful, righteous (man).",
+ "expl": "just",
+ "etim": "from ;",
+ "raices": [
+  "H6663"
+ ],
+ "ocurrencias": 206,
+ "formas": [
+  {
+   "forma": "צדיק",
+   "forma_he": "צַדִּ֛יק",
+   "n": 110,
+   "ref": "bereshit/6/9"
+  },
+  {
+   "forma": "צדיקים",
+   "forma_he": "צַדִּיקִֽים",
+   "n": 43,
+   "ref": "shemot/23/8"
+  },
+  {
+   "forma": "לצדיק",
+   "forma_he": "לַצַּדִּ֔יק",
+   "n": 16,
+   "ref": "yeshayahu/24/16"
+  },
+  {
+   "forma": "וצדיק",
+   "forma_he": "וְצַדִּיק֙",
+   "n": 10,
+   "ref": "shemot/23/7"
+  },
+  {
+   "forma": "הצדיק",
+   "forma_he": "הַצַּדִּ֔יק",
+   "n": 8,
+   "ref": "shemot/9/27"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HRd/Aamsa",
+  "HC/Aamsa",
+  "HTd/Aamsa"
+ ],
+ "glosa_es": "justo; recto"
+}

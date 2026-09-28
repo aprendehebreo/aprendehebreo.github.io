@@ -1,0 +1,65 @@
+{
+ "strong": "H5003",
+ "he": "נאף",
+ "xlit": "nâʼaph",
+ "pron": "naw-af'",
+ "def_en": [
+  "1) to commit adultery",
+  "1a) (Qal)",
+  "1a1) to commit adultery",
+  "1a1a) usually of man",
+  "1a1a1) always with wife of another",
+  "1a1b) adultery (of women) (participle)",
+  "1a2) idolatrous worship (fig.)",
+  "1b) (Piel)",
+  "1b1) to commit adultery",
+  "1b1a) of man",
+  "1b1b) adultery (of women) (participle)",
+  "1b2) idolatrous worship (fig.)"
+ ],
+ "kjv": "adulterer(-ess), commit(-ing) adultery, woman that breaketh wedlock.",
+ "expl": "to commit adultery; figuratively, to apostatize",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 31,
+ "formas": [
+  {
+   "forma": "מנאפים",
+   "forma_he": "מְנָ֣אֲפִ֔ים",
+   "n": 4,
+   "ref": "yirmiyahu/9/1"
+  },
+  {
+   "forma": "תנאף",
+   "forma_he": "תִּנְאָֽף",
+   "n": 2,
+   "ref": "shemot/20/14"
+  },
+  {
+   "forma": "ינאף",
+   "forma_he": "יִנְאַף֙",
+   "n": 2,
+   "ref": "vayikra/20/10"
+  },
+  {
+   "forma": "וינאפו",
+   "forma_he": "וַיִּנְאָ֔פוּ",
+   "n": 2,
+   "ref": "yirmiyahu/5/7"
+  },
+  {
+   "forma": "ונאף",
+   "forma_he": "וְֽנָאֹ֔ף",
+   "n": 2,
+   "ref": "yirmiyahu/7/9"
+  }
+ ],
+ "morph": [
+  "HVprmpa",
+  "HVqrfpa",
+  "HVqi2ms",
+  "HVqi3ms",
+  "HC/Vqa"
+ ],
+ "glosa_es": ""
+}

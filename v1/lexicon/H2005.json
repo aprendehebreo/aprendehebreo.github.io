@@ -1,0 +1,56 @@
+{
+ "strong": "H2005",
+ "he": "הן",
+ "xlit": "hên",
+ "pron": "hane",
+ "def_en": [
+  "interj",
+  "1) behold, lo, though hypothetical part",
+  "2) if"
+ ],
+ "kjv": "behold, if, lo, though.",
+ "expl": "lo!; also (as expressing surprise) if",
+ "etim": "a primitive particle;",
+ "raices": [],
+ "ocurrencias": 318,
+ "formas": [
+  {
+   "forma": "הנני",
+   "forma_he": "הִנְנִי֩",
+   "n": 167,
+   "ref": "bereshit/6/17"
+  },
+  {
+   "forma": "הן",
+   "forma_he": "הֵ֤ן",
+   "n": 98,
+   "ref": "bereshit/3/22"
+  },
+  {
+   "forma": "הנם",
+   "forma_he": "הִנֹּ֗ם",
+   "n": 15,
+   "ref": "yehoshua/15/8"
+  },
+  {
+   "forma": "הנך",
+   "forma_he": "הִנָּ֥ךְ",
+   "n": 10,
+   "ref": "bereshit/16/11"
+  },
+  {
+   "forma": "והנם",
+   "forma_he": "וְהִנָּ֖ם",
+   "n": 7,
+   "ref": "bereshit/40/6"
+  }
+ ],
+ "morph": [
+  "HTm/Sp1cs",
+  "HTm",
+  "HTm/Sp3mp",
+  "HTj",
+  "HC/Tm/Sp3mp"
+ ],
+ "glosa_es": "heme aquí; aquí estoy"
+}

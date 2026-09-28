@@ -1,0 +1,61 @@
+{
+ "strong": "H4899",
+ "he": "משיח",
+ "xlit": "mâshîyach",
+ "pron": "maw-shee'-akh",
+ "def_en": [
+  "1) anointed, anointed one",
+  "1a) of the Messiah, Messianic prince",
+  "1b) of the king of Israel",
+  "1c) of the high priest of Israel",
+  "1d) of Cyrus",
+  "1e) of the patriarchs as anointed kings"
+ ],
+ "kjv": "anointed, Messiah.",
+ "expl": "anointed; usually a consecrated person (as a king, priest, or saint); specifically, the Messiah",
+ "etim": "from ;",
+ "raices": [
+  "H4886"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "משיח",
+   "forma_he": "מְשִׁ֥יחַ",
+   "n": 11,
+   "ref": "shmuel_a/24/7"
+  },
+  {
+   "forma": "משיחו",
+   "forma_he": "מְשִׁיחֽוֹ",
+   "n": 7,
+   "ref": "shmuel_a/2/10"
+  },
+  {
+   "forma": "משיחך",
+   "forma_he": "מְשִׁיחֶ֑ךָ",
+   "n": 5,
+   "ref": "chavakuk/3/13"
+  },
+  {
+   "forma": "המשיח",
+   "forma_he": "הַמָּשִׁ֛יחַ",
+   "n": 4,
+   "ref": "vayikra/4/3"
+  },
+  {
+   "forma": "במשיח",
+   "forma_he": "בִּמְשִׁ֥יחַ",
+   "n": 3,
+   "ref": "shmuel_a/26/9"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HNcmsc/Sp3ms",
+  "HNcmsc/Sp2ms",
+  "HTd/Ncmsa",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": ""
+}

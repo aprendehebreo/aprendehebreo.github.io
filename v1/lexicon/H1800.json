@@ -1,0 +1,56 @@
+{
+ "strong": "H1800",
+ "he": "דל",
+ "xlit": "dal",
+ "pron": "dal",
+ "def_en": [
+  "1) low, poor, weak, thin, one who is low"
+ ],
+ "kjv": "lean, needy, poor (man), weaker.",
+ "expl": "properly, dangling, i.e. (by implication) weak or thin",
+ "etim": "from ;",
+ "raices": [
+  "H1809"
+ ],
+ "ocurrencias": 47,
+ "formas": [
+  {
+   "forma": "דל",
+   "forma_he": "דַּ֣ל",
+   "n": 20,
+   "ref": "vayikra/14/21"
+  },
+  {
+   "forma": "דלים",
+   "forma_he": "דַּלִּ֔ים",
+   "n": 16,
+   "ref": "yeshayahu/10/2"
+  },
+  {
+   "forma": "ודל",
+   "forma_he": "וְדָ֕ל",
+   "n": 4,
+   "ref": "shemot/23/3"
+  },
+  {
+   "forma": "לדל",
+   "forma_he": "לַדָּ֛ל",
+   "n": 3,
+   "ref": "yeshayahu/25/4"
+  },
+  {
+   "forma": "והדל",
+   "forma_he": "וְהַדַּל֙",
+   "n": 1,
+   "ref": "shemot/30/15"
+  }
+ ],
+ "morph": [
+  "HAamsa",
+  "HAampa",
+  "HC/Aamsa",
+  "HRd/Aamsa",
+  "HC/Td/Aamsa"
+ ],
+ "glosa_es": ""
+}

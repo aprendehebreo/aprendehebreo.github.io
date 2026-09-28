@@ -1,0 +1,57 @@
+{
+ "strong": "H2308",
+ "he": "חדל",
+ "xlit": "châdal",
+ "pron": "khaw-dal'",
+ "def_en": [
+  "1) to stop, cease, desist, forego, cease to be, leave undone, forbear",
+  "1a) (Qal)",
+  "1a1) to cease, come to an end",
+  "1a2) to cease, leave off"
+ ],
+ "kjv": "cease, end, fall, forbear, forsake, leave (off), let alone, rest, be unoccupied, want.",
+ "expl": "properly, to be flabby, i.e. (by implication) desist; (figuratively) be lacking or idle",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 59,
+ "formas": [
+  {
+   "forma": "חדל",
+   "forma_he": "חָדַל֙",
+   "n": 13,
+   "ref": "bereshit/18/11"
+  },
+  {
+   "forma": "חדלו",
+   "forma_he": "חָדְל֖וּ",
+   "n": 10,
+   "ref": "shoftim/5/6"
+  },
+  {
+   "forma": "ויחדל",
+   "forma_he": "וַיֶּחְדַּ֖ל",
+   "n": 6,
+   "ref": "shmuel_a/23/13"
+  },
+  {
+   "forma": "יחדל",
+   "forma_he": "יֶחְדַּ֥ל",
+   "n": 5,
+   "ref": "devarim/15/11"
+  },
+  {
+   "forma": "אחדל",
+   "forma_he": "אֶחְדָּֽל",
+   "n": 5,
+   "ref": "shoftim/15/7"
+  }
+ ],
+ "morph": [
+  "HVqv2ms",
+  "HVqp3cp",
+  "HVqp3ms",
+  "HVqi1cs",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "H6083",
+ "he": "עפר",
+ "xlit": "ʻâphâr",
+ "pron": "aw-fawr'",
+ "def_en": [
+  "1) dry earth, dust, powder, ashes, earth, ground, mortar, rubbish",
+  "1a) dry or loose earth",
+  "1b) debris",
+  "1c) mortar",
+  "1d) ore"
+ ],
+ "kjv": "ashes, dust, earth, ground, morter, powder, rubbish.",
+ "expl": "dust (as powdered or gray); hence, clay, earth, mud",
+ "etim": "from ;",
+ "raices": [
+  "H6080"
+ ],
+ "ocurrencias": 110,
+ "formas": [
+  {
+   "forma": "עפר",
+   "forma_he": "עָפָר֙",
+   "n": 48,
+   "ref": "bereshit/2/7"
+  },
+  {
+   "forma": "כעפר",
+   "forma_he": "כַּעֲפַ֣ר",
+   "n": 12,
+   "ref": "bereshit/13/16"
+  },
+  {
+   "forma": "העפר",
+   "forma_he": "הֶֽעָפָר֙",
+   "n": 8,
+   "ref": "vayikra/14/41"
+  },
+  {
+   "forma": "בעפר",
+   "forma_he": "בֶּעָפָֽר",
+   "n": 7,
+   "ref": "vayikra/17/13"
+  },
+  {
+   "forma": "לעפר",
+   "forma_he": "לְעָפָ֑ר",
+   "n": 7,
+   "ref": "devarim/9/21"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HNcmsc",
+  "HR/Ncmsa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

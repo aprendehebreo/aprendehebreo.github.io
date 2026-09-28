@@ -1,0 +1,66 @@
+{
+ "strong": "H5186",
+ "he": "נטה",
+ "xlit": "nâṭâh",
+ "pron": "naw-taw'",
+ "def_en": [
+  "1) to stretch out, extend, spread out, pitch, turn, pervert, incline, bend, bow",
+  "1a) (Qal)",
+  "1a1) to stretch out, extend, stretch, offer",
+  "1a2) to spread out, pitch (tent)",
+  "1a3) to bend, turn, incline",
+  "1a3a) to turn aside, incline, decline, bend down",
+  "1a3b) to bend, bow",
+  "1a3c) to hold out, extend (fig.)",
+  "1b) (Niphal) to be stretched out",
+  "1c) (Hiphil)",
+  "1c1) to stretch out",
+  "1c2) to spread out",
+  "1c3) to turn, incline, influence, bend down, hold out, extend, thrust aside, thrust away"
+ ],
+ "kjv": "[phrase] afternoon, apply, bow (down, -ing), carry aside, decline, deliver, extend, go down, be gone, incline, intend, lay, let down, offer, outstretched, overthrown, pervert, pitch, prolong, put away, shew, spread (out), stretch (forth, out), take (aside), turn (aside, away), wrest, cause to yield.",
+ "expl": "to stretch or spread out; by implication, to bend away (including moral deflection); used in a great variety of application",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 216,
+ "formas": [
+  {
+   "forma": "נטה",
+   "forma_he": "נָֽטָה",
+   "n": 36,
+   "ref": "bereshit/33/19"
+  },
+  {
+   "forma": "ויט",
+   "forma_he": "וַיֵּ֣ט",
+   "n": 27,
+   "ref": "bereshit/12/8"
+  },
+  {
+   "forma": "נטויה",
+   "forma_he": "נְטוּיָ֔ה",
+   "n": 16,
+   "ref": "shemot/6/6"
+  },
+  {
+   "forma": "הטו",
+   "forma_he": "הִטּ֣וּ",
+   "n": 12,
+   "ref": "mlakhim_a/11/4"
+  },
+  {
+   "forma": "הטה",
+   "forma_he": "הַטֵּ֨ה",
+   "n": 10,
+   "ref": "mlakhim_b/19/16"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HVqsfsa",
+  "HVhv2ms",
+  "HVqrmsa"
+ ],
+ "glosa_es": "extender; inclinar"
+}

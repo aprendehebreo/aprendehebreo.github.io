@@ -1,0 +1,63 @@
+{
+ "strong": "H7069",
+ "he": "קנה",
+ "xlit": "qânâh",
+ "pron": "kaw-naw'",
+ "def_en": [
+  "1) to get, acquire, create, buy, possess",
+  "1a) (Qal)",
+  "1a1) to get, acquire, obtain",
+  "1a1a) of God originating, creating, redeeming His people",
+  "1a1a1) possessor",
+  "1a1b) of Eve acquiring",
+  "1a1c) of acquiring knowledge, wisdom",
+  "1a2) to buy",
+  "1b) (Niphal) to be bought",
+  "1c) (Hiphil) to cause to possess"
+ ],
+ "kjv": "attain, buy(-er), teach to keep cattle, get, provoke to jealousy, possess(-or), purchase, recover, redeem, [idiom] surely, [idiom] verily.",
+ "expl": "to erect, i.e. create; by extension, to procure, especially by purchase (causatively, sell); by implication to own",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 86,
+ "formas": [
+  {
+   "forma": "קנה",
+   "forma_he": "קֹנֵ֖ה",
+   "n": 25,
+   "ref": "bereshit/14/19"
+  },
+  {
+   "forma": "קניתי",
+   "forma_he": "קָנִ֥יתִי",
+   "n": 6,
+   "ref": "bereshit/4/1"
+  },
+  {
+   "forma": "לקנות",
+   "forma_he": "לִקְנ֧וֹת",
+   "n": 6,
+   "ref": "shmuel_b/24/21"
+  },
+  {
+   "forma": "קנית",
+   "forma_he": "קָנִֽיתָ",
+   "n": 5,
+   "ref": "shemot/15/16"
+  },
+  {
+   "forma": "ויקן",
+   "forma_he": "וַיִּ֜קֶן",
+   "n": 4,
+   "ref": "bereshit/33/19"
+  }
+ ],
+ "morph": [
+  "HVqv2ms",
+  "HVqp1cs",
+  "HVqp3ms",
+  "HVqp2ms",
+  "HR/Vqc"
+ ],
+ "glosa_es": ""
+}

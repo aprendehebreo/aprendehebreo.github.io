@@ -1,0 +1,57 @@
+{
+ "strong": "H6869",
+ "he": "צרה",
+ "xlit": "tsârâh",
+ "pron": "tsaw-raw'",
+ "def_en": [
+  "1) straits, distress, trouble",
+  "2) vexer, rival wife"
+ ],
+ "kjv": "adversary, adversity, affliction, anguish, distress, tribulation, trouble.",
+ "expl": "tightness (i.e. figuratively, trouble); transitively, a female rival:",
+ "etim": "feminine of ;",
+ "raices": [
+  "H6862"
+ ],
+ "ocurrencias": 73,
+ "formas": [
+  {
+   "forma": "צרה",
+   "forma_he": "צָרָֽה",
+   "n": 36,
+   "ref": "shmuel_a/26/24"
+  },
+  {
+   "forma": "צרתי",
+   "forma_he": "צָֽרָתִ֔י",
+   "n": 4,
+   "ref": "bereshit/35/3"
+  },
+  {
+   "forma": "מצרה",
+   "forma_he": "מְצֵרָֽה",
+   "n": 4,
+   "ref": "yirmiyahu/48/41"
+  },
+  {
+   "forma": "בצרה",
+   "forma_he": "בָּצְרָ֑ה",
+   "n": 4,
+   "ref": "yirmiyahu/48/24"
+  },
+  {
+   "forma": "צרות",
+   "forma_he": "צָר֣וֹת",
+   "n": 3,
+   "ref": "tehilim/25/17"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HNcfsc/Sp1cs",
+  "HC/Ncfpa",
+  "HNcfsc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

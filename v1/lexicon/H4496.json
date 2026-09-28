@@ -1,0 +1,58 @@
+{
+ "strong": "H4496",
+ "he": "מנוחה",
+ "xlit": "mᵉnûwchâh",
+ "pron": "men-oo-khaw'",
+ "def_en": [
+  "1) resting place, rest",
+  "1a) resting place",
+  "1b) rest, quietness"
+ ],
+ "kjv": "comfortable, ease, quiet, rest(-ing place), still.",
+ "expl": "repose or (adverbially) peacefully; figuratively, consolation (specifically, matrimony); hence (concretely) an abode",
+ "etim": "or ; feminine of ;",
+ "raices": [
+  "H4495"
+ ],
+ "ocurrencias": 22,
+ "formas": [
+  {
+   "forma": "מנוחה",
+   "forma_he": "מְנוּחָֽה",
+   "n": 7,
+   "ref": "bamidbar/10/33"
+  },
+  {
+   "forma": "המנוחה",
+   "forma_he": "הַמְּנוּחָה֙",
+   "n": 3,
+   "ref": "devarim/12/9"
+  },
+  {
+   "forma": "מנוחתי",
+   "forma_he": "מְנוּחָתִֽי",
+   "n": 3,
+   "ref": "yeshayahu/66/1"
+  },
+  {
+   "forma": "מנחתו",
+   "forma_he": "מִנְחָתֽוֹ",
+   "n": 2,
+   "ref": "bereshit/4/4"
+  },
+  {
+   "forma": "מנחה",
+   "forma_he": "מִנְחָ֖ה",
+   "n": 1,
+   "ref": "bereshit/4/3"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HTd/Ncbsa",
+  "HNcbsc/Sp1cs",
+  "HNcbsc/Sp3ms",
+  "HR/Ncbsa"
+ ],
+ "glosa_es": ""
+}

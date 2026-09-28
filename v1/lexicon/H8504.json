@@ -1,0 +1,53 @@
+{
+ "strong": "H8504",
+ "he": "תכלת",
+ "xlit": "tᵉkêleth",
+ "pron": "tek-ay'-leth",
+ "def_en": [
+  "1) violet, violet stuff",
+  "1a) violet thread",
+  "1b) violet stuff or fabric",
+  "2) (TWOT) blue (covering spectrum from brilliant red through deep purple)"
+ ],
+ "kjv": "blue.",
+ "expl": "the cerulean mussel, i.e. the color (violet) obtained therefrom or stuff dyed therewith",
+ "etim": "probably for ;",
+ "raices": [
+  "H7827"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "תכלת",
+   "forma_he": "תְּכֵ֗לֶת",
+   "n": 35,
+   "ref": "shemot/26/4"
+  },
+  {
+   "forma": "ותכלת",
+   "forma_he": "וּתְכֵ֧לֶת",
+   "n": 7,
+   "ref": "shemot/25/4"
+  },
+  {
+   "forma": "התכלת",
+   "forma_he": "הַתְּכֵ֖לֶת",
+   "n": 4,
+   "ref": "shemot/28/5"
+  },
+  {
+   "forma": "בתכלת",
+   "forma_he": "בַּתְּכֵ֣לֶת",
+   "n": 3,
+   "ref": "shemot/35/35"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HC/Ncfsa",
+  "HTd/Ncfsa",
+  "HRd/Ncfsa",
+  "HNcfsc"
+ ],
+ "glosa_es": ""
+}

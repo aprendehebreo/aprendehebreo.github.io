@@ -1,0 +1,58 @@
+{
+ "strong": "H5483",
+ "he": "סוס",
+ "xlit": "çûwç",
+ "pron": "soos",
+ "def_en": [
+  "1) swallow, swift",
+  "2) horse",
+  "2a) chariot horses"
+ ],
+ "kjv": "crane, horse (-back, -hoof). Compare .",
+ "expl": "a horse (as leaping); also a swallow (from its rapid flight)",
+ "etim": "or ; from an unused root meaning to skip (properly, for joy);",
+ "raices": [
+  "H6571"
+ ],
+ "ocurrencias": 141,
+ "formas": [
+  {
+   "forma": "סוסים",
+   "forma_he": "סוּסִים֒",
+   "n": 34,
+   "ref": "devarim/17/16"
+  },
+  {
+   "forma": "סוס",
+   "forma_he": "ס֔וּס",
+   "n": 22,
+   "ref": "bereshit/49/17"
+  },
+  {
+   "forma": "הסוסים",
+   "forma_he": "הַסּוּסִ֛ים",
+   "n": 15,
+   "ref": "mlakhim_a/10/28"
+  },
+  {
+   "forma": "וסוס",
+   "forma_he": "וְס֥וּס",
+   "n": 12,
+   "ref": "yehoshua/11/4"
+  },
+  {
+   "forma": "הסוס",
+   "forma_he": "הַסּ֖וּס",
+   "n": 11,
+   "ref": "mlakhim_a/20/21"
+  }
+ ],
+ "morph": [
+  "HNcmpa",
+  "HNcmsa",
+  "HTd/Ncmpa",
+  "HC/Ncmsa",
+  "HTd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

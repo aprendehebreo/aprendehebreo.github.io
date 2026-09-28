@@ -1,0 +1,57 @@
+{
+ "strong": "H335",
+ "he": "אי",
+ "xlit": "ʼay",
+ "pron": "ah'ee",
+ "def_en": [
+  "1) where?, whence?",
+  "2) which?, how? (in prefix with other adverb)"
+ ],
+ "kjv": "how, what, whence, where, whether, which (way).",
+ "expl": "where? hence how?",
+ "etim": "perhaps from ;",
+ "raices": [
+  "H370"
+ ],
+ "ocurrencias": 38,
+ "formas": [
+  {
+   "forma": "אי",
+   "forma_he": "אֵ֖י",
+   "n": 25,
+   "ref": "bereshit/4/9"
+  },
+  {
+   "forma": "ואי",
+   "forma_he": "וְאֵ֥י",
+   "n": 6,
+   "ref": "shmuel_a/30/13"
+  },
+  {
+   "forma": "איו",
+   "forma_he": "אַיּ֤וֹ",
+   "n": 2,
+   "ref": "mlakhim_b/19/13"
+  },
+  {
+   "forma": "אים",
+   "forma_he": "אַיָּם֙",
+   "n": 2,
+   "ref": "yeshayahu/19/12"
+  },
+  {
+   "forma": "איכה",
+   "forma_he": "אַיֶּֽכָּה",
+   "n": 1,
+   "ref": "bereshit/3/9"
+  }
+ ],
+ "morph": [
+  "HTi",
+  "HC/Ti",
+  "HTi/Sp3ms",
+  "HTi/Sp3mp",
+  "HTi/Sp2ms"
+ ],
+ "glosa_es": ""
+}

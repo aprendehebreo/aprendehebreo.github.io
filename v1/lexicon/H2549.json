@@ -1,0 +1,56 @@
+{
+ "strong": "H2549",
+ "he": "חמישי",
+ "xlit": "chămîyshîy",
+ "pron": "kham-ee-shee'",
+ "def_en": [
+  "1) ordinal number, 5th"
+ ],
+ "kjv": "fifth (part).",
+ "expl": "fifth; also a fifth",
+ "etim": "or ; ordinal from ;",
+ "raices": [
+  "H2568"
+ ],
+ "ocurrencias": 45,
+ "formas": [
+  {
+   "forma": "החמישי",
+   "forma_he": "הַחֲמִישִׁ֔י",
+   "n": 21,
+   "ref": "bamidbar/7/36"
+  },
+  {
+   "forma": "חמישית",
+   "forma_he": "חֲמִישִׁ֖ית",
+   "n": 3,
+   "ref": "bereshit/47/24"
+  },
+  {
+   "forma": "החמישית",
+   "forma_he": "הַחֲמִישִׁ֖ית",
+   "n": 3,
+   "ref": "mlakhim_a/14/25"
+  },
+  {
+   "forma": "חמישי",
+   "forma_he": "חֲמִישִֽׁי",
+   "n": 2,
+   "ref": "bereshit/1/23"
+  },
+  {
+   "forma": "חמישתו",
+   "forma_he": "חֲמִֽישִׁתוֹ֙",
+   "n": 2,
+   "ref": "vayikra/5/16"
+  }
+ ],
+ "morph": [
+  "HTd/Aomsa",
+  "HNcfsc/Sp3ms",
+  "HTd/Aofsa",
+  "HAofsa",
+  "HAomsa"
+ ],
+ "glosa_es": ""
+}

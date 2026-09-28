@@ -1,0 +1,29 @@
+{
+ "strong": "H7067",
+ "he": "קנא",
+ "xlit": "qannâʼ",
+ "pron": "kan-naw'",
+ "def_en": [
+  "1) jealous (only of God)"
+ ],
+ "kjv": "jealous. Compare .",
+ "expl": "jealous",
+ "etim": "from ;",
+ "raices": [
+  "H7065",
+  "H7072"
+ ],
+ "ocurrencias": 6,
+ "formas": [
+  {
+   "forma": "קנא",
+   "forma_he": "קַנָּ֔א",
+   "n": 6,
+   "ref": "shemot/20/5"
+  }
+ ],
+ "morph": [
+  "HAamsa"
+ ],
+ "glosa_es": ""
+}

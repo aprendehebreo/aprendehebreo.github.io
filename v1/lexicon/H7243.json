@@ -1,0 +1,59 @@
+{
+ "strong": "H7243",
+ "he": "רביעי",
+ "xlit": "rᵉbîyʻîy",
+ "pron": "reb-ee-ee'",
+ "def_en": [
+  "1) fourth",
+  "1a) fourth",
+  "1b) four square",
+  "1c) fourth part"
+ ],
+ "kjv": "foursquare, fourth (part).",
+ "expl": "fourth; also (fractionally) a fourth",
+ "etim": "or ; from ;",
+ "raices": [
+  "H7251"
+ ],
+ "ocurrencias": 55,
+ "formas": [
+  {
+   "forma": "הרביעי",
+   "forma_he": "הָֽרְבִיעִ֖י",
+   "n": 23,
+   "ref": "bereshit/2/14"
+  },
+  {
+   "forma": "הרבעית",
+   "forma_he": "הָֽרְבִעִ֔ית",
+   "n": 5,
+   "ref": "yirmiyahu/25/1"
+  },
+  {
+   "forma": "הרביעית",
+   "forma_he": "הָרְבִיעִ֜ית",
+   "n": 4,
+   "ref": "mlakhim_a/6/1"
+  },
+  {
+   "forma": "רביעת",
+   "forma_he": "רְבִיעִ֥ת",
+   "n": 3,
+   "ref": "vayikra/23/13"
+  },
+  {
+   "forma": "והרביעי",
+   "forma_he": "וְהָרְבִיעִ֖י",
+   "n": 3,
+   "ref": "shmuel_b/3/4"
+  }
+ ],
+ "morph": [
+  "HTd/Aomsa",
+  "HTd/Aofsa",
+  "HAofsc",
+  "HC/Td/Aomsa",
+  "HAomsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H1920",
+ "he": "הדף",
+ "xlit": "hâdaph",
+ "pron": "haw-daf'",
+ "def_en": [
+  "1) to thrust, push, drive, cast away, cast out, expel, thrust away",
+  "1a) (Qal)",
+  "1a1) to thrust, push",
+  "1a2) to drive out, thrust out",
+  "1a3) to depose"
+ ],
+ "kjv": "cast away (out), drive, expel, thrust (away).",
+ "expl": "to push away or down",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 11,
+ "formas": [
+  {
+   "forma": "הדפו",
+   "forma_he": "הֲדָפ֑וֹ",
+   "n": 2,
+   "ref": "bamidbar/35/22"
+  },
+  {
+   "forma": "יהדפנו",
+   "forma_he": "יֶהְדָּפֶ֑נּוּ",
+   "n": 1,
+   "ref": "bamidbar/35/20"
+  },
+  {
+   "forma": "להדף",
+   "forma_he": "לַהֲדֹ֥ף",
+   "n": 1,
+   "ref": "devarim/6/19"
+  },
+  {
+   "forma": "בהדף",
+   "forma_he": "בַּהֲדֹ֣ף",
+   "n": 1,
+   "ref": "devarim/9/4"
+  },
+  {
+   "forma": "יהדפם",
+   "forma_he": "יֶהְדֳּפֵ֣ם",
+   "n": 1,
+   "ref": "yehoshua/23/5"
+  }
+ ],
+ "morph": [
+  "HVqp3ms/Sp3ms",
+  "HR/Vqc",
+  "HVqi3ms/Sp3ms",
+  "HVqi3ms/Sp3mp",
+  "HR/Vqc/Sp3fs"
+ ],
+ "glosa_es": ""
+}

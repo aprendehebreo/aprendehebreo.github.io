@@ -1,0 +1,55 @@
+{
+ "strong": "H3130",
+ "he": "יוסף",
+ "xlit": "Yôwçêph",
+ "pron": "yo-safe'",
+ "def_en": [
+  "Joseph = \"Jehovah has added\"",
+  "1) the eldest son of Jacob by Rachel",
+  "2) father of Igal, who represented the tribe of Issachar among the spies",
+  "3) a son of Asaph",
+  "4) a man who took a foreign wife in the time of Ezra",
+  "5) a priest of the family of Shebaniah in the time of Nehemiah"
+ ],
+ "kjv": "Joseph. Compare .",
+ "expl": "Joseph, the name of seven Israelites",
+ "etim": "future of ; let him add (or perhaps simply active participle adding);",
+ "raices": [
+  "H3254",
+  "H3084"
+ ],
+ "ocurrencias": 213,
+ "formas": [
+  {
+   "forma": "יוסף",
+   "forma_he": "יוֹסֵ֖ף",
+   "n": 194,
+   "ref": "bereshit/30/24"
+  },
+  {
+   "forma": "ויוסף",
+   "forma_he": "וְיוֹסֵ֖ף",
+   "n": 9,
+   "ref": "bereshit/39/1"
+  },
+  {
+   "forma": "ליוסף",
+   "forma_he": "לְיוֹסֵ֑ף",
+   "n": 8,
+   "ref": "bereshit/40/9"
+  },
+  {
+   "forma": "וליוסף",
+   "forma_he": "וּלְיוֹסֵ֤ף",
+   "n": 2,
+   "ref": "bereshit/41/50"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": "José"
+}

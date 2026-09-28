@@ -1,0 +1,60 @@
+{
+ "strong": "H4437",
+ "he": "מלכו",
+ "xlit": "malkûw",
+ "pron": "mal-koo'",
+ "def_en": [
+  "1) royalty, reign, kingdom",
+  "1a) royalty, kingship, kingly authority",
+  "1b) kingdom",
+  "1c) realm (of territory)",
+  "1d) reign (of time)"
+ ],
+ "kjv": "kingdom, kingly, realm, reign.",
+ "expl": "dominion (abstractly or concretely)",
+ "etim": "(Aramaic) corresponding to ;",
+ "raices": [
+  "H4438"
+ ],
+ "ocurrencias": 57,
+ "formas": [
+  {
+   "forma": "מלכותא",
+   "forma_he": "מַלְכוּתָ֥א",
+   "n": 14,
+   "ref": "daniel/2/37"
+  },
+  {
+   "forma": "מלכו",
+   "forma_he": "מָלְכ֖וּ",
+   "n": 5,
+   "ref": "bereshit/36/31"
+  },
+  {
+   "forma": "ומלכותה",
+   "forma_he": "וּמַלְכוּתָהּ֙",
+   "n": 5,
+   "ref": "ester/1/19"
+  },
+  {
+   "forma": "מלכותה",
+   "forma_he": "מַלְכוּתֵהּ֙",
+   "n": 5,
+   "ref": "daniel/3/33"
+  },
+  {
+   "forma": "במלכות",
+   "forma_he": "בַּמַּלְכֽוּת",
+   "n": 5,
+   "ref": "ester/1/14"
+  }
+ ],
+ "morph": [
+  "ANcfsd/Td",
+  "AR/Ncfsc",
+  "ANcfsa",
+  "ANcfsc/Sp1cs",
+  "AC/Ncfsa"
+ ],
+ "glosa_es": ""
+}

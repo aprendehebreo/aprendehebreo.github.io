@@ -1,0 +1,65 @@
+{
+ "strong": "H8267",
+ "he": "שקר",
+ "xlit": "sheqer",
+ "pron": "sheh'-ker",
+ "def_en": [
+  "1) lie, deception, disappointment, falsehood",
+  "1a) deception (what deceives or disappoints or betrays one)",
+  "1b) deceit, fraud, wrong",
+  "1b1) fraudulently, wrongfully (as adverb)",
+  "1c) falsehood (injurious in testimony)",
+  "1c1) testify falsehood, false oath, swear falsely",
+  "1d) falsity (of false or self-deceived prophets)",
+  "1e) lie, falsehood (in general)",
+  "1e1) false tongue",
+  "1f) in vain"
+ ],
+ "kjv": "without a cause, deceit(-ful), false(-hood, -ly), feignedly, liar, [phrase] lie, lying, vain (thing), wrongfully.",
+ "expl": "an untruth; by implication, a sham (often adverbial)",
+ "etim": "from ;",
+ "raices": [
+  "H8266"
+ ],
+ "ocurrencias": 113,
+ "formas": [
+  {
+   "forma": "שקר",
+   "forma_he": "שָֽׁקֶר",
+   "n": 87,
+   "ref": "shemot/5/9"
+  },
+  {
+   "forma": "לשקר",
+   "forma_he": "לַשֶּׁקֶר֒",
+   "n": 10,
+   "ref": "vayikra/5/24"
+  },
+  {
+   "forma": "בשקר",
+   "forma_he": "בְּשֶׁ֖קֶר",
+   "n": 6,
+   "ref": "yirmiyahu/3/10"
+  },
+  {
+   "forma": "שקרים",
+   "forma_he": "שְׁקָרִ֑ים",
+   "n": 4,
+   "ref": "tehilim/101/7"
+  },
+  {
+   "forma": "השקר",
+   "forma_he": "הַשֶּׁ֖קֶר",
+   "n": 3,
+   "ref": "yirmiyahu/7/4"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HRd/Ncmsa",
+  "HNcmpa",
+  "HTd/Ncmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

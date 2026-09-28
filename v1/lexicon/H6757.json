@@ -1,0 +1,53 @@
+{
+ "strong": "H6757",
+ "he": "צלמות",
+ "xlit": "tsalmâveth",
+ "pron": "tsal-maw'-veth",
+ "def_en": [
+  "1) death-shadow, deep shadow, deep darkness, shadow of death",
+  "1a) death-shadow",
+  "1b) death-shadow, deep shadow, darkness",
+  "1c) death-shadow (of distress, extreme danger) (fig)",
+  "1d) death-shadow (of place of the dead) (fig)"
+ ],
+ "kjv": "shadow of death.",
+ "expl": "shade of death, i.e. the grave (figuratively, calamity)",
+ "etim": "from and ;",
+ "raices": [
+  "H6738",
+  "H4194"
+ ],
+ "ocurrencias": 18,
+ "formas": [
+  {
+   "forma": "צלמות",
+   "forma_he": "צַלְמָ֔וֶת",
+   "n": 10,
+   "ref": "yeshayahu/9/1"
+  },
+  {
+   "forma": "וצלמות",
+   "forma_he": "וְצַלְמָ֔וֶת",
+   "n": 6,
+   "ref": "yirmiyahu/2/6"
+  },
+  {
+   "forma": "לצלמות",
+   "forma_he": "לְצַלְמָ֔וֶת",
+   "n": 1,
+   "ref": "yirmiyahu/13/16"
+  },
+  {
+   "forma": "בצלמות",
+   "forma_he": "בְצַלְמָֽוֶת",
+   "n": 1,
+   "ref": "tehilim/44/20"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HC/Ncmsa",
+  "HR/Ncmsa"
+ ],
+ "glosa_es": ""
+}

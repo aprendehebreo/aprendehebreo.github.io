@@ -1,0 +1,81 @@
+{
+ "strong": "H6213",
+ "he": "עשה",
+ "xlit": "ʻâsâh",
+ "pron": "aw-saw'",
+ "def_en": [
+  "1) to do, fashion, accomplish, make",
+  "1a) (Qal)",
+  "1a1) to do, work, make, produce",
+  "1a1a) to do",
+  "1a1b) to work",
+  "1a1c) to deal (with)",
+  "1a1d) to act, act with effect, effect",
+  "1a2) to make",
+  "1a2a) to make",
+  "1a2b) to produce",
+  "1a2c) to prepare",
+  "1a2d) to make (an offering)",
+  "1a2e) to attend to, put in order",
+  "1a2f) to observe, celebrate",
+  "1a2g) to acquire (property)",
+  "1a2h) to appoint, ordain, institute",
+  "1a2i) to bring about",
+  "1a2j) to use",
+  "1a2k) to spend, pass",
+  "1b) (Niphal)",
+  "1b1) to be done",
+  "1b2) to be made",
+  "1b3) to be produced",
+  "1b4) to be offered",
+  "1b5) to be observed",
+  "1b6) to be used",
+  "1c) (Pual) to be made",
+  "2) (Piel) to press, squeeze"
+ ],
+ "kjv": "accomplish, advance, appoint, apt, be at, become, bear, bestow, bring forth, bruise, be busy, [idiom] certainly, have the charge of, commit, deal (with), deck, [phrase] displease, do, (ready) dress(-ed), (put in) execute(-ion), exercise, fashion, [phrase] feast, (fight-) ing man, [phrase] finish, fit, fly, follow, fulfill, furnish, gather, get, go about, govern, grant, great, [phrase] hinder, hold (a feast), [idiom] indeed, [phrase] be industrious, [phrase] journey, keep, labour, maintain, make, be meet, observe, be occupied, offer, [phrase] officer, pare, bring (come) to pass, perform, pracise, prepare, procure, provide, put, requite, [idiom] sacrifice, serve, set, shew, [idiom] sin, spend, [idiom] surely, take, [idiom] thoroughly, trim, [idiom] very, [phrase] vex, be (warr-) ior, work(-man), yield, use.",
+ "expl": "to do or make, in the broadest sense and widest application",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 2640,
+ "formas": [
+  {
+   "forma": "עשה",
+   "forma_he": "עֹ֤שֶׂה",
+   "n": 527,
+   "ref": "bereshit/1/11"
+  },
+  {
+   "forma": "ויעש",
+   "forma_he": "וַיַּ֣עַשׂ",
+   "n": 239,
+   "ref": "bereshit/1/7"
+  },
+  {
+   "forma": "לעשות",
+   "forma_he": "לַעֲשֽׂוֹת",
+   "n": 208,
+   "ref": "bereshit/2/3"
+  },
+  {
+   "forma": "עשו",
+   "forma_he": "עָשׂ֣וּ",
+   "n": 165,
+   "ref": "bereshit/12/5"
+  },
+  {
+   "forma": "יעשה",
+   "forma_he": "יַעֲשֶׂ֖ה",
+   "n": 159,
+   "ref": "bereshit/18/25"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HC/Vqw3ms",
+  "HR/Vqc",
+  "HVqp3cp",
+  "HVqi2ms"
+ ],
+ "glosa_es": "hacer; obrar"
+}

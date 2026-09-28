@@ -1,0 +1,61 @@
+{
+ "strong": "H8641",
+ "he": "תרומה",
+ "xlit": "tᵉrûwmâh",
+ "pron": "ter-oo-maw'",
+ "def_en": [
+  "1) contribution, offering",
+  "1a) a heave offering",
+  "1b) any offering",
+  "1c) an offering to God",
+  "1d) an offering (of grain, money, etc)",
+  "1e) contribution"
+ ],
+ "kjv": "gift, heave offering (shoulder), oblation, offered(-ing).",
+ "expl": "a present (as offered up), especially in sacrifice or as tribute",
+ "etim": "or ; (Deuteronomy 12:11), from ;",
+ "raices": [
+  "H7311"
+ ],
+ "ocurrencias": 76,
+ "formas": [
+  {
+   "forma": "תרומת",
+   "forma_he": "תְּרוּמַ֥ת",
+   "n": 27,
+   "ref": "shemot/30/14"
+  },
+  {
+   "forma": "התרומה",
+   "forma_he": "הַתְּרוּמָ֔ה",
+   "n": 15,
+   "ref": "shemot/25/3"
+  },
+  {
+   "forma": "תרומה",
+   "forma_he": "תְּרוּמָ֑ה",
+   "n": 14,
+   "ref": "shemot/25/2"
+  },
+  {
+   "forma": "לתרומת",
+   "forma_he": "לִתְרוּמַ֣ת",
+   "n": 3,
+   "ref": "shemot/36/6"
+  },
+  {
+   "forma": "תרומתי",
+   "forma_he": "תְּרוּמָתִֽי",
+   "n": 2,
+   "ref": "shemot/25/2"
+  }
+ ],
+ "morph": [
+  "HNcfsc",
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HR/Ncfsc",
+  "HC/Ncfsc"
+ ],
+ "glosa_es": ""
+}

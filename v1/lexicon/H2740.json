@@ -1,0 +1,57 @@
+{
+ "strong": "H2740",
+ "he": "חרון",
+ "xlit": "chârôwn",
+ "pron": "khaw-rone'",
+ "def_en": [
+  "1) anger, heat, burning (of anger)",
+  "1a) always used of God's anger"
+ ],
+ "kjv": "sore displeasure, fierce(-ness), fury, (fierce) wrath(-ful).",
+ "expl": "a burning of anger",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H2734"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "חרון",
+   "forma_he": "חֲר֥וֹן",
+   "n": 25,
+   "ref": "bamidbar/25/4"
+  },
+  {
+   "forma": "מחרון",
+   "forma_he": "מֵחֲר֣וֹן",
+   "n": 8,
+   "ref": "shemot/32/12"
+  },
+  {
+   "forma": "וחרון",
+   "forma_he": "וַחֲר֣וֹן",
+   "n": 3,
+   "ref": "yeshayahu/13/9"
+  },
+  {
+   "forma": "חרנך",
+   "forma_he": "חֲרֹ֣נְךָ֔",
+   "n": 1,
+   "ref": "shemot/15/7"
+  },
+  {
+   "forma": "חרוני",
+   "forma_he": "חֲרוֹנִ֖י",
+   "n": 1,
+   "ref": "yechezkel/7/14"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HC/Ncmsc",
+  "HNcmsa",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

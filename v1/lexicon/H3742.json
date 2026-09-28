@@ -1,0 +1,59 @@
+{
+ "strong": "H3742",
+ "he": "כרוב",
+ "xlit": "kᵉrûwb",
+ "pron": "ker-oob'",
+ "def_en": [
+  "1) cherub, cherubim (pl)",
+  "1a) an angelic being",
+  "1a1) as guardians of Eden",
+  "1a2) as flanking God's throne",
+  "1a3) as an image form hovering over the Ark of the Covenant",
+  "1a4) as the chariot of Jehovah (fig.)"
+ ],
+ "kjv": "cherub, (plural) cherubims.",
+ "expl": "a cherub or imaginary figure",
+ "etim": "of uncertain derivation;",
+ "raices": [],
+ "ocurrencias": 91,
+ "formas": [
+  {
+   "forma": "הכרובים",
+   "forma_he": "הַכְּרוּבִ֜ים",
+   "n": 21,
+   "ref": "mlakhim_a/6/27"
+  },
+  {
+   "forma": "הכרבים",
+   "forma_he": "הַכְּרֻבִ֗ים",
+   "n": 19,
+   "ref": "bereshit/3/24"
+  },
+  {
+   "forma": "הכרוב",
+   "forma_he": "הַכְּרוּב֙",
+   "n": 15,
+   "ref": "mlakhim_a/6/24"
+  },
+  {
+   "forma": "כרובים",
+   "forma_he": "כְרוּבִ֖ים",
+   "n": 12,
+   "ref": "mlakhim_a/6/23"
+  },
+  {
+   "forma": "כרוב",
+   "forma_he": "כְּר֨וּב",
+   "n": 7,
+   "ref": "shemot/25/19"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmpa",
+  "HNcmpa",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HRd/Ncmpa"
+ ],
+ "glosa_es": ""
+}

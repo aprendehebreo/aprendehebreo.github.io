@@ -1,0 +1,60 @@
+{
+ "strong": "H6106",
+ "he": "עצם",
+ "xlit": "ʻetsem",
+ "pron": "eh'tsem",
+ "def_en": [
+  "1) bone, essence, substance",
+  "1a) bone",
+  "1a1) body, limbs, members, external body",
+  "1b) bone (of animal)",
+  "1c) substance, self"
+ ],
+ "kjv": "body, bone, [idiom] life, (self-) same, strength, [idiom] very.",
+ "expl": "a bone (as strong); by extension, the body; figuratively, the substance, i.e. (as pron.) selfsame",
+ "etim": "from ;",
+ "raices": [
+  "H6105"
+ ],
+ "ocurrencias": 126,
+ "formas": [
+  {
+   "forma": "עצמות",
+   "forma_he": "עַצְמ֥וֹת",
+   "n": 22,
+   "ref": "shemot/13/19"
+  },
+  {
+   "forma": "בעצם",
+   "forma_he": "בְּעֶ֨צֶם",
+   "n": 17,
+   "ref": "bereshit/7/13"
+  },
+  {
+   "forma": "עצם",
+   "forma_he": "עֶ֚צֶם",
+   "n": 9,
+   "ref": "bereshit/2/23"
+  },
+  {
+   "forma": "עצמי",
+   "forma_he": "עַצְמִ֥י",
+   "n": 8,
+   "ref": "bereshit/29/14"
+  },
+  {
+   "forma": "עצמותי",
+   "forma_he": "עַצְמוֹתָ֑י",
+   "n": 7,
+   "ref": "yeshayahu/38/13"
+  }
+ ],
+ "morph": [
+  "HNcfpc",
+  "HR/Ncfsc",
+  "HNcfpc/Sp1cs",
+  "HNcfpc/Sp3ms",
+  "HR/Ncfpc/Sp1cs"
+ ],
+ "glosa_es": ""
+}

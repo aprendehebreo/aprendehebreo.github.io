@@ -1,0 +1,57 @@
+{
+ "strong": "H3925",
+ "he": "למד",
+ "xlit": "lâmad",
+ "pron": "law-mad'",
+ "def_en": [
+  "1) to learn. teach, exercise in",
+  "1a) (Qal) to learn",
+  "1b) (Piel) to teach",
+  "1c) (Pual) to be taught, be trained"
+ ],
+ "kjv": "(un-) accustomed, [idiom] diligently, expert, instruct, learn, skilful, teach(-er, -ing).",
+ "expl": "properly, to goad, i.e. (by implication) to teach (the rod being an Oriental incentive)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 87,
+ "formas": [
+  {
+   "forma": "למדני",
+   "forma_he": "לַמְּדֵֽנִי",
+   "n": 9,
+   "ref": "tehilim/25/4"
+  },
+  {
+   "forma": "ילמדו",
+   "forma_he": "יְלַמְּד֤וּ",
+   "n": 6,
+   "ref": "devarim/20/18"
+  },
+  {
+   "forma": "ללמד",
+   "forma_he": "לְלַמֵּ֣ד",
+   "n": 5,
+   "ref": "devarim/4/14"
+  },
+  {
+   "forma": "למדו",
+   "forma_he": "לִמְד֥וּ",
+   "n": 4,
+   "ref": "yeshayahu/1/17"
+  },
+  {
+   "forma": "למד",
+   "forma_he": "לָמַ֣ד",
+   "n": 4,
+   "ref": "yeshayahu/26/10"
+  }
+ ],
+ "morph": [
+  "HVpv2ms/Sp1cs",
+  "HR/Vpc",
+  "HVqi3mp",
+  "HVprmsa",
+  "HVpp1cs"
+ ],
+ "glosa_es": ""
+}

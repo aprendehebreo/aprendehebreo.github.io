@@ -1,0 +1,62 @@
+{
+ "strong": "H1347",
+ "he": "גאון",
+ "xlit": "gâʼôwn",
+ "pron": "gaw-ohn'",
+ "def_en": [
+  "1) exaltation, majesty, pride",
+  "1a) majesty, exaltation, excellence",
+  "1a1) of nations",
+  "1a2) of God",
+  "1a3) of the Jordan",
+  "1b) pride, arrogance (bad sense)"
+ ],
+ "kjv": "arrogancy, excellency(-lent), majesty, pomp, pride, proud, swelling.",
+ "expl": "{arrogance or majesty; by implication, (concretely) ornament}",
+ "etim": "from ; the same as xlit gaʻăvâh corrected to gaʼăvâh",
+ "raices": [
+  "H1342",
+  "H1346"
+ ],
+ "ocurrencias": 49,
+ "formas": [
+  {
+   "forma": "גאון",
+   "forma_he": "גְּא֣וֹן",
+   "n": 26,
+   "ref": "vayikra/26/19"
+  },
+  {
+   "forma": "בגאון",
+   "forma_he": "בִּגְא֣וֹן",
+   "n": 5,
+   "ref": "yeshayahu/24/14"
+  },
+  {
+   "forma": "גאונו",
+   "forma_he": "גְּאוֹנ֔וֹ",
+   "n": 3,
+   "ref": "yeshayahu/2/19"
+  },
+  {
+   "forma": "לגאון",
+   "forma_he": "לְגָא֣וֹן",
+   "n": 3,
+   "ref": "yeshayahu/4/2"
+  },
+  {
+   "forma": "גאונך",
+   "forma_he": "גְּאוֹנְךָ֖",
+   "n": 2,
+   "ref": "shemot/15/7"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HNcmsc/Sp3ms",
+  "HNcmsa",
+  "HNcmsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

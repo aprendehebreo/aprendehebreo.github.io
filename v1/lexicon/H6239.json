@@ -1,0 +1,56 @@
+{
+ "strong": "H6239",
+ "he": "עשר",
+ "xlit": "ʻôsher",
+ "pron": "o'-sher",
+ "def_en": [
+  "1) wealth, riches"
+ ],
+ "kjv": "[idiom] far (richer), riches.",
+ "expl": "wealth",
+ "etim": "from ;",
+ "raices": [
+  "H6238"
+ ],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "עשר",
+   "forma_he": "עֶ֣שֶׂר",
+   "n": 20,
+   "ref": "bereshit/5/14"
+  },
+  {
+   "forma": "בעשרו",
+   "forma_he": "בְּעָשְׁרֽוֹ",
+   "n": 3,
+   "ref": "yirmiyahu/9/22"
+  },
+  {
+   "forma": "עשרו",
+   "forma_he": "עָשְׁר֑וֹ",
+   "n": 3,
+   "ref": "tehilim/52/9"
+  },
+  {
+   "forma": "ועשר",
+   "forma_he": "וְעֶ֣שֶׂר",
+   "n": 3,
+   "ref": "bereshit/45/23"
+  },
+  {
+   "forma": "העשר",
+   "forma_he": "הָעֹ֗שֶׁר",
+   "n": 2,
+   "ref": "bereshit/31/16"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HR/Ncmsa",
+  "HR/Ncmsc/Sp3ms",
+  "HNcmsc/Sp3ms",
+  "HC/Ncmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "H5930",
+ "he": "עלה",
+ "xlit": "ʻôlâh",
+ "pron": "o-law'",
+ "def_en": [
+  "1) whole burnt offering",
+  "2) ascent, stairway, steps"
+ ],
+ "kjv": "ascent, burnt offering (sacrifice), go up to. See also .",
+ "expl": "a step or (collectively, stairs, as ascending); usually a holocaust (as going up in smoke)",
+ "etim": "or ; feminine active participle of ;",
+ "raices": [
+  "H5927",
+  "H5766"
+ ],
+ "ocurrencias": 289,
+ "formas": [
+  {
+   "forma": "העלה",
+   "forma_he": "הָעֹלָ֗ה",
+   "n": 61,
+   "ref": "bereshit/22/6"
+  },
+  {
+   "forma": "לעלה",
+   "forma_he": "לְעֹלָ֔ה",
+   "n": 37,
+   "ref": "bereshit/22/2"
+  },
+  {
+   "forma": "עלה",
+   "forma_he": "עֲלֵ֣ה",
+   "n": 37,
+   "ref": "bereshit/3/7"
+  },
+  {
+   "forma": "עלות",
+   "forma_he": "עֲל֥וֹת",
+   "n": 34,
+   "ref": "bereshit/32/25"
+  },
+  {
+   "forma": "עלת",
+   "forma_he": "עֹלֹ֖ת",
+   "n": 27,
+   "ref": "bereshit/8/20"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HR/Ncfsa",
+  "HNcfpa",
+  "HNcfsc"
+ ],
+ "glosa_es": "holocausto; ofrenda quemada"
+}

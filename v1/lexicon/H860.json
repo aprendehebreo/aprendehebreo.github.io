@@ -1,0 +1,56 @@
+{
+ "strong": "H860",
+ "he": "אתון",
+ "xlit": "ʼâthôwn",
+ "pron": "aw-thone'",
+ "def_en": [
+  "1) she-ass, she-donkey"
+ ],
+ "kjv": "(she) ass.",
+ "expl": "a female donkey (from its docility)",
+ "etim": "probably from the same as (in the sense of patience);",
+ "raices": [
+  "H386"
+ ],
+ "ocurrencias": 34,
+ "formas": [
+  {
+   "forma": "האתון",
+   "forma_he": "הָאָתוֹן֩",
+   "n": 10,
+   "ref": "bamidbar/22/23"
+  },
+  {
+   "forma": "האתנות",
+   "forma_he": "הָאֲתֹנ֔וֹת",
+   "n": 8,
+   "ref": "shmuel_a/9/3"
+  },
+  {
+   "forma": "אתנו",
+   "forma_he": "אִתָּ֛נוּ",
+   "n": 3,
+   "ref": "bereshit/24/55"
+  },
+  {
+   "forma": "אתנת",
+   "forma_he": "אֲתֹנֹ֣ת",
+   "n": 2,
+   "ref": "bereshit/32/16"
+  },
+  {
+   "forma": "אתנך",
+   "forma_he": "אֲתֹֽנְךָ֜",
+   "n": 2,
+   "ref": "bamidbar/22/30"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HTd/Ncfpa",
+  "HNcfpa",
+  "HNcfsc/Sp3ms",
+  "HNcfsc/Sp2ms"
+ ],
+ "glosa_es": ""
+}

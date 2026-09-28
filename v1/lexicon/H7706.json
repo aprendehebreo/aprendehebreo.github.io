@@ -1,0 +1,49 @@
+{
+ "strong": "H7706",
+ "he": "שדי",
+ "xlit": "Shadday",
+ "pron": "shad-dah'-ee",
+ "def_en": [
+  "1) almighty, most powerful",
+  "1a) Shaddai, the Almighty (of God)"
+ ],
+ "kjv": "Almighty.",
+ "expl": "the Almighty",
+ "etim": "from ;",
+ "raices": [
+  "H7703"
+ ],
+ "ocurrencias": 48,
+ "formas": [
+  {
+   "forma": "שדי",
+   "forma_he": "שַׁדַּ֔י",
+   "n": 37,
+   "ref": "bereshit/17/1"
+  },
+  {
+   "forma": "ושדי",
+   "forma_he": "וּשְׂדֵ֣י",
+   "n": 6,
+   "ref": "shmuel_b/1/21"
+  },
+  {
+   "forma": "משדי",
+   "forma_he": "מִשַּׁדַּ֥י",
+   "n": 4,
+   "ref": "yeshayahu/13/6"
+  },
+  {
+   "forma": "לשדי",
+   "forma_he": "לְשַׁדִּ֑י",
+   "n": 1,
+   "ref": "tehilim/32/4"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

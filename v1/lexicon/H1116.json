@@ -1,0 +1,58 @@
+{
+ "strong": "H1116",
+ "he": "במה",
+ "xlit": "bâmâh",
+ "pron": "bam-maw'",
+ "def_en": [
+  "1) high place, ridge, height, bamah (technical name for cultic platform)",
+  "1a) high place, mountain",
+  "1b) high places, battlefields",
+  "1c) high places (as places of worship)",
+  "1d) funeral mound?"
+ ],
+ "kjv": "height, high place, wave.",
+ "expl": "an elevation",
+ "etim": "from an unused root (meaning to be high);",
+ "raices": [],
+ "ocurrencias": 104,
+ "formas": [
+  {
+   "forma": "הבמות",
+   "forma_he": "הַבָּמ֖וֹת",
+   "n": 24,
+   "ref": "mlakhim_a/12/32"
+  },
+  {
+   "forma": "במות",
+   "forma_he": "בְּמ֣וֹת",
+   "n": 19,
+   "ref": "bereshit/21/16"
+  },
+  {
+   "forma": "בבמות",
+   "forma_he": "בַּבָּמ֑וֹת",
+   "n": 11,
+   "ref": "mlakhim_a/3/2"
+  },
+  {
+   "forma": "הבמה",
+   "forma_he": "הַבָּמָֽה",
+   "n": 9,
+   "ref": "shmuel_a/9/14"
+  },
+  {
+   "forma": "במתי",
+   "forma_he": "בִּמְתֵ֣י",
+   "n": 6,
+   "ref": "devarim/26/5"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfpa",
+  "HNcfpc",
+  "HRd/Ncfpa",
+  "HNcfpa",
+  "HTd/Ncfsa"
+ ],
+ "glosa_es": ""
+}

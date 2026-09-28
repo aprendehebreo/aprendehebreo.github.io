@@ -1,0 +1,56 @@
+{
+ "strong": "H1710",
+ "he": "דגה",
+ "xlit": "dâgâh",
+ "pron": "daw-gaw'",
+ "def_en": [
+  "1) fish"
+ ],
+ "kjv": "fish.",
+ "expl": "{a fish (often used collectively)}",
+ "etim": "feminine of , and meaning the same",
+ "raices": [
+  "H1709"
+ ],
+ "ocurrencias": 15,
+ "formas": [
+  {
+   "forma": "הדגה",
+   "forma_he": "הַדָּגָ֔ה",
+   "n": 3,
+   "ref": "bamidbar/11/5"
+  },
+  {
+   "forma": "דגתם",
+   "forma_he": "דְּגָתָם֙",
+   "n": 3,
+   "ref": "yeshayahu/50/2"
+  },
+  {
+   "forma": "דגת",
+   "forma_he": "דְגַת",
+   "n": 3,
+   "ref": "yechezkel/29/4"
+  },
+  {
+   "forma": "בדגת",
+   "forma_he": "בִדְגַ֨ת",
+   "n": 2,
+   "ref": "bereshit/1/26"
+  },
+  {
+   "forma": "והדגה",
+   "forma_he": "וְהַדָּגָ֧ה",
+   "n": 2,
+   "ref": "shemot/7/18"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsc",
+  "HTd/Ncfsa",
+  "HNcfsc/Sp3mp",
+  "HNcfsc",
+  "HC/Td/Ncfsa"
+ ],
+ "glosa_es": ""
+}

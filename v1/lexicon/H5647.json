@@ -1,0 +1,68 @@
+{
+ "strong": "H5647",
+ "he": "עבד",
+ "xlit": "ʻâbad",
+ "pron": "aw-bad'",
+ "def_en": [
+  "1) to work, serve",
+  "1a) (Qal)",
+  "1a1) to labour, work, do work",
+  "1a2) to work for another, serve another by labour",
+  "1a3) to serve as subjects",
+  "1a4) to serve (God)",
+  "1a5) to serve (with Levitical service)",
+  "1b) (Niphal)",
+  "1b1) to be worked, be tilled (of land)",
+  "1b2) to make oneself a servant",
+  "1c) (Pual) to be worked",
+  "1d) (Hiphil)",
+  "1d1) to compel to labour or work, cause to labour, cause to serve",
+  "1d2) to cause to serve as subjects",
+  "1e) (Hophal) to be led or enticed to serve"
+ ],
+ "kjv": "[idiom] be, keep in bondage, be bondmen, bond-service, compel, do, dress, ear, execute, [phrase] husbandman, keep, labour(-ing man, bring to pass, (cause to, make to) serve(-ing, self), (be, become) servant(-s), do (use) service, till(-er), transgress (from margin), (set a) work, be wrought, worshipper,",
+ "expl": "to work (in any sense); by implication, to serve, till, (causatively) enslave, etc.",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 289,
+ "formas": [
+  {
+   "forma": "לעבד",
+   "forma_he": "לַֽעֲבֹ֖ד",
+   "n": 25,
+   "ref": "bereshit/2/5"
+  },
+  {
+   "forma": "ויעבדו",
+   "forma_he": "וַיַּעֲבִ֧דוּ",
+   "n": 20,
+   "ref": "shemot/1/13"
+  },
+  {
+   "forma": "עבד",
+   "forma_he": "עֹבֵ֥ד",
+   "n": 19,
+   "ref": "bereshit/4/2"
+  },
+  {
+   "forma": "עבדו",
+   "forma_he": "עָבְד֖וּ",
+   "n": 19,
+   "ref": "bereshit/14/4"
+  },
+  {
+   "forma": "ועבדו",
+   "forma_he": "וְעִבְד֣וּ",
+   "n": 17,
+   "ref": "shemot/10/11"
+  }
+ ],
+ "morph": [
+  "HR/Vqc",
+  "HC/Vqw3mp",
+  "HC/Vqq2mp",
+  "HVqi2ms",
+  "HC/Vqw3ms"
+ ],
+ "glosa_es": "servir; trabajar"
+}

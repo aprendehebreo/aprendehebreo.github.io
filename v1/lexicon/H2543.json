@@ -1,0 +1,56 @@
+{
+ "strong": "H2543",
+ "he": "חמור",
+ "xlit": "chămôwr",
+ "pron": "kham-ore'",
+ "def_en": [
+  "1) (he) ass"
+ ],
+ "kjv": "(he) ass.",
+ "expl": "a male ass (from its dun red)",
+ "etim": "or (shortened) ; from ;",
+ "raices": [
+  "H2560"
+ ],
+ "ocurrencias": 96,
+ "formas": [
+  {
+   "forma": "החמור",
+   "forma_he": "הַחֲמ֔וֹר",
+   "n": 17,
+   "ref": "bereshit/22/5"
+  },
+  {
+   "forma": "חמור",
+   "forma_he": "חֲמ֖וֹר",
+   "n": 16,
+   "ref": "bereshit/33/19"
+  },
+  {
+   "forma": "וחמרים",
+   "forma_he": "וַחֲמֹרִ֔ים",
+   "n": 7,
+   "ref": "bereshit/12/16"
+  },
+  {
+   "forma": "וחמור",
+   "forma_he": "וַחֲמ֔וֹר",
+   "n": 7,
+   "ref": "bereshit/32/6"
+  },
+  {
+   "forma": "חמרו",
+   "forma_he": "חֲמֹר֔וֹ",
+   "n": 5,
+   "ref": "bereshit/22/3"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HNcbsa",
+  "HC/Ncbpa",
+  "HNcbpa",
+  "HC/Ncbsa"
+ ],
+ "glosa_es": ""
+}

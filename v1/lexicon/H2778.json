@@ -1,0 +1,60 @@
+{
+ "strong": "H2778",
+ "he": "חרף",
+ "xlit": "châraph",
+ "pron": "khaw-raf'",
+ "def_en": [
+  "1) to reproach, taunt, blaspheme, defy, jeopardise, rail, upbraid",
+  "1a) (Qal) to reproach",
+  "1b) (Piel) to reproach, defy, taunt",
+  "2) (Qal) to winter, spend harvest time, remain in harvest time",
+  "3) (Niphal) to acquire, be betrothed"
+ ],
+ "kjv": "betroth, blaspheme, defy, jeopard, rail, reproach, upbraid.",
+ "expl": "to pull off, i.e. (by implication) to expose (as by stripping); specifically, to betroth (as if a surrender); figuratively, to carp at, i.e. defame; to spend the winter",
+ "etim": "a primitive root; also denominative (from )",
+ "raices": [
+  "H2779"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "חרף",
+   "forma_he": "חֵרֵ֥ף",
+   "n": 7,
+   "ref": "shoftim/5/18"
+  },
+  {
+   "forma": "לחרף",
+   "forma_he": "לְחָרֵ֥ף",
+   "n": 6,
+   "ref": "shmuel_a/17/25"
+  },
+  {
+   "forma": "חרפת",
+   "forma_he": "חֶרְפַּ֥ת",
+   "n": 5,
+   "ref": "yehoshua/5/9"
+  },
+  {
+   "forma": "חרפו",
+   "forma_he": "חֵֽרְפוּ֙",
+   "n": 4,
+   "ref": "tzefania/2/8"
+  },
+  {
+   "forma": "חרפוני",
+   "forma_he": "חֵרְפ֑וּנִי",
+   "n": 3,
+   "ref": "yeshayahu/65/7"
+  }
+ ],
+ "morph": [
+  "HVpp3ms",
+  "HR/Vpc",
+  "HVpp2ms",
+  "HVpp3cp",
+  "HVpp3cp/Sp1cs"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H2723",
+ "he": "חרבה",
+ "xlit": "chorbâh",
+ "pron": "khor-baw'",
+ "def_en": [
+  "1) a place laid waste, ruin, waste, desolation"
+ ],
+ "kjv": "decayed place, desolate (place, -tion), destruction, (laid) waste (place).",
+ "expl": "properly, drought, i.e. (by implication) a desolation",
+ "etim": "feminine of ;",
+ "raices": [
+  "H2721"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "לחרבה",
+   "forma_he": "לֶחָרָבָ֑ה",
+   "n": 9,
+   "ref": "shemot/14/21"
+  },
+  {
+   "forma": "חרבות",
+   "forma_he": "חַֽרְב֣וֹת",
+   "n": 8,
+   "ref": "yehoshua/5/2"
+  },
+  {
+   "forma": "חרבה",
+   "forma_he": "חֹרֵֽבָה",
+   "n": 6,
+   "ref": "shemot/3/1"
+  },
+  {
+   "forma": "בחרבות",
+   "forma_he": "בַּחֲרָב֖וֹת",
+   "n": 3,
+   "ref": "mlakhim_a/18/28"
+  },
+  {
+   "forma": "לחרבות",
+   "forma_he": "לְחָרְב֥וֹת",
+   "n": 3,
+   "ref": "yirmiyahu/49/13"
+  }
+ ],
+ "morph": [
+  "HR/Ncfsa",
+  "HNcfsa",
+  "HNcfpa",
+  "HR/Ncfpa",
+  "HNcfpc"
+ ],
+ "glosa_es": ""
+}

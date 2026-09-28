@@ -1,0 +1,14 @@
+{
+  "name": "Aprende hebreo bíblico — curso para principiantes",
+  "short_name": "Aprende hebreo",
+  "description": "Curso de hebreo bíblico para hispanohablantes: alef-bet, niqqud, 100 palabras frecuentes del Tanaj y lectura guiada, con audio.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#0b3b60",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

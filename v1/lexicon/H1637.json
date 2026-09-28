@@ -1,0 +1,55 @@
+{
+ "strong": "H1637",
+ "he": "גרן",
+ "xlit": "gôren",
+ "pron": "go'-ren",
+ "def_en": [
+  "1) threshing-floor",
+  "2) (TWOT) barn, barn floor, corn floor, void place"
+ ],
+ "kjv": "(barn, corn, threshing-) floor, (threshing-, void) place.",
+ "expl": "a threshing-floor (as made even); by analogy, any open area",
+ "etim": "from an unused root meaning to smooth;",
+ "raices": [],
+ "ocurrencias": 37,
+ "formas": [
+  {
+   "forma": "גרן",
+   "forma_he": "גֹּ֣רֶן",
+   "n": 9,
+   "ref": "bereshit/50/10"
+  },
+  {
+   "forma": "הגרן",
+   "forma_he": "הַגֹּ֔רֶן",
+   "n": 9,
+   "ref": "bamidbar/18/27"
+  },
+  {
+   "forma": "בגרן",
+   "forma_he": "בְּגֹ֨רֶן֙",
+   "n": 8,
+   "ref": "bereshit/50/11"
+  },
+  {
+   "forma": "הגרנות",
+   "forma_he": "הַגֳּרָנֽוֹת",
+   "n": 2,
+   "ref": "shmuel_a/23/1"
+  },
+  {
+   "forma": "ומגרנך",
+   "forma_he": "וּמִֽגָּרְנְךָ֖",
+   "n": 1,
+   "ref": "devarim/15/14"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HNcbsc",
+  "HR/Ncbsc",
+  "HNcbsa",
+  "HR/Ncbsa"
+ ],
+ "glosa_es": ""
+}

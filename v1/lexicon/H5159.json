@@ -1,0 +1,60 @@
+{
+ "strong": "H5159",
+ "he": "נחלה",
+ "xlit": "nachălâh",
+ "pron": "nakh-al-aw'",
+ "def_en": [
+  "1) possession, property, inheritance, heritage",
+  "1a) property",
+  "1b) portion, share",
+  "1c) inheritance, portion"
+ ],
+ "kjv": "heritage, to inherit, inheritance, possession. Compare .",
+ "expl": "properly, something inherited, i.e. (abstractly) occupancy, or (concretely) an heirloom; generally an estate, patrimony or portion",
+ "etim": "from (in its usual sense);",
+ "raices": [
+  "H5157",
+  "H5158"
+ ],
+ "ocurrencias": 222,
+ "formas": [
+  {
+   "forma": "נחלה",
+   "forma_he": "נַחֲלָֽה",
+   "n": 37,
+   "ref": "bamidbar/18/23"
+  },
+  {
+   "forma": "נחלת",
+   "forma_he": "נַחֲלַ֖ת",
+   "n": 34,
+   "ref": "bamidbar/16/14"
+  },
+  {
+   "forma": "נחלתו",
+   "forma_he": "נַחֲלָת֔וֹ",
+   "n": 31,
+   "ref": "bamidbar/26/54"
+  },
+  {
+   "forma": "לנחלה",
+   "forma_he": "לְנַחֲלָ֑ה",
+   "n": 15,
+   "ref": "bamidbar/18/21"
+  },
+  {
+   "forma": "נחלתם",
+   "forma_he": "נַחֲלָתָֽם",
+   "n": 15,
+   "ref": "bamidbar/34/14"
+  }
+ ],
+ "morph": [
+  "HNcfsa",
+  "HNcfsc",
+  "HNcfsc/Sp3ms",
+  "HR/Ncfsa",
+  "HNcfsc/Sp3mp"
+ ],
+ "glosa_es": "heredad; herencia"
+}

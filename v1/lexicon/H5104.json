@@ -1,0 +1,58 @@
+{
+ "strong": "H5104",
+ "he": "נהר",
+ "xlit": "nâhâr",
+ "pron": "naw-hawr'",
+ "def_en": [
+  "1) stream, river",
+  "1a) stream, river",
+  "1b) (underground) streams"
+ ],
+ "kjv": "flood, river.",
+ "expl": "a stream (including the sea; expectation the Nile, Euphrates, etc.); figuratively, prosperity",
+ "etim": "from ;",
+ "raices": [
+  "H5102"
+ ],
+ "ocurrencias": 119,
+ "formas": [
+  {
+   "forma": "הנהר",
+   "forma_he": "הַנָּהָ֥ר",
+   "n": 32,
+   "ref": "bereshit/2/13"
+  },
+  {
+   "forma": "נהר",
+   "forma_he": "נְהַר",
+   "n": 26,
+   "ref": "bereshit/15/18"
+  },
+  {
+   "forma": "נהרות",
+   "forma_he": "נַהֲר֣וֹת",
+   "n": 18,
+   "ref": "mlakhim_b/5/12"
+  },
+  {
+   "forma": "ונהר",
+   "forma_he": "וְנָהָרּ֙",
+   "n": 5,
+   "ref": "bereshit/2/10"
+  },
+  {
+   "forma": "בנהר",
+   "forma_he": "בִּֽנְהַר",
+   "n": 5,
+   "ref": "shmuel_b/8/3"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmpa",
+  "HNcmsc",
+  "HNcmsa",
+  "HR/Ncmsc"
+ ],
+ "glosa_es": ""
+}

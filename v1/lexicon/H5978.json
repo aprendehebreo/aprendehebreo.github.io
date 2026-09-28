@@ -1,0 +1,35 @@
+{
+ "strong": "H5978",
+ "he": "עמד",
+ "xlit": "ʻimmâd",
+ "pron": "im-mawd'",
+ "def_en": [
+  "1) with"
+ ],
+ "kjv": "against, by, from, [phrase] me, [phrase] mine, of, [phrase] that I take, unto, upon, with(-in.)",
+ "expl": "along with",
+ "etim": "prolonged for ;",
+ "raices": [
+  "H5973"
+ ],
+ "ocurrencias": 44,
+ "formas": [
+  {
+   "forma": "עמדי",
+   "forma_he": "עִמָּדִ֔י",
+   "n": 42,
+   "ref": "bereshit/3/12"
+  },
+  {
+   "forma": "מעמדי",
+   "forma_he": "מֵעִמָּדִ֔י",
+   "n": 2,
+   "ref": "shmuel_a/10/2"
+  }
+ ],
+ "morph": [
+  "HR/Sp1cs",
+  "HR/R/Sp1cs"
+ ],
+ "glosa_es": ""
+}

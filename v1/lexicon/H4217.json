@@ -1,0 +1,60 @@
+{
+ "strong": "H4217",
+ "he": "מזרח",
+ "xlit": "mizrâch",
+ "pron": "miz-rawkh'",
+ "def_en": [
+  "1) place of sunrise, east",
+  "1a) sunrise, east (with 'sun')",
+  "1b) the east (without 'sun')",
+  "1b1) to or toward the place of sunrise",
+  "1b2) to the east, eastward"
+ ],
+ "kjv": "east (side, -ward), (sun-) rising (of the sun).",
+ "expl": "sunrise, i.e. the east",
+ "etim": "from ;",
+ "raices": [
+  "H2224"
+ ],
+ "ocurrencias": 74,
+ "formas": [
+  {
+   "forma": "מזרחה",
+   "forma_he": "מִזְרָ֖חָה",
+   "n": 30,
+   "ref": "shemot/27/13"
+  },
+  {
+   "forma": "ממזרח",
+   "forma_he": "מִמִּזְרַ֖ח",
+   "n": 16,
+   "ref": "bamidbar/21/11"
+  },
+  {
+   "forma": "מזרח",
+   "forma_he": "מִזְרַ֖ח",
+   "n": 15,
+   "ref": "devarim/4/47"
+  },
+  {
+   "forma": "למזרח",
+   "forma_he": "לַמִּזְרָ֔ח",
+   "n": 5,
+   "ref": "nechemia/3/26"
+  },
+  {
+   "forma": "המזרח",
+   "forma_he": "הַמִּזְרָ֖ח",
+   "n": 3,
+   "ref": "daniel/8/9"
+  }
+ ],
+ "morph": [
+  "HNcmsa/Sd",
+  "HR/Ncmsc",
+  "HNcmsc",
+  "HR/Ncmsa",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,69 @@
+{
+ "strong": "H7503",
+ "he": "רפה",
+ "xlit": "râphâh",
+ "pron": "raw-faw'",
+ "def_en": [
+  "1) to sink, relax, sink down, let drop, be disheartened",
+  "1a) (Qal)",
+  "1a1) to sink down",
+  "1a2) to sink, drop",
+  "1a3) to sink, relax, abate",
+  "1a4) to relax, withdraw",
+  "1b) (Niphal) idle (participle)",
+  "1c) (Piel) to let drop",
+  "1d) (Hiphil)",
+  "1d1) to let drop, abandon, relax, refrain, forsake",
+  "1d2) to let go",
+  "1d3) to refrain, let alone",
+  "1d4) to be quiet",
+  "1e) (Hithpael) to show oneself slack"
+ ],
+ "kjv": "abate, cease, consume, draw (toward evening), fail, (be) faint, be (wax) feeble, forsake, idle, leave, let alone (go, down), (be) slack, stay, be still, be slothful, (be) weak(-en). See .",
+ "expl": "to slacken (in many applications, literal or figurative)",
+ "etim": "a primitive root;",
+ "raices": [
+  "H7495"
+ ],
+ "ocurrencias": 46,
+ "formas": [
+  {
+   "forma": "הרף",
+   "forma_he": "הֶ֤רֶף",
+   "n": 6,
+   "ref": "devarim/9/14"
+  },
+  {
+   "forma": "ירפך",
+   "forma_he": "יַרְפְּךָ֖",
+   "n": 4,
+   "ref": "devarim/4/31"
+  },
+  {
+   "forma": "תרפינה",
+   "forma_he": "תִּרְפֶּ֑ינָה",
+   "n": 4,
+   "ref": "yeshayahu/13/7"
+  },
+  {
+   "forma": "נרפים",
+   "forma_he": "נִרְפִּ֣ים",
+   "n": 3,
+   "ref": "shemot/5/8"
+  },
+  {
+   "forma": "תרף",
+   "forma_he": "תֶּ֥רֶף",
+   "n": 3,
+   "ref": "yehoshua/10/6"
+  }
+ ],
+ "morph": [
+  "HVhv2ms",
+  "HVhi3ms/Sp2ms",
+  "HVNrmpa",
+  "HVhj2ms",
+  "HVqp3fs"
+ ],
+ "glosa_es": ""
+}

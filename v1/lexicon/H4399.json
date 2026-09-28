@@ -1,0 +1,64 @@
+{
+ "strong": "H4399",
+ "he": "מלאכה",
+ "xlit": "mᵉlâʼkâh",
+ "pron": "mel-aw-kaw'",
+ "def_en": [
+  "1) occupation, work, business",
+  "1a) occupation, business",
+  "1b) property",
+  "1c) work (something done or made)",
+  "1d) workmanship",
+  "1e) service, use",
+  "1f) public business",
+  "1f1) political",
+  "1f2) religious"
+ ],
+ "kjv": "business, [phrase] cattle, [phrase] industrious, occupation, ([phrase] -pied), [phrase] officer, thing (made), use, (manner of) work((-man), -manship).",
+ "expl": "properly, deputyship, i.e. ministry; generally, employment (never servile) or work (abstractly or concretely); also property (as the result of labor)",
+ "etim": "from the same as ;",
+ "raices": [
+  "H4397"
+ ],
+ "ocurrencias": 167,
+ "formas": [
+  {
+   "forma": "המלאכה",
+   "forma_he": "הַמְּלָאכָ֤ה",
+   "n": 41,
+   "ref": "bereshit/33/14"
+  },
+  {
+   "forma": "מלאכה",
+   "forma_he": "מְלָאכָה֙",
+   "n": 41,
+   "ref": "shemot/12/16"
+  },
+  {
+   "forma": "מלאכת",
+   "forma_he": "מְלֶ֥אכֶת",
+   "n": 37,
+   "ref": "shemot/35/24"
+  },
+  {
+   "forma": "למלאכה",
+   "forma_he": "לַמְּלָאכָ֔ה",
+   "n": 10,
+   "ref": "shemot/36/5"
+  },
+  {
+   "forma": "מלאכתו",
+   "forma_he": "מְלַאכְתּ֖וֹ",
+   "n": 7,
+   "ref": "bereshit/2/2"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HNcfsc",
+  "HRd/Ncfsa",
+  "HNcfsc/Sp3ms"
+ ],
+ "glosa_es": "obra; trabajo; tarea"
+}

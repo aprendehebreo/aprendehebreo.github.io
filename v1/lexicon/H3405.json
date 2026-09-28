@@ -1,0 +1,56 @@
+{
+ "strong": "H3405",
+ "he": "יריחו",
+ "xlit": "Yᵉrîychôw",
+ "pron": "yer-ee-kho'",
+ "def_en": [
+  "Jericho = \"its moon\"",
+  "1) a city 5 miles (8 km) west of the Jordan and 7 miles (11.5 km) north of the Dead Sea and the first city conquered by the Israelites upon entering the promised land of Canaan"
+ ],
+ "kjv": "Jericho.",
+ "expl": "Jericho or Jerecho, a place in Palestine",
+ "etim": "or ; or variation (1 Kings 16:34) ; perhaps from ; its month; or else from ; fragrant;",
+ "raices": [
+  "H3394",
+  "H7306"
+ ],
+ "ocurrencias": 57,
+ "formas": [
+  {
+   "forma": "יריחו",
+   "forma_he": "יְרִיח֑וֹ",
+   "n": 23,
+   "ref": "yehoshua/2/1"
+  },
+  {
+   "forma": "ירחו",
+   "forma_he": "יְרֵחֽוֹ",
+   "n": 20,
+   "ref": "bamidbar/22/1"
+  },
+  {
+   "forma": "ביריחו",
+   "forma_he": "בִּירִיחוֹ֒",
+   "n": 5,
+   "ref": "yehoshua/5/13"
+  },
+  {
+   "forma": "ליריחו",
+   "forma_he": "לִֽירִיחוֹ֙",
+   "n": 3,
+   "ref": "yehoshua/8/2"
+  },
+  {
+   "forma": "מיריחו",
+   "forma_he": "מִֽירִיח֗וֹ",
+   "n": 2,
+   "ref": "yehoshua/7/2"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

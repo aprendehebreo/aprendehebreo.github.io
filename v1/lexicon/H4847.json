@@ -1,0 +1,44 @@
+{
+ "strong": "H4847",
+ "he": "מררי",
+ "xlit": "Mᵉrârîy",
+ "pron": "mer-aw-ree'",
+ "def_en": [
+  "Merari = \"bitter\"",
+  "1) the 3rd son of Levi and head of a Levitical family"
+ ],
+ "kjv": "Merari. See also .",
+ "expl": "Merari, an Israelite",
+ "etim": "from ; bitter;",
+ "raices": [
+  "H4843",
+  "H4848"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "מררי",
+   "forma_he": "מְרָרִ֖י",
+   "n": 31,
+   "ref": "shemot/6/19"
+  },
+  {
+   "forma": "ומררי",
+   "forma_he": "וּמְרָרִֽי",
+   "n": 6,
+   "ref": "bereshit/46/11"
+  },
+  {
+   "forma": "למררי",
+   "forma_he": "לִמְרָרִ֕י",
+   "n": 2,
+   "ref": "bamidbar/3/33"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

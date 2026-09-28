@@ -1,0 +1,50 @@
+{
+ "strong": "H1439",
+ "he": "גדעון",
+ "xlit": "Gidʻôwn",
+ "pron": "ghid-ohn'",
+ "def_en": [
+  "Gideon = \"hewer\"",
+  "1) youngest son of Joash of the Abiezrites, fifth judge of Israel who led the Israelites against the Midianites"
+ ],
+ "kjv": "Gideon.",
+ "expl": "Gidon, an Israelite",
+ "etim": "from ; feller (i.e. warrior);",
+ "raices": [
+  "H1438"
+ ],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "גדעון",
+   "forma_he": "גִּדְעוֹן֙",
+   "n": 33,
+   "ref": "shoftim/6/13"
+  },
+  {
+   "forma": "ולגדעון",
+   "forma_he": "וּלְגִדְעֽוֹן",
+   "n": 3,
+   "ref": "shoftim/7/18"
+  },
+  {
+   "forma": "וגדעון",
+   "forma_he": "וְגִדְע֣וֹן",
+   "n": 2,
+   "ref": "shoftim/6/11"
+  },
+  {
+   "forma": "לגדעון",
+   "forma_he": "לְגִדְע֥וֹן",
+   "n": 1,
+   "ref": "shoftim/8/27"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/R/Np",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

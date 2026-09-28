@@ -1,0 +1,57 @@
+{
+ "strong": "H2568",
+ "he": "חמש",
+ "xlit": "châmêsh",
+ "pron": "khaw-maysh'",
+ "def_en": [
+  "1) five",
+  "1a) five (cardinal number)",
+  "1b) a multiple of five (with another number)",
+  "1c) fifth (ordinal number)"
+ ],
+ "kjv": "fif(-teen), fifth, five ([idiom] apiece).",
+ "expl": "five",
+ "etim": "masculine ; a primitive numeral;",
+ "raices": [],
+ "ocurrencias": 345,
+ "formas": [
+  {
+   "forma": "חמש",
+   "forma_he": "חָמֵ֥שׁ",
+   "n": 96,
+   "ref": "bereshit/5/6"
+  },
+  {
+   "forma": "חמשה",
+   "forma_he": "חֲמִשָּׁ֔ה",
+   "n": 91,
+   "ref": "bereshit/18/28"
+  },
+  {
+   "forma": "וחמש",
+   "forma_he": "וַחֲמֵ֥שׁ",
+   "n": 68,
+   "ref": "bereshit/5/30"
+  },
+  {
+   "forma": "וחמשה",
+   "forma_he": "וַחֲמִשָּֽׁה",
+   "n": 38,
+   "ref": "bereshit/18/28"
+  },
+  {
+   "forma": "חמשת",
+   "forma_he": "חֲמֵ֧שֶׁת",
+   "n": 22,
+   "ref": "bamidbar/3/47"
+  }
+ ],
+ "morph": [
+  "HAcfsa",
+  "HAcmsa",
+  "HC/Acfsa",
+  "HC/Acmsa",
+  "HAcmsc"
+ ],
+ "glosa_es": "cinco"
+}

@@ -1,0 +1,64 @@
+{
+ "strong": "H259",
+ "he": "אחד",
+ "xlit": "ʼechâd",
+ "pron": "ekh-awd'",
+ "def_en": [
+  "1) one (number)",
+  "1a) one (number)",
+  "1b) each, every",
+  "1c) a certain",
+  "1d) an (indefinite article)",
+  "1e) only, once, once for all",
+  "1f) one...another, the one...the other, one after another, one by one",
+  "1g) first",
+  "1h) eleven (in combination), eleventh (ordinal)"
+ ],
+ "kjv": "a, alike, alone, altogether, and, any(-thing), apiece, a certain, (dai-) ly, each (one), [phrase] eleven, every, few, first, [phrase] highway, a man, once, one, only, other, some, together,",
+ "expl": "properly, united, i.e. one; or (as an ordinal) first",
+ "etim": "a numeral from ;",
+ "raices": [
+  "H258"
+ ],
+ "ocurrencias": 976,
+ "formas": [
+  {
+   "forma": "אחד",
+   "forma_he": "אֶחָֽד",
+   "n": 500,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "אחת",
+   "forma_he": "אַחַת֙",
+   "n": 174,
+   "ref": "bereshit/2/21"
+  },
+  {
+   "forma": "האחד",
+   "forma_he": "הָֽאֶחָ֖ד",
+   "n": 100,
+   "ref": "bereshit/2/11"
+  },
+  {
+   "forma": "האחת",
+   "forma_he": "הָֽאַחַת֙",
+   "n": 50,
+   "ref": "bereshit/4/19"
+  },
+  {
+   "forma": "באחד",
+   "forma_he": "בְּאֶחָ֣ד",
+   "n": 31,
+   "ref": "bereshit/8/5"
+  }
+ ],
+ "morph": [
+  "HAcmsa",
+  "HAcfsa",
+  "HTd/Acmsa",
+  "HTd/Acfsa",
+  "HR/Acmsa"
+ ],
+ "glosa_es": "uno; solo"
+}

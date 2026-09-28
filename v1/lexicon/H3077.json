@@ -1,0 +1,48 @@
+{
+ "strong": "H3077",
+ "he": "יהוידע",
+ "xlit": "Yᵉhôwyâdâʻ",
+ "pron": "yeh-ho-yaw-daw'",
+ "def_en": [
+  "Jehoiada = \"Jehovah knows\"",
+  "1) father of Benaiah, David's mighty warrior",
+  "2) leader of the priests who joined David at Hebron",
+  "3) high priest at the time of Athaliah's usurpation of the throne of Judah; hid Joash, the king's son, for six years and eventually replaced him on the throne of Judah",
+  "4) second priest, or sagan, to Seraiah the high priest"
+ ],
+ "kjv": "Jehoiada. Compare .",
+ "expl": "Jehojada, the name of three Israelites",
+ "etim": "from and ; Jehovah-known;",
+ "raices": [
+  "H3068",
+  "H3045",
+  "H3111"
+ ],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "יהוידע",
+   "forma_he": "יְה֣וֹיָדָ֔ע",
+   "n": 46,
+   "ref": "shmuel_b/8/18"
+  },
+  {
+   "forma": "ויהוידע",
+   "forma_he": "וִיהוֹיָדָ֖ע",
+   "n": 3,
+   "ref": "divrei_hayamim_a/12/28"
+  },
+  {
+   "forma": "ליהוידע",
+   "forma_he": "לִיהוֹיָדָ֤ע",
+   "n": 2,
+   "ref": "mlakhim_b/12/8"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np"
+ ],
+ "glosa_es": ""
+}

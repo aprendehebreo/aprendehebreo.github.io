@@ -1,0 +1,59 @@
+{
+ "strong": "H1241",
+ "he": "בקר",
+ "xlit": "bâqâr",
+ "pron": "baw-kawr'",
+ "def_en": [
+  "1) cattle, herd, oxen, ox",
+  "1a) cattle (generic pl. but sing. in form-coll)",
+  "1b) herd (particular one)",
+  "1c) head of cattle (individually)"
+ ],
+ "kjv": "beeve, bull ([phrase] -ock), [phrase] calf, [phrase] cow, great (cattle), [phrase] heifer, herd, kine, ox.",
+ "expl": "beef cattle or an animal of the ox family of either gender (as used for plowing); collectively, a herd",
+ "etim": "from ;",
+ "raices": [
+  "H1239"
+ ],
+ "ocurrencias": 183,
+ "formas": [
+  {
+   "forma": "בקר",
+   "forma_he": "בֹ֖קֶר",
+   "n": 79,
+   "ref": "bereshit/1/5"
+  },
+  {
+   "forma": "הבקר",
+   "forma_he": "הַבָּקָ֖ר",
+   "n": 39,
+   "ref": "bereshit/18/7"
+  },
+  {
+   "forma": "ובקר",
+   "forma_he": "וּבָקָר֙",
+   "n": 25,
+   "ref": "bereshit/12/16"
+  },
+  {
+   "forma": "והבקר",
+   "forma_he": "וְהַבָּקָ֖ר",
+   "n": 7,
+   "ref": "bereshit/33/13"
+  },
+  {
+   "forma": "בבקר",
+   "forma_he": "בַּבֹּ֑קֶר",
+   "n": 4,
+   "ref": "bereshit/19/27"
+  }
+ ],
+ "morph": [
+  "HNcbsa",
+  "HTd/Ncbsa",
+  "HC/Ncbsa",
+  "HRd/Ncbsa",
+  "HC/Td/Ncbsa"
+ ],
+ "glosa_es": "ganado; vacuno; buey"
+}

@@ -1,0 +1,56 @@
+{
+ "strong": "H6607",
+ "he": "פתח",
+ "xlit": "pethach",
+ "pron": "peh'-thakh",
+ "def_en": [
+  "1) opening, doorway, entrance"
+ ],
+ "kjv": "door, entering (in), entrance (-ry), gate, opening, place.",
+ "expl": "an opening (literally), i.e. door (gate) or entrance way",
+ "etim": "from ;",
+ "raices": [
+  "H6605"
+ ],
+ "ocurrencias": 164,
+ "formas": [
+  {
+   "forma": "פתח",
+   "forma_he": "פֶּֽתַח",
+   "n": 109,
+   "ref": "bereshit/18/1"
+  },
+  {
+   "forma": "הפתח",
+   "forma_he": "הַפָּֽתַח",
+   "n": 11,
+   "ref": "bereshit/19/11"
+  },
+  {
+   "forma": "לפתח",
+   "forma_he": "לַפֶּ֖תַח",
+   "n": 9,
+   "ref": "bereshit/4/7"
+  },
+  {
+   "forma": "בפתח",
+   "forma_he": "בְּפֶ֣תַח",
+   "n": 6,
+   "ref": "bereshit/38/14"
+  },
+  {
+   "forma": "ופתח",
+   "forma_he": "וּפֶ֥תַח",
+   "n": 5,
+   "ref": "bereshit/6/16"
+  }
+ ],
+ "morph": [
+  "HNcmsc",
+  "HR/Ncmsc",
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HC/Ncmsc"
+ ],
+ "glosa_es": "entrada; puerta; abertura"
+}

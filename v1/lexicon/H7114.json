@@ -1,0 +1,60 @@
+{
+ "strong": "H7114",
+ "he": "קצר",
+ "xlit": "qâtsar",
+ "pron": "kaw-tsar'",
+ "def_en": [
+  "1) to be short, be impatient, be vexed, be grieved",
+  "1a) (Qal) to be short",
+  "1b) (Piel) to shorten",
+  "1c) (Hiphil) to shorten",
+  "2) to reap, harvest",
+  "2a) (Qal) to reap, harvest",
+  "2b) (Hiphil) to reap, harvest"
+ ],
+ "kjv": "[idiom] at all, cut down, much discouraged, grieve, harvestman, lothe, mourn, reap(-er), (be, wax) short(-en, -er), straiten, trouble, vex.",
+ "expl": "to dock off, i.e. curtail (transitive or intransitive, literal or figurative); especially to harvest (grass or grain)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "ותקצר",
+   "forma_he": "וַתִּקְצַ֥ר",
+   "n": 4,
+   "ref": "bamidbar/21/4"
+  },
+  {
+   "forma": "הקוצרים",
+   "forma_he": "הַקּֽוֹצְרִ֑ים",
+   "n": 4,
+   "ref": "rut/2/5"
+  },
+  {
+   "forma": "תקצר",
+   "forma_he": "תִּקְצָ֑ר",
+   "n": 3,
+   "ref": "bamidbar/11/23"
+  },
+  {
+   "forma": "יקצור",
+   "forma_he": "יִקְצ֑וֹר",
+   "n": 3,
+   "ref": "yeshayahu/17/5"
+  },
+  {
+   "forma": "ובקצרכם",
+   "forma_he": "וּֽבְקֻצְרְכֶם֙",
+   "n": 2,
+   "ref": "vayikra/19/9"
+  }
+ ],
+ "morph": [
+  "HTd/Vqrmpa",
+  "HC/Vqw3fs",
+  "HVqi3ms",
+  "HVqi2ms",
+  "HVqi3mp"
+ ],
+ "glosa_es": ""
+}

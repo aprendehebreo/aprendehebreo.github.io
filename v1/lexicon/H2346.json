@@ -1,0 +1,54 @@
+{
+ "strong": "H2346",
+ "he": "חומה",
+ "xlit": "chôwmâh",
+ "pron": "kho-maw'",
+ "def_en": [
+  "1) wall"
+ ],
+ "kjv": "wall, walled.",
+ "expl": "a wall of protection",
+ "etim": "feminine active participle of an unused root apparently meaning to join;",
+ "raices": [],
+ "ocurrencias": 133,
+ "formas": [
+  {
+   "forma": "החומה",
+   "forma_he": "הַֽחוֹמָ֔ה",
+   "n": 30,
+   "ref": "yehoshua/2/15"
+  },
+  {
+   "forma": "חומת",
+   "forma_he": "חוֹמַ֤ת",
+   "n": 20,
+   "ref": "yehoshua/6/5"
+  },
+  {
+   "forma": "חומה",
+   "forma_he": "חוֹמָ֔ה",
+   "n": 15,
+   "ref": "vayikra/25/29"
+  },
+  {
+   "forma": "בחומת",
+   "forma_he": "בְּחוֹמַ֖ת",
+   "n": 8,
+   "ref": "shmuel_a/31/10"
+  },
+  {
+   "forma": "בחומה",
+   "forma_he": "בְּחוֹמָ֣ה",
+   "n": 6,
+   "ref": "yeshayahu/30/13"
+  }
+ ],
+ "morph": [
+  "HTd/Ncfsa",
+  "HNcfsa",
+  "HNcfsc",
+  "HRd/Ncfsa",
+  "HR/Ncfsc"
+ ],
+ "glosa_es": ""
+}

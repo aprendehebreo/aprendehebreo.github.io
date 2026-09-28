@@ -1,0 +1,54 @@
+{
+ "strong": "H3940",
+ "he": "לפיד",
+ "xlit": "lappîyd",
+ "pron": "lap-peed'",
+ "def_en": [
+  "1) torch"
+ ],
+ "kjv": "(fire-) brand, (burning) lamp, lightning, torch.",
+ "expl": "a flambeau, lamp or flame",
+ "etim": "or ; from an unused root probably meaning to shine;",
+ "raices": [],
+ "ocurrencias": 14,
+ "formas": [
+  {
+   "forma": "לפיד",
+   "forma_he": "לַפִּ֥יד",
+   "n": 2,
+   "ref": "shoftim/15/4"
+  },
+  {
+   "forma": "ולפיד",
+   "forma_he": "וְלַפִּ֣יד",
+   "n": 1,
+   "ref": "bereshit/15/17"
+  },
+  {
+   "forma": "הלפידם",
+   "forma_he": "הַלַּפִּידִ֗ם",
+   "n": 1,
+   "ref": "shemot/20/18"
+  },
+  {
+   "forma": "ולפדים",
+   "forma_he": "וְלַפִּדִ֖ים",
+   "n": 1,
+   "ref": "shoftim/7/16"
+  },
+  {
+   "forma": "בלפדים",
+   "forma_he": "בַּלַּפִּדִ֔ים",
+   "n": 1,
+   "ref": "shoftim/7/20"
+  }
+ ],
+ "morph": [
+  "HRd/Ncmpa",
+  "HTd/Ncmpa",
+  "HNcmpa",
+  "HC/Ncmsc",
+  "HC/Ncmpa"
+ ],
+ "glosa_es": ""
+}

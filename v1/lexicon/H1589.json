@@ -1,0 +1,59 @@
+{
+ "strong": "H1589",
+ "he": "גנב",
+ "xlit": "gânab",
+ "pron": "gaw-nab'",
+ "def_en": [
+  "1) to steal, steal away, carry away",
+  "1a) (Qal) to steal",
+  "1b) (Niphal) to be stolen",
+  "1c) (Piel) to steal away",
+  "1d)(Pual) to be stolen away, be brought by stealth",
+  "1e) (Hithpael) to go by stealth, steal away"
+ ],
+ "kjv": "carry away, [idiom] indeed, secretly bring, steal (away), get by stealth.",
+ "expl": "to thieve (literally or figuratively); by implication, to deceive",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 40,
+ "formas": [
+  {
+   "forma": "ותגנב",
+   "forma_he": "וַתִּגְנֹ֣ב",
+   "n": 5,
+   "ref": "bereshit/31/19"
+  },
+  {
+   "forma": "גנב",
+   "forma_he": "גֻנֹּ֣ב",
+   "n": 3,
+   "ref": "bereshit/40/15"
+  },
+  {
+   "forma": "וגנב",
+   "forma_he": "וְגֹנֵ֨ב",
+   "n": 3,
+   "ref": "shemot/21/16"
+  },
+  {
+   "forma": "יגנב",
+   "forma_he": "יִגְנֹֽב",
+   "n": 3,
+   "ref": "shemot/21/37"
+  },
+  {
+   "forma": "ויגנב",
+   "forma_he": "וַיִּגְנֹ֣ב",
+   "n": 2,
+   "ref": "bereshit/31/20"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3fs",
+  "HC/Vqw2ms",
+  "HVqi2ms",
+  "HVqi3ms",
+  "HVqp3cp"
+ ],
+ "glosa_es": ""
+}

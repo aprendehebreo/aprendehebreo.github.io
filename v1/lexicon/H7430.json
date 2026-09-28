@@ -1,0 +1,58 @@
+{
+ "strong": "H7430",
+ "he": "רמש",
+ "xlit": "râmas",
+ "pron": "raw-mas'",
+ "def_en": [
+  "1) to creep, move lightly, move about, walk on all fours",
+  "1a) (Qal)",
+  "1a1) to creep, teem (of all creeping things)",
+  "1a2) to creep (of animals)",
+  "1a3) to move lightly, glide about (of water animals)",
+  "1a4) to move about (of all land animals generally)"
+ ],
+ "kjv": "creep, move.",
+ "expl": "properly, to glide swiftly, i.e. to crawl or move with short steps; by analogy to swarm",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 17,
+ "formas": [
+  {
+   "forma": "הרמש",
+   "forma_he": "הָרֶ֖מֶשׂ",
+   "n": 6,
+   "ref": "bereshit/1/26"
+  },
+  {
+   "forma": "הרמשת",
+   "forma_he": "הָֽרֹמֶ֡שֶׂת",
+   "n": 3,
+   "ref": "bereshit/1/21"
+  },
+  {
+   "forma": "רמש",
+   "forma_he": "רֶ֥מֶשׂ",
+   "n": 3,
+   "ref": "bereshit/1/25"
+  },
+  {
+   "forma": "תרמש",
+   "forma_he": "תִּרְמֹ֧שׂ",
+   "n": 3,
+   "ref": "bereshit/9/2"
+  },
+  {
+   "forma": "רומש",
+   "forma_he": "רוֹמֵ֣שׂ",
+   "n": 2,
+   "ref": "bereshit/1/30"
+  }
+ ],
+ "morph": [
+  "HTd/Vqrmsa",
+  "HVqrmsa",
+  "HTd/Vqrfsa",
+  "HVqi3fs"
+ ],
+ "glosa_es": ""
+}

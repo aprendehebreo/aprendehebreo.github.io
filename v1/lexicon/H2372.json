@@ -1,0 +1,61 @@
+{
+ "strong": "H2372",
+ "he": "חזה",
+ "xlit": "châzâh",
+ "pron": "khaw-zaw'",
+ "def_en": [
+  "1) to see, perceive, look, behold, prophesy, provide",
+  "1a) (Qal)",
+  "1a1) to see, behold",
+  "1a2) to see as a seer in the ecstatic state",
+  "1a3) to see, perceive",
+  "1a3a) with the intelligence",
+  "1a3b) to see (by experience)",
+  "1a3c) to provide"
+ ],
+ "kjv": "behold, look, prophesy, provide, see.",
+ "expl": "to gaze at; mentally to perceive, contemplate (with pleasure); specifically, to have avision of",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "חזה",
+   "forma_he": "חֲזֵ֣ה",
+   "n": 10,
+   "ref": "shemot/29/27"
+  },
+  {
+   "forma": "חזו",
+   "forma_he": "חֲז֔וֹ",
+   "n": 8,
+   "ref": "bereshit/22/22"
+  },
+  {
+   "forma": "אחזה",
+   "forma_he": "אֲחֻזָּה֙",
+   "n": 4,
+   "ref": "bereshit/47/11"
+  },
+  {
+   "forma": "יחזה",
+   "forma_he": "יֶֽחֱזֶ֔ה",
+   "n": 3,
+   "ref": "bamidbar/24/4"
+  },
+  {
+   "forma": "יחזו",
+   "forma_he": "יֶחֱז֤וּ",
+   "n": 3,
+   "ref": "yeshayahu/26/11"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqp3cp",
+  "HVqi1cs",
+  "HVqi3ms",
+  "HVqi3mp"
+ ],
+ "glosa_es": ""
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "H7563",
+ "he": "רשע",
+ "xlit": "râshâʻ",
+ "pron": "raw-shaw'",
+ "def_en": [
+  "1) wicked, criminal",
+  "1a) guilty one, one guilty of crime (subst)",
+  "1b) wicked (hostile to God)",
+  "1c) wicked, guilty of sin (against God or man)"
+ ],
+ "kjv": "[phrase] condemned, guilty, ungodly, wicked (man), that did wrong.",
+ "expl": "morally wrong; concretely, an (actively) bad person",
+ "etim": "from ;",
+ "raices": [
+  "H7561"
+ ],
+ "ocurrencias": 263,
+ "formas": [
+  {
+   "forma": "רשעים",
+   "forma_he": "רְשָׁעִ֗ים",
+   "n": 105,
+   "ref": "shmuel_b/4/11"
+  },
+  {
+   "forma": "רשע",
+   "forma_he": "רָשָֽׁע",
+   "n": 93,
+   "ref": "bereshit/18/23"
+  },
+  {
+   "forma": "לרשע",
+   "forma_he": "לָֽרָשָׁ֔ע",
+   "n": 13,
+   "ref": "shemot/2/13"
+  },
+  {
+   "forma": "הרשע",
+   "forma_he": "הָרָשָֽׁע",
+   "n": 9,
+   "ref": "devarim/25/1"
+  },
+  {
+   "forma": "הרשעים",
+   "forma_he": "הָרְשָׁעִֽים",
+   "n": 8,
+   "ref": "shemot/9/27"
+  }
+ ],
+ "morph": [
+  "HAampa",
+  "HAamsa",
+  "HRd/Aamsa",
+  "HTd/Aamsa",
+  "HTd/Aampa"
+ ],
+ "glosa_es": "malvado; impío"
+}

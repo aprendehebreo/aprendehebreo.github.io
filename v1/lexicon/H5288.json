@@ -1,0 +1,58 @@
+{
+ "strong": "H5288",
+ "he": "נער",
+ "xlit": "naʻar",
+ "pron": "nah'-ar",
+ "def_en": [
+  "1) a boy, lad, servant, youth, retainer",
+  "1a) boy, lad, youth",
+  "1b) servant, retainer"
+ ],
+ "kjv": "babe, boy, child, damsel (from the margin), lad, servant, young (man).",
+ "expl": "(concretely) a boy (as active), from the age of infancy to adolescence; by implication, a servant; also (by interch. of sex), a girl (of similar latitude in age)",
+ "etim": "from ;",
+ "raices": [
+  "H5287"
+ ],
+ "ocurrencias": 239,
+ "formas": [
+  {
+   "forma": "הנער",
+   "forma_he": "הַנַּ֔עַר",
+   "n": 67,
+   "ref": "bereshit/18/7"
+  },
+  {
+   "forma": "נער",
+   "forma_he": "נַ֗עַר",
+   "n": 41,
+   "ref": "bereshit/37/2"
+  },
+  {
+   "forma": "הנערים",
+   "forma_he": "הַנְּעָרִ֔ים",
+   "n": 21,
+   "ref": "bereshit/14/24"
+  },
+  {
+   "forma": "נערי",
+   "forma_he": "נַעֲרֵי֙",
+   "n": 16,
+   "ref": "shemot/24/5"
+  },
+  {
+   "forma": "נערו",
+   "forma_he": "נַעֲר֔וֹ",
+   "n": 11,
+   "ref": "shoftim/7/11"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsa",
+  "HTd/Ncmpa",
+  "HNcmpc",
+  "HRd/Ncmsa"
+ ],
+ "glosa_es": "joven; muchacho; siervo"
+}

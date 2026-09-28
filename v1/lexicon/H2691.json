@@ -1,0 +1,59 @@
+{
+ "strong": "H2691",
+ "he": "חצר",
+ "xlit": "châtsêr",
+ "pron": "khaw-tsare'",
+ "def_en": [
+  "1) court, enclosure",
+  "1a) enclosures",
+  "1b) court",
+  "2) settled abode, settlement, village, town"
+ ],
+ "kjv": "court, tower, village.",
+ "expl": "a yard (as inclosed by a fence); also a hamlet (as similarly surrounded with walls)",
+ "etim": "(masculine and feminine); from in its original sense;",
+ "raices": [
+  "H2690"
+ ],
+ "ocurrencias": 190,
+ "formas": [
+  {
+   "forma": "החצר",
+   "forma_he": "הֶֽחָצֵר֙",
+   "n": 65,
+   "ref": "shemot/27/12"
+  },
+  {
+   "forma": "וחצריהן",
+   "forma_he": "וְחַצְרֵיהֶֽן",
+   "n": 26,
+   "ref": "yehoshua/13/23"
+  },
+  {
+   "forma": "בחצר",
+   "forma_he": "בַּחֲצַ֥ר",
+   "n": 21,
+   "ref": "vayikra/6/9"
+  },
+  {
+   "forma": "לחצר",
+   "forma_he": "לֶחָצֵ֜ר",
+   "n": 13,
+   "ref": "shemot/27/9"
+  },
+  {
+   "forma": "חצר",
+   "forma_he": "חֲצַ֣ר",
+   "n": 11,
+   "ref": "shemot/27/9"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HC/Ncbpc/Sp3fp",
+  "HR/Ncbsc",
+  "HRd/Ncbsa",
+  "HR/Ncbpc"
+ ],
+ "glosa_es": "atrio; patio; aldea"
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "H2708",
+ "he": "חקה",
+ "xlit": "chuqqâh",
+ "pron": "khook-kaw'",
+ "def_en": [
+  "1) statute, ordinance, limit, enactment, something prescribed",
+  "1a) statute"
+ ],
+ "kjv": "appointed, custom, manner, ordinance, site, statute.",
+ "expl": "{an enactment; hence, an appointment (of time, space, quantity, labor or usage)}",
+ "etim": "feminine of , and meaning substantially the same",
+ "raices": [
+  "H2706"
+ ],
+ "ocurrencias": 105,
+ "formas": [
+  {
+   "forma": "חקת",
+   "forma_he": "חֻקַּ֥ת",
+   "n": 21,
+   "ref": "shemot/12/14"
+  },
+  {
+   "forma": "חקתי",
+   "forma_he": "חֻקֹּתַ֥י",
+   "n": 12,
+   "ref": "vayikra/18/4"
+  },
+  {
+   "forma": "חקותי",
+   "forma_he": "חֻקּוֹתַ֥י",
+   "n": 9,
+   "ref": "bereshit/26/5"
+  },
+  {
+   "forma": "לחקת",
+   "forma_he": "לְחֻקַּ֣ת",
+   "n": 8,
+   "ref": "shemot/29/9"
+  },
+  {
+   "forma": "וחקתיו",
+   "forma_he": "וְחֻקֹּתָ֔יו",
+   "n": 8,
+   "ref": "devarim/8/11"
+  }
+ ],
+ "morph": [
+  "HNcbpc/Sp1cs",
+  "HNcbsc",
+  "HR/Ncbpc/Sp1cs",
+  "HR/Ncbsc",
+  "HNcbpc"
+ ],
+ "glosa_es": ""
+}

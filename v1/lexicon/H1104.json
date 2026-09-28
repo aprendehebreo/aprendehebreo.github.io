@@ -1,0 +1,64 @@
+{
+ "strong": "H1104",
+ "he": "בלע",
+ "xlit": "bâlaʻ",
+ "pron": "baw-lah'",
+ "def_en": [
+  "1) to swallow down, swallow up, engulf, eat up",
+  "1a) (Qal)",
+  "1a1) to swallow down",
+  "1a2) to swallow up, engulf",
+  "1b) (Niphal) to be swallowed up",
+  "1c) (Piel)",
+  "1c1) to swallow",
+  "1c2) to swallow up, engulf",
+  "1c3) squandering (fig.)",
+  "1d) (Pual) to be swallowed up",
+  "1e) (Hithpael) to be ended"
+ ],
+ "kjv": "cover, destroy, devour, eat up, be at end, spend up, swallow down (up).",
+ "expl": "to make away with (specifically by swallowing); generally, to destroy",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 50,
+ "formas": [
+  {
+   "forma": "בלע",
+   "forma_he": "בֶּ֖לַע",
+   "n": 6,
+   "ref": "bereshit/14/2"
+  },
+  {
+   "forma": "יבלע",
+   "forma_he": "יְבֻלַּ֣ע",
+   "n": 4,
+   "ref": "shmuel_b/17/16"
+  },
+  {
+   "forma": "ותבלע",
+   "forma_he": "וַתִּבְלַ֥ע",
+   "n": 3,
+   "ref": "bamidbar/16/32"
+  },
+  {
+   "forma": "תבלענו",
+   "forma_he": "תִּבְלָעֵ֖נוּ",
+   "n": 2,
+   "ref": "bamidbar/16/34"
+  },
+  {
+   "forma": "אבלע",
+   "forma_he": "אֲבַלַּ֖ע",
+   "n": 2,
+   "ref": "shmuel_b/20/20"
+  }
+ ],
+ "morph": [
+  "HVpp3ms",
+  "HR/Vpc",
+  "HC/Vqw3fs",
+  "HC/Vqw3fp",
+  "HVPi3ms"
+ ],
+ "glosa_es": ""
+}

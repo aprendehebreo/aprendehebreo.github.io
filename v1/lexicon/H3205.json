@@ -1,0 +1,71 @@
+{
+ "strong": "H3205",
+ "he": "ילד",
+ "xlit": "yâlad",
+ "pron": "yaw-lad'",
+ "def_en": [
+  "1) to bear, bringforth, beget, gender, travail",
+  "1a) (Qal)",
+  "1a1) to bear, bring forth",
+  "1a1a) of child birth",
+  "1a1b) of distress (simile)",
+  "1a1c) of wicked (behaviour)",
+  "1a2) to beget",
+  "1b) (Niphal) to be born",
+  "1c) (Piel)",
+  "1c1) to cause or help to bring forth",
+  "1c2) to assist or tend as a midwife",
+  "1c3) midwife (participle)",
+  "1d) (Pual) to be born",
+  "1e) (Hiphil)",
+  "1e1) to beget (a child)",
+  "1e2) to bear (fig. -of wicked bringing forth iniquity)",
+  "1f) (Hophal) day of birth, birthday (infinitive)",
+  "1g) (Hithpael) to declare one's birth (pedigree)"
+ ],
+ "kjv": "bear, beget, birth(-day), born, (make to) bring forth (children, young), bring up, calve, child, come, be delivered (of a child), time of delivery, gender, hatch, labour, (do the office of a) midwife, declare pedigrees, be the son of, (woman in, woman that) travail(-eth, -ing woman).",
+ "expl": "to bear young; causatively, to beget; medically, to act as midwife; specifically, to show lineage",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 500,
+ "formas": [
+  {
+   "forma": "הוליד",
+   "forma_he": "הוֹלִ֣יד",
+   "n": 85,
+   "ref": "bereshit/11/27"
+  },
+  {
+   "forma": "ותלד",
+   "forma_he": "וַתֵּ֣לֶד",
+   "n": 63,
+   "ref": "bereshit/4/1"
+  },
+  {
+   "forma": "ויולד",
+   "forma_he": "וַיִּוָּלֵ֤ד",
+   "n": 49,
+   "ref": "bereshit/4/18"
+  },
+  {
+   "forma": "ילדה",
+   "forma_he": "יָֽלְדָה֙",
+   "n": 45,
+   "ref": "bereshit/4/22"
+  },
+  {
+   "forma": "ילד",
+   "forma_he": "יָלַ֖ד",
+   "n": 38,
+   "ref": "bereshit/4/18"
+  }
+ ],
+ "morph": [
+  "HVhp3ms",
+  "HC/Vqw3fs",
+  "HC/Vhw3ms",
+  "HVqp3fs",
+  "HVqp3ms"
+ ],
+ "glosa_es": "engendrar; dar a luz"
+}

@@ -1,0 +1,54 @@
+{
+ "strong": "H8334",
+ "he": "שרת",
+ "xlit": "shârath",
+ "pron": "shaw-rath'",
+ "def_en": [
+  "1) (Piel) to minister, serve, minister to"
+ ],
+ "kjv": "minister (unto), (do) serve(-ant, -ice, -itor), wait on.",
+ "expl": "to attend as a menial or worshipper; figuratively, to contribute to",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 98,
+ "formas": [
+  {
+   "forma": "לשרת",
+   "forma_he": "לְשָׁרֵ֑ת",
+   "n": 18,
+   "ref": "shemot/28/35"
+  },
+  {
+   "forma": "משרתי",
+   "forma_he": "מְשָׁרְתֵ֣י",
+   "n": 10,
+   "ref": "yeshayahu/61/6"
+  },
+  {
+   "forma": "ישרתו",
+   "forma_he": "יְשָׁרְת֖וּ",
+   "n": 8,
+   "ref": "bamidbar/3/31"
+  },
+  {
+   "forma": "משרת",
+   "forma_he": "מִשְׁרַ֤ת",
+   "n": 7,
+   "ref": "bamidbar/6/3"
+  },
+  {
+   "forma": "משרתיו",
+   "forma_he": "מְשָׁרְתָ֜יו",
+   "n": 7,
+   "ref": "mlakhim_a/10/5"
+  }
+ ],
+ "morph": [
+  "HR/Vpc",
+  "HVprmpc",
+  "HVpi3mp",
+  "HVprmpa",
+  "HVprmpc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

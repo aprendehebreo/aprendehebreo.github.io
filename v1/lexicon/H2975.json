@@ -1,0 +1,59 @@
+{
+ "strong": "H2975",
+ "he": "יאר",
+ "xlit": "yᵉʼôr",
+ "pron": "yeh-ore'",
+ "def_en": [
+  "1) river, stream, canal, Nile, Nile-canal",
+  "1a) stream, river (Nile)",
+  "1b) Nile-arms, Nile-canals",
+  "1c) watercourses",
+  "1d) shafts (mining)",
+  "1e) river (in general)"
+ ],
+ "kjv": "brook, flood, river, stream.",
+ "expl": "a channel, e.g. a fosse, canal, shaft; specifically the Nile, as the one river of Egypt, including its collateral trenches; also the Tigris, as the main river of Assyria",
+ "etim": "of Egyptian origin;",
+ "raices": [],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "היאר",
+   "forma_he": "הַיְאֹֽר",
+   "n": 25,
+   "ref": "bereshit/41/1"
+  },
+  {
+   "forma": "ביאר",
+   "forma_he": "בַּיְאֹ֖ר",
+   "n": 7,
+   "ref": "shemot/7/17"
+  },
+  {
+   "forma": "יארי",
+   "forma_he": "יְאֹרֵ֥י",
+   "n": 5,
+   "ref": "mlakhim_b/19/24"
+  },
+  {
+   "forma": "כיאר",
+   "forma_he": "כַּיְאֹ֑ר",
+   "n": 5,
+   "ref": "yeshayahu/23/10"
+  },
+  {
+   "forma": "יאריך",
+   "forma_he": "יַאֲרִ֨יךְ",
+   "n": 5,
+   "ref": "devarim/17/20"
+  }
+ ],
+ "morph": [
+  "HTd/Np",
+  "HRd/Np",
+  "HNp",
+  "HNcmpc/Sp2ms",
+  "HNcmpc"
+ ],
+ "glosa_es": ""
+}

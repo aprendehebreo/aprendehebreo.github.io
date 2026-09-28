@@ -1,0 +1,64 @@
+{
+ "strong": "H6605",
+ "he": "פתח",
+ "xlit": "pâthach",
+ "pron": "paw-thakh'",
+ "def_en": [
+  "1) to open",
+  "1a) (Qal) to open",
+  "1b) (Niphal) to be opened, be let loose, be thrown open",
+  "1c) (Piel)",
+  "1c1) to free",
+  "1c2) to loosen",
+  "1c3) to open, open oneself",
+  "1d) (Hithpael) to loose oneself",
+  "2) to carve, engrave",
+  "2a) (Piel) to engrave",
+  "2b) (Pual) to be engraved"
+ ],
+ "kjv": "appear, break forth, draw (out), let go free, (en-) grave(-n), loose (self), (be, be set) open(-ing), put off, ungird, unstop, have vent.",
+ "expl": "to open wide (literally or figuratively); specifically, to loosen, begin, plough, carve",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 145,
+ "formas": [
+  {
+   "forma": "פתח",
+   "forma_he": "פֶּֽתַח",
+   "n": 25,
+   "ref": "bereshit/18/1"
+  },
+  {
+   "forma": "ויפתח",
+   "forma_he": "וַיִּפְתַּ֣ח",
+   "n": 16,
+   "ref": "bereshit/8/6"
+  },
+  {
+   "forma": "יפתח",
+   "forma_he": "יִפְתַּ֨ח",
+   "n": 13,
+   "ref": "shemot/21/33"
+  },
+  {
+   "forma": "תפתח",
+   "forma_he": "תְּפַתַּח֙",
+   "n": 9,
+   "ref": "shemot/28/11"
+  },
+  {
+   "forma": "אפתח",
+   "forma_he": "אֶפְתַּ֤ח",
+   "n": 8,
+   "ref": "yeshayahu/41/18"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HVqi1cs",
+  "HVqi3ms",
+  "HVqrmsa"
+ ],
+ "glosa_es": ""
+}

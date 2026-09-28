@@ -1,0 +1,61 @@
+{
+ "strong": "H7097",
+ "he": "קצה",
+ "xlit": "qâtseh",
+ "pron": "kaw-tseh'",
+ "def_en": [
+  "1) end, extremity",
+  "1a) end, mouth, extremity",
+  "1b) border, outskirts",
+  "1c) the whole (condensed term for what is included within extremities)",
+  "1d) at the end of (a certain time)"
+ ],
+ "kjv": "[idiom] after, border, brim, brink, edge, end, (in-) finite, frontier, outmost coast, quarter, shore, (out-) side, [idiom] some, ut(-ter-) most (part).",
+ "expl": "an extremity",
+ "etim": "or (negative only) ; from ; (used in a great variety of applications and idioms; compare )",
+ "raices": [
+  "H7096",
+  "H7093"
+ ],
+ "ocurrencias": 97,
+ "formas": [
+  {
+   "forma": "מקצה",
+   "forma_he": "מִקְצֵ֕ה",
+   "n": 34,
+   "ref": "bereshit/8/3"
+  },
+  {
+   "forma": "קצה",
+   "forma_he": "קְצֵ֖ה",
+   "n": 29,
+   "ref": "shemot/16/35"
+  },
+  {
+   "forma": "בקצה",
+   "forma_he": "בִּקְצֵ֣ה",
+   "n": 21,
+   "ref": "bereshit/23/9"
+  },
+  {
+   "forma": "הקצה",
+   "forma_he": "הַקָּצֶ֖ה",
+   "n": 4,
+   "ref": "shemot/26/28"
+  },
+  {
+   "forma": "קצהו",
+   "forma_he": "קָצֵֽהוּ",
+   "n": 2,
+   "ref": "bereshit/47/21"
+  }
+ ],
+ "morph": [
+  "HR/Ncbsc",
+  "HNcbsc",
+  "HNcbsa",
+  "HTd/Ncbsa",
+  "HR/Ncbsc/Sp3ms"
+ ],
+ "glosa_es": ""
+}

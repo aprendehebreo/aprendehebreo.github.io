@@ -1,0 +1,72 @@
+{
+ "strong": "H5437",
+ "he": "סבב",
+ "xlit": "çâbab",
+ "pron": "saw-bab'",
+ "def_en": [
+  "1) to turn, turn about or around or aside or back or towards, go about or around, surround, encircle, change direction",
+  "1a) (Qal)",
+  "1a1) to turn, turn about, be brought round, change",
+  "1a2) to march or walk around, go partly around, circle about, skirt, make a round, make a circuit, go about to, surround, encompass",
+  "1b) (Niphal)",
+  "1b1) to turn oneself, close round, turn round",
+  "1b2) to be turned over to",
+  "1c) (Piel) to turn about, change, transform",
+  "1d) (Poel)",
+  "1d1) to encompass, surround",
+  "1d2) to come about, assemble round",
+  "1d3) to march, go about",
+  "1d4) to enclose, envelop",
+  "1e) (Hiphil)",
+  "1e1) to turn, cause to turn, turn back, reverse, bring over, turn into, bring round",
+  "1e2) to cause to go around, surround, encompass",
+  "1f) (Hophal)",
+  "1f1) to be turned",
+  "1f2) to be surrounded"
+ ],
+ "kjv": "bring, cast, fetch, lead, make, walk, [idiom] whirl, [idiom] round about, be about on every side, apply, avoid, beset (about), besiege, bring again, carry (about), change, cause to come about, [idiom] circuit, (fetch a) compass (about, round), drive, environ, [idiom] on every side, beset (close, come, compass, go, stand) round about, inclose, remove, return, set, sit down, turn (self) (about, aside, away, back).",
+ "expl": "to revolve, surround, or border; used in various applications, literally and figuratively",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 158,
+ "formas": [
+  {
+   "forma": "ויסב",
+   "forma_he": "וַיִּסֹּ֥ב",
+   "n": 22,
+   "ref": "bereshit/42/24"
+  },
+  {
+   "forma": "ויסבו",
+   "forma_he": "וַיָּסֹ֨בּוּ",
+   "n": 14,
+   "ref": "yehoshua/6/14"
+  },
+  {
+   "forma": "ונסב",
+   "forma_he": "וְנָסַ֣ב",
+   "n": 10,
+   "ref": "bamidbar/34/4"
+  },
+  {
+   "forma": "יסבו",
+   "forma_he": "יִסַּ֣בּוּ",
+   "n": 7,
+   "ref": "yechezkel/1/9"
+  },
+  {
+   "forma": "סבבוני",
+   "forma_he": "סבבוני",
+   "n": 7,
+   "ref": "tehilim/17/11"
+  }
+ ],
+ "morph": [
+  "HC/Vhw3ms",
+  "HVqp3cp/Sp1cs",
+  "HC/Vqw3mp",
+  "HC/Vqw3ms",
+  "HVqi3ms"
+ ],
+ "glosa_es": "girar; rodear; dar vuelta"
+}

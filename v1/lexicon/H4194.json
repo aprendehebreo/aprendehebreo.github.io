@@ -1,0 +1,59 @@
+{
+ "strong": "H4194",
+ "he": "מות",
+ "xlit": "mâveth",
+ "pron": "maw'-veth",
+ "def_en": [
+  "1) death, dying, Death (personified), realm of the dead",
+  "1a) death",
+  "1b) death by violence (as a penalty)",
+  "1c) state of death, place of death"
+ ],
+ "kjv": "(be) dead(-ly), death, die(-d).",
+ "expl": "death (natural or violent); concretely, the dead, their place or state (hades); figuratively, pestilence, ruin",
+ "etim": "from ;",
+ "raices": [
+  "H4191"
+ ],
+ "ocurrencias": 158,
+ "formas": [
+  {
+   "forma": "מות",
+   "forma_he": "מ֥וֹת",
+   "n": 75,
+   "ref": "bereshit/2/17"
+  },
+  {
+   "forma": "למות",
+   "forma_he": "לָמ֑וּת",
+   "n": 11,
+   "ref": "bereshit/25/32"
+  },
+  {
+   "forma": "המות",
+   "forma_he": "הַמָּ֥וֶת",
+   "n": 10,
+   "ref": "shemot/10/17"
+  },
+  {
+   "forma": "ממות",
+   "forma_he": "מִמָּֽוֶת",
+   "n": 10,
+   "ref": "yehoshua/2/13"
+  },
+  {
+   "forma": "מותו",
+   "forma_he": "מוֹתֽוֹ",
+   "n": 9,
+   "ref": "bereshit/27/10"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HNcmsc",
+  "HRd/Ncmsa",
+  "HR/Ncmsa",
+  "HNcmsc/Sp3ms"
+ ],
+ "glosa_es": "muerte"
+}

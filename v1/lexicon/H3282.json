@@ -1,0 +1,44 @@
+{
+ "strong": "H3282",
+ "he": "יען",
+ "xlit": "yaʻan",
+ "pron": "yah'-an",
+ "def_en": [
+  "conj",
+  "1) because, therefore, because that, on account of",
+  "prep",
+  "2) because of, on account of",
+  "3) why (with interrogative pron)"
+ ],
+ "kjv": "because (that), forasmuch ([phrase] as), seeing then, [phrase] that, [phrase] wheras, [phrase] why.",
+ "expl": "properly, heed; by implication, purpose (sake or account); used adverbially to indicate the reason or cause",
+ "etim": "from an unused root meaning to pay attention;",
+ "raices": [],
+ "ocurrencias": 99,
+ "formas": [
+  {
+   "forma": "יען",
+   "forma_he": "יַ֚עַן",
+   "n": 96,
+   "ref": "bereshit/22/16"
+  },
+  {
+   "forma": "וביען",
+   "forma_he": "וּבְיַ֔עַן",
+   "n": 2,
+   "ref": "vayikra/26/43"
+  },
+  {
+   "forma": "ביען",
+   "forma_he": "בְּיַ֡עַן",
+   "n": 1,
+   "ref": "yechezkel/36/3"
+  }
+ ],
+ "morph": [
+  "HC",
+  "HC/R/C",
+  "HR/C"
+ ],
+ "glosa_es": ""
+}

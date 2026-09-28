@@ -1,0 +1,63 @@
+{
+ "strong": "H3789",
+ "he": "כתב",
+ "xlit": "kâthab",
+ "pron": "kaw-thab'",
+ "def_en": [
+  "1) to write, record, enrol",
+  "1a) (Qal)",
+  "1a1) to write, inscribe, engrave, write in, write on",
+  "1a2) to write down, describe in writing",
+  "1a3) to register, enrol, record",
+  "1a4) to decree",
+  "1b) (Niphal)",
+  "1b1) to be written",
+  "1b2) to be written down, be recorded, be enrolled",
+  "1c) (Piel) to continue writing"
+ ],
+ "kjv": "describe, record, prescribe, subscribe, write(-ing, -ten).",
+ "expl": "to grave, by implication, to write (describe, inscribe, prescribe, subscribe)",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 227,
+ "formas": [
+  {
+   "forma": "כתובים",
+   "forma_he": "כְּתוּבִ֗ים",
+   "n": 51,
+   "ref": "mlakhim_a/14/19"
+  },
+  {
+   "forma": "ויכתב",
+   "forma_he": "וַיִּכְתֹּ֣ב",
+   "n": 25,
+   "ref": "shemot/24/4"
+  },
+  {
+   "forma": "ככתוב",
+   "forma_he": "כַּכָּתוּב֙",
+   "n": 16,
+   "ref": "yehoshua/8/31"
+  },
+  {
+   "forma": "כתב",
+   "forma_he": "כְּתֹ֨ב",
+   "n": 15,
+   "ref": "shemot/17/14"
+  },
+  {
+   "forma": "כתוב",
+   "forma_he": "כָת֔וּב",
+   "n": 14,
+   "ref": "devarim/28/61"
+  }
+ ],
+ "morph": [
+  "HVqsmpa",
+  "HC/Vqw3ms",
+  "HRd/Vqsmsa",
+  "HVqsmsa",
+  "HVqp3ms"
+ ],
+ "glosa_es": "escribir; inscrito"
+}

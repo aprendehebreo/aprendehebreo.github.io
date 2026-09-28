@@ -1,0 +1,58 @@
+{
+ "strong": "H14",
+ "he": "אבה",
+ "xlit": "ʼâbâh",
+ "pron": "aw-baw'",
+ "def_en": [
+  "1) to be willing, consent",
+  "1a) (Qal)",
+  "1a1) to be willing",
+  "1a2) to consent, yield to, accept",
+  "1a3) to desire"
+ ],
+ "kjv": "consent, rest content will, be willing.",
+ "expl": "to breathe after, i.e. (figuratively) to be acquiescent",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 54,
+ "formas": [
+  {
+   "forma": "אבה",
+   "forma_he": "אָבָ֖ה",
+   "n": 28,
+   "ref": "shemot/10/27"
+  },
+  {
+   "forma": "אבו",
+   "forma_he": "אָב֤וּ",
+   "n": 8,
+   "ref": "shoftim/19/25"
+  },
+  {
+   "forma": "תאבה",
+   "forma_he": "תֹאבֶ֣ה",
+   "n": 4,
+   "ref": "bereshit/24/5"
+  },
+  {
+   "forma": "אביתם",
+   "forma_he": "אֲבִיתֶ֖ם",
+   "n": 3,
+   "ref": "devarim/1/26"
+  },
+  {
+   "forma": "תאבו",
+   "forma_he": "תֹאב֖וּ",
+   "n": 2,
+   "ref": "vayikra/26/21"
+  }
+ ],
+ "morph": [
+  "HVqp3ms",
+  "HVqp3cp",
+  "HVqp2mp",
+  "HVqi3fs",
+  "HVqi2mp"
+ ],
+ "glosa_es": ""
+}

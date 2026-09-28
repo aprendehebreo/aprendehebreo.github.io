@@ -1,0 +1,61 @@
+{
+ "strong": "H905",
+ "he": "בד",
+ "xlit": "bad",
+ "pron": "bad",
+ "def_en": [
+  "1) alone, by itself, besides, a part, separation, being alone",
+  "1a) separation, alone, by itself",
+  "1a1) only (adv)",
+  "1a2) apart from, besides (prep)",
+  "1b) part",
+  "1c) parts (eg limbs, shoots), bars"
+ ],
+ "kjv": "alone, apart, bar, besides, branch, by self, of each alike, except, only, part, staff, strength.",
+ "expl": "properly, separation; by implication, a part of the body, branch of atree, bar forcarrying; figuratively, chief of a city; especially (with prepositional prefix) as an adverb, apart, only, besides",
+ "etim": "from ;",
+ "raices": [
+  "H909"
+ ],
+ "ocurrencias": 202,
+ "formas": [
+  {
+   "forma": "לבדו",
+   "forma_he": "לְבַדּ֑וֹ",
+   "n": 37,
+   "ref": "bereshit/2/18"
+  },
+  {
+   "forma": "לבד",
+   "forma_he": "לְבַ֥ד",
+   "n": 33,
+   "ref": "shemot/12/37"
+  },
+  {
+   "forma": "מלבד",
+   "forma_he": "מִלְּבַד֙",
+   "n": 30,
+   "ref": "bereshit/26/1"
+  },
+  {
+   "forma": "לבדך",
+   "forma_he": "לְבַדֶּ֔ךָ",
+   "n": 17,
+   "ref": "shemot/18/14"
+  },
+  {
+   "forma": "לבדי",
+   "forma_he": "לְבַדִּ֔י",
+   "n": 16,
+   "ref": "bamidbar/11/14"
+  }
+ ],
+ "morph": [
+  "HR/Ncmsc/Sp3ms",
+  "HR/Ncmsa",
+  "HR/R/Ncmsc",
+  "HR/Ncmsc/Sp2ms",
+  "HR/Ncmsc/Sp1cs"
+ ],
+ "glosa_es": "solo; aparte; además de"
+}

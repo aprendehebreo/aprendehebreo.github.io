@@ -1,0 +1,61 @@
+{
+ "strong": "H4720",
+ "he": "מקדש",
+ "xlit": "miqdâsh",
+ "pron": "mik-dawsh'",
+ "def_en": [
+  "1) sacred place, sanctuary, holy place",
+  "1a) sanctuary",
+  "1a1) of the temple",
+  "1a2) of the tabernacle",
+  "1a3) of Ezekiel's temple",
+  "1a4) of Jehovah"
+ ],
+ "kjv": "chapel, hallowed part, holy place, sanctuary.",
+ "expl": "a consecrated thing or place, especially, a palace, sanctuary (whether of Jehovah or of idols) or asylum",
+ "etim": "or ; (Exodus 15:17), from ;",
+ "raices": [
+  "H6942"
+ ],
+ "ocurrencias": 74,
+ "formas": [
+  {
+   "forma": "המקדש",
+   "forma_he": "הַמִּקְדָּשׁ֙",
+   "n": 16,
+   "ref": "vayikra/12/4"
+  },
+  {
+   "forma": "מקדשי",
+   "forma_he": "מִקָּדְשֵׁ֖י",
+   "n": 16,
+   "ref": "vayikra/5/15"
+  },
+  {
+   "forma": "מקדש",
+   "forma_he": "מִקְּדָ֕שׁ",
+   "n": 9,
+   "ref": "shemot/15/17"
+  },
+  {
+   "forma": "מקדשו",
+   "forma_he": "מְקַדְּשֽׁוֹ",
+   "n": 5,
+   "ref": "vayikra/21/15"
+  },
+  {
+   "forma": "למקדש",
+   "forma_he": "לְמִקְדָּ֑שׁ",
+   "n": 5,
+   "ref": "yeshayahu/8/14"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HNcmsc/Sp1cs",
+  "HNcmsc",
+  "HNcmsc/Sp3ms",
+  "HNcmsa"
+ ],
+ "glosa_es": ""
+}

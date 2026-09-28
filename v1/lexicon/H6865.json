@@ -1,0 +1,55 @@
+{
+ "strong": "H6865",
+ "he": "צר",
+ "xlit": "Tsôr",
+ "pron": "tsore",
+ "def_en": [
+  "Tyre or Tyrus = \"a rock\"",
+  "1) the Phoenician city on the Mediterranean coast"
+ ],
+ "kjv": "Tyre, Tyrus.",
+ "expl": "Tsor, a place in Palestine",
+ "etim": "or ; the same as ; a rock;",
+ "raices": [
+  "H6864"
+ ],
+ "ocurrencias": 42,
+ "formas": [
+  {
+   "forma": "צר",
+   "forma_he": "צֹ֗ר",
+   "n": 27,
+   "ref": "shemot/4/25"
+  },
+  {
+   "forma": "צור",
+   "forma_he": "צֽוּר",
+   "n": 5,
+   "ref": "bamidbar/7/54"
+  },
+  {
+   "forma": "מצר",
+   "forma_he": "מִצֹּֽר",
+   "n": 3,
+   "ref": "mlakhim_a/7/13"
+  },
+  {
+   "forma": "לצור",
+   "forma_he": "לָצ֥וּר",
+   "n": 3,
+   "ref": "shmuel_a/23/8"
+  },
+  {
+   "forma": "לצר",
+   "forma_he": "לְצֹ֔ר",
+   "n": 2,
+   "ref": "yeshayahu/23/15"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

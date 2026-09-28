@@ -1,0 +1,42 @@
+{
+ "strong": "H609",
+ "he": "אסא",
+ "xlit": "ʼÂçâʼ",
+ "pron": "aw-saw'",
+ "def_en": [
+  "Asa = \"healer: injurious (?)\"",
+  "1) king of Judah, son of Abijam, father of Jehoshaphat",
+  "2) a Levite"
+ ],
+ "kjv": "Asa.",
+ "expl": "Asa, the name of a king and of a Levite",
+ "etim": "of uncertain derivation;",
+ "raices": [],
+ "ocurrencias": 58,
+ "formas": [
+  {
+   "forma": "אסא",
+   "forma_he": "אָסָ֥א",
+   "n": 46,
+   "ref": "mlakhim_a/15/8"
+  },
+  {
+   "forma": "לאסא",
+   "forma_he": "לְאָסָ֖א",
+   "n": 11,
+   "ref": "mlakhim_a/15/17"
+  },
+  {
+   "forma": "ואסא",
+   "forma_he": "וְאָסָ֣א",
+   "n": 1,
+   "ref": "divrei_hayamim_b/16/6"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}

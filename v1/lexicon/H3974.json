@@ -1,0 +1,56 @@
+{
+ "strong": "H3974",
+ "he": "מאור",
+ "xlit": "mâʼôwr",
+ "pron": "maw-ore'",
+ "def_en": [
+  "1) light, luminary"
+ ],
+ "kjv": "bright, light.",
+ "expl": "properly, a luminous body or luminary, i.e. (abstractly) light (as an element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier",
+ "etim": "or ; also (in plural) feminine ; or ; from ;",
+ "raices": [
+  "H215"
+ ],
+ "ocurrencias": 19,
+ "formas": [
+  {
+   "forma": "המאור",
+   "forma_he": "הַמָּא֤וֹר",
+   "n": 7,
+   "ref": "bereshit/1/16"
+  },
+  {
+   "forma": "למאור",
+   "forma_he": "לַמָּא֑וֹר",
+   "n": 5,
+   "ref": "shemot/27/20"
+  },
+  {
+   "forma": "מאור",
+   "forma_he": "מֵא֣וּר",
+   "n": 2,
+   "ref": "bereshit/11/31"
+  },
+  {
+   "forma": "מארת",
+   "forma_he": "מְאֹרֹת֙",
+   "n": 1,
+   "ref": "bereshit/1/14"
+  },
+  {
+   "forma": "למאורת",
+   "forma_he": "לִמְאוֹרֹת֙",
+   "n": 1,
+   "ref": "bereshit/1/15"
+  }
+ ],
+ "morph": [
+  "HTd/Ncmsa",
+  "HRd/Ncmsa",
+  "HNcmpa",
+  "HR/Ncmpa",
+  "HTd/Ncmpa"
+ ],
+ "glosa_es": ""
+}

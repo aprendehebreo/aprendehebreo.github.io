@@ -1,0 +1,62 @@
+{
+ "strong": "H1272",
+ "he": "ברח",
+ "xlit": "bârach",
+ "pron": "baw-rakh'",
+ "def_en": [
+  "1) to go through, flee, run away, chase, drive away, put to flight, reach, shoot (extend), hurry away",
+  "1a) (Qal)",
+  "1a1) to go, pass through",
+  "1a2) to flee",
+  "1a3) to hasten, come quickly",
+  "1b) (Hiphil)",
+  "1b1) to pass through",
+  "1b2) to cause to flee, put to flight",
+  "1b3) to drive away"
+ ],
+ "kjv": "chase (away); drive away, fain, flee (away), put to flight, make haste, reach, run away, shoot.",
+ "expl": "to bolt, i.e. figuratively, to flee suddenly",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 65,
+ "formas": [
+  {
+   "forma": "ברח",
+   "forma_he": "בְּרַח",
+   "n": 17,
+   "ref": "bereshit/27/43"
+  },
+  {
+   "forma": "ויברח",
+   "forma_he": "וַיִּבְרַ֥ח",
+   "n": 14,
+   "ref": "bereshit/31/21"
+  },
+  {
+   "forma": "ויברחו",
+   "forma_he": "וַיִּבְרְח֥וּ",
+   "n": 5,
+   "ref": "shmuel_b/4/3"
+  },
+  {
+   "forma": "לברח",
+   "forma_he": "לִבְרֹ֔חַ",
+   "n": 4,
+   "ref": "bereshit/31/27"
+  },
+  {
+   "forma": "בברחו",
+   "forma_he": "בְּבָרְח֖וֹ",
+   "n": 3,
+   "ref": "bereshit/35/7"
+  }
+ ],
+ "morph": [
+  "HC/Vqw3ms",
+  "HVqp3ms",
+  "HR/Vqc",
+  "HC/Vqw3mp",
+  "HVqv2ms"
+ ],
+ "glosa_es": ""
+}

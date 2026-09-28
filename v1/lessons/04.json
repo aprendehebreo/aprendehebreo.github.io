@@ -1,0 +1,182 @@
+{
+ "id": 4,
+ "titulo": "Primeras palabras de una sílaba",
+ "objetivos": [
+  "Leer de corrido palabras de una sola sílaba tomadas del Tanaj.",
+  "Reconocer la letra final sofit dentro de una palabra real.",
+  "Distinguir la vocal de la consonante al leer una palabra corta.",
+  "Construir un vocabulario base de doce palabras frecuentes."
+ ],
+ "items": [
+  {
+   "id": "yom",
+   "tipo": "palabra",
+   "he": "יוֹם",
+   "es": "día",
+   "xlit": "yom",
+   "ref": "bereshit/1/5",
+   "nota": "Una sílaba: yom. Strong H3117."
+  },
+  {
+   "id": "lev",
+   "tipo": "palabra",
+   "he": "לֵב",
+   "es": "corazón",
+   "xlit": "lev",
+   "ref": "bereshit/8/21",
+   "nota": "Una sílaba: lev. Strong H3820."
+  },
+  {
+   "id": "am",
+   "tipo": "palabra",
+   "he": "עַם",
+   "es": "pueblo",
+   "xlit": "am",
+   "ref": "bereshit/11/6",
+   "nota": "Una sílaba: am. Strong H5971."
+  },
+  {
+   "id": "dam",
+   "tipo": "palabra",
+   "he": "דַּם",
+   "es": "sangre",
+   "xlit": "dam",
+   "ref": "bereshit/9/6",
+   "nota": "Una sílaba: dam. Strong H1818; 361 veces con sus formas."
+  },
+  {
+   "id": "ben",
+   "tipo": "palabra",
+   "he": "בֵּן",
+   "es": "hijo",
+   "xlit": "ben",
+   "ref": "bereshit/4/25",
+   "nota": "Una sílaba: ben. Strong H1121."
+  },
+  {
+   "id": "av",
+   "tipo": "palabra",
+   "he": "אַב",
+   "es": "padre",
+   "xlit": "av",
+   "ref": "bereshit/17/5",
+   "nota": "Una sílaba: av. Strong H1."
+  },
+  {
+   "id": "yad",
+   "tipo": "palabra",
+   "he": "יָד",
+   "es": "mano",
+   "xlit": "yad",
+   "ref": "bereshit/38/28",
+   "nota": "Una sílaba: yad; la forma más común del códice es בְּיַד ('en mano de'). Strong H3027."
+  },
+  {
+   "id": "em",
+   "tipo": "palabra",
+   "he": "אֵם",
+   "es": "madre",
+   "xlit": "em",
+   "ref": "bereshit/3/20",
+   "nota": "Una sílaba: em. Strong H517."
+  },
+  {
+   "id": "yam",
+   "tipo": "palabra",
+   "he": "יָם",
+   "es": "mar",
+   "xlit": "yam",
+   "ref": "bereshit/14/3",
+   "nota": "Una sílaba: yam. Strong H3220."
+  },
+  {
+   "id": "har",
+   "tipo": "palabra",
+   "he": "הַר",
+   "es": "monte",
+   "xlit": "har",
+   "ref": "bereshit/10/30",
+   "nota": "Una sílaba: har; la forma הַר del códice es el constructo ('monte de'). Strong H2022."
+  },
+  {
+   "id": "esh",
+   "tipo": "palabra",
+   "he": "אֵשׁ",
+   "es": "fuego",
+   "xlit": "esh",
+   "ref": "bereshit/15/17",
+   "nota": "Una sílaba: esh. Strong H784."
+  },
+  {
+   "id": "qol",
+   "tipo": "palabra",
+   "he": "קוֹל",
+   "es": "voz",
+   "xlit": "qol",
+   "ref": "bereshit/3/8",
+   "nota": "Una sílaba: qol, con jolam en la ו. Strong H6963."
+  }
+ ],
+ "ejercicios": [
+  {
+   "id": "e4-1",
+   "tipo": "leer",
+   "pregunta": "Lee יוֹם. ¿Qué significa?",
+   "opciones": [
+    "día",
+    "corazón",
+    "pueblo"
+   ],
+   "correcta": 0,
+   "explica": "יוֹם (yom) es 'día'. La ו con jolam se lee o."
+  },
+  {
+   "id": "e4-2",
+   "tipo": "audio",
+   "pregunta": "Escucha לֵב. ¿Qué significa?",
+   "opciones": [
+    "corazón",
+    "mano",
+    "sangre"
+   ],
+   "correcta": 0,
+   "explica": "לֵב (lev) es 'corazón'. La ב final sin punto se lee v."
+  },
+  {
+   "id": "e4-3",
+   "tipo": "opcion",
+   "pregunta": "¿Qué palabra significa 'padre'?",
+   "opciones": [
+    "אַב",
+    "אֵם",
+    "עַם"
+   ],
+   "correcta": 0,
+   "explica": "אַב (av) es 'padre'; אֵם es 'madre' y עַם es 'pueblo'."
+  },
+  {
+   "id": "e4-4",
+   "tipo": "opcion",
+   "pregunta": "¿Cuál de estas palabras lleva la ו con jolam?",
+   "opciones": [
+    "יוֹם",
+    "יָד",
+    "לֵב"
+   ],
+   "correcta": 0,
+   "explica": "יוֹם lleva ו con jolam y se lee yom."
+  },
+  {
+   "id": "e4-5",
+   "tipo": "escribir",
+   "pregunta": "Escribe la palabra 'hijo' (ben).",
+   "respuesta": "בֵּן",
+   "explica": "בֵּן: bet con dagesh y tsere, nun final."
+  }
+ ],
+ "pasaje": "bereshit/1/5",
+ "html": "<h2>Doce palabras de una sílaba</h2>\n<p>Todas las palabras de esta lista se leen en un solo golpe de voz. Son formas reales del Tanaj, con la vocalización tal como aparecen en el versículo indicado.</p>\n<table><tbody>\n<tr><th>Hebreo</th><th>Transliteración</th><th>Español</th><th>Versículo</th></tr>\n<tr><td>יוֹם</td><td>yom</td><td>día</td><td>bereshit/1/5</td></tr>\n<tr><td>לֵב</td><td>lev</td><td>corazón</td><td>bereshit/8/21</td></tr>\n<tr><td>עַם</td><td>am</td><td>pueblo</td><td>bereshit/11/6</td></tr>\n<tr><td>דַּם</td><td>dam</td><td>sangre</td><td>bereshit/9/6</td></tr>\n<tr><td>בֵּן</td><td>ben</td><td>hijo</td><td>bereshit/4/25</td></tr>\n<tr><td>אַב</td><td>av</td><td>padre</td><td>bereshit/17/5</td></tr>\n<tr><td>יָד</td><td>yad</td><td>mano</td><td>bereshit/38/28</td></tr>\n<tr><td>אֵם</td><td>em</td><td>madre</td><td>bereshit/3/20</td></tr>\n<tr><td>יָם</td><td>yam</td><td>mar</td><td>bereshit/14/3</td></tr>\n<tr><td>הַר</td><td>har</td><td>monte</td><td>bereshit/10/30</td></tr>\n<tr><td>אֵשׁ</td><td>esh</td><td>fuego</td><td>bereshit/15/17</td></tr>\n<tr><td>קוֹל</td><td>qol</td><td>voz</td><td>bereshit/3/8</td></tr>\n</tbody></table>\n<p>Fíjate en tres cosas:</p>\n<ul>\n<li>La mayoría termina en letra cerrada (ם, ן, ד, ר): el sonido se corta al final. בֵּן suena &#x27;ben&#x27;, no &#x27;bene&#x27;.</li>\n<li>Dos llevan la ו con jolam (יוֹם, קוֹל) y se leen con o.</li>\n<li>Dos empiezan con gutural (עַם, אֵם, אַב) y la vocal se pronuncia en la garganta.</li>\n</ul>\n<h2>Palabras que se forman con estas mismas letras</h2>\n<ul>\n<li>יָד (yad) lleva la misma ד de דַּם: dos trazos y listo.</li>\n<li>בֵּן (ben) lleva la bet con dagesh: suena b, no v.</li>\n<li>לֵב (lev) lleva la bet sin punto al final: suena v.</li>\n</ul>\n<p>Ese contraste entre בּ y ב es la begadkefat que viste en la lección 3, ahora dentro de una palabra real.</p>\n<h2>Consejo de estudio</h2>\n<p>Lee la lista de derecha a izquierda y en voz alta, tres veces por sesión. Después tapa la columna del español e intenta dar el significado; al final tapa el hebreo y trata de escribirlo.</p>",
+ "archivo": "04.md",
+ "items_total": 12,
+ "ejercicios_total": 5
+}

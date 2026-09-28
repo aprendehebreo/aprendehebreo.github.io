@@ -1,0 +1,60 @@
+{
+ "strong": "H5321",
+ "he": "נפתלי",
+ "xlit": "Naphtâlîy",
+ "pron": "naf-taw-lee'",
+ "def_en": [
+  "Naphtali = \"wrestling\"",
+  "n pr m",
+  "1) the 5th son of Jacob and the 2nd by Bilhah the handmaid of Rachel",
+  "2) the tribe descended from Naphtali the son of Jacob",
+  "n pr loc",
+  "3) the territory assigned to the tribe of Naphtali"
+ ],
+ "kjv": "Naphtali.",
+ "expl": "Naphtali, a son of Jacob, with the tribe descended from him, and its territory",
+ "etim": "from ; my wrestling;",
+ "raices": [
+  "H6617"
+ ],
+ "ocurrencias": 51,
+ "formas": [
+  {
+   "forma": "נפתלי",
+   "forma_he": "נַפְתָּלִֽי",
+   "n": 39,
+   "ref": "bereshit/30/8"
+  },
+  {
+   "forma": "ונפתלי",
+   "forma_he": "וְנַפְתָּלִֽי",
+   "n": 5,
+   "ref": "bereshit/35/25"
+  },
+  {
+   "forma": "לנפתלי",
+   "forma_he": "לְנַ֨פְתָּלִ֔י",
+   "n": 2,
+   "ref": "bamidbar/1/15"
+  },
+  {
+   "forma": "ולנפתלי",
+   "forma_he": "וּלְנַפְתָּלִ֣י",
+   "n": 1,
+   "ref": "devarim/33/23"
+  },
+  {
+   "forma": "ובנפתלי",
+   "forma_he": "וּבְנַפְתָּלִ֔י",
+   "n": 1,
+   "ref": "shoftim/6/35"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np",
+  "HR/Np",
+  "HC/R/Np"
+ ],
+ "glosa_es": ""
+}

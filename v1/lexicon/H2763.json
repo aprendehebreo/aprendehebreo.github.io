@@ -1,0 +1,65 @@
+{
+ "strong": "H2763",
+ "he": "חרם",
+ "xlit": "châram",
+ "pron": "khaw-ram'",
+ "def_en": [
+  "1) to ban, devote, destroy utterly, completely destroy, dedicate for destruction, exterminate",
+  "1a) (Hiphil)",
+  "1a1) to prohibit (for common use), ban",
+  "1a2) to consecrate, devote, dedicate for destruction",
+  "1a3) to exterminate, completely destroy",
+  "1b) (Hophal)",
+  "1b1) to be put under the ban, be devoted to destruction",
+  "1b2) to be devoted, be forfeited",
+  "1b3) to be completely destroyed",
+  "2) to split, slit, mutilate (a part of the body)",
+  "2a) (Qal) to mutilate",
+  "2b) (Hiphil) to divide"
+ ],
+ "kjv": "make accursed, consecrate, (utterly) destroy, devote, forfeit, have a flat nose, utterly (slay, make away).",
+ "expl": "to seclude; specifically (by a ban) to devote to religious uses (especially destruction); physical and reflexive, to be blunt as to the nose",
+ "etim": "a primitive root;",
+ "raices": [],
+ "ocurrencias": 52,
+ "formas": [
+  {
+   "forma": "החרם",
+   "forma_he": "הַחֵ֑רֶם",
+   "n": 6,
+   "ref": "vayikra/27/21"
+  },
+  {
+   "forma": "החרים",
+   "forma_he": "הַחֹרִים֮",
+   "n": 5,
+   "ref": "devarim/2/12"
+  },
+  {
+   "forma": "יחרם",
+   "forma_he": "יָֽחֳרָ֑ם",
+   "n": 4,
+   "ref": "shemot/22/19"
+  },
+  {
+   "forma": "החרימם",
+   "forma_he": "הַֽחֲרִימָ֔ם",
+   "n": 4,
+   "ref": "yehoshua/11/20"
+  },
+  {
+   "forma": "ויחרימו",
+   "forma_he": "וַֽיַּחֲרִ֨ימוּ֙",
+   "n": 3,
+   "ref": "yehoshua/6/21"
+  }
+ ],
+ "morph": [
+  "HVhp3ms",
+  "HVha",
+  "HVHi3ms",
+  "HC/Vhw3mp",
+  "HR/Vhc/Sp3mp"
+ ],
+ "glosa_es": ""
+}

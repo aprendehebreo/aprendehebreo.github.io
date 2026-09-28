@@ -1,0 +1,61 @@
+{
+ "strong": "H1270",
+ "he": "ברזל",
+ "xlit": "barzel",
+ "pron": "bar-zel'",
+ "def_en": [
+  "1) iron",
+  "1a) iron",
+  "1a1) iron ore",
+  "1a2) as material of furniture, utensils, implements",
+  "2) tool of iron",
+  "3) harshness, strength, oppression (fig.)"
+ ],
+ "kjv": "(ax) head, iron.",
+ "expl": "iron (as cutting); by extension, an iron implement",
+ "etim": "perhaps from the root of ;",
+ "raices": [
+  "H1269"
+ ],
+ "ocurrencias": 76,
+ "formas": [
+  {
+   "forma": "ברזל",
+   "forma_he": "בַרְזֶ֧ל",
+   "n": 44,
+   "ref": "bamidbar/35/16"
+  },
+  {
+   "forma": "הברזל",
+   "forma_he": "הַבַּרְזֶ֔ל",
+   "n": 14,
+   "ref": "bamidbar/31/22"
+  },
+  {
+   "forma": "וברזל",
+   "forma_he": "וּבַרְזֶ֑ל",
+   "n": 8,
+   "ref": "bereshit/4/22"
+  },
+  {
+   "forma": "בברזל",
+   "forma_he": "בַּבַּרְזֶ֑ל",
+   "n": 3,
+   "ref": "yeshayahu/10/34"
+  },
+  {
+   "forma": "ובברזל",
+   "forma_he": "וּבְבַרְזֶ֛ל",
+   "n": 2,
+   "ref": "yehoshua/22/8"
+  }
+ ],
+ "morph": [
+  "HNcmsa",
+  "HTd/Ncmsa",
+  "HC/Ncmsa",
+  "HRd/Ncmsa",
+  "HC/Rd/Ncmsa"
+ ],
+ "glosa_es": ""
+}

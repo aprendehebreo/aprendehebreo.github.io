@@ -1,0 +1,62 @@
+{
+ "strong": "H6763",
+ "he": "צלע",
+ "xlit": "tsêlâʻ",
+ "pron": "tsay-law'",
+ "def_en": [
+  "1) side, rib, beam",
+  "1a) rib (of man)",
+  "1b) rib (of hill, ridge, etc)",
+  "1c) side-chambers or cells (of temple structure)",
+  "1d) rib, plank, board (of cedar or fir)",
+  "1e) leaves (of door)",
+  "1f) side (of ark)"
+ ],
+ "kjv": "beam, board, chamber, corner, leaf, plank, rib, side (chamber).",
+ "expl": "a rib (as curved), literally (of the body) or figuratively (of a door, i.e. leaf); hence, a side, literally (of a person) or figuratively (of an object or the sky, i.e. quarter); architecturally, a (especially floor or ceiling) timber or plank (single or collective, i.e. a flooring)",
+ "etim": "or (feminine) ; from ;",
+ "raices": [
+  "H6760"
+ ],
+ "ocurrencias": 41,
+ "formas": [
+  {
+   "forma": "צלע",
+   "forma_he": "צֹלֵ֖עַ",
+   "n": 9,
+   "ref": "bereshit/32/32"
+  },
+  {
+   "forma": "הצלע",
+   "forma_he": "הַצֵּלָ֛ע",
+   "n": 4,
+   "ref": "bereshit/2/22"
+  },
+  {
+   "forma": "צלעו",
+   "forma_he": "צַלְעוֹ֙",
+   "n": 4,
+   "ref": "shemot/25/12"
+  },
+  {
+   "forma": "צלעת",
+   "forma_he": "צַלְעֹ֣ת",
+   "n": 4,
+   "ref": "shemot/25/14"
+  },
+  {
+   "forma": "בצלעות",
+   "forma_he": "בְּצַלְע֣וֹת",
+   "n": 3,
+   "ref": "mlakhim_a/6/15"
+  }
+ ],
+ "morph": [
+  "HNcbsc",
+  "HTd/Ncbsa",
+  "HNcbsc/Sp3ms",
+  "HNcbpc",
+  "HNcbpa"
+ ],
+ "glosa_es": ""
+}

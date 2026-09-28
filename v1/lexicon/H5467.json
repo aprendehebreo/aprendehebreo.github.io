@@ -1,0 +1,47 @@
+{
+ "strong": "H5467",
+ "he": "סדם",
+ "xlit": "Çᵉdôm",
+ "pron": "sed-ome'",
+ "def_en": [
+  "Sodom = \"burning\"",
+  "1) a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment"
+ ],
+ "kjv": "Sodom.",
+ "expl": "Sedom, a place near the Dead Sea",
+ "etim": "from an unused root meaning to scorch; burnt (i.e. volcanic or bituminous) district;",
+ "raices": [],
+ "ocurrencias": 39,
+ "formas": [
+  {
+   "forma": "סדם",
+   "forma_he": "סְדֹם֙",
+   "n": 30,
+   "ref": "bereshit/13/10"
+  },
+  {
+   "forma": "כסדם",
+   "forma_he": "כִּסְדֹ֣ם",
+   "n": 4,
+   "ref": "yeshayahu/1/9"
+  },
+  {
+   "forma": "סדמה",
+   "forma_he": "סְדֹ֧מָה",
+   "n": 3,
+   "ref": "bereshit/10/19"
+  },
+  {
+   "forma": "בסדם",
+   "forma_he": "בִּסְדֹֽם",
+   "n": 2,
+   "ref": "bereshit/14/12"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HR/Np",
+  "HNp/Sd"
+ ],
+ "glosa_es": ""
+}

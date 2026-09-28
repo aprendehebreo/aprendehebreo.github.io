@@ -1,0 +1,59 @@
+{
+ "strong": "H4264",
+ "he": "מחנה",
+ "xlit": "machăneh",
+ "pron": "makh-an-eh'",
+ "def_en": [
+  "1) encampment, camp",
+  "1a) camp, place of encampment",
+  "1b) camp of armed host, army camp",
+  "1c) those who encamp, company, body of people"
+ ],
+ "kjv": "army, band, battle, camp, company, drove, host, tents.",
+ "expl": "an encampment (of travellers or troops); hence, an army, whether literal (of soldiers) or figurative (of dancers, angels, cattle, locusts, stars; or even the sacred courts)",
+ "etim": "from ;",
+ "raices": [
+  "H2583"
+ ],
+ "ocurrencias": 216,
+ "formas": [
+  {
+   "forma": "המחנה",
+   "forma_he": "הַמַּחֲנֶ֥ה",
+   "n": 69,
+   "ref": "bereshit/32/9"
+  },
+  {
+   "forma": "למחנה",
+   "forma_he": "לַֽמַּחֲנֶֽה",
+   "n": 38,
+   "ref": "shemot/16/13"
+  },
+  {
+   "forma": "מחנה",
+   "forma_he": "מַחֲנֵ֥ה",
+   "n": 37,
+   "ref": "bereshit/32/3"
+  },
+  {
+   "forma": "במחנה",
+   "forma_he": "בַּֽמַּחֲנֶֽה",
+   "n": 32,
+   "ref": "bereshit/32/22"
+  },
+  {
+   "forma": "מחניהם",
+   "forma_he": "מַ֣חֲנֵיהֶ֔ם",
+   "n": 7,
+   "ref": "bamidbar/5/3"
+  }
+ ],
+ "morph": [
+  "HTd/Ncbsa",
+  "HRd/Ncbsa",
+  "HNcbsc",
+  "HR/Ncbsc",
+  "HNcbpc/Sp3mp"
+ ],
+ "glosa_es": "campamento; ejército"
+}

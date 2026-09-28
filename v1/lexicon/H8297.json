@@ -1,0 +1,36 @@
+{
+ "strong": "H8297",
+ "he": "שרי",
+ "xlit": "Sâray",
+ "pron": "saw-rah'-ee",
+ "def_en": [
+  "Sarai = \"princess\"",
+  "1) original name of Sarah the wife of Abram or Abraham"
+ ],
+ "kjv": "Sarai.",
+ "expl": "Sarai, the wife of Abraham",
+ "etim": "from ; dominative;",
+ "raices": [
+  "H8269"
+ ],
+ "ocurrencias": 17,
+ "formas": [
+  {
+   "forma": "שרי",
+   "forma_he": "שָׂרָ֔י",
+   "n": 16,
+   "ref": "bereshit/11/29"
+  },
+  {
+   "forma": "ושרי",
+   "forma_he": "וְשָׂרַי֙",
+   "n": 1,
+   "ref": "bereshit/16/1"
+  }
+ ],
+ "morph": [
+  "HNp",
+  "HC/Np"
+ ],
+ "glosa_es": ""
+}
